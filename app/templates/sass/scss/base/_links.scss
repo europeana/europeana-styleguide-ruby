@@ -1,0 +1,44 @@
+// Base styling for links
+//
+// :hover             - Subtle hover highlight.
+//
+// Styleguide 1.0.0
+
+a {
+
+	color: $textcolour_link;
+	text-decoration: none;
+
+	&:hover{
+		color: darken($textcolour_link, 15%);
+		cursor: pointer;
+	}
+
+	&.highlight{
+		color: $peachy;
+
+		&:hover{
+			$darker: darken($peachy, 15%);
+			color: $darker;
+			border-bottom: 1px dotted $darker;
+		}
+	}
+
+
+}
+
+// External link icon - indicates that a link is external to europeana
+//
+// Should be extended from site specific scss due to url in the css
+// using this code: a[href*="//"]:not([href*="pro.europeana.com"]):after
+//
+// Styleguide 1.0.0
+
+%external_link_icon{
+	content: '';
+	background: center right no-repeat;
+    @include svg-bg-with-fallback("icons/link_external");
+    background-size: contain;
+    padding-right: 1.4em;
+}
+
