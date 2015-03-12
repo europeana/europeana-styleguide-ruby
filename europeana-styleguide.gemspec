@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'europeana/patternlab/version'
+require 'europeana/styleguide/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'europeana-patternlab'
-  spec.version       = Europeana::Patternlab::VERSION
+  spec.name          = 'europeana-styleguide'
+  spec.version       = Europeana::Styleguide::VERSION
   spec.authors       = ['Richard Doe']
   spec.email         = ['richard.doe@rwdit.net']
-  spec.summary       = %q{Europeana Pattern Lab styleguide for Ruby.}
-  spec.homepage      = 'https://github.com/rwd/Europeana-Patternlab-ruby'
+  spec.summary       = %q{Europeana styleguide for Ruby.}
+  spec.homepage      = 'https://github.com/europeana/europeana-styleguide-ruby'
   spec.license       = 'EUPL 1.1'
 
   spec.files         = `git ls-files -z`.split("\x0")

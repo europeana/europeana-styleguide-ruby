@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in europeana-patternlab.gemspec
+# Specify your gem's dependencies in europeana-styleguide.gemspec
 gemspec
