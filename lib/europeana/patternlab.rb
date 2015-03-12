@@ -2,6 +2,6 @@ require 'europeana/patternlab/version'
 
 module Europeana
   module Patternlab
-    # Your code goes here...
+    require 'europeana/patternlab/engine' if defined?(Rails)
   end
 end
