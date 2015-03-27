@@ -53,6 +53,9 @@
 					</li>
 					{{/ search_results }}
 				</ol>
+
+				{{> molecules/navigation/pagination }}
+
 			</div>
 
 			<div class="refine">
@@ -64,12 +67,12 @@
 					{{#date}}
 						{{> molecules/controls/filter-date }}
 					{{/date}}
-					{{#language}}
-						{{> molecules/controls/filter-language }}
-					{{/language}}
-					{{#license}}
-						{{> molecules/controls/filter-license }}
-					{{/license}}
+					{{#colour}}
+						{{> molecules/controls/filter-colour }}
+					{{/colour}}
+					{{#tabbed}}
+						{{> molecules/controls/filter-tabbed }}
+					{{/tabbed}}
 				{{/filters}}
 				<a href="#refine-advanced">More refinements…</a>
 				<div class="refine-advanced">
