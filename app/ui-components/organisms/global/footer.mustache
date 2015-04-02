@@ -1,3 +1,8 @@
+{{# debug }}
+{{! Debug template }}
+    {{> atoms/utility/debug }}
+{{/ debug }}
+
 <!-- Start Footer -->
 <footer class="footer" role="contentinfo">
     <div class="lc">
@@ -5,7 +10,7 @@
 
             <div class="l-contact">
                 <div class="footer_logo">
-                    <a href="/"><img src="../../images/footer_logo.svg" alt="Europeana - think culture" /></a>
+                    <a href="/"><img src="{{image_root}}footer_logo.svg" alt="Europeana - think culture" /></a>
                 </div>
                 
                 <div class="address">
@@ -50,7 +55,7 @@
         </div>
     </div>
 
-    <div class="sub-footer">
+    <div class="sub-footer lc">
 
         <ul class="nav">
             <li><a href="/">Home</a></li>
@@ -63,7 +68,5 @@
         
     </div>
 
-
-</div>
 </footer>
 <!-- End Footer -->

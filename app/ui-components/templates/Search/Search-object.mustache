@@ -1,0 +1,149 @@
+{{> atoms/iconography/svgicons-search }}
+
+{{> organisms/global/header}}
+
+<script>
+
+
+</script>
+
+<div role="main" class="search-object section">
+
+	<div class="lc">
+		<div class="object-nav">
+			{{>molecules/navigation/next-previous}}
+		</div>
+	</div>
+
+	<div class="object-wrapper lc">
+
+	<div class="object-overview">
+
+		{{#data.edm_preview}}
+		<div class="object-image is-smallimage cf">
+			<img src="{{data.edm_preview}}"/>
+		</div>
+		{{/data.edm_preview}}
+
+		<div class="object-info cf">
+			<h2 class="object-title">{{data.title}}</h2>
+			
+			{{# data.title_extra }}
+				{{.}}
+			{{/ data.title_extra }}
+			
+			<div class="date_created">
+				{{data.dc_terms_created}}
+			</div>
+
+			{{# data.dc_description}}
+			<div>
+				{{data.dc_description}}
+			</div>
+			{{/ data.dc_description}}
+		</div>
+
+
+		{{! Creator info }}
+		{{#data.dc_creator}}
+		<div class="object-creator cf">
+
+			<h3 class="subsection-label">
+				{{labels.creator}}
+			</h3>
+			
+			<div class="subsection-content">
+				{{data.dc_creator}}
+			</div>
+
+		</div>
+		{{/data.dc_creator}}
+
+		{{#data.agent_pref_label}}
+		<div class="object-creator cf">
+
+			<h3 class="subsection-label">
+				{{labels.agent}}
+			</h3>
+			
+			<div class="subsection-content">
+				{{data.agent_pref_label}}
+
+				{{data.agent_begin}}
+
+				{{data.agent_end}}
+			</div>
+
+		</div>
+		{{/data.agent_pref_label}}
+
+
+	</div>
+
+
+
+	<div class="object-actions">
+
+		<div class="object-image-nav prototype-image">
+			
+		</div>
+
+        <input type="hidden" name="js_edm_is_shown_by" value="{{data.edm_is_shown_by}}"/>
+
+		<a class="btn btn2" href="{{links.download}}">{{labels.download}}</a> <br/>
+
+		<div class="rights"><b>{{labels.rights}}</b> {{data.edm_rights}}</div>
+
+		<a class="original_context" href="{{links.original_context}}">
+			{{data.edm_data_provider}}
+			<svg class="icon icon-linkout">
+				<use xlink:href="#icon-linkout"></use>
+			</svg>
+		</a>
+
+		<div class="country">{{data.edm_country}}</div>
+		<div class="dc-type"><b>{{labels.dc_type}}</b> {{data.dc_type}}</div>
+
+		<ul>
+			{{# data.concepts }}
+				<li>{{.}}</li>
+			{{/ data.concepts }}
+		</ul>
+		
+		{{> molecules/media/colour-search }}
+		
+		
+		<div class="js-showhide-panel is-jshidden">
+			@todo add extra meta data here
+			<ul>
+				<li>Extra</li>
+				<li>Meta</li>
+				<li>Data</li>
+			</ul>
+		</div>
+
+		<a class="js-showhide" href="#" data-text-swap="{{labels.show_less_meta}}">{{labels.show_more_meta}}</a>
+
+	</div>
+	</div>
+</div>
+
+{{! Related itens }}
+<section class="section">
+<div class="object-related lc">
+	<div class="subsection-label">
+		{{labels.mlt}}
+	</div>
+	<div class="subsection-content">
+	<ul>
+		<li class="mlt-item"></li>
+		<li class="mlt-item"></li>
+		<li class="mlt-item"></li>
+		<li class="mlt-item"></li>
+		<li class="mlt-item"></li>
+	</ul>
+	</div>
+</div>
+</section>
+
+{{> organisms/global/footer }}
