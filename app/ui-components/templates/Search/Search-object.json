@@ -12,7 +12,6 @@
         "var js_path= 'http://develop.styleguide.eanadev.org/js/dist/';"
 	],
 	"js_files": [
-
 		{
 		    "path": "../../js/dist/application.js"
 		}
