@@ -22,16 +22,28 @@ And then execute:
 
 ## Usage
 
-Adding the gem to your application's bundle will provide it with the Mustache
-templates in its app/ui-components directory as views to be used when rendering
-in Rails.
+The gem's Mustache templates are in its
+[app/ui-components directory](app/ui-components/). To make these available to
+as views in your application, include the module `Europeana::Styleguide` in
+the relevant controller:
+
+```ruby
+class StyledController < ApplicationController
+  include Europeana::Styleguide
+end
+```
+
+You can just include the module in `ApplicationController` to make the
+styleguide templates available to all controllers.
 
 Styleguide templates do not following Rails's view naming conventions, so you
 will need to explicitly instruct your controller actions to render each
 template:
 
 ```ruby
-class MySearchController
+class MySearchController < ApplicationController
+  include Europeana::Styleguide
+
   def index
     # search logic
     # ...
