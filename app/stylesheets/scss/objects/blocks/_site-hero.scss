@@ -1,0 +1,79 @@
+.site-hero{
+
+	height: 70%;
+	position: relative;
+	overflow: hidden;
+
+	background-image: url("../../images/sample/pro-background.jpg");
+	background-position: 50% 50%;
+	-webkit-background-size: cover;
+	background-size: cover;
+
+	background-color: $grey2;
+	color: $gray97;
+
+	@media all and (min-width: $bp-small) {
+		margin-top: $globalnavheight;
+		height: 50%;
+	}
+
+	.lc{
+		position: relative;
+		height: 100%;
+	}
+	
+	// this is a wrapper around the search field and title (used in channels, not used in pro)
+	.hero-contents{
+		width: 80%;
+	}
+
+	.hero-text{
+		position: absolute;
+		z-index: 5;
+		bottom: 2em;
+		background-color: rgba(#000, 0.7);
+		border-radius: 4px;
+
+		padding: $space;
+		width: 100%;
+
+		@media all and (min-width: $bp-small) {
+			width: 60%;
+		}
+
+		@media all and (min-width: $bp-large) {
+			width: 35%;
+		}
+	}
+
+	.attribution{
+		position: absolute;
+		z-index: 10;
+		bottom: 4px;
+
+		@media all and (min-width: $bp-small) {
+			display: inline-block;
+			right: 0;
+		}
+	}
+
+	h2, h1{
+		font-family: $font-secondary;
+		font-weight: normal;
+    	line-height: 1.1;
+    	margin-bottom: $space-half;
+    	font-size: 2em;
+    	text-transform: uppercase;
+
+    	a{
+			color: $white;
+			border-bottom: 1px dotted $white;
+
+			&:hover, &:focus{
+				color: $textcolour_link;
+				border-color: $textcolour_link;
+			}
+		}
+	}
+
+}

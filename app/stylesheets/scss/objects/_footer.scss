@@ -1,0 +1,115 @@
+/*------------------------------------*\
+    $FOOTER
+\*------------------------------------*/
+
+.footer {
+
+
+	clear: both;
+	overflow: hidden;
+	background: $grey2;
+	padding: $space-triple $space;
+	color: $footer_text;
+	border-top: 6px solid $blue-dark;
+	font-size: $font-size-slightly-smaller;
+
+	.title{
+		color: $footer_headings;
+		font-size: $font-size-norm;
+		text-transform: uppercase;
+		font-weight: bold;
+		line-height: 1;
+		margin-bottom: $space;
+	}
+
+
+	.l-linklist a {
+		color: $footer_text;
+		font-size: $font-size-med;
+		font-weight: bold;
+		border-bottom: 1px dotted $footer_text;
+
+		&:hover{
+			color: $textcolour_link;
+		}
+	}
+
+
+	
+	//layout styles
+	div[class^='l-'], .signup{
+		margin-bottom: $space;
+	}
+
+
+	.l-mission p{
+		font-size: $font-size-med;
+		font-style: italic;
+	}
+	
+	.copyright {
+		font-size: $font-size-sm;
+		color: #777777;
+	}
+
+	.newsletter-form .inline-container{
+		margin-bottom: $space-quarter;
+	}
+
+}
+
+.footer_logo{
+	margin-left: -$space;
+}
+
+
+
+.social-links{ 
+
+	text-align: center;
+
+	@media all and (min-width: $bp-med) {
+		text-align: left;
+	}
+	
+	a{
+		font-size: 3em;
+		color: $blue-dark;
+
+		&:hover {
+			color: $textcolour_link;
+		}
+
+		svg{
+			margin: 0;
+		}
+	}
+
+}
+
+.sub-footer{
+	border-top: 1px solid #a0a0a0;
+	padding: $space 0;
+
+	.nav{
+
+		margin-bottom: $space-half;
+
+		a{
+			display: block;
+			color: $footer_text;
+			border-bottom: 1px dotted $blue-dark;
+			margin-right: 0.2em;
+
+			&:hover{
+				color: $textcolour_link;
+			}
+		}
+
+	}
+}
+
+
+
+
+

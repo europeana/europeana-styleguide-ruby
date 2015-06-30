@@ -1,0 +1,111 @@
+// Filter blocks for search results
+//
+// :hover             - Subtle hover highlight.
+//
+// Styleguide 1.0.0
+
+
+.filter{
+	border-top: 1px solid $gray87;
+	margin-bottom: $space-half;
+	@include fontSize(14px);
+}
+
+.filter-name{
+	color: $textcolour_body;
+	margin: $space-half 0;
+	text-transform: uppercase;
+	font-weight: bold;
+	float: left;
+	width: 100%;
+}
+
+.filter-list{
+	margin-bottom: $space-half;
+}
+
+.filter-label{
+	padding: 0.2em 0;
+
+	input[type='checkbox']{
+		margin-right: $space-half;
+	}
+}
+
+.filter-num{
+	color: $gray-light;
+}
+
+.filter-extrafields{
+	margin-top: $space-half;
+	padding-top: $space-half;
+	border-top: 1px dashed $gray87;
+}
+
+
+// Date specific filter
+.filter-date .filter-controls{
+
+	& > .control-group{
+	float: left;
+	width: 50%;
+
+		&:first-of-type{
+			padding-right: 1em;
+		}
+	}
+
+	label{
+		@include fontSize(11px);
+		padding-bottom: 0;
+		text-transform: capitalize;
+	}
+}
+
+
+// Custom radio and checkboxes from links
+// js needed to switch on/off
+.filter-item:before{
+	.radiobuttons &, .checkboxes & {
+		content:'';
+	    display: inline-block;
+	    *display: inline;
+	    vertical-align: middle;
+	    width: 20px;
+	    height: 20px;
+	    margin-right: 0.5em;
+	    background: url(../../images/formcontrols.png) no-repeat;
+	    border: none;
+	    cursor: pointer;
+	    background-position: 0 0;
+	}
+	.radiobuttons &{
+	    background-position: -88px 0;
+	}
+}
+
+.checkboxes{
+    .is-checked:before {
+        background-position: -22px 0;
+    }
+    .is-disabled:before {
+        background-position: -44px 0;
+        cursor: default;
+    }
+    .is-checked.is-disabled:before {
+        background-position: -66px 0;
+    }
+}
+
+.radiobuttons {
+    .is-checked:before {
+        background-position: -110px 0;
+    }
+    .is-disabled:before {
+        background-position: -132px 0;
+        cursor: default;
+    }
+    .is-checked.is-disabled:before {
+        background-position: -154px 0;
+    }
+}

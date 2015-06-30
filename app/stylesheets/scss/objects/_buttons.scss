@@ -1,0 +1,148 @@
+/*------------------------------------*\
+    $BUTTONS
+\*------------------------------------*/
+
+.btn {
+	padding: 0.8em 1.2em;
+	display: inline-block;
+	position: relative;
+	line-height: 1;
+	background: transparent;
+	color: $black;
+	border: solid 6px $black;
+	@include font-size(1);
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	
+	&:hover, &:focus {
+		color: $textcolour_highlight;
+		border-color: $textcolour_highlight;
+	}
+
+	&.disabled {
+		background: lighten($text_secondary, 10%);
+		color: darken($text_secondary, 20%);
+		cursor: not-allowed;
+		border-color: $text_secondary;
+
+		&:hover{
+			border-color: $text_secondary;
+		}
+	}
+
+	&.alt{
+		color: $white;
+		background-color: $black;
+		border-color: $black;
+
+		&:hover{
+			background-color: $textcolour_highlight;
+			border-color: $textcolour_highlight;
+		}
+	}
+
+
+}
+
+.btn.cta, .btn.cta_main{
+	&:after, &:before {
+		top: 50%;
+		border: solid transparent;
+		content: " ";
+		height: 0;
+		width: 0;
+		position: absolute;
+		pointer-events: none;
+		border-color: rgba(0, 0, 0, 0);
+		border-width: 25px;
+		border-top-width: 15px;
+		border-bottom-width: 15px;
+		margin-top: -15px;
+	}
+}
+
+
+
+.btn.cta, .btn.cta_main{
+	&:after{
+		left: 100%;
+		border-left-color: $black;
+	}
+
+	&:hover:after, &:focus:after{
+		border-left-color: $textcolour_highlight;
+	}
+}
+
+.btn.cta_main {
+	&:before{
+		right: 100%;
+		border-right-color: $black;
+	}
+	
+	&:hover:before, &:focus:before{
+		border-right-color: $textcolour_highlight;
+	}
+}
+
+.btn.cta_light{
+	border-color: $white;
+	color: $white;
+	&:after{
+		border-left-color: $white;
+	}
+	&:before{
+		border-right-color: $white;
+	}
+
+	&:hover, &:focus{
+		background-color: $textcolour_highlight;
+		color: $white;
+	}
+}
+
+.pill{
+	border-radius: 300px;
+}
+
+.btn-small {
+	padding: $pad-half;
+}
+
+.btn-large {
+	padding: $pad-half;
+	text-transform: uppercase;
+	background: $text_secondary;
+	font-size: 1.4rem;
+	font-weight: normal;
+}
+
+.text-btn {
+	font-style: italic;
+}
+
+.btn2{
+	color: inherit;
+	text-decoration: none;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	cursor: pointer;
+	user-select: none;
+	
+	font-size: $font-size-sm;
+
+	border-radius: 6px;
+  	background-color: $gray-lightest;
+  	border: 1px solid $gray87;
+  	padding: 0.5em;
+
+  	&:hover, &:focus {
+		color: $textcolour_link;
+		border-color: $textcolour_link;
+	}
+
+	svg.icon{
+		margin-right: 0;
+	}
+}

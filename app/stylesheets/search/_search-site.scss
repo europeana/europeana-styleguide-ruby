@@ -1,0 +1,300 @@
+
+// Search Site specific styles
+
+
+
+.hero-contents{
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	@include translate (-50%, -50%);
+	z-index: 5;
+
+	.searchbar{
+		margin-bottom: $space;
+	}
+
+	.strapline{
+		max-width: 50em;
+		margin: 0 auto;
+
+		padding: $space-half $space;
+
+		@media all and (min-width: $bp-med) {
+			padding: $space;
+		}
+	}
+}
+
+.search-home-hero{
+	height: 50%;	
+
+	@media all and (min-width: $bp-med) {
+		height: 75%;
+	}
+}
+
+.section, .promo-list, .promo-topcontent{
+	@include pad(1/4);
+}
+
+.promo-topcontent{
+
+	border-bottom: 3px solid $gray-lighter;
+
+	> .lc {
+		text-align: center;
+		padding: $space;
+		margin: $space-half auto;
+	}
+
+	h2{
+		margin: 0;
+		font-weight: normal;
+		line-height: 1.2;
+	}
+
+	a{
+		background-image: linear-gradient(to top,
+		    rgba($textcolour_link, 0) 10%,
+		    rgba($textcolour_link, .5) 10%,
+		    rgba($textcolour_link, .5) 13%,
+		    rgba($textcolour_link, 0) 13%
+		);
+	}
+}
+
+.exhibitions-list{
+	background-color: $offwhite;
+	margin-bottom: $space;
+}
+
+.promo-list{
+	
+	padding-top: $space-quarter; //fallback
+	padding-top: 1.05634vw;
+
+	@media all and (min-width: $bp-med) {
+		padding-top: $space-half; //fallback
+		padding-top: 1.05634vw;
+	}
+}
+
+.promo-list .list-item{
+
+	margin-bottom: $space-quarter; //fallback
+	margin-bottom: 1.05634vw;
+	position: relative;
+
+	min-height: 10em;
+	min-height: 49vw;
+	font-size: 5vw;
+
+	@media all and (min-width: $bp-small) {
+		@include gallery(12 of 24);
+		font-size: 3.5vw;
+	}
+
+	@media all and (min-width: $bp-small-3) {
+		@include gallery(8 of 24);
+		min-height: 32vw;
+		margin-bottom: $space-half; //fallback
+		margin-bottom: 1.05634vw;
+		font-size: 2vw;
+	}
+
+	@media all and (min-width: $bp-large) {
+		@include gallery(6 of 24);
+		min-height: 24vw;
+		font-size: 1.5vw;
+	}
+
+	@media all and (min-width: 80em) {
+		min-height: 16vw;
+		font-size: 1.25vw;
+	}
+
+	@media all and (min-width: 120em) {
+		@include gallery(6 of 48);
+		min-height: 11.5vw;
+		font-size: 0.8vw;
+	}
+}
+
+
+
+.news-item{
+	@media all and (min-width: $bp-med) {
+		@include span(8);
+		&:last-child{
+			margin-right: 0;
+		}
+	}
+
+	.b-inner{
+		background: none;
+	}
+
+	.b-text{
+		padding: $space;
+	}
+}
+
+// Channel landing specific
+
+
+
+.channel_landing{
+
+	.exhibitions-list .list-item{
+
+		@media all and (min-width: $bp-large) {
+			@include gallery(4 of 24);
+			min-height: 15vw;
+		}
+	}
+}
+
+.channelentry-list{
+
+	//background-color: $blue_dark;
+	margin-bottom: $space;
+
+	.lc{
+		@media all and (min-width: $bp-med) {
+		padding: $space-half;
+		}
+	}
+
+	.list-item {
+		position: relative;
+		min-height: 0;
+
+		@media all and (min-width: $bp-small) {
+			@include gallery(12 of 24);
+		}
+
+		@media all and (min-width: $bp-med) {
+			@include gallery(8 of 24);
+		}
+	}
+}
+
+.channel-hero{
+	background-position: 50% 80%;
+	@media all and (min-width: $bp-med) {
+		min-height: 30em;
+	}
+}
+
+.channel-info{
+
+	padding: 0 $space;
+	margin-top: $space;
+	margin-bottom: 0;
+
+	.lc > div{
+		margin-bottom: $space;
+	}
+
+	.title{
+		line-height: inherit;
+	}
+}
+
+.channel-description{
+
+	@media all and (min-width: $bp-med) {
+		@include span(10 of 24);
+		padding: $space;
+	}
+}
+
+.channel-credits{
+	@include fontSize(14px);
+}
+
+.channel-description-text{
+	margin-bottom: $space-half;
+}
+
+.channel-stats{
+
+	li{
+		line-height: 1;
+		margin-bottom: $space-half;
+	}
+
+	@media all and (min-width: $bp-med) {
+		@include span(5 of 24);
+		padding: $space;
+		border-left: 1px solid $gray-lighter;
+	}
+
+	
+
+	.number{
+		@include fontSize(18px);
+		font-weight: bold;
+	}
+
+	a:hover, a:focus{
+		border-bottom: 1px dotted $textcolour_link_hover;
+	}
+}
+
+.channel-newstuff{
+	background-color: $offwhite;
+	padding: $space;
+
+	@media all and (min-width: $bp-med) {
+		@include span(last 9 of 24);
+	}
+
+	ul{
+		display: block;	
+	}
+
+	li > a{
+		display: table;
+		width: 100%;
+		line-height: 1;
+		margin-bottom: $space-half;
+	}
+
+	span{
+		display: table-cell;
+	}
+
+	.link-text{
+		width: 40%;
+		font-weight: bold;
+	}
+	.link-number{
+		width: 30%;
+	}
+	.link-date{
+		width: 30%;
+	}
+}
+
+.section-title .link-more{
+	@include fontSize(14px);
+	margin-left: 1em;
+}
+
+.section.channel-credits{
+
+	.title{
+		@media all and (min-width: $bp-med) {
+			@include span(4 of 24);
+		}
+	}
+	.credit-list{
+		@media all and (min-width: $bp-med) {
+			@include span(last 20 of 24);
+		}
+	}
+}
+
+

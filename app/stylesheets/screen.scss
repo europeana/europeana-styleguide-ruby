@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/*
+ EUROPEANA STYLE GUIDE
+
+ Requires: Sass, Compass
+*/
+
+
+/*------------------------------------*\
+    $TABLE OF CONTENTS
+\*------------------------------------*/
+/**
+ * VARIABLES..............................Declarations of Sass variables
+ * .....Colors
+ * .....Typography
+ * .....Layout
+ * .....Defaults
+ * .....Breakpoints
+ * MIXINS.................................Sass mixins
+ * RESET..................................Set reset defaults
+ * GLOBAL CLASSES.........................Set reset defaults
+ * GLOBAL ELEMENTS........................Establish global styles
+ * .....Main
+ * .....Headings
+ * .....Text-related elements (p, blockquote, lists)
+ * .....Defaults
+ * .....Breakpoints
+ * TYPOGRAPHY------------------------------
+ * MEDIA------------------------------
+ * LAYOUT------------------------------
+ * NAVIGATION------------------------------
+ * TOC To Be Continued
+ */
+@import "compass/css3";
+
+@import "scss/generic/variables";
+@import "scss/generic/mixins";
+@import "scss/generic/reset";
+
+
+/*------------------------------------*\
+    $GRIDS
+\*------------------------------------*/
+@import "scss/grid/csswizardry-grids";
+@import "scss/objects/media_grid";
+
+
+/*------------------------------------*\
+    $GLOBAL ELEMENTS
+\*------------------------------------*/
+@import "scss/base/global-classes";
+@import "scss/base/main";
+@import "scss/base/links";
+//@import "scss/base/headings";
+@import "scss/base/headings_simple";
+@import "scss/base/text";
+@import "scss/base/code";
+@import "scss/base/lists";
+@import "scss/base/media";
+@import "scss/base/forms";
+@import "scss/base/tables";
+@import "scss/base/animation";
+@import "scss/base/utility";
+
+
+/*------------------------------------*\
+    $PAGE STRUCTURE
+\*------------------------------------*/
+@import "scss/objects/header";
+@import "scss/objects/footer";
+@import "scss/objects/blocks/site-hero";
+@import "scss/objects/blocks/promo-module";
+@import "scss/theme/hero-branding";
+
+/*------------------------------------*\
+    $NAVIGATION
+\*------------------------------------*/
+@import "scss/objects/nav";
+@import "scss/objects/navigation/global";
+@import "scss/objects/navigation/breadcrumbs";
+@import "scss/objects/navigation/pagination";
+
+
+/*------------------------------------*\
+    $TEXT Styles
+\*------------------------------------*/
+@import "scss/objects/text";
+
+
+/*------------------------------------*\
+    $COMPONENTS
+\*------------------------------------*/
+
+// Global icons (svg)
+@import "scss/objects/icons/svgicons";
+//Icon fonts
+//@import "scss/objects/icons/icons_fonts";
+@import "scss/objects/icons/icons-licenses";
+
+@import "scss/objects/buttons";
+@import "scss/objects/controls/buttonbar";
+@import "scss/objects/tags";
+@import "scss/objects/corner-ribbon";
+@import "scss/objects/category-flags";
+@import "scss/objects/blocks";
+@import "scss/objects/lists";
+@import "scss/objects/tooltip";
+@import "scss/objects/accordion";
+@import "scss/objects/tabs";
+@import "scss/objects/sections";
+@import "scss/objects/article";
+@import "scss/objects/comments";
+@import "scss/objects/loading";
+@import "scss/objects/dates";
+@import "scss/objects/file-browser";
+@import "scss/objects/lists/list-item";
+@import "scss/objects/lists/file-lists";
+@import "scss/objects/metadata";
+@import "scss/objects/attribution";
+@import "scss/objects/controls/dropdown";
+//@import "scss/objects/controls/results-filter";
