@@ -9,7 +9,7 @@ module Europeana
       initializer 'europeana_styleguide.stache' do |_app|
         Stache.configure do |c|
           c.use :mustache
-          c.template_base_path = 'app/ui-components'
+          c.template_base_path = 'app/views'
         end
       end
     end
