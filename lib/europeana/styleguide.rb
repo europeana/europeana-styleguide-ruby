@@ -8,8 +8,8 @@ module Europeana
 
     included do
       if respond_to?(:prepend_view_path)
-        prepend_view_path(File.expand_path('../../../app/ui-components', __FILE__))
-        prepend_view_path('app/ui-components')
+        prepend_view_path(File.expand_path('../../../app/views', __FILE__))
+        prepend_view_path('app/views')
       end
     end
   end
