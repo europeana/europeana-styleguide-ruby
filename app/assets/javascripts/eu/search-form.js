@@ -1,5 +1,5 @@
 define(['jquery'], function ($){
-	/*
+    /*
      * function SearchTags($form){ this.$form = $form; this.$input =
      * $form.find('.js-search-input'); this.$tags =
      * $form.find('.js-search-tags'); this.$hidden = $('<select name="q[]"
@@ -66,9 +66,9 @@ define(['jquery'], function ($){
      */
 
   function initSearchForm(){
-	 var form = $('.search-multiterm');
+     var form = $('.search-multiterm');
      // new SearchTags(form);
-	 var input = form.find('.js-search-input');
+     var input = form.find('.js-search-input');
 
      if( $(document).width() > 640 ){
           input.width(function(){
@@ -79,14 +79,22 @@ define(['jquery'], function ($){
            });
      }
 
-  	 form.on('click', '.js-hitarea', function(event) {
+     form.on('click', '.js-hitarea', function(event) {
         input.focus();
      });
+
+     form.on('submit', function(event) {
+         if(input.val().length==0){
+             console.log('empty search term')
+             return false;
+         }
+     });
+
   }
 
 
   if(typeof initSearchForm != 'undefined'){
-	 initSearchForm();
+     initSearchForm();
   }
 
 });
