@@ -11,7 +11,7 @@ define(['jquery'], function($){
                 function delayed(){
 
                     if(!execAsap){
-                        func.apply(obj, args);                        
+                        func.apply(obj, args);
                     }
                     timeout = null;
                 };
