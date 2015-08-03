@@ -23,7 +23,7 @@ And then execute:
 ## Usage
 
 The gem's Mustache templates are in its
-[app/ui-components directory](app/ui-components/). To make these available to
+[app/views directory](app/views/). To make these available to
 as views in your application, include the module `Europeana::Styleguide` in
 the relevant controller:
 
@@ -33,8 +33,8 @@ class StyledController < ApplicationController
 end
 ```
 
-You can just include the module in `ApplicationController` to make the
-styleguide templates available to all controllers.
+Include the module in `ApplicationController` to make the styleguide templates
+available to all controllers.
 
 Styleguide templates do not following Rails's view naming conventions, so you
 will need to explicitly instruct your controller actions to render each
@@ -53,21 +53,21 @@ end
 ```
 
 Individual Mustache templates can be overriden locally by creating a file of the
-same name in your application's app/ui-components directory. For example, to
-override the gem's `app/ui-components/templates/Search/Search-results-list.mustache`
-template, copy it to `$RAILS_ROOT/app/ui-components/templates/Search/Search-results-list.mustache`
+same name in your application's app/views directory. For example, to
+override the gem's `app/views/templates/Search/Search-results-list.mustache`
+template, copy it to `$RAILS_ROOT/app/views/templates/Search/Search-results-list.mustache`
 and edit as required.
 
 Data is provided to Mustache templates for populating its variables via Stache
-view classes, named after the template file name, and stored under app/views.
+view classes, named after the template file name, and also stored under app/views.
 For example, given a template named `templates/Search/Search-results-list.mustache`
-(within app/ui-components), provide data to it via a view class named `Templates::Search::SearchResultsList`,
+(within app/views), provide data to it via a view class named `Templates::Search::SearchResultsList`,
 which should sub-class `Stache::Mustache::View`.
 
 Any methods of that view class will be available for the expansion of variables
 in the Mustache template. For example:
 
-*app/ui-components/templates/Search/Search-results-list.mustache:*
+*app/views/templates/Search/Search-results-list.mustache:*
 ```mustache
 <p>{{result_count}}</p>
 ```
@@ -91,11 +91,3 @@ like the variable's sub-keys.
 
 The view class will also have access to any instance variables set on your
 controller, and any view helper methods.
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/europeana-styleguide/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
