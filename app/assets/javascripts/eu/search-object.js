@@ -4,6 +4,7 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
         console.log(msg);
     }
 
+    /*
     function addEllipsis(){
         if(window.location.href.indexOf('ellipsis') > -1){
             $('.js-carousel-title a').each(function(){
@@ -15,6 +16,7 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
             });
         }
     }
+    */
 
     function showMap(data){
         var initLeaflet = function(longitudes, latitudes, labels){
@@ -70,8 +72,7 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
 
         if(latitude && longitude){
 
-            // replace any comma-delimited decimals with decimal points /
-            // make decimal format
+            // replace any comma-delimited decimals with decimal points / make decimal format
 
             for(var i = 0; i < latitude.length; i++){
                 latitude[i] = latitude[i].replace(/,/g, '.').indexOf('.') > -1 ? latitude[i] : latitude[i] + '.00';
@@ -104,24 +105,58 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
     }
 
     var initCarousel = function(el, ops){
-        require(['eu_carousel'], function(EuCarousel){
-            var reg = /(?:\(['|"]?)(.*?)(?:['|"]?\))/;
-            var data = [];
-            el.find('a.link').each(function(i, ob) {
-                ob = $(ob);
-                data[data.length] = {
-                    "thumb" : reg.exec(ob.closest('.mlt-img-div').css('background-image'))[1],
-                    "title" : ob.closest('.mlt-img-div').next('.js-carousel-title').find('a')[0].innerHTML,
-                    "link"  : ob.attr('href'),
-                    "linkTarget" : "_self"
-                }
+
+        var carousel = jQuery.Deferred();
+
+        require(['eu_carousel', 'eu_carousel_appender'], function(Carousel, CarouselAppender){
+            var appender = CarouselAppender.create({
+                'cmp':             el.find('ul'),
+                'loadUrl':         ops.loadUrl,
+                'template':        ops.template,
+                'total_available': ops.total_available
             });
-            new EuCarousel(el, data, ops);
+            carousel.resolve(Carousel.create(el, appender, ops));
         });
+        return carousel.promise();
     }
 
     var showMediaThumbs = function(data){
-        initCarousel($('.media-thumbs'), data);
+        if($('.object-media-nav li').length > 1){
+
+            // keep reference to carousel for thumb strip updates
+            var promisedCarousel = initCarousel($('.media-thumbs'), data);
+            promisedCarousel.done(
+
+                function(carousel){
+                    var setOptimalHeight = function(v){
+                        if(v){
+                            var currHeight    = $('.media-thumbs').outerHeight(true);
+                            var deduct        = currHeight - $('.media-thumbs').height();
+
+                            $('.media-thumbs').removeAttr('style');
+                            var newH = $('.media-viewer').height() - deduct;
+
+                            $('.media-thumbs').css('height', newH + 'px');
+                        }
+                        else{
+                            $('.media-thumbs').removeAttr('style');
+                        }
+                        carousel.resize();
+                    }
+
+                    carousel.vChange(function(v){
+                        setOptimalHeight(v);
+                    });
+
+                    $('.media-viewer').on('refresh-nav-carousel', function(){
+                        setOptimalHeight(carousel.isVertical());
+                    });
+                }
+            );
+        }
+        else{
+            log('no media carousel needed');
+        }
     }
 
     var showMLT = function(data){
@@ -139,8 +174,6 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
             var label = sessionStorage.eu_portal_channel_label;
             var name  = sessionStorage.eu_portal_channel_name;
             var url   = sessionStorage.eu_portal_channel_url;
-
-            console.log('retrieved  ' + label + ', ' + name + ', ' + url);
 
             if(typeof url != 'undefined' && url != 'undefined' ){
                 var crumb = $('.breadcrumbs li.js-channel');
@@ -160,17 +193,10 @@ define(['jquery', 'util_scrollEvents', 'media_controller'], function($, scrollEv
                     }
                 });
             }
-
         }
     }
 
     function initPage(){
-
-        // functions to assist design
-        if(typeof addEllipsis != 'undefined'){
-            addEllipsis();
-        }
-        // (end functions to assist design)
 
         channelCheck();
 

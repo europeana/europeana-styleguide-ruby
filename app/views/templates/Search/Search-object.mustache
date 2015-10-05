@@ -29,6 +29,14 @@
       {{^empty_item}}
       <div class="media-viewer">
 
+        {{#single_item}}
+          {{#items}}
+            <div class="single-item-thumb">
+              {{> molecules/components/media-nav-item}}
+            </div>
+          {{/items}}
+        {{/single_item}}
+
         {{#required_players}}
 
         {{#iiif}}
@@ -69,13 +77,26 @@
 
         {{/required_players}}
       </div>
-      {{> molecules/components/media-nav}}
+
+      {{^single_item}}
+        {{> molecules/components/media-nav}}
+      {{/single_item}}
+
       {{/empty_item}}
       {{#empty_item}}
         <img src={{thumbnail}}>
       {{/empty_item}}
     </div>
-    {{#items}}
+  </section>
+
+  {{#items}}
+  <!--
+  <section>
+  <h1> INFO BELOW</h1>
+  </section>
+   -->
+
+  <section>
 
     <div class="object-media-info section {{#is_current}}is-current{{/is_current}}">
 
@@ -158,8 +179,10 @@
 
     </div>
 
-    {{/items}}
-    {{^items}}
+  </section>
+  {{/items}}
+  {{^items}}
+  <section>
     <div class="object-media-info section is-current">
       <div class="object-downloads">
         <a class="download-button btn alt is-disabled" href="#">
@@ -170,13 +193,13 @@
         </a>
       </div>
     </div>
-    {{/items}}
-
   </section>
+  {{/items}}
+
   {{/object.media}}
 
   {{! Main object text info section }}
-  <section class="section">
+  <section class="section object-details">
   <div class="lc">
     <div class="object-overview">
       {{#object}}
@@ -322,7 +345,7 @@
             <a	class="scroll-trigger"
               enabled="true"
               data-fire-on-open="showMLT"
-              data-fire-on-open-params='{ "loadUrl": "{{more_items_load}}"}'
+              data-fire-on-open-params='{ "loadUrl": "{{more_items_load}}", "total_available": "{{more_items_total}}", "template": "mlt", "svg": true}'
             ></a>
           </div>
           <div class="subsection-content">
@@ -346,55 +369,6 @@
       </div>
     {{/content.similar}}
     </div>
-
-
-
-
-
-  <!-- vertical test -->
-
-  <!--
-
-  <div class="lc data-border">
-      {{#content.similar}}
-      <div class="data-section no-border">
-        <div class="mlt cf">
-          <div class="subsection-label">
-            {{title}}
-            <a class="scroll-trigger"
-              enabled="true"
-              data-fire-on-open="showMediaThumbs"
-              data-fire-on-open-params='{ "minSpacingPx": 5, "loadUrl": "{{content.object.media.more_thumbs_url}}"}'
-            ></a>
-          </div>
-          <div class="subsection-content">
-              <div style="position: relative; height:400px; width:5.6em;">
-                  <div class="js-carousel v media-thumbs">
-                    <ul class="cf">
-                      {{#items}}
-                        <li class="js-carousel-item">
-                          <div class="mlt-img-div height-to-width" style="background-image: url({{img.src}})">
-                            <div class="inner"><a class="link" href="{{url}}">&nbsp;</a></div>
-                          </div>
-                          <span class="js-carousel-title">
-                            <a href="{{url}}">{{title}}</a>
-                          </span>
-                        </li>
-                      {{/items}}
-                    </ul>
-                  </div>
-               </div>
-          </div>
-        </div>
-      </div>
-      {{/content.similar}}
-    </div>
-  -->
-
-
-
-
-
   </section>
   {{/content}}
 </div>

@@ -10,10 +10,7 @@
   position: relative;
 }
 
-.js-carousel.v{
-  height: 100%;
 
-}
 
 .js-carousel .js-carousel-item{
 
@@ -21,17 +18,16 @@
   text-align:				center;
 
   @media all and (min-width: $bp-med) {
-    width:					48%;
     float:					left;
-    text-align:				left;
+    text-align:			left;
   }
 }
 
+
 .js-carousel.v .js-carousel-item{
-  width:					auto;
 
   margin:					1% 0;
-  text-align:				center;
+  text-align:			center;
 
   @media all and (min-width: $bp-med) {
     width:          auto;
@@ -43,22 +39,11 @@
 
 .mlt-img-div{
 
-  margin-bottom: $space-quarter;
-
-  background-repeat:		no-repeat;
-  background-size:		contain;
-  background-position:	center;
-
-  position:				relative;
-
-
-    @media all and (min-width: $bp-med) and (max-width: $bp-large) {
-    background-size:		cover;
-    }
-
-  @media all and (min-width: $bp-large) {
-    background-size:		cover;
-    }
+  background-repeat:   no-repeat;
+  background-size:     cover;
+  background-position: center;
+  margin:              0 auto 0 auto;
+  position:				     relative;
 }
 
 
@@ -86,7 +71,6 @@
 
 .js-carousel-title{
   display:		block;
-  height:			4.8em;
   line-height:	1.6em;
   overflow:		hidden;
 }
@@ -95,31 +79,15 @@
   height:			  1.6em;
 }
 
-@media all and (max-width: $bp-large) {
 
-  .height-to-width{
-    height: $thumbnail_max_dimension;
-  }
-}
 
 @media all and (min-width: $bp-large) {
 
   .js-carousel .js-carousel-item{
     width:					24%;
     margin:					0;
-    }
-
-  .js-carousel .js-carousel-item,
-  .js-carousel .js-carousel-title{
-    max-width:	$thumbnail_max_dimension;
   }
 
-   // TODO: needed?
-  .js-carousel.v .js-carousel-item,
-  .js-carousel.v .js-carousel-title{
-    width: auto;
-    max-width: none;
-  }
 
   .js-carousel.v .js-carousel-title{
      text-align: center;
@@ -137,46 +105,40 @@
 }
 
 
-/* js overrides */
-
-
-.mlt .js-carousel .js-carousel-item{
-  width: $thumbnail_max_dimension;
-  margin-left: 0;
-  margin-right: 0;
-  float: left;
-}
-
-.js-carousel.v .js-carousel-item{
-  width:  auto;
-  margin-left: auto;
-  margin-right: auto;
-  float: none;
-}
-
-
-.js-carousel.h{
-  margin: 0 3em;
-  @media all and (min-width: $bp-med) {
-    margin: 0 3em 0 0;
-  }
-}
-
-.js-carousel.v{
-  margin: 2em 0 2em 0;
-}
 
 
 .js-carousel{
-  overflow-y: hidden;
+
+  overflow: hidden;
   position: relative;
+
+  .js-carousel-item{
+    margin-left: 0;
+    margin-right: 0;
+    float: left;
+
+    width:  auto;  // no override needed
+  }
+
+  .h{
+    margin: 0 3em;
+
+    @media all and (min-width: $bp-med) {
+      margin: 0 3em 0 0;
+    }
+  }
+
+  .v{
+    margin: 2em 0 2em 0;
+
+     .js-carousel-item{
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+  }
 }
 
-
-
-//.js-carousel.v{
-//  overflow-x: hidden;
-//}
 
 
 .js-carousel.loading ul:after {
@@ -185,7 +147,9 @@
   display: block;
   position: absolute;
   height: 100%;
-  min-height: $thumbnail_max_dimension;
+//  min-height: $thumbnail_max_dimension;
+  min-height: 5000000px;
+
   width: 100%;
   top: 0;
   left: 0;
@@ -218,42 +182,66 @@
 
   &.h{
     position: relative;
+
     .left{
       left: 0;
-      @media all and (min-width: $bp-med) {
-        left: -1em;
-      }
-    }
-
-    > a{
-      line-height: $thumbnail_max_dimension;
     }
 
     .right{
       right: 0;
     }
+
+    .icon icon-caret-left{
+      // fix arrows
+    }
+
+    .icon icon-caret-right{
+      // fix arrows
+    }
+
   }
 
   &.v{
     position: absolute;
+
     height: 100%;
+
     width: 100%;
+    left: 0;
+    right: o;
+
     z-index: 0;
 
     .right,
     .left{
-      width:      100%;
       position: absolute;
       text-align: center;
       padding: 0;
+      left: 0;
+      right: 0;
     }
 
     .right{
-      bottom: -1em;
+      bottom: -1.2em;
+
+      // until the svgs are ready, rotate the caret (^) for a down arrow
+      -webkit-transform: rotate(180deg);
+      -moz-transform:    rotate(180deg);
+      -o-transform:      rotate(180deg);
+      -ms-transform:     rotate(180deg);
+      transform:         rotate(180deg);
     }
 
     .left{
-      top: -1em;
+      top: -1.2em;
+    }
+
+    .icon icon-caret-down{
+      // fix arrows
+    }
+
+    .icon icon-caret-up{
+      // fix arrows
     }
   }
 

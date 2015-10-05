@@ -108,34 +108,150 @@
 }
 
 // main media display area
+
+#scroll-trigger-media-items:before{
+
+  // model for carousel
+  // - technique to get sass var into markup (and so to js)
+  // - breakpoint for vertical display, in pixels
+
+  content: '{ "bpVertical": "' + (($bp-js-carousel-to-v/1em)*16) + '"}';
+  display: none;
+}
+
+
 .object-display{
     overflow-y: auto;
-    margin-bottom: $space;
     background-color: $media_bg;
     position: relative;
 }
 
+
 .object-media-wrap{
+
     text-align: center;
     padding: $pad;
     position: relative;
+    z-index: 2;
+
+    .media-thumb-section{
+      overflow: hidden;
+      width: 100%;
+      .js-carousel-arrows{
+        &.left,
+        &.right{
+          top: -0.1em;
+        }
+        a{
+          color: white;
+          text-shadow: 0 0 1px #000;
+          font-weight: bold;
+
+          &.arrow-hidden{
+            color: silver;
+            cursor: default;
+          }
+        }
+      }
+      .js-carousel{
+        .js-carousel-item{
+            width: $thumbnail_max_dimension_media;
+        }
+        &.h{
+          .height-to-width{
+            height: $thumbnail_max_dimension_media;
+          }
+        }
+      }
+    }
+
+    .media-viewer{
+      position: relative;
+      width: 100%;
+
+      &.active{
+        padding-bottom: $space;
+      }
+      .object-media-audio{
+        position: relative;
+        width: 100%;
+      }
+      .object-media-image{
+        z-index: 1;
+      }
+    }
+
 }
-.object-media-wrap.multi-item{
-   min-height: 18em;
-  .object-media-iiif{
-    width: 90%;
+
+@media all and (min-width: $bp-js-carousel-to-v) {
+
+  .object-media-wrap{
+
+    width:100%;
+    max-width:100%;
+
+    .media-viewer .single-item-thumb a{
+      cursor: default;
+    }
+
+    .media-viewer .single-item-thumb a.playable{
+      cursor: pointer;
+    }
+
+    &.single-item{
+
+    }
+
+    &.multi-item{
+
+      display: table-row;
+      table-layout: fixed;
+
+      .media-viewer,
+      .media-thumb-section{
+        display: table-cell;
+        vertical-align: middle;
+      }
+
+      .media-thumb-section{
+
+        width:         $thumbnail_max_dimension_media;	// set width of thumbnail column here - thumbnail width and height (if left unset) will match it
+        min-width:     $thumbnail_max_dimension_media;	// (both needed - and should match the thumbnail width to keep arrows aligned)
+        padding-right: 1.6rem;
+
+
+        // override carousel default height for thumbnail list (margin allows space for arrows)
+        .media-thumbs{
+          height: 21em;
+          margin: 2 * $space 0 2 * $space 0;
+        }
+      }
+
+      .media-viewer{
+
+          &.active{
+            padding-top:    $space;
+          }
+
+         width: 100%;
+
+         padding-left:   $space;
+         padding-right:  $space;
+         box-sizing:     padding-box;
+      }
+    }
   }
 }
 
-// Thumbnails list
+
+.media-thumb-section-inner{
+  position: relative;
+}
+
+
+// media thumbnails list
+
 .object-media-nav{
-    overflow-y: scroll;
-    position: absolute;
-    right: 0;
-    top: 0;
-    height: 100%;
-    width: 10%;
-    padding: $space-quarter;
     background-color: $media_bg;
 }
 
@@ -146,23 +262,35 @@
     cursor:progress
 }
 
+.single-item-thumb svg.icon.icon-play,
 .object-media-nav svg.icon.icon-play{
     font-size: 0.9em;
     margin: 0.42em 0 0 0.2em;
 }
-.object-media-nav svg.icon.icon-plus	{
+
+.single-item-thumb svg.icon.icon-plus,
+.object-media-nav svg.icon.icon-plus{
     margin: 0.31em 0 0 0;
 }
+
+.single-item-thumb svg.icon.icon-newspaper,
 .object-media-nav svg.icon.icon-newspaper	{
     font-size: 0.9em;
     margin: 0.4em 0 0 0.16em;
 }
 
-.single-item .object-media-nav{
-    width: 100%;
+.single-item-thumb{
+    display: inline-block;
     position: relative;
-    overflow-y: visible;
+    margin: $space / 2 auto;
+    max-width: 100%;
+
+
+    @media all and (max-width: $bp-med) {
+      margin: $space * 2 auto;
+    }
 }
+
 .single-item .object-media-nav.open{
     display: none;
 }
@@ -262,11 +390,6 @@
 
 // override default if we have a column of thumbnails on the right
 
-.multi-item{
-  .object-media-video {
-    width: 90%;
-  }
-}
 
 .object-techdata{
 
@@ -276,7 +399,7 @@
     &>.show-button{
         position: absolute;
         bottom: 100%;
-        z-index: 10;
+        z-index: 1;
         left: 10px;
 
         &:hover{
@@ -307,7 +430,7 @@
         position: absolute;
         right: 11%;
         bottom: 100%;
-        z-index: 10;
+        z-index: 1;
 
         &.is-disabled{
             background: lighten($text_secondary, 10%);
@@ -331,7 +454,9 @@
     margin-top: 0.5em;
 }
 
-
+.object-details{
+  margin-top: $space;
+}
 
 
 .object-info{
@@ -384,6 +509,44 @@
     font-weight:    bold;
     text-transform: capitalize;
 }
+
+
+// override carousel defaults for mlt
+
+.mlt{
+    .js-carousel{
+        .js-carousel-item{
+            width: $thumbnail_max_dimension_mlt;
+        }
+        .height-to-width{
+          height: $thumbnail_max_dimension_mlt;
+        }
+    }
+    .js-carousel-arrows{
+        &.h{
+            .left{
+                @media all and (min-width: $bp-med) {
+                  left: -1em;
+                }
+            }
+        }
+         a{
+            line-height: $thumbnail_max_dimension_mlt;
+            &.arrow-hidden{
+              display: none;
+            }
+        }
+    }
+}
+
+
+.js-carousel.media-thumbs.h{
+    margin: 0 2.6rem;
+}
+.js-carousel-arrows.h{
+    line-height: $thumbnail_max_dimension_media;
+}
+
 
 .subsection-content>ul{
     display: inline;

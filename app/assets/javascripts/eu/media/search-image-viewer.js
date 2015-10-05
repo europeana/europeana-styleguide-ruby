@@ -21,10 +21,12 @@ define(['photoswipe', 'photoswipe_ui'], function( PhotoSwipe, PhotoSwipeUI_Defau
       console.warn( 'initialiseGallery() - no images to add to the gallery' );
       return;
     }
-
-    $('.media-viewer').trigger("object-media-open", {hide_thumb:false});
+    $('.media-viewer').trigger("object-media-open", {hide_thumb:false, type:'image'});
 
     gallery = new PhotoSwipe( viewer, PhotoSwipeUI_Default, items, options );
+    gallery.listen('close', function() {
+        $('.media-viewer').trigger("object-media-close", {hide_thumb:false, type:'image'});
+    });
 
     if(delay){
         /**  this delay is to mitigate a load issue - see here:

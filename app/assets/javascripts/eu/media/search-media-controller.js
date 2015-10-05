@@ -2,8 +2,11 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
 
   // main link between search page and the various players
   var listSelector       = '.object-media-nav';
+  var singleSelector     = '.single-item-thumb';
   var listItemSelector   = listSelector + ' a';
+  var singleItemSelector = singleSelector + ' a';
 
+  var isMultiple         = $(listItemSelector).length > 1;
 
   var mediaViewerImage   = null;
   var pdfViewer          = null;
@@ -19,26 +22,16 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
 
     log('hideAllViewers()');
 
-    //$('.media-viewer .object-media-audio').addClass('is-hidden');
-
     $('.media-viewer .object-media-iiif').addClass('is-hidden');
-
     $('.media-viewer .object-media-image').addClass('is-hidden');
-
-    //$('.media-viewer .object-media-pdf').addClass('is-hidden');
-
     $('.media-viewer .object-media-text').addClass('is-hidden');
-
-    //$('.media-viewer .object-media-video').addClass('is-hidden');
 
     if(audioPlayer){
         audioPlayer.hide();
     }
     if(iiifViewer){
-        log('hide iiif 1')
         iiifViewer.hide();
         iiifViewer = null;
-        log('hide iiif 2')
     }
     if(pdfViewer){
         pdfViewer.hide();
@@ -56,15 +49,32 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
       log('remove playability...');
       data.$thumb.removeClass('playable');
       data.$thumb.find('.media-clickable-indicator').remove();
+
       $(listItemSelector).removeClass('loading');
+      $(singleItemSelector).removeClass('loading');
+
       $('.media-viewer .object-media-' + data.player).addClass('is-hidden');
   }
 
+  function mediaClosed(evt, data){
+      $('.media-viewer').removeClass('active');
+  };
+
   function mediaOpened(evt, data){
     if(data.hide_thumb){
+      // TODOL review this
       $(listSelector).addClass('open');
+      $(singleSelector).addClass('open');
     }
     $(listItemSelector).removeClass('loading');
+    $(singleItemSelector).removeClass('loading');
+
+    $('.media-viewer').addClass('active');
+
+    // trigger resize of arrows
+    if(data.type != 'image'){
+        $('.media-viewer').trigger({"type": "refresh-nav-carousel"});
+    }
   }
 
 
@@ -112,6 +122,7 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
         hideAllViewers();
         $('.media-viewer .object-media-image').removeClass('is-hidden');
         mediaViewerImage.setUrl(data.url);
+        data.type = 'image';
         mediaOpened(evt, data);
         return;
     }
@@ -121,7 +132,8 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
     var checkData = [];
     var clickedImg = data.target.attr('data-uri');
 
-    $(listItemSelector + '[data-type=image]').each(function(){
+    $(listItemSelector + '[data-type=image]')
+      .add(singleItemSelector + '[data-type=image]').each(function(){
 
         var $el    = $(this);
         var uri    = $el.attr('data-uri');
@@ -238,6 +250,11 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
       evt.preventDefault();
       evt.stopPropagation();
 
+      if($(this).hasClass('disabled')){
+          log('return because media link disabled');
+          return;
+      }
+
       if($(this).hasClass('playable')){
           $(this).addClass('loading');
 
@@ -269,7 +286,9 @@ define(['jquery', 'imagesLoaded'], function($, imagesLoaded) {
   $('.media-viewer').on('object-media-pdf', initMediaPdf);
   $('.media-viewer').on('object-media-video', initMediaVideo);
   $('.media-viewer').on('object-media-open', mediaOpened);
+  $('.media-viewer').on('object-media-close', mediaClosed);
   $('.media-viewer').on('remove-playability', removePlayability);
   $(listItemSelector).on('click', handleListItemSelectorClick);
+  $(singleItemSelector).on('click', handleListItemSelectorClick);
 
 });
