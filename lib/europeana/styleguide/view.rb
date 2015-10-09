@@ -55,6 +55,28 @@ module Europeana
         { rel: 'stylesheet', href: styleguide_url('/css/screen.css'), media: 'all' }
       end
 
+      ##
+      # JS files to include
+      def js_files
+        [
+          {
+            path: styleguide_url('/js/dist/require.js'),
+            data_main: styleguide_url('/js/dist/main/main')
+          }
+        ]
+      end
+
+      ##
+      # JS variables to output
+      def js_vars
+        page_name = [params[:controller], params[:action]].join('/')
+        [
+          {
+            name: 'pageName', value: page_name
+          }
+        ]
+      end
+
       protected
 
       ##
