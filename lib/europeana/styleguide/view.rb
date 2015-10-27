@@ -52,7 +52,9 @@ module Europeana
       ##
       # <link> elements to include in the HTML <head>
       def head_links
-        { rel: 'stylesheet', href: styleguide_url('/css/screen.css'), media: 'all' }
+        [
+          { rel: 'stylesheet', href: styleguide_url('/css/screen.css'), media: 'all', title: nil }
+        ]
       end
 
       ##
