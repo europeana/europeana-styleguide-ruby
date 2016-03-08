@@ -1,9 +1,8 @@
 require 'europeana/styleguide/version'
+require 'europeana/styleguide/engine' if defined?(Rails)
 
 module Europeana
   module Styleguide
-    require 'europeana/styleguide/engine' if defined?(Rails)
-
     autoload :View, 'europeana/styleguide/view'
 
     extend ActiveSupport::Concern
