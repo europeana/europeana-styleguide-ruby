@@ -284,12 +284,16 @@ mt:
         less_adv: Inqas Rfinar
         more: Aktar
         more_adv: Filtri Avvanzati
+        per-page: 
         product-3D: 3D
         product-image: Immaġni
         product-sound: "Ħsejjes"
         product-text: Kitba
         product-video: Video
         results-relevance: Relevanza
+        results-view:
+          grid: 
+          list: 
         single-result: Riżultat wieħed għal %{query_terms}
         view:
           grid: Grid

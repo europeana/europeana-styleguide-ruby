@@ -284,12 +284,16 @@ ca:
         less_adv: Menys refinaments
         more: Més
         more_adv: Filtres avançats
+        per-page: 
         product-3D: 3D
         product-image: Imatge
         product-sound: So
         product-text: Text
         product-video: Vídeo
         results-relevance: Rellevància
+        results-view:
+          grid: 
+          list: 
         single-result: 1 resultat per %{query_terms}
         view:
           grid: Graella

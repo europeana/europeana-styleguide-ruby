@@ -262,12 +262,16 @@ sv:
         less_adv: Färre filter
         more: Flera
         more_adv: Avancerade filter
+        per-page: 
         product-3D: 3D
         product-image: Bilder
         product-sound: Ljud
         product-text: Texter
         product-video: Video
         results-relevance: Relevans
+        results-view:
+          grid: 
+          list: 
         single-result: 1 träff för %{query_terms}
         view:
           grid: Rutnät

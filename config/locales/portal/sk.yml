@@ -262,12 +262,16 @@ sk:
         less_adv: 
         more: 
         more_adv: 
+        per-page: 
         product-3D: 
         product-image: 
         product-sound: 
         product-text: 
         product-video: 
         results-relevance: 
+        results-view:
+          grid: 
+          list: 
         single-result: 
         view:
           grid: 

@@ -262,12 +262,16 @@ nl:
         less_adv: Minder verfijning
         more: meer
         more_adv: Geavanceerd...
+        per-page: 
         product-3D: 3D
         product-image: Afbeelding
         product-sound: Geluid
         product-text: Tekst
         product-video: Video
         results-relevance: Relevantie
+        results-view:
+          grid: 
+          list: 
         single-result: 1 reslutaat van %{query_terms}
         view:
           grid: Grit

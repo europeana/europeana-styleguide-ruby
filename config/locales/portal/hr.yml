@@ -275,12 +275,16 @@ hr:
         less_adv: Manje preciziranja
         more: Više
         more_adv: Napredni filteri
+        per-page: 
         product-3D: 3D
         product-image: Slika
         product-sound: Zvuk
         product-text: Tekst
         product-video: Video
         results-relevance: Relevantnost
+        results-view:
+          grid: 
+          list: 
         single-result: 1 rezultat za %{query_terms}
         view:
           grid: Mreža

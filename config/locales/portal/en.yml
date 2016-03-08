@@ -276,12 +276,16 @@ en:
         less_adv: Less Refinements
         more: More
         more_adv: Advanced Filters
+        per-page: Per page
         product-3D: 3D
         product-image: Image
         product-sound: Sound
         product-text: Text
         product-video: Video
         results-relevance: Relevance
+        results-view:
+          grid: Grid
+          list: List
         single-result: 1 result for %{query_terms}
         view:
           grid: Grid

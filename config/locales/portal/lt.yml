@@ -271,12 +271,16 @@ lt:
         less_adv: Mažiau detalių
         more: Daugiau
         more_adv: Papildomi filtrai
+        per-page: 
         product-3D: 3D
         product-image: Vaizdas
         product-sound: Garsas
         product-text: Tekstas
         product-video: Video įrašas
         results-relevance: Svarba
+        results-view:
+          grid: 
+          list: 
         single-result: 1 rezultatas pagal užklausą %{query_terms}
         view:
           grid: Tinklelis

@@ -262,12 +262,16 @@ it:
         less_adv: 
         more: Di più
         more_adv: 
+        per-page: 
         product-3D: 
         product-image: Immagine
         product-sound: Suono
         product-text: Testo
         product-video: Video
         results-relevance: Pertinenza
+        results-view:
+          grid: 
+          list: 
         single-result: 
         view:
           grid: 

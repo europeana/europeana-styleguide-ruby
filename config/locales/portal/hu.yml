@@ -271,12 +271,16 @@ hu:
         less_adv: Kevesebb finomítás
         more: Több
         more_adv: "Összetett szűrők"
+        per-page: 
         product-3D: 3D
         product-image: Kép
         product-sound: Hang
         product-text: Szöveg
         product-video: Videó
         results-relevance: Relevancia
+        results-view:
+          grid: 
+          list: 
         single-result: '1 találat a következő keresőszóra: %{query_terms}'
         view:
           grid: Rács

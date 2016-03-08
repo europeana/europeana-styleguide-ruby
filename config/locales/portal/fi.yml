@@ -289,12 +289,16 @@ fi:
         less_adv: Vähemmän määrittelyjä
         more: Lisää
         more_adv: Laajennetut suotimet
+        per-page: 
         product-3D: 3D
         product-image: Kuva
         product-sound: "Ääni"
         product-text: Teksti
         product-video: Video
         results-relevance: Osuvuus
+        results-view:
+          grid: 
+          list: 
         single-result: 1 tulos %{query_terms}
         view:
           grid: Ruudukko

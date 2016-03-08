@@ -271,12 +271,16 @@ fr:
         less_adv: Moins de filtres
         more: Plus
         more_adv: Filtres avancés
+        per-page: 
         product-3D: 3D
         product-image: Image
         product-sound: Son
         product-text: Texte
         product-video: Vidéo
         results-relevance: Pertinence
+        results-view:
+          grid: 
+          list: 
         single-result: 1 résultat pour %{query_terms}
         view:
           grid: Grille

@@ -276,12 +276,16 @@ pl:
         less_adv: Mniej Filtrów
         more: Więcej
         more_adv: Zaawansowane filtry
+        per-page: 
         product-3D: 3D
         product-image: Obraz
         product-sound: Dźwięk
         product-text: Tekst
         product-video: Wideo
         results-relevance: Trafność
+        results-view:
+          grid: 
+          list: 
         single-result: 1 wynik dla %{query_terms}
         view:
           grid: Siatka

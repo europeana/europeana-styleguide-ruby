@@ -271,12 +271,16 @@ pt:
         less_adv: Menos ajustes
         more: Mais
         more_adv: Filtros Avançados
+        per-page: 
         product-3D: 3D
         product-image: Imagem
         product-sound: Som
         product-text: Texto
         product-video: Video
         results-relevance: Relevância
+        results-view:
+          grid: 
+          list: 
         single-result: 1 resultado por %{query_terms}
         view:
           grid: Grelha

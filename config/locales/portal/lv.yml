@@ -275,12 +275,16 @@ lv:
         less_adv: Mazāk precizējumi
         more: Vairāk
         more_adv: Paplašinātie filtri
+        per-page: 
         product-3D: 3D
         product-image: Attēls
         product-sound: Skaņa
         product-text: Teksts
         product-video: Video
         results-relevance: Atbilstība
+        results-view:
+          grid: 
+          list: 
         single-result: "%{query_terms} ir 1 rezultāts"
         view:
           grid: Tabula

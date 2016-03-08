@@ -276,12 +276,16 @@
         less_adv: Færre nyanser
         more: Mer
         more_adv: Avanserte filter
+        per-page: 
         product-3D: 3D
         product-image: Bilde
         product-sound: Lyd
         product-text: Tekst
         product-video: Video
         results-relevance: Relevanse
+        results-view:
+          grid: 
+          list: 
         single-result: 1 resultat for %{query_terms}
         view:
           grid: Grid
