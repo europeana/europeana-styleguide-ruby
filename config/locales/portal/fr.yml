@@ -262,6 +262,7 @@ fr:
           text: Texte
           video: Vidéo
         count-and-terms: "%{results_count} résultats"
+        count-and-terms-with-range: 
         empty: Pas de résultat
         empty-with-terms: 'Votre requête %{query_terms} n''a pas renvoyé de résultats '
         header: Résultats pour

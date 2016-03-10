@@ -272,6 +272,7 @@ ro:
           text: Text
           video: "Înregistrare video"
         count-and-terms: "%{results_count} rezultate găsite"
+        count-and-terms-with-range: 
         empty: Niciun rezultat
         empty-with-terms: Pentru căutarea după %{query_terms} nu au fost găsite rezultate
         header: Rezultate pentru

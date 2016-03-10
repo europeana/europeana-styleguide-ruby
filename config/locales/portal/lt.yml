@@ -262,6 +262,7 @@ lt:
           text: Tekstai
           video: Video įrašai
         count-and-terms: "%{results_count} rezultatai"
+        count-and-terms-with-range: 
         empty: Rezultatų nėra
         empty-with-terms: Rezultatų pagal jūsų paieškos užklausą %{query_terms} nerasta
         header: Rezultatai pagal užklausą

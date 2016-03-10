@@ -253,6 +253,7 @@ nl:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultaten"
+        count-and-terms-with-range: 
         empty: Geen resultaten
         empty-with-terms: Uw zoekopdracht voor %{query_terms} heeft geen resultaat
         header: Resultaten voor

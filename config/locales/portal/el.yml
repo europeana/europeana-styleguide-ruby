@@ -262,6 +262,7 @@ el:
           text: "Κείμενο"
           video: "Βίντεο"
         count-and-terms: "%{results_count} αποτελέσματα"
+        count-and-terms-with-range: 
         empty: "Δεν βρέθηκαν αποτελέσματα"
         empty-with-terms: "Η αναζήτηση σας για %{query_terms} δεν επέστρεψε αποτελέσματα"
         header: "Αποτελέσματα για"

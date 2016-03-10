@@ -262,6 +262,7 @@ pt:
           text: Texto
           video: Vídeo
         count-and-terms: "%{results_count} resultados"
+        count-and-terms-with-range: 
         empty: Sem Resultados
         empty-with-terms: A sua pesquisa por %{query_terms} obteve nenhum resultado
         header: Resultados para

@@ -262,6 +262,7 @@ hu:
           text: Szöveg
           video: Videó
         count-and-terms: "%{results_count} találat"
+        count-and-terms-with-range: 
         empty: Nincs találat
         empty-with-terms: A %{query_terms}  kifejezésre való keresés nem eredményezett találatot
         header: 'Találatok a '

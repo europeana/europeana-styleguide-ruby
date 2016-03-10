@@ -262,6 +262,7 @@ ru:
           text: "Текст"
           video: "Видео"
         count-and-terms: "%{results_count}  результат(ов)"
+        count-and-terms-with-range: 
         empty: "Нет результатов"
         empty-with-terms: "Ваш запрос для поиска %{query_terms} не нашел результатов"
         header: "Результаты для"

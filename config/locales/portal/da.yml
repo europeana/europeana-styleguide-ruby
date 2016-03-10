@@ -262,6 +262,7 @@ da:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultater"
+        count-and-terms-with-range: 
         empty: Ingen Resultater
         empty-with-terms: Din søgning efter %{query_terms} gav ingen resultater
         header: Resultater for

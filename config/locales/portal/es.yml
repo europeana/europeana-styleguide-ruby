@@ -260,6 +260,7 @@ es:
           text: Texto
           video: Video
         count-and-terms: "%{results_count} resultados"
+        count-and-terms-with-range: 
         empty: No hay resultados
         empty-with-terms: 'Tu búsqueda de %{query_terms} no ha dado resultados '
         header: Resultados para

@@ -263,6 +263,7 @@ bg:
           text: "Текст"
           video: "Видео"
         count-and-terms: "%{results_count} резултати"
+        count-and-terms-with-range: 
         empty: "Няма получени резултати"
         empty-with-terms: "Вашето търсене за %{query_terms} не върна резултати."
         header: "Резултати за"

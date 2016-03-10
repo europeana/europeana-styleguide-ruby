@@ -267,6 +267,7 @@
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} resultater"
+        count-and-terms-with-range: 
         empty: Ingen resultater
         empty-with-terms: Ditt søk etter %{query_terms} ga ingen resultater
         header: Resultater for

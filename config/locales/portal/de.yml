@@ -272,6 +272,7 @@ de:
           text: 
           video: 
         count-and-terms: "%{results_count} Ergebnisse"
+        count-and-terms-with-range: 
         empty: Keine Ergebnisse
         empty-with-terms: Ihre Suche nach %{query_terms} ergab keine Treffer
         header: Ergebnisse für

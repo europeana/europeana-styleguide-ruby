@@ -275,6 +275,7 @@ et:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} tulemust"
+        count-and-terms-with-range: 
         empty: "Ühtki tulemust"
         empty-with-terms: Sinu otsing %{query_terms} ei andnud ühtki tulemust
         header: 

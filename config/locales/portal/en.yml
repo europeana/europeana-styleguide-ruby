@@ -267,6 +267,7 @@ en:
           text: Text
           video: Video
         count-and-terms: "%{results_count} results"
+        count-and-terms-with-range: "%{results_range} of %{results_count} results"
         empty: No Results
         empty-with-terms: Your search for %{query_terms} returned no results
         header: Results for

@@ -253,6 +253,7 @@ it:
           text: Testo
           video: 
         count-and-terms: 
+        count-and-terms-with-range: 
         empty: 'Nessun Risultato '
         empty-with-terms: 
         header: Risultati per

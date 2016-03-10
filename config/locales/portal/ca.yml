@@ -275,6 +275,7 @@ ca:
           text: Text
           video: Vídeo
         count-and-terms: "%{results_count} resultats"
+        count-and-terms-with-range: 
         empty: Sense Resultats
         empty-with-terms: La teva cerca %{query_terms} no té resultats
         header: Resultats per

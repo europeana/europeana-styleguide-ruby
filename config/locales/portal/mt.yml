@@ -275,6 +275,7 @@ mt:
           text: Kitba
           video: Video
         count-and-terms: "%{results_count} riżultati"
+        count-and-terms-with-range: 
         empty: M'hawnx riżultati
         empty-with-terms: It-tfixxija tiegħek għal %{query_terms} ma' ġabarx riżultati
         header: Riżultati għal

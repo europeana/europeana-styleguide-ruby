@@ -253,6 +253,7 @@ sv:
           text: Texter
           video: Video
         count-and-terms: "%{results_count} träffar"
+        count-and-terms-with-range: 
         empty: Inga träffar
         empty-with-terms: Din sökning efter %{query_terms} fick inga träffar
         header: Träffar för

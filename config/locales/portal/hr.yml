@@ -266,6 +266,7 @@ hr:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} rezultata"
+        count-and-terms-with-range: 
         empty: Nema rezultata
         empty-with-terms: Vaša pretraga za %{query_terms} nije dala rezultata
         header: Rezultati za

@@ -266,6 +266,7 @@ lv:
           text: Teksts
           video: Video
         count-and-terms: "%{results_count} rezultāti"
+        count-and-terms-with-range: 
         empty: Nav rezultātu
         empty-with-terms: Jūsu meklēšanas pieprasījumam %{query_terms} nav rezultātu
         header: Rezultāti

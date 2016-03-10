@@ -280,6 +280,7 @@ fi:
           text: Teksti
           video: Video
         count-and-terms: "%{results_count} tulosta"
+        count-and-terms-with-range: 
         empty: Ei tuloksia
         empty-with-terms: Hakusi %{query_terms} ei tuottanut tuloksia
         header: Tulokset
