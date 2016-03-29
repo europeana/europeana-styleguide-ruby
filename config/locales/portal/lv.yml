@@ -9,7 +9,7 @@ lv:
   global:
     labs-link: saite uz Laboratoriju
     navigation:
-      agents: 
+      agents: Cilvēki
       all_blog_posts: Visi bloga ieraksti...
       all_exhibitions: Visas izstādes...
       blog: Blogs
@@ -19,7 +19,7 @@ lv:
       browse_sources: Avoti
       channels: Kolekcijas
       collections: Kolekcijas
-      concepts: 
+      concepts: Tēmas
       exhibitions: Izstādes
       home: Sākums
     pro-link: saite uz Profesionālo
@@ -44,13 +44,13 @@ lv:
         title: Jauns saturs
       people:
         description: 
-        title: 
+        title: Cilvēki
       sources:
         description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu.
         title: Avoti
       topics:
-        description: 
-        title: 
+        description: Pārlūko kolekcijas pēc temata, tēmas vai žanra.
+        title: Tēmas
     collections:
       art-history:
         description: No renesances līdz sirreālistiem, no seno romiešu skulptūrām līdz mūsdienu mākslai, Europeana Mākslas vēstures kolekcija iepazīstina ar māksliniekiem un mākslas darbiem no visas Eiropas.
@@ -78,7 +78,7 @@ lv:
         about: Par
         become-a-provider: Kļūsti par mūsu partneri
         contact: Kontakti
-        contact-us: 
+        contact-us: Sazināties
         copyright: Autortiesības
         data-providers: Visas institūcijas
         help: Palīdzība
@@ -169,7 +169,7 @@ lv:
         provenance: Izcelsme
         provided-by: Uzzināt vairāk
         provided-by-detail: Europeana šo ierakstu atrāda ar %{institution_name_and_link} līdzdalību. Lai saņemtu vairāk informācijas, apmeklējiet viņu vietni.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana šo ierakstu atrāda izmantojot
         provider: Piegādātājs
         providing-country: Piegādātājvalsts
         publication-date: Izdošanas datējums
@@ -267,7 +267,7 @@ lv:
           text: Teksts
           video: Video
         count-and-terms: "%{results_count} rezultāti"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} no %{results_count} rezultātiem"
         empty: Nav rezultātu
         empty-with-terms: Jūsu meklēšanas pieprasījumam %{query_terms} nav rezultātu
         header: Rezultāti
@@ -277,7 +277,7 @@ lv:
         less_adv: Mazāk precizējumi
         more: Vairāk
         more_adv: Paplašinātie filtri
-        per-page: 
+        per-page: Lapā
         product-3D: 3D
         product-image: Attēls
         product-sound: Skaņa
@@ -285,8 +285,8 @@ lv:
         product-video: Video
         results-relevance: Atbilstība
         results-view:
-          grid: 
-          list: 
+          grid: Režģis
+          list: Saraksts
         single-result: "%{query_terms} ir 1 rezultāts"
         view:
           grid: Tabula
