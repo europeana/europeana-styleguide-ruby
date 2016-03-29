@@ -149,8 +149,8 @@ lv:
   global:
     about-us: Par mums
     actions:
-      filter-all: 
-      filter-by: 
+      filter-all: Viss
+      filter-by: Filtrēt pēc
     channel:
       archaeology: arheoloģija
       architecture: arhitektūra
@@ -242,7 +242,7 @@ lv:
         type: Datu nesējs
         ugc: Rādīt lietotāju sagatavoto saturu
         video_duration: Ilgums
-        video_hd: 
+        video_hd: Kvalitāte
         year: Datējums
       image_aspectratio:
         landscape: Ainava
@@ -314,7 +314,7 @@ lv:
         advanced-rrpa: 
         advanced-rrra: 
         advanced-ucs: 
-        expiry: 
+        expiry: līdz %{date}
         open: Jā, ar atsauci
         permission: Tikai ar atļauju
         restricted: Jā, ar ierobežojumiem
