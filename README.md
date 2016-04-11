@@ -21,6 +21,24 @@ And then execute:
 
     $ bundle
 
+## Configuration
+
+In a production environment, it is strongly recommended that you enable the
+caching of compiled templates.
+
+Without this, the Mustache templates are compiled into ERB every time that they
+are needed, which is a resource intensive process.
+
+To enable template caching, create an initializer in your Rails app:
+
+```ruby
+# config/initializers/stache.rb
+Stache.configure do |c|
+  # Store compiled templates in memory
+  c.template_cache = ActiveSupport::Cache::MemoryStore.new
+end
+```
+
 ## Usage
 
 ### Controllers
