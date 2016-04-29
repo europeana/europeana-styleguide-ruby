@@ -151,6 +151,8 @@ da:
     actions:
       filter-all: Alt
       filter-by: Filter med
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arkæologi
       architecture: arkitektur

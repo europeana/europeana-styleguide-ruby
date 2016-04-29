@@ -151,6 +151,8 @@ pl:
     actions:
       filter-all: 
       filter-by: 
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: archeologia
       architecture: architektura

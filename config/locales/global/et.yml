@@ -151,6 +151,8 @@ et:
     actions:
       filter-all: 
       filter-by: 
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arheoloogia
       architecture: arhitektuur

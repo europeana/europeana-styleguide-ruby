@@ -151,6 +151,8 @@ lv:
     actions:
       filter-all: Viss
       filter-by: Filtrēt pēc
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arheoloģija
       architecture: arhitektūra

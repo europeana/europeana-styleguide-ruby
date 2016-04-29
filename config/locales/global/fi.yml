@@ -151,6 +151,8 @@ fi:
     actions:
       filter-all: 
       filter-by: 
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arkeologia
       architecture: arkkitehtuuri

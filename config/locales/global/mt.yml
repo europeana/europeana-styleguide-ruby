@@ -151,6 +151,8 @@ mt:
     actions:
       filter-all: Kollha
       filter-by: Iffiltra skond
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arkeoloġija
       architecture: arkitettura

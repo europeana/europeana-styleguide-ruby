@@ -151,6 +151,8 @@ bg:
     actions:
       filter-all: 
       filter-by: 
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: "Археология"
       architecture: "Архитектура"

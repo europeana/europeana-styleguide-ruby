@@ -151,6 +151,8 @@ hr:
     actions:
       filter-all: 
       filter-by: 
+      fullscreen-enter: 
+      fullscreen-exit: 
     channel:
       archaeology: arheologija
       architecture: arhitektura
