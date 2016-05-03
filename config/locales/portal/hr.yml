@@ -22,6 +22,9 @@ hr:
       concepts: 
       exhibitions: Izložbe
       home: Naslovnica
+      more:
+        agents: 
+        topics: 
     pro-link: http://pro.europeana.eu/
     pro-text: tekst za pro
     settings: Postavke

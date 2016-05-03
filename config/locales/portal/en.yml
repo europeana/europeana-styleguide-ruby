@@ -22,6 +22,9 @@ en:
       concepts: Topics
       exhibitions: Exhibitions
       home: Home
+      more:
+        agents: More people
+        topics: More topics
     pro-link: 'link to pro '
     pro-text: text for pro
     settings: Settings

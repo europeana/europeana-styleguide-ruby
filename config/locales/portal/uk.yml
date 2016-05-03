@@ -22,6 +22,9 @@ uk:
       concepts: 
       exhibitions: "Виставки"
       home: "Головна"
+      more:
+        agents: 
+        topics: 
     pro-link: "Посилання на Europeana Pro"
     pro-text: "Текст для Europeana Pro"
     settings: "Налаштування"

@@ -22,6 +22,9 @@ el:
       concepts: 
       exhibitions: "Εκθέσεις"
       home: "Αρχική"
+      more:
+        agents: 
+        topics: 
     pro-link: ''
     pro-text: ''
     settings: "προτιμήσεις"

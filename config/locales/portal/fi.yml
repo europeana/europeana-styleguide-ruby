@@ -22,6 +22,9 @@ fi:
       concepts: 
       exhibitions: Näyttelyt
       home: Koti
+      more:
+        agents: 
+        topics: 
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset

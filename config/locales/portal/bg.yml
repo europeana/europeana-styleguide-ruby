@@ -22,6 +22,9 @@ bg:
       concepts: 
       exhibitions: "Виртуални изложби"
       home: "Начало"
+      more:
+        agents: 
+        topics: 
     pro-link: "линк към Pro"
     pro-text: "текст за Pro"
     settings: "Настройки"

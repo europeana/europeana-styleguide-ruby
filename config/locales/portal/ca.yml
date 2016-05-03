@@ -22,6 +22,9 @@ ca:
       concepts: 
       exhibitions: Exposicions
       home: Inici
+      more:
+        agents: 
+        topics: 
     pro-link: enllaç a pro
     pro-text: text per a pro
     settings: Configuració

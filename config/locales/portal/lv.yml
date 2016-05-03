@@ -22,6 +22,9 @@ lv:
       concepts: Tēmas
       exhibitions: Izstādes
       home: Sākums
+      more:
+        agents: 
+        topics: 
     pro-link: saite uz Profesionālo
     pro-text: teksts Profesionālajai
     settings: Iestatījumi

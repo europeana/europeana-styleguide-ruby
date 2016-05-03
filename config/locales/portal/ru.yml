@@ -22,6 +22,9 @@ ru:
       concepts: 
       exhibitions: "Выставки"
       home: "Домой"
+      more:
+        agents: 
+        topics: 
     pro-link: "Ссылка на Pro"
     pro-text: "Текст для Pro"
     settings: "Настройки"

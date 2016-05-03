@@ -22,6 +22,9 @@ pl:
       concepts: Tematy
       exhibitions: Wystawy
       home: Strona główna
+      more:
+        agents: 
+        topics: 
     pro-link: link do Europeana Pro
     pro-text: tekst dla Europeana Pro
     settings: Ustawienia
