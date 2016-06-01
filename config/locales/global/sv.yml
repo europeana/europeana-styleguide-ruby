@@ -239,6 +239,7 @@ sv:
         mime_type: Filformat
         provider: Aggregator
         reusability: Kan jag använda det?
+        rights: 
         sound_duration: Längd
         sound_hq: Hög kvalitet
         text_fulltext: Fulltext

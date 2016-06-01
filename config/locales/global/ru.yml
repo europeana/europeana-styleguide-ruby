@@ -239,6 +239,7 @@ ru:
         mime_type: "Формат файла"
         provider: "Агрегатор"
         reusability: "Могу ли я это использовать?"
+        rights: 
         sound_duration: "Продолжительность"
         sound_hq: "Высокое качество"
         text_fulltext: "Полный текст"

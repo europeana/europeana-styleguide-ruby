@@ -239,6 +239,7 @@ hr:
         mime_type: Format datoteke
         provider: Agregator
         reusability: Smijem li koristiti ovaj sadržaj?
+        rights: 
         sound_duration: Trajanje
         sound_hq: Visoka kvaliteta
         text_fulltext: Cjeloviti tekst

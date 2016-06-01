@@ -239,6 +239,7 @@ uk:
         mime_type: "Формат файлу"
         provider: "Агрегатор"
         reusability: "Чи можу я "
+        rights: 
         sound_duration: "Тривалість"
         sound_hq: "Висока якість"
         text_fulltext: "Повний текст"

@@ -239,6 +239,7 @@ lt:
         mime_type: Failo formatas
         provider: Agregatorius
         reusability: Ar galiu tai naudoti?
+        rights: 
         sound_duration: Trukmė
         sound_hq: Aukšta kokybė
         text_fulltext: Pilnas tekstas

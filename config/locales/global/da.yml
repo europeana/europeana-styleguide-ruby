@@ -239,6 +239,7 @@ da:
         mime_type: Fil format
         provider: Aggregator
         reusability: Kan jeg bruge det?
+        rights: 
         sound_duration: Varighed
         sound_hq: Høj kvalitet
         text_fulltext: Fuld tekst

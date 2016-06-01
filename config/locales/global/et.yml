@@ -239,6 +239,7 @@ et:
         mime_type: Failiformaat
         provider: Agregaator
         reusability: Kas tohin kasutada?
+        rights: 
         sound_duration: Kestus
         sound_hq: Kõrge kvaliteet
         text_fulltext: Täistekst

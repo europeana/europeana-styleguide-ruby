@@ -239,6 +239,7 @@ el:
         mime_type: "Τύπος αρχείου"
         provider: "Συλλέκτης"
         reusability: "Μπορώ να το χρησιμοποιήσω;"
+        rights: 
         sound_duration: "Διάρκεια"
         sound_hq: "Υψηλή ποιότητα"
         text_fulltext: "Πλήρες κείμενο"

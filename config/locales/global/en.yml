@@ -239,6 +239,7 @@ en:
         mime_type: File format
         provider: Aggregator
         reusability: Can I use it?
+        rights: License
         sound_duration: Duration
         sound_hq: High Quality
         text_fulltext: Full text

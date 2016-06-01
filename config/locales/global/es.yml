@@ -239,6 +239,7 @@ es:
         mime_type: Formato de archivo
         provider: Agregador
         reusability: Puedo usarlo?
+        rights: 
         sound_duration: Duración
         sound_hq: Alta Calidad
         text_fulltext: Texto Completo

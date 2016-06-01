@@ -239,6 +239,7 @@ nl:
         mime_type: Bestandsformaat
         provider: Aggegrator
         reusability: Kan ik het gebruiken?
+        rights: 
         sound_duration: Lengte
         sound_hq: Hoge Kwaliteit
         text_fulltext: Volledige tekst

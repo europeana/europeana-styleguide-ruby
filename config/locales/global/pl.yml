@@ -239,6 +239,7 @@ pl:
         mime_type: Format pliku
         provider: Agregator treści
         reusability: Czy mogę to wykorzystać?
+        rights: 
         sound_duration: Czas trwania
         sound_hq: Dobra Jakość
         text_fulltext: Pełna Treść

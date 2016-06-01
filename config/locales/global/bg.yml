@@ -239,6 +239,7 @@ bg:
         mime_type: "Файлов формат"
         provider: "Агрегатор на съдържание"
         reusability: "Мога ли да го ползвам?"
+        rights: 
         sound_duration: "Продължителност"
         sound_hq: "Високо качество"
         text_fulltext: "Пълен текст"

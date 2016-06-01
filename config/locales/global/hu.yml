@@ -239,6 +239,7 @@ hu:
         mime_type: Fájl formátum
         provider: Aggregátor
         reusability: Felhasználhatom?
+        rights: 
         sound_duration: Időtartam
         sound_hq: Magas minőségű
         text_fulltext: Teljes szöveg

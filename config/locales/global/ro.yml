@@ -239,6 +239,7 @@ ro:
         mime_type: Formatul fișierului
         provider: Agregator
         reusability: Pot folosi?
+        rights: 
         sound_duration: Durata
         sound_hq: Calitate superioară
         text_fulltext: Text complet

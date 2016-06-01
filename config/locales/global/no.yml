@@ -239,6 +239,7 @@
         mime_type: Filformat
         provider: Aggregator
         reusability: Kan jeg bruke det?
+        rights: 
         sound_duration: Varighet
         sound_hq: Høy kvalitet
         text_fulltext: Full tekst

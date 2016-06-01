@@ -239,6 +239,7 @@ fi:
         mime_type: Tiedostomuoto
         provider: Aggregaattori
         reusability: Voinko käyttää sitä?
+        rights: 
         sound_duration: Kesto
         sound_hq: Korkealaatuinen
         text_fulltext: Kokoteksti

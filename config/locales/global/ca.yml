@@ -239,6 +239,7 @@ ca:
         mime_type: Format de fitxer
         provider: Agregador
         reusability: Puc fer-ho servir?
+        rights: 
         sound_duration: Durada
         sound_hq: Alta Qualitat
         text_fulltext: Text complet
