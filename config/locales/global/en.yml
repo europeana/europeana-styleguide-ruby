@@ -295,6 +295,9 @@ en:
         uk: "Українська"
         yi: "ייִדיש"
       less: Fewer
+      license:
+        hide-specific: Hide specific licenses
+        show-specific: Show specific licenses
       media:
         'false': 'No'
         'true': 'Yes'

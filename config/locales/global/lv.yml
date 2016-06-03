@@ -295,6 +295,9 @@ lv:
         uk: 
         yi: 
       less: Mazāk
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nē
         'true': Jā

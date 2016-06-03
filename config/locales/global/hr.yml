@@ -295,6 +295,9 @@ hr:
         uk: 
         yi: 
       less: Manje
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Ne
         'true': Da

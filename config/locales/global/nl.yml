@@ -295,6 +295,9 @@ nl:
         uk: 
         yi: 
       less: Minder
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nee
         'true': Ja

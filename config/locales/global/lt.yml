@@ -295,6 +295,9 @@ lt:
         uk: Ukrainiečių
         yi: Jidiš
       less: Mažiau
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Ne
         'true': Taip

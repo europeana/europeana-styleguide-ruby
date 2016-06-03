@@ -295,6 +295,9 @@ pt:
         uk: 
         yi: 
       less: Menos
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Não
         'true': Sim

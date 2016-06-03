@@ -295,6 +295,9 @@ ga:
         uk: 
         yi: 
       less: 
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': 
         'true': 

@@ -295,6 +295,9 @@ ro:
         uk: 
         yi: 
       less: Mai puține
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nu
         'true': Da

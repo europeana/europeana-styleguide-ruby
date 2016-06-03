@@ -295,6 +295,9 @@ da:
         uk: 
         yi: 
       less: Mindre
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nej
         'true': Ja

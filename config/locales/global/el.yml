@@ -295,6 +295,9 @@ el:
         uk: 
         yi: 
       less: "Λιγότερα"
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': "Όχι"
         'true': "Ναι"

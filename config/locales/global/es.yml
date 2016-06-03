@@ -295,6 +295,9 @@ es:
         uk: Ucraniano
         yi: Yidish
       less: Menos
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': 'No'
         'true': Si

@@ -295,6 +295,9 @@ it:
         uk: 
         yi: 
       less: Meno
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': 'No'
         'true': Si

@@ -295,6 +295,9 @@
         uk: 
         yi: Jiddisch
       less: Færre
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nei
         'true': Ja

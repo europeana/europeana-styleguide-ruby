@@ -295,6 +295,9 @@ hu:
         uk: 
         yi: 
       less: Kevesebb
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nem
         'true': Igen

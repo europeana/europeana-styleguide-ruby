@@ -295,6 +295,9 @@ fi:
         uk: 
         yi: 
       less: Vähemmän
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Ei
         'true': Kyllä

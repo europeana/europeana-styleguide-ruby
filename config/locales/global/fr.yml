@@ -295,6 +295,9 @@ fr:
         uk: 
         yi: 
       less: Moins
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Non
         'true': Oui

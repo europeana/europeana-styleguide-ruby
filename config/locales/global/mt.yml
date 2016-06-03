@@ -295,6 +295,9 @@ mt:
         uk: 
         yi: 
       less: Inqas
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Le
         'true': Iva

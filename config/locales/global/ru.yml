@@ -295,6 +295,9 @@ ru:
         uk: 
         yi: 
       less: "Меньше"
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': "Нет"
         'true': "Да"

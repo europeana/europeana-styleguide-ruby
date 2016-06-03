@@ -295,6 +295,9 @@ sv:
         uk: 
         yi: 
       less: Färre
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': Nej
         'true': Ja

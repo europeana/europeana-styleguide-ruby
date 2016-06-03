@@ -295,6 +295,9 @@ bg:
         uk: 
         yi: 
       less: "По-малко"
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': "Не"
         'true': "Да"

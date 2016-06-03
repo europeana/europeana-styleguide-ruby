@@ -295,6 +295,9 @@ ca:
         uk: "Українська"
         yi: "ייִדיש"
       less: Menys
+      license:
+        hide-specific: 
+        show-specific: 
       media:
         'false': 'No'
         'true': Sí
