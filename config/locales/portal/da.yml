@@ -292,6 +292,8 @@ da:
           list: Liste
         view-at-provider: Se hos
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Tilføj en søgeterm
       similar:

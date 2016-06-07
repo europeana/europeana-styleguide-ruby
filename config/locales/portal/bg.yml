@@ -293,6 +293,8 @@ bg:
           list: "Списък"
         view-at-provider: "Виж в"
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: "Добави дума за търсене"
       similar:

@@ -305,6 +305,8 @@ et:
           list: Loend
         view-at-provider: 
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Lisa otsisõna
       similar:

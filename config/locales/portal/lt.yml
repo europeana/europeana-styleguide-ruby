@@ -292,6 +292,8 @@ lt:
           list: Sąsžrašas
         view-at-provider: "Žiūrėti kaip"
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Pridėti paieškos sąlygų
       similar:

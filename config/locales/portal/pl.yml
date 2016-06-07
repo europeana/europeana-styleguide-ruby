@@ -297,6 +297,8 @@ pl:
           list: Lista
         view-at-provider: Zobacz w
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Dodaj termin wyszukiwawczy
       similar:

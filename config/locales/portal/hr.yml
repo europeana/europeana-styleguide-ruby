@@ -296,6 +296,8 @@ hr:
           list: Popis
         view-at-provider: Pogledaj na stranici
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Upišite pojam za pretraživanje
       similar:

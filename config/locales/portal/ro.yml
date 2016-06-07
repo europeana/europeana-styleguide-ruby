@@ -302,6 +302,8 @@ ro:
           list: Listă
         view-at-provider: Vezi la
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Adaugă termen de căutare
       similar:

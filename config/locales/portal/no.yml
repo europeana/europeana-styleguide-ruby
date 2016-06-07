@@ -297,6 +297,8 @@
           list: Liste
         view-at-provider: 'Se på '
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Legg til en søketerm
       similar:

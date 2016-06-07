@@ -283,6 +283,8 @@ sv:
           list: Lista
         view-at-provider: Se hos
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Lägg till sökterm
       similar:

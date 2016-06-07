@@ -283,6 +283,8 @@ cs:
           list: 
         view-at-provider: 
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: 
       similar:

@@ -302,6 +302,8 @@ de:
           list: Liste
         view-at-provider: Ansehen bei
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Fügen Sie einen Suchbegriff ein
       similar:

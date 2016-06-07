@@ -290,6 +290,8 @@ es:
           list: Lista
         view-at-provider: Ver en
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: 'Añadir término de búsqueda '
       similar:

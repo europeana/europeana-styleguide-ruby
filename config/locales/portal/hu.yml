@@ -292,6 +292,8 @@ hu:
           list: Lista
         view-at-provider: 'Tekintsd meg az eredeti helyén:'
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Keresési kulcsszó megadása
       similar:

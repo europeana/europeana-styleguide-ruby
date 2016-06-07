@@ -292,6 +292,8 @@ el:
           list: "Λίστα"
         view-at-provider: "Δείτε το αντικείμενο στο"
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: "Προσθήκη όρου αναζήτησης"
       similar:

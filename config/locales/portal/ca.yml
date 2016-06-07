@@ -305,6 +305,8 @@ ca:
           list: Llista
         view-at-provider: Veure a
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Afegir terme de cerca
       similar:

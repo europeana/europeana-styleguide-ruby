@@ -296,6 +296,8 @@ lv:
           list: Saraksts
         view-at-provider: Skatīt
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Pievienot meklējamo vārdu
       similar:

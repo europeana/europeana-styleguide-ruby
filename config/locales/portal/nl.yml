@@ -283,6 +283,8 @@ nl:
           list: Lijst
         view-at-provider: Bekijk via
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Voeg zoekterm toe
       similar:

@@ -305,6 +305,8 @@ mt:
           list: Lista
         view-at-provider: Ara f'
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: "Żid terminu ġdid għat-tfittxija"
       similar:

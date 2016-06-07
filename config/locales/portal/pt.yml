@@ -292,6 +292,8 @@ pt:
           list: Lista
         view-at-provider: Ver em
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Adicionar termo de pesquisa
       similar:

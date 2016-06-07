@@ -310,6 +310,8 @@ fi:
           list: Luettelo
         view-at-provider: Katso
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: Lisää hakutermi
       similar:

@@ -292,6 +292,8 @@ ru:
           list: "Список"
         view-at-provider: "Просмотреть на "
     search:
+      browse: 
+      or-browse: 
       placeholder:
         text: "Добавить поисковый термин"
       similar:
