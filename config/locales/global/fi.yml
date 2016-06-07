@@ -226,7 +226,7 @@ fi:
         vaticancity: 
       creator: tekijä
       header:
-        channel: Kokoelmat
+        collection: Kokoelmat
         colourpalette: Väri
         country: Maa
         data_provider: Instituutio

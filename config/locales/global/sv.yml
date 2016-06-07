@@ -226,7 +226,7 @@ sv:
         vaticancity: 
       creator: upphovsman
       header:
-        channel: Samlingar
+        collection: Samlingar
         colourpalette: Färg
         country: Land
         data_provider: Institution

@@ -226,7 +226,7 @@ bg:
         vaticancity: 
       creator: "Автор"
       header:
-        channel: "Колекции"
+        collection: "Колекции"
         colourpalette: "Цвят"
         country: "Държава"
         data_provider: "Институция"

@@ -226,7 +226,7 @@ hr:
         vaticancity: 
       creator: stvaratelj
       header:
-        channel: Zbirke
+        collection: Zbirke
         colourpalette: Boja
         country: Država
         data_provider: Ustanova

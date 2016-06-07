@@ -226,7 +226,7 @@ uk:
         vaticancity: 
       creator: 
       header:
-        channel: "Колекції"
+        collection: "Колекції"
         colourpalette: "Колір"
         country: "Країна"
         data_provider: "Установа"

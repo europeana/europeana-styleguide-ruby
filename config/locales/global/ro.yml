@@ -226,7 +226,7 @@ ro:
         vaticancity: 
       creator: creator
       header:
-        channel: Colecții
+        collection: Colecții
         colourpalette: Culoare
         country: "Țară"
         data_provider: Instituție

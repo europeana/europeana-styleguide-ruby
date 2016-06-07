@@ -226,7 +226,7 @@
         vaticancity: 
       creator: skaper
       header:
-        channel: samlinger
+        collection: samlinger
         colourpalette: Farge
         country: Land
         data_provider: Institusjon

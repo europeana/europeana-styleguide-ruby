@@ -226,7 +226,7 @@ en:
         vaticancity: Vatican City
       creator: creator
       header:
-        channel: Collections
+        collection: Collections
         colourpalette: Colour
         country: Country
         data_provider: Institution

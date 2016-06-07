@@ -226,7 +226,7 @@ lt:
         vaticancity: 
       creator: autorius
       header:
-        channel: Kolekcijos
+        collection: Kolekcijos
         colourpalette: Spalva
         country: "Šalis"
         data_provider: Institucija

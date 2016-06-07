@@ -226,7 +226,7 @@ nl:
         vaticancity: 
       creator: Auteur
       header:
-        channel: Collecties
+        collection: Collecties
         colourpalette: Kleur
         country: Land
         data_provider: Instituut

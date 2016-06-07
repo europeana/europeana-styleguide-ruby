@@ -226,7 +226,7 @@ el:
         vaticancity: 
       creator: "δημιουργός"
       header:
-        channel: "Συλλογές"
+        collection: "Συλλογές"
         colourpalette: "Χρώμα"
         country: "Χώρα"
         data_provider: "Ίδρυμα"

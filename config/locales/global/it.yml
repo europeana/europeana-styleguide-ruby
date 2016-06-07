@@ -226,7 +226,7 @@ it:
         vaticancity: 
       creator: creatore
       header:
-        channel: Collezioni
+        collection: Collezioni
         colourpalette: Colore
         country: Paese
         data_provider: Istituzione
