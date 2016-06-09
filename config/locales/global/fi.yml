@@ -154,9 +154,11 @@ fi:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arkeologia
       architecture: arkkitehtuuri
       art: taide
+      art-history: 
       fashion: muoti
       home: Koti (kaikki)
       maps: kartat

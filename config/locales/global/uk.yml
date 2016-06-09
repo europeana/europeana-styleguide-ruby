@@ -154,9 +154,11 @@ uk:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: "археологія"
       architecture: "архітектура"
       art: "мистецтво"
+      art-history: 
       fashion: "мода"
       home: 
       maps: "карти"

@@ -154,9 +154,11 @@ nl:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: Archeology
       architecture: 'Architectuur '
       art: Kunst
+      art-history: 
       fashion: Mode
       home: Home
       maps: kaarten

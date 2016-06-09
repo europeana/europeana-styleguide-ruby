@@ -154,9 +154,11 @@ da:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arkæologi
       architecture: arkitektur
       art: kunst
+      art-history: 
       fashion: mode
       home: Hjem (alt)
       maps: mapper

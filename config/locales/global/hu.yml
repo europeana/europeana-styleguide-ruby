@@ -154,9 +154,11 @@ hu:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: régészet
       architecture: "építészet"
       art: művészet
+      art-history: 
       fashion: divat
       home: Főoldal
       maps: térképek

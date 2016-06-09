@@ -154,9 +154,11 @@ ro:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arheologie
       architecture: arhitectură
       art: artă
+      art-history: 
       fashion: modă
       home: Acasă
       maps: hărți

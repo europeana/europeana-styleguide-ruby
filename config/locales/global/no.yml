@@ -154,9 +154,11 @@
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arkeologi
       architecture: arkitektur
       art: kunst
+      art-history: 
       fashion: mote
       home: Hjem (alle)
       maps: kart

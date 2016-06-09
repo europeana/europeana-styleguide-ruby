@@ -154,9 +154,11 @@ mt:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arkeoloġija
       architecture: arkitettura
       art: arti
+      art-history: 
       fashion: moda
       home: Dar
       maps: mapep

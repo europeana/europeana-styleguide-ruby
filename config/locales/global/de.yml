@@ -154,9 +154,11 @@ de:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: 'Archäologie '
       architecture: Architektur
       art: Kunst
+      art-history: 
       fashion: Mode
       home: Startseite
       maps: Landkarten

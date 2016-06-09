@@ -154,9 +154,11 @@ pl:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: archeologia
       architecture: architektura
       art: sztuka
+      art-history: 
       fashion: moda
       home: Strona główna
       maps: mapy

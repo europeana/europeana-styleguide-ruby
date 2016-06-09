@@ -154,9 +154,11 @@ ca:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arqueologia
       architecture: arquitectura
       art: art
+      art-history: 
       fashion: moda
       home: 'Inici '
       maps: mapes

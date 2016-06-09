@@ -154,9 +154,11 @@ hr:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arheologija
       architecture: arhitektura
       art: umjetnost
+      art-history: 
       fashion: moda
       home: Naslovnica (all)
       maps: karte

@@ -154,9 +154,11 @@ lt:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: archeologija
       architecture: architektūra
       art: menas
+      art-history: 
       fashion: mada
       home: Pagrindinis (visi)
       maps: "žemėlapiai"

@@ -154,11 +154,13 @@ en:
       fullscreen-enter: full screen
       fullscreen-exit: exit full screen
     channel:
+      all: All of Europeana
       archaeology: archaeology
       architecture: architecture
-      art: art
+      art: Art History
+      art-history: Art History
       fashion: fashion
-      home: Home (all)
+      home: Home
       maps: maps
       music: music
       natural-history: natural history
@@ -322,9 +324,9 @@ en:
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-ucs: Unknown copyright status
         expiry: until %{date}
-        open: Yes with attribution
-        permission: Only with permission
-        restricted: Yes with restrictions
+        open: Free re-use
+        permission: No re-use
+        restricted: Limited re-use
         simple: Simple
       sound_duration:
         long: Long (6+ minutes)

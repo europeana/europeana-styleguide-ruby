@@ -154,9 +154,11 @@ lv:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arheoloģija
       architecture: arhitektūra
       art: māksla
+      art-history: 
       fashion: mode
       home: Sākums
       maps: kartes

@@ -154,9 +154,11 @@ el:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: "αρχαιολογία"
       architecture: "αρχιτεκτονική"
       art: "τέχνη"
+      art-history: 
       fashion: "μόδα"
       home: "Αρχική"
       maps: "χάρτες"

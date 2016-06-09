@@ -154,9 +154,11 @@ et:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arheoloogia
       architecture: arhitektuur
       art: kunst
+      art-history: 
       fashion: mood
       home: Avaleht (kõik)
       maps: kaardid

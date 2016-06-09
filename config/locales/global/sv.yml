@@ -154,9 +154,11 @@ sv:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
+      all: 
       archaeology: arkeologi
       architecture: arkitektur
       art: konst
+      art-history: 
       fashion: mode
       home: Start
       maps: kartor
