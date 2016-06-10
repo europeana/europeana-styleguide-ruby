@@ -324,9 +324,9 @@ en:
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-ucs: Unknown copyright status
         expiry: until %{date}
-        open: Free re use
-        permission: No re-use
-        restricted: Limited re-use
+        open: Free Re-use
+        permission: No Re-use
+        restricted: Limited Re-use
         simple: Simple
       sound_duration:
         long: Long (6+ minutes)
