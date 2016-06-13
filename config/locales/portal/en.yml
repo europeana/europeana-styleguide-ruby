@@ -297,7 +297,7 @@ en:
           list: List
         view-at-provider: View at
     search:
-      browse: browse
+      browse: Browse
       or-browse: or browse
       placeholder:
         text: Add a search term
