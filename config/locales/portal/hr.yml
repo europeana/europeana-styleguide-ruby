@@ -60,6 +60,7 @@ hr:
         title: Europeana povijest umjetnosti
       data-types:
         3d: 3D predmeta
+        all: 
         count: objekata
         images: slika
         moving-images: video zapisa

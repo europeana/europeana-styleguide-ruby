@@ -60,6 +60,7 @@ pl:
         title: Europeana Historia Sztuki
       data-types:
         3d: Obiekty 3D
+        all: 
         count: obiekty
         images: Obrazy
         moving-images: Ruchome obrazy

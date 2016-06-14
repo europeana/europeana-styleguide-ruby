@@ -60,6 +60,7 @@
         title: Europeana Kunsthistorie
       data-types:
         3d: 3D-objekter
+        all: 
         count: objekter
         images: Bilder
         moving-images: Videoer

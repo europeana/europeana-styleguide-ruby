@@ -60,6 +60,7 @@ en:
         title: Europeana Art History
       data-types:
         3d: 3D objects
+        all: All
         count: items
         images: Images
         moving-images: Videos

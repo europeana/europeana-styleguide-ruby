@@ -60,6 +60,7 @@ el:
         title: Europeana Ιστορία της Τέχνης
       data-types:
         3d: 3D αντικείμενα
+        all: 
         count: "εγγραφές"
         images: "Εικόνες"
         moving-images: "Βίντεο"

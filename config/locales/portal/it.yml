@@ -60,6 +60,7 @@ it:
         title: Europeana Storia dell'Arte
       data-types:
         3d: Oggetti tridimensionali
+        all: 
         count: Articoli
         images: Immagini
         moving-images: Video

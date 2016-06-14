@@ -60,6 +60,7 @@ hu:
         title: Europeana Művészettörténet
       data-types:
         3d: 3D tárgyak
+        all: 
         count: elemek
         images: Képek
         moving-images: Videók

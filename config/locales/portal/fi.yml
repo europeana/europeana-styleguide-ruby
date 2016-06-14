@@ -60,6 +60,7 @@ fi:
         title: Europeana taidehistoria
       data-types:
         3d: 3D-kohdetta
+        all: 
         count: kohdetta
         images: kuvaa
         moving-images: videota

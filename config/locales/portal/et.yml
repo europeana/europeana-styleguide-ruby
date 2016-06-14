@@ -60,6 +60,7 @@ et:
         title: Europeana Kunstiajalugu
       data-types:
         3d: 3D objektid
+        all: 
         count: esemed
         images: Kujutised
         moving-images: Videod

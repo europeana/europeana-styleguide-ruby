@@ -60,6 +60,7 @@ lv:
         title: Europeana mākslas vēsture
       data-types:
         3d: 3D objekti
+        all: 
         count: ieraksti
         images: Attēli
         moving-images: Video

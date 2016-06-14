@@ -60,6 +60,7 @@ da:
         title: Europeana Kunsthistorie
       data-types:
         3d: 3D genstande
+        all: 
         count: 
         images: Billeder
         moving-images: Videoer

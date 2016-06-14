@@ -60,6 +60,7 @@ es:
         title: 'Europeana Historia Arte '
       data-types:
         3d: Objectos 3D
+        all: 
         count: objetos
         images: Imágenes
         moving-images: Videos

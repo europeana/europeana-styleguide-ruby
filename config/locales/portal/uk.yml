@@ -60,6 +60,7 @@ uk:
         title: "Історія мистецтва Europeana"
       data-types:
         3d: "Тривимірні об'єкти"
+        all: 
         count: "елементи"
         images: "Зображення"
         moving-images: "Відео"

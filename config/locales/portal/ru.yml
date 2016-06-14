@@ -60,6 +60,7 @@ ru:
         title: Europeana Art History
       data-types:
         3d: 3D объекты
+        all: 
         count: "Элементы"
         images: "Изображения"
         moving-images: "Видео"

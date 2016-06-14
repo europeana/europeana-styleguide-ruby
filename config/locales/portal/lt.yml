@@ -60,6 +60,7 @@ lt:
         title: Europeana meno istorija
       data-types:
         3d: 3D objektai
+        all: 
         count: "įrašai"
         images: Vaizdai
         moving-images: Vaizdo įrašai

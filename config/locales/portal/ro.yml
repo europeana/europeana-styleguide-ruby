@@ -60,6 +60,7 @@ ro:
         title: Europeana Istoria Artelor
       data-types:
         3d: Obiecte 3D
+        all: 
         count: "înregistrări"
         images: Imagini
         moving-images: "Înregistrări video"

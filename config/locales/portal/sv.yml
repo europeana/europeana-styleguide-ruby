@@ -60,6 +60,7 @@ sv:
         title: Konsthistoria
       data-types:
         3d: 3D objekt
+        all: 
         count: poster
         images: Bilder
         moving-images: Video
