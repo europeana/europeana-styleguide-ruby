@@ -455,7 +455,6 @@ da:
     register: 'Registrér '
     research: Undersøg
     research-text: Bliv en del af det akademiske fælleskab
-    roadmap: 
     search-area:
       search-button-image-alt: Søg
       search-placeholder-text: Tilføj et søgeord

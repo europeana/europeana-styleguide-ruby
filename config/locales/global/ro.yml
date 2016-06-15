@@ -454,7 +454,6 @@ ro:
     register: "Înregistrează-te"
     research: ''
     research-text: Puntea către comunitatea academică
-    roadmap: 
     search-area:
       search-button-image-alt: Caută
       search-placeholder-text: Adaugă un termen de căutare

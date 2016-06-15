@@ -454,7 +454,6 @@ hr:
     register: Registriraj se
     research: Europeana Research
     research-text: Poveži se s akademskom zajednicom
-    roadmap: 
     search-area:
       search-button-image-alt: Pretraživanje
       search-placeholder-text: Upišite pojam za pretraživanje

@@ -454,7 +454,6 @@ ru:
     register: "Зарегистрируйтесь"
     research: Research
     research-text: "Свяжитесь с академическими сообществами"
-    roadmap: 
     search-area:
       search-button-image-alt: "Поиск"
       search-placeholder-text: "Введите поисковый запрос"

@@ -454,7 +454,6 @@ el:
     register: "Εγγραφή"
     research: ''
     research-text: "Σε σύνδεση με την ακαδημαϊκή κοινότητα"
-    roadmap: 
     search-area:
       search-button-image-alt: "Αναζήτηση"
       search-placeholder-text: "Προσθέστε όρο αναζήτησης"

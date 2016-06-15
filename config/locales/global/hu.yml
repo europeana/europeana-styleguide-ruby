@@ -454,7 +454,6 @@ hu:
     register: Regisztráció
     research: Kutatás
     research-text: A kutató közösséghez való csatlakozás
-    roadmap: 
     search-area:
       search-button-image-alt: Keresés
       search-placeholder-text: Adj meg egy keresőszót

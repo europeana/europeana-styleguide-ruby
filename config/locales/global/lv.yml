@@ -454,7 +454,6 @@ lv:
     register: Reģistrēties
     research: Pētniecība
     research-text: Pievienojies akadēmiskajai kopienai
-    roadmap: 
     search-area:
       search-button-image-alt: Meklēt
       search-placeholder-text: Pievieno meklējamo vārdu
