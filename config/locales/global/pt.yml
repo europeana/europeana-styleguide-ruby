@@ -454,6 +454,7 @@ pt:
     register: Registe-se
     research: Europeana Research
     research-text: Uma ligação com a comunidade académica
+    roadmap: Atualizações do desenvolvimento
     search-area:
       search-button-image-alt: Pesquisar
       search-placeholder-text: Adicione um termo de pesquisa

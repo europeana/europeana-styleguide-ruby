@@ -454,6 +454,7 @@ lt:
     register: Registruotis
     research: Tyrinėkite
     research-text: Prisijunkite prie akademinės bendruomenės
+    roadmap: 
     search-area:
       search-button-image-alt: Ieškoti
       search-placeholder-text: "Įveskite paieškos terminą"

@@ -454,6 +454,7 @@ nl:
     register: Registreer
     research: Research
     research-text: Voor academici
+    roadmap: 
     search-area:
       search-button-image-alt: Zoek
       search-placeholder-text: Voeg een zoekfunctie toe

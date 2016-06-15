@@ -456,6 +456,7 @@ et:
     register: Registreeri
     research: Uuri
     research-text: Akadeemilise kogukonnaga ühenduse võtmine
+    roadmap: 
     search-area:
       search-button-image-alt: Otsing
       search-placeholder-text: Lisa otsingutermin

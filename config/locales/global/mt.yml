@@ -454,6 +454,7 @@ mt:
     register: Irreġistra
     research: Riċerka
     research-text: Kkonnetja mal-komunita' akademika
+    roadmap: 
     search-area:
       search-button-image-alt: Fittex
       search-placeholder-text: "Żid terminu fit-tfixxija"

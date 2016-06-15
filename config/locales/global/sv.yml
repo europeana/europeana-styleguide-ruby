@@ -454,6 +454,7 @@ sv:
     register: Registrera dig
     research: Research
     research-text: Samverka med forskarsamhället
+    roadmap: 
     search-area:
       search-button-image-alt: Sök
       search-placeholder-text: Lägg till ett sökord

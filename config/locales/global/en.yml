@@ -455,6 +455,7 @@ en:
     register: Register
     research: Research
     research-text: Connecting to the academic community
+    roadmap: Development updates
     search-area:
       search-button-image-alt: Search
       search-placeholder-text: Add a search term

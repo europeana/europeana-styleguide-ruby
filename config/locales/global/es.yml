@@ -454,6 +454,7 @@ es:
     register: Registrate
     research: Investiga
     research-text: Conecta con la comunidad académica
+    roadmap: 
     search-area:
       search-button-image-alt: Busca
       search-placeholder-text: Añade un termino de busqueda

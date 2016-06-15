@@ -454,6 +454,7 @@ fi:
     register: Rekisteröidy
     research: Tutkimus
     research-text: Yhteys akateemiseen yhteisöön
+    roadmap: 
     search-area:
       search-button-image-alt: Hae
       search-placeholder-text: Anna hakutermi

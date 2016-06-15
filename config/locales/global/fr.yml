@@ -454,6 +454,7 @@ fr:
     register: S'enregistrer
     research: Research
     research-text: Un pont avec la communauté académique
+    roadmap: 
     search-area:
       search-button-image-alt: Chercher
       search-placeholder-text: Ajouter un terme à la requête

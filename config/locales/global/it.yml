@@ -454,6 +454,7 @@ it:
     register: Registrati
     research: Ricerca
     research-text: 
+    roadmap: 
     search-area:
       search-button-image-alt: Cerca
       search-placeholder-text: Aggiungi un termine di ricerca

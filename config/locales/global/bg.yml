@@ -454,6 +454,7 @@ bg:
     register: "Регистрация"
     research: "Изследвания"
     research-text: "Свързване с академичните общности"
+    roadmap: 
     search-area:
       search-button-image-alt: "Търсене"
       search-placeholder-text: "Добавете дума за търсене"

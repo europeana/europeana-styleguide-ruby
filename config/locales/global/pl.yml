@@ -454,6 +454,7 @@ pl:
     register: Zarejestruj się
     research: Europeana Research
     research-text: Dołącz do naukowców z całej Europy
+    roadmap: 
     search-area:
       search-button-image-alt: Szukaj
       search-placeholder-text: Dodaj słowo kluczowe

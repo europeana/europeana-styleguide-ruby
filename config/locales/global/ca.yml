@@ -454,6 +454,7 @@ ca:
     register: Registre
     research: Recerca
     research-text: Connectant amb la comunitat acadèmica
+    roadmap: 
     search-area:
       search-button-image-alt: Cerca
       search-placeholder-text: Afegeix un element de cerca
