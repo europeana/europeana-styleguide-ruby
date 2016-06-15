@@ -88,6 +88,7 @@ el:
         help: "Βοήθεια"
         new-collections: "Νέες Συλλογές"
         rights: "Δικαιώματα χρήσης"
+        roadmap: 
         search-tips: "Συμβουλές αναζήτησης"
         using-myeuropeana: "Χρησιμοποιώντας το My Europeana"
     home:

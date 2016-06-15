@@ -88,6 +88,7 @@ bg:
         help: "Помощ"
         new-collections: "Нови колекции"
         rights: "Условия за ползване & Политики"
+        roadmap: 
         search-tips: "Съвети за търсене"
         using-myeuropeana: "Упътване за Моята Европеана"
     home:
