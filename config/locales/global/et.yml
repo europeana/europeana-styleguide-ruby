@@ -383,6 +383,12 @@ et:
       year:
         from: alates
         to: kuni
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Leia meid veel
     forgot-password: Unustasid parooli?
     genres: "žanrid"

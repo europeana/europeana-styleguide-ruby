@@ -383,6 +383,12 @@ da:
       year:
         from: fra
         to: til
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Find os
     forgot-password: |
       Glemt dit brugernavn?

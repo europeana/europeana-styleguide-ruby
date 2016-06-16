@@ -383,6 +383,12 @@
       year:
         from: 
         to: 
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Finn-oss-andre-steder
     forgot-password: glemt-passord
     genres: sjangre

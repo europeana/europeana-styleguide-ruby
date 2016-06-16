@@ -383,6 +383,12 @@ es:
       year:
         from: desde
         to: a
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Encuentranos en
     forgot-password: Olvidaste tu contraseña?
     genres: generos

@@ -383,6 +383,12 @@ sk:
       year:
         from: 
         to: 
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: 
     forgot-password: 
     genres: 

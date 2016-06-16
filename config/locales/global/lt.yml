@@ -383,6 +383,12 @@ lt:
       year:
         from: nuo
         to: iki
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     forgot-password: Pamiršote slaptažodį?
     genres: "Žanrai"

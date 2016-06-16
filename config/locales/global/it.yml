@@ -383,6 +383,12 @@ it:
       year:
         from: da
         to: a
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: 
     forgot-password: Hai dimenticato la password?
     genres: Genere

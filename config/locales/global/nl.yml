@@ -383,6 +383,12 @@ nl:
       year:
         from: van
         to: tot
+    facets:
+      fashion-facets:
+        colour: Kleur
+        designer: Ontwerper
+        technique: Techniek
+        type: Object type
     find-us-elsewhere: Volg ons
     forgot-password: 'Wachtwoord kwijt? '
     genres: thema's

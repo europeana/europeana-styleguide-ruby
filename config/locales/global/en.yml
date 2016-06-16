@@ -383,6 +383,12 @@ en:
       year:
         from: from
         to: to
+    facets:
+      fashion-facets:
+        colour: Colour
+        designer: Designer
+        technique: Technique
+        type: Item type
     find-us-elsewhere: Find us elsewhere
     forgot-password: Forgot your password?
     genres: genres

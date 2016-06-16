@@ -383,6 +383,12 @@ bg:
       year:
         from: "от"
         to: "до"
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: "Други наши страници"
     forgot-password: "Забравена парола?"
     genres: "жанрове"

@@ -383,6 +383,12 @@ hr:
       year:
         from: od
         to: do
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     forgot-password: Zaboravili ste lozinku?
     genres: "žanrovi"

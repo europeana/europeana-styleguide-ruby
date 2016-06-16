@@ -383,6 +383,12 @@ sv:
       year:
         from: från
         to: till
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Hitta oss också här
     forgot-password: Glömt ditt lösenord?
     genres: genrer

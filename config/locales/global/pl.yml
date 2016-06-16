@@ -383,6 +383,12 @@ pl:
       year:
         from: od
         to: do
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Znajdź nas także
     forgot-password: Nie pamiętam hasła.
     genres: gatunki

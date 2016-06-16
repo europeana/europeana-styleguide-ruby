@@ -383,6 +383,12 @@ ru:
       year:
         from: "с"
         to: "по"
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: "Вы также можете найти нас"
     forgot-password: "Забыли пароль?"
     genres: "Жанры"

@@ -383,6 +383,12 @@ ro:
       year:
         from: 'de la '
         to: până la
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Ne găsiți și aici
     forgot-password: Parola uitată?
     genres: genuri

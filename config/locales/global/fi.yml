@@ -383,6 +383,12 @@ fi:
       year:
         from: alkaen
         to: päättyen
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Muualla palvelussa
     forgot-password: Unohditko salasanasi?
     genres: genret

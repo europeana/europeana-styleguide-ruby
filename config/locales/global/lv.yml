@@ -383,6 +383,12 @@ lv:
       year:
         from: 'no'
         to: līdz
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Meklē mūs arī citur
     forgot-password: Aizmirsi savu paroli?
     genres: "žanri"

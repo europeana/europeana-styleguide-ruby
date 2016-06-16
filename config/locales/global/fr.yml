@@ -383,6 +383,12 @@ fr:
       year:
         from: de
         to: "à"
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Retrouvez-nous ailleurs
     forgot-password: Vous avez oublié votre mot de passe ?
     genres: genres

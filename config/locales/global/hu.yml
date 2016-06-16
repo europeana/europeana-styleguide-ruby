@@ -383,6 +383,12 @@ hu:
       year:
         from: "-tól"
         to: "-ig"
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Találj meg minket a közösségi médiában
     forgot-password: Elfelejtetted a jelszavad?
     genres: műfajok

@@ -383,6 +383,12 @@ el:
       year:
         from: "από"
         to: "μέχρι"
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: "Βρείτε μας αλλού"
     forgot-password: "Ξεχάσατε τον κωδικό σας"
     genres: "είδη"

@@ -383,6 +383,12 @@ mt:
       year:
         from: minn
         to: għal
+    facets:
+      fashion-facets:
+        colour: 
+        designer: 
+        technique: 
+        type: 
     find-us-elsewhere: Sibna x'imkien ieħor
     forgot-password: Insejt il-password?
     genres: tip
