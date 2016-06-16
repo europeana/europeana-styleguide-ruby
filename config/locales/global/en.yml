@@ -390,6 +390,7 @@ en:
         technique: Technique
         type: Item type
     find-us-elsewhere: Find us elsewhere
+    find-us-social-media: Find %{channel} on social media
     forgot-password: Forgot your password?
     genres: genres
     genres-chamber-music: Chamber music
