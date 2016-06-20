@@ -384,7 +384,7 @@ mt:
         from: minn
         to: għal
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

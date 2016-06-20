@@ -384,7 +384,7 @@ ga:
         from: 
         to: 
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

@@ -384,7 +384,7 @@ el:
         from: "από"
         to: "μέχρι"
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

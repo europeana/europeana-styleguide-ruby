@@ -384,7 +384,7 @@ fi:
         from: alkaen
         to: päättyen
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

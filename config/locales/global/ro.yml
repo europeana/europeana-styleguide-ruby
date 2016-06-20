@@ -384,7 +384,7 @@ ro:
         from: 'de la '
         to: până la
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

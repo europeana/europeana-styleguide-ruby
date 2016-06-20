@@ -384,7 +384,7 @@ pl:
         from: od
         to: do
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

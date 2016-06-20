@@ -384,7 +384,7 @@ hu:
         from: "-tól"
         to: "-ig"
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

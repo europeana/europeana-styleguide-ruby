@@ -384,7 +384,7 @@ it:
         from: da
         to: a
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

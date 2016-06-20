@@ -384,7 +384,7 @@ ru:
         from: "с"
         to: "по"
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

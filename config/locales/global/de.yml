@@ -384,7 +384,7 @@ de:
         from: von
         to: nach
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

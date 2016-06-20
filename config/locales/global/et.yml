@@ -384,7 +384,7 @@ et:
         from: alates
         to: kuni
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

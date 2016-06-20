@@ -384,7 +384,7 @@ bg:
         from: "от"
         to: "до"
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

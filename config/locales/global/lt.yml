@@ -384,7 +384,7 @@ lt:
         from: nuo
         to: iki
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

@@ -384,7 +384,7 @@ sv:
         from: från
         to: till
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 

@@ -384,7 +384,7 @@ nl:
         from: van
         to: tot
     facets:
-      fashion-facets:
+      fashion:
         colour: Kleur
         designer: Ontwerper
         technique: Techniek

@@ -384,7 +384,7 @@ es:
         from: desde
         to: a
     facets:
-      fashion-facets:
+      fashion:
         colour: 
         designer: 
         technique: 
