@@ -232,6 +232,11 @@ sv:
         colourpalette: Färg
         country: Land
         data_provider: Institution
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientering
         image_colour: Palett
         image_size: Storlek
@@ -383,12 +388,6 @@ sv:
       year:
         from: från
         to: till
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
     forgot-password: Glömt ditt lösenord?

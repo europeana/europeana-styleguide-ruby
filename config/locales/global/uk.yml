@@ -232,6 +232,11 @@ uk:
         colourpalette: "Колір"
         country: "Країна"
         data_provider: "Установа"
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: "Орієнтація"
         image_colour: "Палітра"
         image_size: "Розмір"
@@ -383,12 +388,6 @@ uk:
       year:
         from: 
         to: 
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: 
     find-us-social-media: 
     forgot-password: 

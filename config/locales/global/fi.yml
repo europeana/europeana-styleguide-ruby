@@ -232,6 +232,11 @@ fi:
         colourpalette: Väri
         country: Maa
         data_provider: Instituutio
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Suunta
         image_colour: Paletti
         image_size: Koko
@@ -383,12 +388,6 @@ fi:
       year:
         from: alkaen
         to: päättyen
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Muualla palvelussa
     find-us-social-media: 
     forgot-password: Unohditko salasanasi?

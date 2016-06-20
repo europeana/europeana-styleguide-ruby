@@ -232,6 +232,11 @@ ru:
         colourpalette: "Цвет"
         country: "Страна"
         data_provider: "Организация"
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: "Ориентация"
         image_colour: "Палитра"
         image_size: "Размер"
@@ -383,12 +388,6 @@ ru:
       year:
         from: "с"
         to: "по"
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: "Вы также можете найти нас"
     find-us-social-media: 
     forgot-password: "Забыли пароль?"

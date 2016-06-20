@@ -232,6 +232,11 @@ nl:
         colourpalette: Kleur
         country: Land
         data_provider: Instituut
+        fashion:
+          colour: Kleur
+          designer: Ontwerper
+          technique: Techniek
+          type: Object type
         image_aspectratio: Oriëntatie
         image_colour: Palet
         image_size: Grootte
@@ -383,12 +388,6 @@ nl:
       year:
         from: van
         to: tot
-    facets:
-      fashion:
-        colour: Kleur
-        designer: Ontwerper
-        technique: Techniek
-        type: Object type
     find-us-elsewhere: Volg ons
     find-us-social-media: 
     forgot-password: 'Wachtwoord kwijt? '

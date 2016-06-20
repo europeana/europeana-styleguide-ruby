@@ -232,6 +232,11 @@ hu:
         colourpalette: Szín
         country: Ország
         data_provider: Intézmény
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Tájolás
         image_colour: Paletta
         image_size: Méret
@@ -383,12 +388,6 @@ hu:
       year:
         from: "-tól"
         to: "-ig"
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Találj meg minket a közösségi médiában
     find-us-social-media: 
     forgot-password: Elfelejtetted a jelszavad?

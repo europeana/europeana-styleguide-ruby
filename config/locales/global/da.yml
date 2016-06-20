@@ -232,6 +232,11 @@ da:
         colourpalette: Farve
         country: Land
         data_provider: Organisation
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientering
         image_colour: Palette
         image_size: Størrelse
@@ -383,12 +388,6 @@ da:
       year:
         from: fra
         to: til
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Find os
     find-us-social-media: 
     forgot-password: |

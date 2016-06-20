@@ -232,6 +232,11 @@ lt:
         colourpalette: Spalva
         country: "Šalis"
         data_provider: Institucija
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Pozicija
         image_colour: Paletė
         image_size: Dydis
@@ -383,12 +388,6 @@ lt:
       year:
         from: nuo
         to: iki
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
     forgot-password: Pamiršote slaptažodį?

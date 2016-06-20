@@ -232,6 +232,11 @@ el:
         colourpalette: "Χρώμα"
         country: "Χώρα"
         data_provider: "Ίδρυμα"
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: "Προσανατολισμός"
         image_colour: "Παλέτα"
         image_size: "Μέγεθος"
@@ -383,12 +388,6 @@ el:
       year:
         from: "από"
         to: "μέχρι"
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: "Βρείτε μας αλλού"
     find-us-social-media: 
     forgot-password: "Ξεχάσατε τον κωδικό σας"

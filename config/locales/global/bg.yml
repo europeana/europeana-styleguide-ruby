@@ -232,6 +232,11 @@ bg:
         colourpalette: "Цвят"
         country: "Държава"
         data_provider: "Институция"
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: "Ориентация"
         image_colour: "Палитра"
         image_size: "Размер"
@@ -383,12 +388,6 @@ bg:
       year:
         from: "от"
         to: "до"
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: "Други наши страници"
     find-us-social-media: 
     forgot-password: "Забравена парола?"

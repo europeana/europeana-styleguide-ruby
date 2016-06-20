@@ -232,6 +232,11 @@ hr:
         colourpalette: Boja
         country: Država
         data_provider: Ustanova
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orijentacija
         image_colour: Paleta
         image_size: Veličina
@@ -383,12 +388,6 @@ hr:
       year:
         from: od
         to: do
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     find-us-social-media: 
     forgot-password: Zaboravili ste lozinku?

@@ -232,6 +232,11 @@ pt:
         colourpalette: Cor
         country: País
         data_provider: Instituição
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientação
         image_colour: Paleta
         image_size: Tamanho
@@ -383,12 +388,6 @@ pt:
       year:
         from: de
         to: a
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Encontre-nos noutros sítios
     find-us-social-media: 
     forgot-password: Esqueceu-se da palavra-passe?

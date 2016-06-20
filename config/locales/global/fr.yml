@@ -232,6 +232,11 @@ fr:
         colourpalette: Couleur
         country: Pays
         data_provider: Institution
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientation
         image_colour: Palette
         image_size: Taille
@@ -383,12 +388,6 @@ fr:
       year:
         from: de
         to: "à"
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Retrouvez-nous ailleurs
     find-us-social-media: 
     forgot-password: Vous avez oublié votre mot de passe ?

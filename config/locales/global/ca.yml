@@ -232,6 +232,11 @@ ca:
         colourpalette: Color
         country: Estat
         data_provider: Institució
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientació
         image_colour: Paleta
         image_size: Mida
@@ -383,12 +388,6 @@ ca:
       year:
         from: de
         to: a
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Troba'ns arreu
     find-us-social-media: 
     forgot-password: No recordes la teva paraula de pas?

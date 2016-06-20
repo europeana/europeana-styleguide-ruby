@@ -232,6 +232,11 @@ lv:
         colourpalette: Krāsa
         country: Valsts
         data_provider: Institūcija
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientācija
         image_colour: Palete
         image_size: Izmērs
@@ -383,12 +388,6 @@ lv:
       year:
         from: 'no'
         to: līdz
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Meklē mūs arī citur
     find-us-social-media: 
     forgot-password: Aizmirsi savu paroli?

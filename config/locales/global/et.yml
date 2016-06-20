@@ -232,6 +232,11 @@ et:
         colourpalette: Värv
         country: Riik
         data_provider: Asutus
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientatsioon
         image_colour: Palett
         image_size: Suurus
@@ -383,12 +388,6 @@ et:
       year:
         from: alates
         to: kuni
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
     forgot-password: Unustasid parooli?

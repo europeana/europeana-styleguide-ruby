@@ -232,6 +232,11 @@ ro:
         colourpalette: Culoare
         country: "Țară"
         data_provider: Instituție
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: Orientare
         image_colour: Paletă coloristică
         image_size: Dimensiune
@@ -383,12 +388,6 @@ ro:
       year:
         from: 'de la '
         to: până la
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: Ne găsiți și aici
     find-us-social-media: 
     forgot-password: Parola uitată?

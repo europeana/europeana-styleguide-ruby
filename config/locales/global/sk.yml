@@ -232,6 +232,11 @@ sk:
         colourpalette: 
         country: 
         data_provider: 
+        fashion:
+          colour: 
+          designer: 
+          technique: 
+          type: 
         image_aspectratio: 
         image_colour: 
         image_size: 
@@ -383,12 +388,6 @@ sk:
       year:
         from: 
         to: 
-    facets:
-      fashion:
-        colour: 
-        designer: 
-        technique: 
-        type: 
     find-us-elsewhere: 
     find-us-social-media: 
     forgot-password: 
