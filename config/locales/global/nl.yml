@@ -234,7 +234,7 @@ nl:
         data_provider: Instituut
         fashion:
           colour: Kleur
-          designer: Ontwerper
+          designer: Designer
           technique: Techniek
           type: Object type
         image_aspectratio: Oriëntatie

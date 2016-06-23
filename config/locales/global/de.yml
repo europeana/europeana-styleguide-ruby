@@ -233,10 +233,10 @@ de:
         country: Land
         data_provider: Datengeber
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Farbe
+          designer: Mode-designer
+          technique: Art
+          type: Element (type)
         image_aspectratio: Ausrichtung
         image_colour: Palette
         image_size: Größe
@@ -246,7 +246,7 @@ de:
         mime_type: Dateiformat
         provider: Beiträger
         reusability: Verwendbarkeit
-        rights: 
+        rights: Lizenz
         sound_duration: Laufzeit
         sound_hq: Hohe Qualität
         text_fulltext: Volltext
@@ -303,8 +303,8 @@ de:
         yi: 
       less: Weniger
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Bestimmte Lizenzen ausblenden
+        show-specific: Bestimmte Linzenzen anzeigen
       media:
         'false': Nein
         'true': Ja
@@ -389,7 +389,7 @@ de:
         from: von
         to: nach
     find-us-elsewhere: Finden Sie uns an anderer Stelle
-    find-us-social-media: 
+    find-us-social-media: "%{channel} finden auf Social Media-Websites"
     forgot-password: Haben Sie Ihr Passwort vergessen?
     genres: Gattungen
     genres-chamber-music: Kammermusik

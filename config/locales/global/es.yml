@@ -233,10 +233,10 @@ es:
         country: Pais
         data_provider: Institución
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: color
+          designer: diseñador
+          technique: técnica
+          type: tipo de objeto
         image_aspectratio: Orientación
         image_colour: Paleta
         image_size: Tamaño
@@ -246,7 +246,7 @@ es:
         mime_type: Formato de archivo
         provider: Agregador
         reusability: Puedo usarlo?
-        rights: 
+        rights: Licence
         sound_duration: Duración
         sound_hq: Alta Calidad
         text_fulltext: Texto Completo
@@ -303,8 +303,8 @@ es:
         yi: Yidish
       less: Menos
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Ocultar ciertas licencias
+        show-specific: Mostrar licencias específicas
       media:
         'false': 'No'
         'true': Si
@@ -389,7 +389,7 @@ es:
         from: desde
         to: a
     find-us-elsewhere: Encuentranos en
-    find-us-social-media: 
+    find-us-social-media: Encontrar %{channel} en las redes sociales
     forgot-password: Olvidaste tu contraseña?
     genres: generos
     genres-chamber-music: 'Música de Cámara '

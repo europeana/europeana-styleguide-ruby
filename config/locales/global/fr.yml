@@ -233,10 +233,10 @@ fr:
         country: Pays
         data_provider: Institution
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: couleur
+          designer: Designer
+          technique: Technique
+          type: type d'objet
         image_aspectratio: Orientation
         image_colour: Palette
         image_size: Taille
@@ -246,7 +246,7 @@ fr:
         mime_type: Format du fichier
         provider: Aggrégateur
         reusability: Puis-je l'utiliser?
-        rights: 
+        rights: Licence
         sound_duration: Durée
         sound_hq: Haute qualité
         text_fulltext: Texte intégral
@@ -303,8 +303,8 @@ fr:
         yi: 
       less: Moins
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Cachez les licences spécifiques
+        show-specific: Montrez les licences spécifiques
       media:
         'false': Non
         'true': Oui

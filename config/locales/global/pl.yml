@@ -233,10 +233,10 @@ pl:
         country: Kraj
         data_provider: Instytucja
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Kolor
+          designer: Projektant
+          technique: Technika
+          type: Rodzaj obiektu
         image_aspectratio: Orientacja
         image_colour: Paleta
         image_size: Rozmiar
@@ -246,7 +246,7 @@ pl:
         mime_type: Format pliku
         provider: Agregator treści
         reusability: Czy mogę to wykorzystać?
-        rights: 
+        rights: Licencja
         sound_duration: Czas trwania
         sound_hq: Dobra Jakość
         text_fulltext: Pełna Treść
@@ -303,8 +303,8 @@ pl:
         yi: 
       less: Mniej
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Ukryj wybrane licencje
+        show-specific: Pokaż wybrane licencje
       media:
         'false': Nie
         'true': Tak
@@ -389,7 +389,7 @@ pl:
         from: od
         to: do
     find-us-elsewhere: Znajdź nas także
-    find-us-social-media: 
+    find-us-social-media: Znajdź %{channel} w mediach społecznościowych
     forgot-password: Nie pamiętam hasła.
     genres: gatunki
     genres-chamber-music: Muzyka kameralna

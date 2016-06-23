@@ -233,10 +233,10 @@ it:
         country: Paese
         data_provider: Istituzione
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Colore
+          designer: Designer
+          technique: 'Tecnica '
+          type: Tipo di elemento (tipo di oggetto)
         image_aspectratio: Orientamento
         image_colour: 
         image_size: Dimensione
@@ -246,7 +246,7 @@ it:
         mime_type: Formato del file
         provider: Aggregatore
         reusability: Posso usarlo?
-        rights: 
+        rights: 'Licenza '
         sound_duration: Durata
         sound_hq: Alta Qualità
         text_fulltext: Testo integrale
@@ -303,8 +303,8 @@ it:
         yi: 
       less: Meno
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Nascondi licenze specifiche
+        show-specific: Mostra licenze specifiche
       media:
         'false': 'No'
         'true': Si
@@ -389,7 +389,7 @@ it:
         from: da
         to: a
     find-us-elsewhere: 
-    find-us-social-media: 
+    find-us-social-media: Trova %{channel}  sui social media
     forgot-password: Hai dimenticato la password?
     genres: Genere
     genres-chamber-music: Musica da camera
