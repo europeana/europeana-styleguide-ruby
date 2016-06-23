@@ -60,7 +60,7 @@ fr:
         title: Europeana Histoire de l'Art
       data-types:
         3d: Objets 3D
-        all: 
+        all: Tout
         count: objets
         images: Images
         moving-images: Vidéos
@@ -88,7 +88,7 @@ fr:
         help: Aide
         new-collections: Nouvelles collections
         rights: Conditions générales d'utilisation
-        roadmap: 
+        roadmap: mises à jour de développement
         search-tips: Conseils pour la recherche
         using-myeuropeana: Utiliser My Europeana
     home:
@@ -294,8 +294,8 @@ fr:
           list: Liste
         view-at-provider: Voir sur le site de
     search:
-      browse: 
-      or-browse: 
+      browse: Naviguez
+      or-browse: ou naviguez
       placeholder:
         text: Ajouter un terme à votre recherche
       similar:

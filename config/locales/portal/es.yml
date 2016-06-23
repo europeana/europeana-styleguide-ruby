@@ -60,7 +60,7 @@ es:
         title: 'Europeana Historia Arte '
       data-types:
         3d: Objectos 3D
-        all: 
+        all: Todas
         count: objetos
         images: Imágenes
         moving-images: Videos
@@ -88,7 +88,7 @@ es:
         help: Ayuda
         new-collections: Nuevas Colecciones
         rights: Terminos de usp
-        roadmap: 
+        roadmap: actualizaciones de desarrollo
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
     home:
@@ -292,8 +292,8 @@ es:
           list: Lista
         view-at-provider: Ver en
     search:
-      browse: 
-      or-browse: 
+      browse: Vistazo
+      or-browse: o navegar
       placeholder:
         text: 'Añadir término de búsqueda '
       similar:

@@ -60,7 +60,7 @@ pl:
         title: Europeana Historia Sztuki
       data-types:
         3d: Obiekty 3D
-        all: 
+        all: Pokaż wszystko
         count: obiekty
         images: Obrazy
         moving-images: Ruchome obrazy
@@ -88,7 +88,7 @@ pl:
         help: Pomoc
         new-collections: Nowe Kolekcje
         rights: Warunki i zasady użytkowania
-        roadmap: 
+        roadmap: Ostatnie aktualizacje
         search-tips: Porady
         using-myeuropeana: Moja Europeana
     home:
@@ -299,8 +299,8 @@ pl:
           list: Lista
         view-at-provider: Zobacz w
     search:
-      browse: 
-      or-browse: 
+      browse: Przeglądaj
+      or-browse: lub przeglądaj
       placeholder:
         text: Dodaj termin wyszukiwawczy
       similar:

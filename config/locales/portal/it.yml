@@ -60,7 +60,7 @@ it:
         title: Europeana Storia dell'Arte
       data-types:
         3d: Oggetti tridimensionali
-        all: 
+        all: Tutto
         count: Articoli
         images: Immagini
         moving-images: Video
@@ -88,7 +88,7 @@ it:
         help: Aiuto
         new-collections: Nuove Collezioni
         rights: Condizioni d'uso e linee di condotta
-        roadmap: 
+        roadmap: Aggiornamenti sullo sviluppo
         search-tips: Suggerimenti di ricerca
         using-myeuropeana: 'Utilizzando or Utilizzare la Mia Europeana '
     home:
@@ -285,8 +285,8 @@ it:
           list: Lista
         view-at-provider: 
     search:
-      browse: 
-      or-browse: 
+      browse: Naviga
+      or-browse: oppure naviga
       placeholder:
         text: 
       similar:

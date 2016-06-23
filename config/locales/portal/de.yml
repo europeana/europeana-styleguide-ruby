@@ -60,7 +60,7 @@ de:
         title: Europeana Kunstgeschichte
       data-types:
         3d: 3D-Objekte
-        all: 
+        all: Alle
         count: Objekte
         images: Bilder
         moving-images: 
@@ -88,7 +88,7 @@ de:
         help: Hilfe
         new-collections: Neue Sammlungen
         rights: Nutzungsbedingungen und Datenschutzerklärung
-        roadmap: 
+        roadmap: Neueste Updates
         search-tips: Suchtipps
         using-myeuropeana: My Europeana
     home:
@@ -304,8 +304,8 @@ de:
           list: Liste
         view-at-provider: Ansehen bei
     search:
-      browse: 
-      or-browse: 
+      browse: Erkunden
+      or-browse: oder Entdecken
       placeholder:
         text: Fügen Sie einen Suchbegriff ein
       similar:
