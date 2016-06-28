@@ -16,6 +16,8 @@ module Europeana
     class View < Stache::Mustache::View
       autoload :Translator, 'europeana/styleguide/view/translator'
 
+      include UrlHelper
+
       def head_meta
         [
           { meta_name: 'HandheldFriendly', content: 'True' },
@@ -77,22 +79,6 @@ module Europeana
             name: 'pageName', value: page_name
           }
         ]
-      end
-
-      protected
-
-      ##
-      # @param asset [String] Path to required styleguide asset
-      # @return [String] Full URL to asset, or to asset host root if no asset
-      def styleguide_url(asset = nil)
-        styleguide_asset_host + asset.to_s
-      end
-
-      def styleguide_asset_host
-        @europeana_styleguide_view_asset_host ||= begin
-          host = ENV['EUROPEANA_STYLEGUIDE_ASSET_HOST']
-          host ||= Europeana::Styleguide::ASSET_HOST
-        end
       end
     end
   end
