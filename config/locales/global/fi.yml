@@ -388,6 +388,19 @@ fi:
       year:
         from: alkaen
         to: päättyen
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Muualla palvelussa
     find-us-social-media: 
     forgot-password: Unohditko salasanasi?

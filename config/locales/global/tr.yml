@@ -388,6 +388,19 @@ tr:
       year:
         from: 
         to: 
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: 
     find-us-social-media: 
     forgot-password: 

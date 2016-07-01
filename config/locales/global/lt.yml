@@ -388,6 +388,19 @@ lt:
       year:
         from: nuo
         to: iki
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
     forgot-password: Pamiršote slaptažodį?

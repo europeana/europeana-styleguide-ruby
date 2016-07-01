@@ -388,6 +388,19 @@ pt:
       year:
         from: de
         to: a
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Encontre-nos noutros sítios
     find-us-social-media: 
     forgot-password: Esqueceu-se da palavra-passe?

@@ -388,6 +388,19 @@ sv:
       year:
         from: från
         to: till
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
     forgot-password: Glömt ditt lösenord?

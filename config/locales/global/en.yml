@@ -388,6 +388,19 @@ en:
       year:
         from: from
         to: to
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Find us elsewhere
     find-us-social-media: Find %{channel} on social media
     forgot-password: Forgot your password?

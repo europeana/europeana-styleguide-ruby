@@ -388,6 +388,19 @@ et:
       year:
         from: alates
         to: kuni
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
     forgot-password: Unustasid parooli?

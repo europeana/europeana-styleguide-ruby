@@ -388,6 +388,19 @@ ro:
       year:
         from: 'de la '
         to: până la
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Ne găsiți și aici
     find-us-social-media: 
     forgot-password: Parola uitată?

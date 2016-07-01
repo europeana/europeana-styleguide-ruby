@@ -388,6 +388,19 @@ ru:
       year:
         from: "с"
         to: "по"
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: "Вы также можете найти нас"
     find-us-social-media: 
     forgot-password: "Забыли пароль?"

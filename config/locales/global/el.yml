@@ -388,6 +388,19 @@ el:
       year:
         from: "από"
         to: "μέχρι"
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: "Βρείτε μας αλλού"
     find-us-social-media: 
     forgot-password: "Ξεχάσατε τον κωδικό σας"

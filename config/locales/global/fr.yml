@@ -388,6 +388,19 @@ fr:
       year:
         from: de
         to: "à"
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Retrouvez-nous ailleurs
     find-us-social-media: 
     forgot-password: Vous avez oublié votre mot de passe ?

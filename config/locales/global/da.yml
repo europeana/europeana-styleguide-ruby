@@ -388,6 +388,19 @@ da:
       year:
         from: fra
         to: til
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Find os
     find-us-social-media: 
     forgot-password: |

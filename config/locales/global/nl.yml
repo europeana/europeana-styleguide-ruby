@@ -388,6 +388,19 @@ nl:
       year:
         from: van
         to: tot
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Volg ons
     find-us-social-media: 
     forgot-password: 'Wachtwoord kwijt? '

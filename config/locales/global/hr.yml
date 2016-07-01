@@ -388,6 +388,19 @@ hr:
       year:
         from: od
         to: do
+    feedback:
+      close: 
+      open: 
+      placeholder: 
+      submit: 
+      thanks:
+        long: 
+        short: 
+      title: 
+      type:
+        bug: 
+        comment: 
+        correction: 
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     find-us-social-media: 
     forgot-password: Zaboravili ste lozinku?
