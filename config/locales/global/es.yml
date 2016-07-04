@@ -390,6 +390,7 @@ es:
         to: a
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

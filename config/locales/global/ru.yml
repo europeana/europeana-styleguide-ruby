@@ -390,6 +390,7 @@ ru:
         to: "по"
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

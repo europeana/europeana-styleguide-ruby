@@ -390,6 +390,7 @@ fi:
         to: päättyen
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

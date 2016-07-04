@@ -390,6 +390,7 @@ hu:
         to: "-ig"
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

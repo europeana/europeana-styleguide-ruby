@@ -390,6 +390,7 @@ ro:
         to: până la
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

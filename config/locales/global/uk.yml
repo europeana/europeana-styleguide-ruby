@@ -390,6 +390,7 @@ uk:
         to: 
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

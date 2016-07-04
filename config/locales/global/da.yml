@@ -390,6 +390,7 @@ da:
         to: til
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

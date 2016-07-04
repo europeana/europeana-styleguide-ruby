@@ -390,6 +390,7 @@ hr:
         to: do
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

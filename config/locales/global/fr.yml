@@ -390,6 +390,7 @@ fr:
         to: "à"
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

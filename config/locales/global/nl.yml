@@ -390,6 +390,7 @@ nl:
         to: tot
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 

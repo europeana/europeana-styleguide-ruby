@@ -390,6 +390,7 @@ et:
         to: kuni
     feedback:
       close: 
+      error: 
       open: 
       placeholder: 
       submit: 
