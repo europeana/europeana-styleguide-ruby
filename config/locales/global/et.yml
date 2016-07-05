@@ -484,6 +484,11 @@ et:
     share: Jaga
     sitemap: Sisukaart
     terms-and-policies: Kasutustingimused
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tüüp
   'no': Norra
   pl: Portugal

@@ -483,6 +483,11 @@ da:
     share: Del
     sitemap: Sidemappe
     terms-and-policies: Brugerbetingelser og politikker
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: type
   'no': Norge
   pl: Portugal

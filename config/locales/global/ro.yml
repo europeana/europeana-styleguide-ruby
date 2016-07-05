@@ -482,6 +482,11 @@ ro:
     share: Partajează
     sitemap: Harta siteului
     terms-and-policies: Termeni și condiții
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tip
   'no': Norvegia
   pl: Portugalia

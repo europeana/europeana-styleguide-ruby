@@ -482,6 +482,11 @@ mt:
     share: Aqsam
     sitemap: 
     terms-and-policies: Termini u Kundizzjonijiet
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tip
   'no': In-Norveġja
   pl: Il-Portugal

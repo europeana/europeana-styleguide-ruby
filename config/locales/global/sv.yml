@@ -482,6 +482,11 @@ sv:
     share: Dela
     sitemap: Sajtkarta
     terms-and-policies: Användarvillkor & Policys
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: typ
   'no': Norge
   pl: Portugal

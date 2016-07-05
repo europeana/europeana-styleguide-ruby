@@ -482,6 +482,11 @@ nl:
     share: Deel
     sitemap: Sitemap
     terms-and-policies: Gebruikersvoorwaarden
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tupe
   'no': Noorwegen
   pl: Portugal

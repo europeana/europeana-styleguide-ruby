@@ -482,6 +482,11 @@ it:
     share: Condividi
     sitemap: Mappa del sito
     terms-and-policies: 'Condizioni e politiche di utilizzo '
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tipo
   'no': Norvegia
   pl: Portogallo

@@ -482,6 +482,11 @@ de:
     share: Teilen
     sitemap: 
     terms-and-policies: Nutzungsbedingungen und Datenschutzerklärung
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: Art
   'no': Norwegen
   pl: Portugal

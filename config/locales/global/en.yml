@@ -483,6 +483,11 @@ en:
     share: Share
     sitemap: Sitemap
     terms-and-policies: Terms of use & Policies
+    tooltips:
+      channels:
+        search:
+          new-filter: You can now filter your search on specific license
+          new-grid: Have you seen the new grid layout?
     type: type
   'no': Norway
   pl: Portugal

@@ -482,6 +482,11 @@ cs:
     share: 
     sitemap: 
     terms-and-policies: 
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: 
   'no': Norsko
   pl: Portugalsko

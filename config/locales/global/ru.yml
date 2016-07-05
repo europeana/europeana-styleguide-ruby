@@ -482,6 +482,11 @@ ru:
     share: "Поделиться"
     sitemap: "Карта сайта"
     terms-and-policies: "Условия и положения"
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: "Тип"
   'no': "Норвегия"
   pl: "Португалия"

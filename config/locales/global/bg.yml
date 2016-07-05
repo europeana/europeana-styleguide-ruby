@@ -482,6 +482,11 @@ bg:
     share: "Споделете"
     sitemap: "Карта на сайта"
     terms-and-policies: "Условия за ползване  & Политики"
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: "тип"
   'no': "Норвегия"
   pl: "Португалия"

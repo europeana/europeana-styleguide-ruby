@@ -482,6 +482,11 @@ hu:
     share: Oszd meg
     sitemap: Oldaltérkép
     terms-and-policies: Felhasználási feltételek és házirend
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: típus
   'no': Norvégia
   pl: Portugál

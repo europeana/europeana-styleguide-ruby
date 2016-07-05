@@ -482,6 +482,11 @@ hr:
     share: Podijeli
     sitemap: Mapa weba
     terms-and-policies: Uvjeti korištenja
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: vrsta
   'no': Norveška
   pl: Portugal

@@ -482,6 +482,11 @@ pl:
     share: Udostępnij
     sitemap: Mapa strony
     terms-and-policies: Regulamin i polityka prywatności
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: typ
   'no': Norwegia
   pl: Portugalia

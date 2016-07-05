@@ -482,6 +482,11 @@ fi:
     share: Jaa
     sitemap: Sivukartta
     terms-and-policies: Käyttöehdot & käytännöt
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tyyppi
   'no': Norja
   pl: Portugali

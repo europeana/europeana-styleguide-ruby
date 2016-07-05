@@ -482,6 +482,11 @@ lt:
     share: Dalintis
     sitemap: Svetainės medis
     terms-and-policies: Naudojimosi taisyklės ir privatumo politika
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tipas
   'no': Norvegija
   pl: Portugalija

@@ -482,6 +482,11 @@ lv:
     share: Kopīgot
     sitemap: Lapas karte
     terms-and-policies: Lietošanas noteikumi un politika
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tips
   'no': Norvēģija
   pl: Portugāle

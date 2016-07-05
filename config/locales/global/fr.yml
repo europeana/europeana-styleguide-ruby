@@ -482,6 +482,11 @@ fr:
     share: Partager
     sitemap: Plan du site
     terms-and-policies: 'Conditions générales d''utilisation '
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: type
   'no': Norvège
   pl: Portugal

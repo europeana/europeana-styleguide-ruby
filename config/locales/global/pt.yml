@@ -482,6 +482,11 @@ pt:
     share: Partilhe
     sitemap: Mapa do site
     terms-and-policies: Termos & Políticas de uso
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: tipo
   'no': Noruega
   pl: Portugal

@@ -482,6 +482,11 @@ el:
     share: "Μοιραστείτε"
     sitemap: "Χάρτης ιστοχώρου"
     terms-and-policies: "Όροι και πολιτική χρήσης"
+    tooltips:
+      channels:
+        search:
+          new-filter: 
+          new-grid: 
     type: "τύπος"
   'no': "Νορβηγία"
   pl: "Πορτογαλία"
