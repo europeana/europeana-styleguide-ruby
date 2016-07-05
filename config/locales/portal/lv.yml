@@ -91,8 +91,6 @@ lv:
         roadmap: 
         search-tips: Meklēšanas padomi
         using-myeuropeana: '"Mana Europeana" lietošana'
-    home:
-      strapline: Iepazīsties ar %{total_item_count} mākslas darbiem, artefaktiem, grāmatām, video un skaņu ierakstiem no visas Eiropas.
     more: Vairāk...
     my-europeana: Mana Europeana
     my-europeana-link: saite uz "Mana Europeana"

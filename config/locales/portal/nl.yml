@@ -91,8 +91,6 @@ nl:
         roadmap: 
         search-tips: Zoek tips
         using-myeuropeana: Gebruik mijn Europeana
-    home:
-      strapline: 'Ontdek %{total_item_count} items van Europa''s bibliotheken, archiven en musea.  '
     more: Meer...
     my-europeana: Mijn Europeana
     my-europeana-link: Link naar mijn Europeana

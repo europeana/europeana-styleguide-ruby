@@ -91,8 +91,6 @@ hu:
         roadmap: 
         search-tips: Keresési segítség
         using-myeuropeana: Saját Europeana használata
-    home:
-      strapline: Fedezz fel %{total_item_count} műalkotást, műtárgyat, könyvet, videót és hanganyagot Európa teljes területéről.
     more: Tovább...
     my-europeana: Saját Europeana
     my-europeana-link: link a Saját Europeana-ra

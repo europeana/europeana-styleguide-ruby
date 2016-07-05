@@ -91,8 +91,6 @@ es:
         roadmap: actualizaciones de desarrollo
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
-    home:
-      strapline: 'Explorar %{total_item_count}  obras de arte, artefactos, libros, vídeos y sonidos de toda Europea. '
     more: Más
     my-europeana: Mi Europeana
     my-europeana-link: link a Mi Europeana

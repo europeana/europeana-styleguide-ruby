@@ -91,8 +91,6 @@ lt:
         roadmap: 
         search-tips: Patarimai apie efektyvią paiešką
         using-myeuropeana: Naudojimasis mano Europeana
-    home:
-      strapline: Atraskite %{total_item_count} meno darbų, istorinių įrankių, knygų, video ir garso įrašų iš visos Europos.
     more: Daugiau...
     my-europeana: Mano Europeana
     my-europeana-link: Nuoroda į Mano Europeana

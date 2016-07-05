@@ -91,8 +91,6 @@ sv:
         roadmap: 
         search-tips: Söktips
         using-myeuropeana: Om Mitt Europeana
-    home:
-      strapline: Utforska  %{total_item_count} konstverk, artefakter, böker, videor och ljudinspelningar från hela Europa
     more: Mera...
     my-europeana: Mitt Europeana
     my-europeana-link: länk till Mitt Europeana

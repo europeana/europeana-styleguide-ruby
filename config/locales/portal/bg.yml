@@ -91,8 +91,6 @@ bg:
         roadmap: 
         search-tips: "Съвети за търсене"
         using-myeuropeana: "Упътване за Моята Европеана"
-    home:
-      strapline: "Разгледай %{total_item_count} произведения на изкуството, артефакти, книги, видео и аудио от цяла Европа."
     more: "Още..."
     my-europeana: "Моята Европеана"
     my-europeana-link: "линк към Моята Европеана"

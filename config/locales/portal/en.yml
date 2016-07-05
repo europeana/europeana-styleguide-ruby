@@ -91,9 +91,6 @@ en:
         roadmap: Development updates
         search-tips: Search tips
         using-myeuropeana: Using My Europeana
-    home:
-      strapline: |
-        Explore %{total_item_count} artworks, artefacts, books, videos and sounds from across Europe.
     more: More...
     my-europeana: My Europeana
     my-europeana-link: link to My Europeana
