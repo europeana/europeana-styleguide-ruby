@@ -391,17 +391,17 @@ en:
     feedback:
       close: Close
       error: Error
-      open: Tell us what you think!
+      open: Feedback
       placeholder: 'We hope you enjoy your experience at our site! Let us know what you think and what we can improve. If you want to be contacted, please leave your email address here too! '
       submit: Submit
       thanks:
         long: Thank you for your feedback. We really appreciate it!
         short: Thank you for sharing your thoughts!
-      title: Tell us what you think!
+      title: Feedback
       type:
         bug: bug
         comment: comment
-        correction: 
+        correction: correction
     find-us-elsewhere: Find us elsewhere
     find-us-social-media: Find %{channel} on social media
     forgot-password: Forgot your password?
