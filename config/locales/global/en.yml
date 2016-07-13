@@ -396,7 +396,7 @@ en:
       submit: Submit
       thanks:
         long: Thank you for your feedback. We really appreciate it!
-        short: Thank you for sharing your thoughts!
+        short: Thank you!
       title: Feedback
       type:
         bug: bug
