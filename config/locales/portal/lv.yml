@@ -96,6 +96,8 @@ lv:
     my-europeana-link: saite uz "Mana Europeana"
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Ieraksts
         results_list: Rezultāti
         return_home: Atgriezties uz sākumu

@@ -96,6 +96,8 @@ bg:
     my-europeana-link: "линк към Моята Европеана"
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: "Допълнителна информация за обекта"
         results_list: "Списък с резултати"
         return_home: "Обратно към начална страница"

@@ -96,6 +96,8 @@ lt:
     my-europeana-link: Nuoroda į Mano Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: "Įrašo aprašymas"
         results_list: Rezultatų sąrašas
         return_home: Grįžti į pagrindinį puslapį

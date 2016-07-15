@@ -96,6 +96,8 @@ sv:
     my-europeana-link: länk till Mitt Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Post
         results_list: Resultat
         return_home: Tillbaka till Startsidan

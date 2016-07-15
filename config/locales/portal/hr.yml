@@ -96,6 +96,8 @@ hr:
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Objekt
         results_list: Rezultati
         return_home: Povratak na naslovnicu

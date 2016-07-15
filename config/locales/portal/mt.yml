@@ -96,6 +96,8 @@ mt:
     my-europeana-link: Link lejn l-Europeana tiegħi
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Oġġett
         results_list: Riżultati
         return_home: Mur lura fuq il-paġna primarja

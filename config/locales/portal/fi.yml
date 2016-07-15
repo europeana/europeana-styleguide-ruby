@@ -96,6 +96,8 @@ fi:
     my-europeana-link: linkki Minun Europeanaan
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Kohde
         results_list: Tulokset
         return_home: Palaa Aloitussivulle

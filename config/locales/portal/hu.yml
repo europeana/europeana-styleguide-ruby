@@ -96,6 +96,8 @@ hu:
     my-europeana-link: link a Saját Europeana-ra
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Elem részletei
         results_list: Találati lista
         return_home: Vissza a Főoldalra

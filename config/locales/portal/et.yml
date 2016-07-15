@@ -96,6 +96,8 @@ et:
     my-europeana-link: linu Minu Europeanasse
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Ese
         results_list: Tulemused
         return_home: Tagasi avalehele

@@ -96,6 +96,8 @@ ru:
     my-europeana-link: "Ссылка на My Europeana"
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: "Подробная информация"
         results_list: "Список результатов"
         return_home: "Домой"

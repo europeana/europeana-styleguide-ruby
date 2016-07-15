@@ -96,6 +96,8 @@ el:
     my-europeana-link: "συνδεσμος για το my Europeana"
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: "Λεπτομέρεια εγγραφής"
         results_list: "Λίστα Αποτελεσμάτων"
         return_home: "Επιστροφή στην Αρχική"

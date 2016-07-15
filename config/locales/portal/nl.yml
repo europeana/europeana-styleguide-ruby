@@ -96,6 +96,8 @@ nl:
     my-europeana-link: Link naar mijn Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Object details
         results_list: Resultaten
         return_home: Terug naar hoofdpagina

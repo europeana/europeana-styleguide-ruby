@@ -96,6 +96,8 @@ de:
     my-europeana-link: Link zu Mein Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: Ausstellungen
         item_detail: Objektdetail
         results_list: Ergebnisliste
         return_home: Zurück zur Startseite

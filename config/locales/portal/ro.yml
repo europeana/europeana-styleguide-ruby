@@ -96,6 +96,8 @@ ro:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: detalii înregistrare
         results_list: Lista rezultatelor
         return_home: Inapoi Acasă

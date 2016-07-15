@@ -96,6 +96,8 @@ da:
     my-europeana-link: link til mit Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Genstandsdetalje
         results_list: Oversigt over Resultater
         return_home: Tilbage til Hjem

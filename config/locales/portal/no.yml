@@ -96,6 +96,8 @@
     my-europeana-link: lenke til Mitt Europeana
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: Objekt
         results_list: Resultater
         return_home: Tilbake

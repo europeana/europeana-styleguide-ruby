@@ -96,6 +96,8 @@ tr:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        exhibitions:
+          return_home: 
         item_detail: 
         results_list: 
         return_home: 
