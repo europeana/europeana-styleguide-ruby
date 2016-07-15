@@ -392,16 +392,17 @@ pl:
       close: 
       error: 
       open: 
-      placeholder: 
+      placeholder: Daj nam znać , co myślisz i co możemy poprawić. Jeśli chcesz się skontaktować , proszę zostawić nam swój adres e-mail !
       submit: 
       thanks:
-        long: 
+        long: |
+          Dziękujemy za twoją opinię. Jeśli potrzebne; my do was wrócić jak najszybciej
         short: 
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: komentarz
+        correction: korekta
     find-us-elsewhere: Znajdź nas także
     find-us-social-media: Znajdź %{channel} w mediach społecznościowych
     forgot-password: Nie pamiętam hasła.

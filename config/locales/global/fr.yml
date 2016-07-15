@@ -392,16 +392,17 @@ fr:
       close: 
       error: 
       open: 
-      placeholder: 
+      placeholder: |
+        Faites-nous savoir ce que vous pensez et ce que nous pouvons améliorer . Si vous souhaitez être contacté , laissez-nous s'il vous plaît votre adresse e-mail !
       submit: 
       thanks:
-        long: 
+        long: Merci pour votre avis. Si besoin; nous reviendrons vers vous dès que possible
         short: 
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: commentaire
+        correction: correction
     find-us-elsewhere: Retrouvez-nous ailleurs
     find-us-social-media: 
     forgot-password: Vous avez oublié votre mot de passe ?

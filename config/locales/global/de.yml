@@ -392,16 +392,17 @@ de:
       close: 
       error: 
       open: 
-      placeholder: 
+      placeholder: Lassen Sie uns wissen , was Sie denken und was können wir verbessern. Wenn Sie kontaktiert werden möchten, lassen Sie uns bitte Ihre E-Mail -Adresse an!
       submit: 
       thanks:
-        long: 
+        long: |
+          Danke für Ihre Rückmeldung. Wenn benötigt; wir werden so schnell wie möglich bei Ihnen zurück
         short: 
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: Kommentar
+        correction: Korrektur
     find-us-elsewhere: Finden Sie uns an anderer Stelle
     find-us-social-media: "%{channel} finden auf Social Media-Websites"
     forgot-password: Haben Sie Ihr Passwort vergessen?
