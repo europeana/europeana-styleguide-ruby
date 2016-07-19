@@ -110,6 +110,7 @@ fi:
         download: Lataa
         download-additional: Saatavilla myös
         downloaddata: Lataa data
+        explore-by-colour: 
         open-media: Avaa mediakohde
         show-less-data: Näytä vähemmän tietoa
         show-more-data: Näytä enemmän tietoa

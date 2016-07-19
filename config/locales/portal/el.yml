@@ -110,6 +110,7 @@ el:
         download: "Μεταφόρτωση"
         download-additional: "Επίσης διαθέσιμο ως"
         downloaddata: "Μεταφόρτωση δεδομένων"
+        explore-by-colour: 
         open-media: "Ανοίξτε το αντικείμενο"
         show-less-data: "Εμφάνιση λιγότερων δεδομένων"
         show-more-data: "Εμφάνιση περισσότερων δεδομένων"

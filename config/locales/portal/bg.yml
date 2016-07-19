@@ -110,6 +110,7 @@ bg:
         download: "Изтегли"
         download-additional: "Наличен също като"
         downloaddata: "Изтегли данни"
+        explore-by-colour: 
         open-media: "Отвори този медиен обект"
         show-less-data: "Покажи по-малко данни"
         show-more-data: "Покажи повече данни"
