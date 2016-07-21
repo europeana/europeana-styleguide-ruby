@@ -154,6 +154,7 @@ de:
         fps: Bilder pro Sekunde
         has-type: Hat Art
         identifier: Kennung
+        intermediate-provider: 
         is-format-of: Ist Format
         is-part-of: Ist ein Teil von
         is-referenced-by: mit Verweis versehen

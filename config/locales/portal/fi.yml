@@ -154,6 +154,7 @@ fi:
         fps: Ruutua sekunnissa
         has-type: On tyypiltään
         identifier: Tunniste
+        intermediate-provider: 
         is-format-of: On formaatiltaan
         is-part-of: On osa
         is-referenced-by: Viitataan seuraavista

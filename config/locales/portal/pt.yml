@@ -154,6 +154,7 @@ pt:
         fps: Imagens por segundo
         has-type: Tem tipo
         identifier: Identificador
+        intermediate-provider: 
         is-format-of: "É formato de"
         is-part-of: "É parte de"
         is-referenced-by: "É referido por"

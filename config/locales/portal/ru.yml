@@ -154,6 +154,7 @@ ru:
         fps: "Кадровая частота"
         has-type: "Тип"
         identifier: "Идентификатор"
+        intermediate-provider: 
         is-format-of: "Является форматом для"
         is-part-of: "Является частью"
         is-referenced-by: "есть ссылка в"

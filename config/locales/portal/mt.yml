@@ -154,6 +154,7 @@ mt:
         fps: Frejm kull sekonda
         has-type: Huwa tat-tip
         identifier: identifikatur
+        intermediate-provider: 
         is-format-of: Huwa tal-format
         is-part-of: Huwa parti ta'
         is-referenced-by: Huwa referenzat minn

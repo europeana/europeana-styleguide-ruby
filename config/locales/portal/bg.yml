@@ -154,6 +154,7 @@ bg:
         fps: "Рамки за секунда"
         has-type: "От тип"
         identifier: "Идентификатор"
+        intermediate-provider: 
         is-format-of: "Във формат"
         is-part-of: "Част от"
         is-referenced-by: "Съотнесен с"

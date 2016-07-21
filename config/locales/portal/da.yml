@@ -154,6 +154,7 @@ da:
         fps: Billeder i sekundet
         has-type: 
         identifier: Identifikator
+        intermediate-provider: 
         is-format-of: 
         is-part-of: Er del af
         is-referenced-by: Er betegnet med

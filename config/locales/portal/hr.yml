@@ -154,6 +154,7 @@ hr:
         fps: Kadrova po sekundi
         has-type: Ima vrstu
         identifier: Identifikator
+        intermediate-provider: 
         is-format-of: Format od
         is-part-of: Dio od
         is-referenced-by: Citira ga

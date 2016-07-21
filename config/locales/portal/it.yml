@@ -154,6 +154,7 @@ it:
         fps: Fotogrammi al secondo
         has-type: "è di tipo"
         identifier: Identificatore
+        intermediate-provider: 
         is-format-of: "È formato di or da"
         is-part-of: "È parte di"
         is-referenced-by: "è referenziato da"

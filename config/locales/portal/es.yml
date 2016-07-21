@@ -154,6 +154,7 @@ es:
         fps: 'Fotogramas por segundo '
         has-type: Tipo
         identifier: Identificador
+        intermediate-provider: 
         is-format-of: Formato de
         is-part-of: Parte de
         is-referenced-by: Citado por

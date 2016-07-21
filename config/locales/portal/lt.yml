@@ -154,6 +154,7 @@ lt:
         fps: Kadrai per sekundę
         has-type: Tipas
         identifier: Identifikatorius
+        intermediate-provider: 
         is-format-of: Yra formatas
         is-part-of: Yra dalis
         is-referenced-by: Nurodoma

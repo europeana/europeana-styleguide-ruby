@@ -154,6 +154,7 @@ el:
         fps: "Εικόνες το δευτερόλεπτο"
         has-type: "Έχει τύπο"
         identifier: "Προσδιοριστής"
+        intermediate-provider: 
         is-format-of: "Είναι τύπου αρχείου"
         is-part-of: "Είναι μέρος του"
         is-referenced-by: "Αναφέρεται από"

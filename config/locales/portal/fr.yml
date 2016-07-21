@@ -154,6 +154,7 @@ fr:
         fps: Images par seconde
         has-type: A pour type
         identifier: Identifiant
+        intermediate-provider: 
         is-format-of: Est un format de
         is-part-of: Est une partie de
         is-referenced-by: Est référencé par

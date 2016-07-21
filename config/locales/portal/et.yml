@@ -154,6 +154,7 @@ et:
         fps: Kaadrit sekundis
         has-type: On tüübist
         identifier: Identifikaator
+        intermediate-provider: 
         is-format-of: On formaat
         is-part-of: On osa
         is-referenced-by: Viitab

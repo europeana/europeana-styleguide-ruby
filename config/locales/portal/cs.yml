@@ -154,6 +154,7 @@ cs:
         fps: 
         has-type: 
         identifier: 
+        intermediate-provider: 
         is-format-of: 
         is-part-of: 
         is-referenced-by: 

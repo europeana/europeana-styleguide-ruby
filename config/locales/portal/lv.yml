@@ -154,6 +154,7 @@ lv:
         fps: Kadri sekundē
         has-type: Ir tips
         identifier: Identifikators
+        intermediate-provider: 
         is-format-of: Cits formāts
         is-part-of: Daļa no
         is-referenced-by: Norāde no

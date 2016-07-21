@@ -154,6 +154,7 @@ ca:
         fps: Frames per segon
         has-type: Tipus de Has
         identifier: Identificador
+        intermediate-provider: 
         is-format-of: "és format de"
         is-part-of: "és part de"
         is-referenced-by: "és referenciat per"

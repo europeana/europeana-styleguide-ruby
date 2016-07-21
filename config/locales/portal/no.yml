@@ -154,6 +154,7 @@
         fps: Rammer per sekund
         has-type: Har type
         identifier: 'Identifiserer '
+        intermediate-provider: 
         is-format-of: Har format som
         is-part-of: Er del av
         is-referenced-by: 'Referert til av '

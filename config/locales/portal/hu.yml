@@ -154,6 +154,7 @@ hu:
         fps: Képkocka másodpercenként
         has-type: Típusa
         identifier: Azonosító
+        intermediate-provider: 
         is-format-of: Formátuma
         is-part-of: 'Következő része:'
         is-referenced-by: Hivatkozik rá

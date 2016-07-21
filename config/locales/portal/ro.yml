@@ -154,6 +154,7 @@ ro:
         fps: Cadre pe secundă
         has-type: Are tip
         identifier: Identificator
+        intermediate-provider: 
         is-format-of: E format din
         is-part-of: E parte a
         is-referenced-by: Referențiat_de

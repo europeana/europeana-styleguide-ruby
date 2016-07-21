@@ -154,6 +154,7 @@ sv:
         fps: Buildrutor per sekund
         has-type: "Är av typen"
         identifier: ID-nummer
+        intermediate-provider: 
         is-format-of: "Är en form av"
         is-part-of: "Är en del av"
         is-referenced-by: Refereras av

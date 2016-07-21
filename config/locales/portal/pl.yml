@@ -154,6 +154,7 @@ pl:
         fps: 'Klatki na sekundę '
         has-type: Ma rodzaj
         identifier: Identyfikator
+        intermediate-provider: 
         is-format-of: Jest w formacie
         is-part-of: Jest częścią
         is-referenced-by: Ma odniesienie w
