@@ -154,7 +154,7 @@ en:
         fps: Frames per second
         has-type: Has type
         identifier: Identifier
-        intermediate-provider: Intermediate Provider
+        intermediate-provider: Intermediate provider
         is-format-of: Is format of
         is-part-of: Is part of
         is-referenced-by: Is referenced by
