@@ -392,7 +392,7 @@ en:
       close: Close
       error: Error
       open: Feedback
-      placeholder: 'We hope you enjoy your experience at our site! Let us know what you think and what we can improve. If you want to be contacted, please leave your email address here too! '
+      placeholder: Let us know what you think and what we can improve. If you want to be contacted, please leave your email address here too!
       submit: Submit
       thanks:
         long: Thank you for your feedback. If needed; we'll get back to you as soon as possible

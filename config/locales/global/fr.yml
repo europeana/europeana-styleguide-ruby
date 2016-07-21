@@ -389,18 +389,17 @@ fr:
         from: de
         to: "à"
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: |
-        Faites-nous savoir ce que vous pensez et ce que nous pouvons améliorer . Si vous souhaitez être contacté , laissez-nous s'il vous plaît votre adresse e-mail !
-      submit: 
+      close: Fermer
+      error: Error
+      open: Feedback
+      placeholder: Si vous souhaitez être contacté , laissez-nous s'il vous plaît votre adresse e-mail !
+      submit: Soumettre
       thanks:
         long: Merci pour votre avis. Si besoin; nous reviendrons vers vous dès que possible
-        short: 
-      title: 
+        short: Je vous remercie!
+      title: Feedback
       type:
-        bug: 
+        bug: bug
         comment: commentaire
         correction: correction
     find-us-elsewhere: Retrouvez-nous ailleurs

@@ -389,18 +389,18 @@ de:
         from: von
         to: nach
     feedback:
-      close: 
-      error: 
-      open: 
+      close: schließen
+      error: Error
+      open: Feedback
       placeholder: Lassen Sie uns wissen , was Sie denken und was können wir verbessern. Wenn Sie kontaktiert werden möchten, lassen Sie uns bitte Ihre E-Mail -Adresse an!
-      submit: 
+      submit: einreichen
       thanks:
         long: |
           Danke für Ihre Rückmeldung. Wenn benötigt; wir werden so schnell wie möglich bei Ihnen zurück
-        short: 
-      title: 
+        short: Vielen Dank
+      title: Feedback
       type:
-        bug: 
+        bug: bug
         comment: Kommentar
         correction: Korrektur
     find-us-elsewhere: Finden Sie uns an anderer Stelle

@@ -389,18 +389,18 @@ it:
         from: da
         to: a
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: Fateci sapere cosa ne pensate e cosa possiamo migliorare . Se si vuole essere contattati , lascia il tuo indirizzo e-mail !
-      submit: 
+      close: Vicino
+      error: Error
+      open: Feedback
+      placeholder: Se si vuole essere contattati , lascia il tuo indirizzo e-mail !
+      submit: invio
       thanks:
         long: |
           Grazie per il tuo feedback. Se necessario; ti risponderemo al più presto possibile
         short: Grazie!
-      title: 
+      title: Feedback
       type:
-        bug: 
+        bug: bug
         comment: commento
         correction: correzione
     find-us-elsewhere: 

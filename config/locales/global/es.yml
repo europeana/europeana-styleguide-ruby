@@ -389,17 +389,17 @@ es:
         from: desde
         to: a
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: 
-      submit: 
+      close: cerca
+      error: Error
+      open: Feedback
+      placeholder: Háganos saber lo que piensa y lo que se puede mejorar . Si desea ser contactado , por favor deje su dirección de correo electrónico aquí también!
+      submit: Enviar
       thanks:
         long: Gracias por tus comentarios. Si es necesario; nos pondremos en contacto con usted tan pronto como sea posible
-        short: 
-      title: 
+        short: "¡Gracias!"
+      title: Feedback
       type:
-        bug: 
+        bug: bug
         comment: comentario
         correction: corrección
     find-us-elsewhere: Encuentranos en

@@ -389,19 +389,19 @@ nl:
         from: van
         to: tot
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: 
-      submit: 
+      close: Sluiten
+      error: Error
+      open: Feedback
+      placeholder: 'Laat ons weten wat beter kan! Laat uw email adres achter als u contact wilt opnemen. '
+      submit: Stuur
       thanks:
-        long: 
-        short: 
-      title: 
+        long: 'Bedankt! Indien nodig, nemen wij zo spoedig mogelijk contact op. '
+        short: Bedankt!
+      title: Feedback
       type:
-        bug: 
-        comment: 
-        correction: 
+        bug: fout
+        comment: comment
+        correction: correctie
     find-us-elsewhere: Volg ons
     find-us-social-media: 
     forgot-password: 'Wachtwoord kwijt? '
