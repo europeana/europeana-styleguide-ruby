@@ -15,9 +15,10 @@ module Europeana
         end
 
         def [](key)
-          translation = @data.present? ? @data[key] : I18n.translate(key, raise: true)
+          translation = @data.present? ? @data[key] : I18n.translate(key)
+          translation ||= I18n.translate(full_key(key), locale: I18n.default_locale) if I18n.respond_to?(:fallbacks)
           if translation.nil?
-            fail I18n::MissingTranslationData.new(I18n.locale, @parent_keys.join('.'), {}).to_exception
+            fail I18n::MissingTranslationData.new(I18n.locale, full_key(key), {}).to_exception
           elsif translation.is_a?(String)
             I18n.interpolate_hash(translation, @scope)
           else
@@ -25,6 +26,10 @@ module Europeana
           end
         rescue I18n::MissingTranslationData => e
           missing_msg(I18n.normalize_keys(e.locale, e.key, e.options[:scope]))
+        end
+
+        def full_key(key)
+          (@parent_keys + [key]).join('.')
         end
 
         def to_hash
