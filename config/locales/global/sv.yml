@@ -172,6 +172,9 @@ sv:
     channels-fashion: Mode
     channels-music: Musik
     choose-language: Språk
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: e-postadress
     facet:
       advanced:

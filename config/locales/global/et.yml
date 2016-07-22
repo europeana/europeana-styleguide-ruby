@@ -172,6 +172,9 @@ et:
     channels-fashion: Mood
     channels-music: Muusika
     choose-language: Keel
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: e-posti aadress
     facet:
       advanced:

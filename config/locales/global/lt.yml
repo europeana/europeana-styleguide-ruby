@@ -172,6 +172,9 @@ lt:
     channels-fashion: Mada
     channels-music: Muzika
     choose-language: Kalba
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: el. pašto adresas
     facet:
       advanced:

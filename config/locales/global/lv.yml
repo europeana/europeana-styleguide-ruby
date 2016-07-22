@@ -172,6 +172,9 @@ lv:
     channels-fashion: Mode
     channels-music: Mūzika
     choose-language: Valoda
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: e-pasta adrese
     facet:
       advanced:

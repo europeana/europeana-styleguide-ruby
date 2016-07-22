@@ -172,6 +172,9 @@ nl:
     channels-fashion: Mode
     channels-music: Muziek
     choose-language: Taal
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: e-mail adres
     facet:
       advanced:

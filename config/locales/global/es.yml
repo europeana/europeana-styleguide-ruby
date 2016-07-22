@@ -172,6 +172,9 @@ es:
     channels-fashion: Moda
     channels-music: Música
     choose-language: Idioma
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: dirección de correo electrónico
     facet:
       advanced:

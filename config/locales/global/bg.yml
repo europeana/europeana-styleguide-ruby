@@ -172,6 +172,9 @@ bg:
     channels-fashion: "Мода"
     channels-music: "Музика"
     choose-language: "Език"
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: "Имейл адрес"
     facet:
       advanced:

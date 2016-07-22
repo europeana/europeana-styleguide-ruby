@@ -172,6 +172,9 @@ el:
     channels-fashion: "Μόδα"
     channels-music: "Μουσική"
     choose-language: "Γλώσσα"
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: "διεύθυνση ηλεκτρονικού ταχυδρομείου"
     facet:
       advanced:

@@ -172,6 +172,9 @@ ro:
     channels-fashion: Modă
     channels-music: Muzică
     choose-language: Limbă
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: adresă de email
     facet:
       advanced:

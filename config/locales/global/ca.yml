@@ -172,6 +172,9 @@ ca:
     channels-fashion: Moda
     channels-music: Moda
     choose-language: Llengua
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: correu electrònic
     facet:
       advanced:

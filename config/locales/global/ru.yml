@@ -172,6 +172,9 @@ ru:
     channels-fashion: "Мода"
     channels-music: "Музыка"
     choose-language: "Язык"
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: "Адрес электронной почты"
     facet:
       advanced:

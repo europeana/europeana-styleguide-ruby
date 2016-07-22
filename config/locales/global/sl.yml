@@ -172,6 +172,9 @@ sl:
     channels-fashion: 
     channels-music: 
     choose-language: 
+    cookie_disclaimer:
+      more_info: 
+      text: 
     email-address: 
     facet:
       advanced:
