@@ -109,6 +109,8 @@ en:
         attribute-plaintext: Plain text
         download: Download
         download-additional: Also available as
+        download-retry: Retry
+        download-started: The download has started
         downloaddata: Download data
         explore-by-colour: Explore by colour
         open-media: Open this media item

@@ -109,6 +109,8 @@ el:
         attribute-plaintext: "Κείμενο"
         download: "Μεταφόρτωση"
         download-additional: "Επίσης διαθέσιμο ως"
+        download-retry: 
+        download-started: 
         downloaddata: "Μεταφόρτωση δεδομένων"
         explore-by-colour: 
         open-media: "Ανοίξτε το αντικείμενο"

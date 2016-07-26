@@ -109,6 +109,8 @@ it:
         attribute-plaintext: Testo senza formattazione
         download: Scarica
         download-additional: Anche disponibile come
+        download-retry: 
+        download-started: 
         downloaddata: Scarica i dati
         explore-by-colour: 
         open-media: 

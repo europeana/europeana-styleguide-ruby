@@ -109,6 +109,8 @@ pt:
         attribute-plaintext: Texto simples
         download: Descarregar
         download-additional: Também disponível como
+        download-retry: 
+        download-started: 
         downloaddata: Descarregar dados
         explore-by-colour: 
         open-media: Abrir este item de media

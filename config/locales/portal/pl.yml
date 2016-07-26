@@ -109,6 +109,8 @@ pl:
         attribute-plaintext: Zwykły tekst
         download: "Ściągnij"
         download-additional: Dostępne także jako
+        download-retry: 
+        download-started: 
         downloaddata: "Ściągnij dane"
         explore-by-colour: 
         open-media: Otwórz

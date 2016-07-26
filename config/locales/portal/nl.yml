@@ -109,6 +109,8 @@ nl:
         attribute-plaintext: tekst
         download: Download
         download-additional: Ook beschikbaar als
+        download-retry: 
+        download-started: 
         downloaddata: Download informatie
         explore-by-colour: 
         open-media: Open dit type media

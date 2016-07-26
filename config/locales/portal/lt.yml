@@ -109,6 +109,8 @@ lt:
         attribute-plaintext: Paprastas tekstas
         download: Parsisiųsti
         download-additional: Taip pat prieinama kaip
+        download-retry: 
+        download-started: 
         downloaddata: Parsisiųsti duomenis
         explore-by-colour: 
         open-media: Atidaryti šią mediją

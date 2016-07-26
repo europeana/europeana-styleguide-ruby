@@ -109,6 +109,8 @@ et:
         attribute-plaintext: Vabatekst
         download: Lae alla
         download-additional: Veel saadaval
+        download-retry: 
+        download-started: 
         downloaddata: Lae andmed alla
         explore-by-colour: 
         open-media: Ava see kirje

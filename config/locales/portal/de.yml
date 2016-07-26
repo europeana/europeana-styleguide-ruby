@@ -109,6 +109,8 @@ de:
         attribute-plaintext: Nur Text
         download: Herunterladen
         download-additional: Auch erhältlich als
+        download-retry: 
+        download-started: 
         downloaddata: Daten herunterladen
         explore-by-colour: 
         open-media: "Öffnen Sie dieses Objekt"

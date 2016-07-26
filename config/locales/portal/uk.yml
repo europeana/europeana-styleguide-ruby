@@ -109,6 +109,8 @@ uk:
         attribute-plaintext: 
         download: 
         download-additional: 
+        download-retry: 
+        download-started: 
         downloaddata: 
         explore-by-colour: 
         open-media: 

@@ -109,6 +109,8 @@ da:
         attribute-plaintext: Almindelig tekst
         download: Hent
         download-additional: Også tilgængelig som
+        download-retry: 
+        download-started: 
         downloaddata: Hent data
         explore-by-colour: 
         open-media: "Åbn denne mediefil"

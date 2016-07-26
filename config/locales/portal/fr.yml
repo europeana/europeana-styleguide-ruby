@@ -109,6 +109,8 @@ fr:
         attribute-plaintext: Texte brut
         download: Télécharger
         download-additional: Aussi disponible comme suit
+        download-retry: 
+        download-started: 
         downloaddata: Télécharger les données
         explore-by-colour: 
         open-media: Ouvrir ce contenu

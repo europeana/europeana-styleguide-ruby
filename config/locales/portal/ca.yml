@@ -109,6 +109,8 @@ ca:
         attribute-plaintext: Text pla
         download: Baixa
         download-additional: També disponible com
+        download-retry: 
+        download-started: 
         downloaddata: Baixar la informació
         explore-by-colour: 
         open-media: Obrir aquest ítem

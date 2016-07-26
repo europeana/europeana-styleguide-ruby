@@ -109,6 +109,8 @@ fi:
         attribute-plaintext: Tekstimuotoinen
         download: Lataa
         download-additional: Saatavilla myös
+        download-retry: 
+        download-started: 
         downloaddata: Lataa data
         explore-by-colour: 
         open-media: Avaa mediakohde

@@ -109,6 +109,8 @@ bg:
         attribute-plaintext: "Обикновен текст без форматиране"
         download: "Изтегли"
         download-additional: "Наличен също като"
+        download-retry: 
+        download-started: 
         downloaddata: "Изтегли данни"
         explore-by-colour: 
         open-media: "Отвори този медиен обект"

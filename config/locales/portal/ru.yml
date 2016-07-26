@@ -109,6 +109,8 @@ ru:
         attribute-plaintext: "Простой текст"
         download: "Скачать"
         download-additional: "Также доступно в формате"
+        download-retry: 
+        download-started: 
         downloaddata: "Скачать данные"
         explore-by-colour: 
         open-media: "Открыть этот файл"

@@ -109,6 +109,8 @@ hr:
         attribute-plaintext: Samo tekst
         download: Preuzmi
         download-additional: Dostupno i kao
+        download-retry: 
+        download-started: 
         downloaddata: Preuzmi podatke
         explore-by-colour: 
         open-media: Otvori ovaj medijski objekt

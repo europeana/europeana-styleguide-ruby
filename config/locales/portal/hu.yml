@@ -109,6 +109,8 @@ hu:
         attribute-plaintext: Egyszerű szöveg
         download: Letöltés
         download-additional: Elérhető úgy is mint
+        download-retry: 
+        download-started: 
         downloaddata: Adatletöltés
         explore-by-colour: 
         open-media: Média elem megnyítása

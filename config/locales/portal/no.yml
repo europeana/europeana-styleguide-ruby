@@ -109,6 +109,8 @@
         attribute-plaintext: Enkel tekst
         download: laste ned
         download-additional: Også tilgjengelig som
+        download-retry: 
+        download-started: 
         downloaddata: 'Last ned '
         explore-by-colour: 
         open-media: "Åpne dette mediaobjektet"

@@ -109,6 +109,8 @@ lv:
         attribute-plaintext: Vienkāršs teksts
         download: Lejupielādēt
         download-additional: Pieejams arī kā
+        download-retry: 
+        download-started: 
         downloaddata: Lejupielādēt datus
         explore-by-colour: 
         open-media: Atvērt šo ierakstu

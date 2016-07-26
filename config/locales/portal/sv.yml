@@ -109,6 +109,8 @@ sv:
         attribute-plaintext: 
         download: Ladda ner
         download-additional: Flera versioner
+        download-retry: 
+        download-started: 
         downloaddata: Ladda ner metadata
         explore-by-colour: 
         open-media: Visa

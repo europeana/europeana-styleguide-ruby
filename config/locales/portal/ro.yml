@@ -109,6 +109,8 @@ ro:
         attribute-plaintext: Text simplu
         download: Descarcă
         download-additional: Disponibil și ca
+        download-retry: 
+        download-started: 
         downloaddata: Descarcă date
         explore-by-colour: 
         open-media: Deschide această înregistrare
