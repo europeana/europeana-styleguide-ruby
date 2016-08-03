@@ -7,9 +7,6 @@ module Europeana
 
     extend ActiveSupport::Concern
 
-    # @todo allow specification of asset host URL in engine config via initializer
-    ASSET_HOST = 'http://styleguide.europeana.eu'
-
     included do
       if respond_to?(:prepend_view_path)
         prepend_view_path(File.expand_path('../../../app/views', __FILE__))

@@ -23,6 +23,13 @@ And then execute:
 
 ## Configuration
 
+### Asset host
+
+You will need to set the environment variable `EUROPEANA_STYLEGUIDE_ASSET_HOST`
+to the base URL where the styleguide assets are to be served from.
+
+### Caching
+
 In a production environment, it is strongly recommended that you enable the
 caching of compiled templates.
 
