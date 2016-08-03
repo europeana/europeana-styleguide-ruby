@@ -9,10 +9,7 @@ module Europeana
       end
 
       def styleguide_asset_host
-        @europeana_styleguide_view_asset_host ||= begin
-          host = ENV['EUROPEANA_STYLEGUIDE_ASSET_HOST']
-          host ||= Europeana::Styleguide::ASSET_HOST
-        end
+        ENV['EUROPEANA_STYLEGUIDE_ASSET_HOST']
       end
     end
   end
