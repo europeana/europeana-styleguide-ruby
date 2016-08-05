@@ -151,14 +151,14 @@ lv:
     actions:
       filter-all: Viss
       filter-by: Filtrēt pēc
-      fullscreen-enter: 
-      fullscreen-exit: 
+      fullscreen-enter: pilnekrāns
+      fullscreen-exit: iziet no pilnekrāna
     channel:
-      all: 
+      all: Visi ieraksti
       archaeology: arheoloģija
       architecture: arhitektūra
       art: māksla
-      art-history: 
+      art-history: Mākslas vēsture
       fashion: mode
       home: Sākums
       maps: kartes
@@ -173,8 +173,8 @@ lv:
     channels-music: Mūzika
     choose-language: Valoda
     cookie_disclaimer:
-      more_info: 
-      text: 
+      more_info: Papildinformācija
+      text: "Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija."
     email-address: e-pasta adrese
     facet:
       advanced:
@@ -228,7 +228,7 @@ lv:
         ukraine: Ukraina
         unitedkingdom: Apvienotā Karaliste
         unitedstatesofamerica: ASV
-        vaticancity: 
+        vaticancity: Vatikāns
       creator: autors
       header:
         collection: Kolekcijas
@@ -236,10 +236,10 @@ lv:
         country: Valsts
         data_provider: Institūcija
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Krāsa
+          designer: Dizainers
+          technique: Tehnika
+          type: Ieraksta veids
         image_aspectratio: Orientācija
         image_colour: Palete
         image_size: Izmērs
@@ -249,7 +249,7 @@ lv:
         mime_type: Datnes formāts
         provider: Agregators
         reusability: Vai es varu to izmantot?
-        rights: 
+        rights: Licence
         sound_duration: Ilgums
         sound_hq: Augstas kvalitātes
         text_fulltext: Pilnteksta
@@ -262,7 +262,7 @@ lv:
         landscape: Ainava
         portrait: Portrets
       image_colour:
-        'false': 
+        'false': Melnbalts
         'true': Krāsa
       image_size:
         extra_large: "Ļoti liels (4MP+)"
@@ -306,8 +306,8 @@ lv:
         yi: 
       less: Mazāk
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Nerādīt noteiktas licences
+        show-specific: Rādīt noteiktas licences
       media:
         'false': Nē
         'true': Jā
@@ -392,21 +392,21 @@ lv:
         from: 'no'
         to: līdz
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: 
-      submit: 
+      close: Aizvērt
+      error: Kļūda
+      open: Atsauksme
+      placeholder: Sazinies ar mums un pastāsti savas domas un kādi uzlabojumi būtu nepieciešami. Ja vēlies saņemt no mums atbildi, lūdzu, pievieno arī savu e-pasta adresi.
+      submit: Iesniegt
       thanks:
-        long: 
-        short: 
-      title: 
+        long: Paldies par atsauksmi! Ja nepieciešams, sazināsimies ar tevi pēc iespējas ātrāk.
+        short: Paldies!
+      title: Atsauksme
       type:
-        bug: 
-        comment: 
-        correction: 
+        bug: defekts
+        comment: komentārs
+        correction: labojums
     find-us-elsewhere: Meklē mūs arī citur
-    find-us-social-media: 
+    find-us-social-media: Meklē %{channel} sociālajos tīklos
     forgot-password: Aizmirsi savu paroli?
     genres: "žanri"
     genres-chamber-music: Kamermūzika
@@ -488,8 +488,8 @@ lv:
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Tagad meklēšanu ir iespējams filtrēt pēc noteiktas licences
+          new-grid: Vai esi redzējis jauno režģa izkārtojumu?
     type: tips
   'no': Norvēģija
   pl: Portugāle
