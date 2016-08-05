@@ -23,8 +23,8 @@ lv:
       exhibitions: Izstādes
       home: Sākums
       more:
-        agents: 
-        topics: 
+        agents: Vairāk cilvēku
+        topics: Vairāk tēmu
     pro-link: saite uz Profesionālo
     pro-text: teksts Profesionālajai
     settings: Iestatījumi
@@ -46,7 +46,7 @@ lv:
         tableh3: Datējums
         title: Jauns saturs
       people:
-        description: 
+        description: "Šeit var atrast mūsu kolekciju īpašos ierakstus, kas saistīti ar slavenu mākslinieku, komponistu un citu vēsturiski nozīmīgu personu dzīvi un darbiem."
         title: Cilvēki
       sources:
         description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu.
@@ -60,7 +60,7 @@ lv:
         title: Europeana mākslas vēsture
       data-types:
         3d: 3D objekti
-        all: 
+        all: Visi
         count: ieraksti
         images: Attēli
         moving-images: Video
@@ -88,7 +88,7 @@ lv:
         help: Palīdzība
         new-collections: Jaunas kolekcijas
         rights: Lietošanas noteikumi un politika
-        roadmap: 
+        roadmap: Attīstības atjauninājumi
         search-tips: Meklēšanas padomi
         using-myeuropeana: '"Mana Europeana" lietošana'
     more: Vairāk...
@@ -97,7 +97,7 @@ lv:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
+          return_home: Izstādes
         item_detail: Ieraksts
         results_list: Rezultāti
         return_home: Atgriezties uz sākumu
@@ -109,10 +109,10 @@ lv:
         attribute-plaintext: Vienkāršs teksts
         download: Lejupielādēt
         download-additional: Pieejams arī kā
-        download-retry: 
-        download-started: 
+        download-retry: Atkārtot
+        download-started: Lejupielāde uzsākta
         downloaddata: Lejupielādēt datus
-        explore-by-colour: 
+        explore-by-colour: Izpētīt pēc krāsas
         open-media: Atvērt šo ierakstu
         show-less-data: Rādīt mazāk datu
         show-more-data: Rādīt vairāk datu
@@ -156,7 +156,7 @@ lv:
         fps: Kadri sekundē
         has-type: Ir tips
         identifier: Identifikators
-        intermediate-provider: 
+        intermediate-provider: Starppiegādātājs
         is-format-of: Cits formāts
         is-part-of: Daļa no
         is-referenced-by: Norāde no
@@ -302,8 +302,8 @@ lv:
           list: Saraksts
         view-at-provider: Skatīt
     search:
-      browse: 
-      or-browse: 
+      browse: Pārlūko
+      or-browse: vai pārlūko
       placeholder:
         text: Pievienot meklējamo vārdu
       similar:
