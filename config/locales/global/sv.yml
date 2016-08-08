@@ -243,6 +243,7 @@ sv:
         image_aspectratio: Orientering
         image_colour: Palett
         image_size: Storlek
+        intermediateprovider: 
         language: Språk
         language_of_description: Beskriven på
         media: Enbart poster med medialänkar

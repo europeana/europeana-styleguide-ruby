@@ -243,6 +243,7 @@ en:
         image_aspectratio: Orientation
         image_colour: Palette
         image_size: Size
+        intermediateprovider: Intermediate Provider
         language: Language
         language_of_description: Language of Description
         media: Only items with links to media

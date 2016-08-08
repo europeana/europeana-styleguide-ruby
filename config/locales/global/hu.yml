@@ -243,6 +243,7 @@ hu:
         image_aspectratio: Tájolás
         image_colour: Paletta
         image_size: Méret
+        intermediateprovider: 
         language: Nyelv
         language_of_description: Leírás nyelve
         media: Csak médiára mutató linket tartalmazó elemek

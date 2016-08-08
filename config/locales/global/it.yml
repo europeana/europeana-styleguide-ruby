@@ -243,6 +243,7 @@ it:
         image_aspectratio: Orientamento
         image_colour: 
         image_size: Dimensione
+        intermediateprovider: 
         language: Lingua
         language_of_description: Lingua della descrizione
         media: 

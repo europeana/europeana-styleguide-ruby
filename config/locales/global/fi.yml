@@ -243,6 +243,7 @@ fi:
         image_aspectratio: Suunta
         image_colour: Paletti
         image_size: Koko
+        intermediateprovider: 
         language: Kieli
         language_of_description: Kuvailukieli
         media: Vain kohteet, joista on kuva

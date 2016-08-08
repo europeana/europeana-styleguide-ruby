@@ -243,6 +243,7 @@ lt:
         image_aspectratio: Pozicija
         image_colour: Paletė
         image_size: Dydis
+        intermediateprovider: 
         language: Kalba
         language_of_description: Aprašymo kalba
         media: Tik įrašai su nuorodomis

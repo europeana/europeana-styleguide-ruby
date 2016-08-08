@@ -243,6 +243,7 @@ nl:
         image_aspectratio: Oriëntatie
         image_colour: Palet
         image_size: Grootte
+        intermediateprovider: 
         language: Taal
         language_of_description: Omschrijving in
         media: Alleen objecten die naar media verwijzen

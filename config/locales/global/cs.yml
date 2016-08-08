@@ -243,6 +243,7 @@ cs:
         image_aspectratio: 
         image_colour: 
         image_size: 
+        intermediateprovider: 
         language: 
         language_of_description: 
         media: 

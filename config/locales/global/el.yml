@@ -243,6 +243,7 @@ el:
         image_aspectratio: "Προσανατολισμός"
         image_colour: "Παλέτα"
         image_size: "Μέγεθος"
+        intermediateprovider: 
         language: "Γλώσσα"
         language_of_description: "Γλώσσα Περιγραφής"
         media: "Μόνο αντικείμενα με συνδέσμους σε μέσα"

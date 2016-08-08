@@ -243,6 +243,7 @@ da:
         image_aspectratio: Orientering
         image_colour: Palette
         image_size: Størrelse
+        intermediateprovider: 
         language: Sprog
         language_of_description: Hvilket sprog er beskrivelsen
         media: " Kun materiale med links til medier"

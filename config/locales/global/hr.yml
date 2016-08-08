@@ -243,6 +243,7 @@ hr:
         image_aspectratio: Orijentacija
         image_colour: Paleta
         image_size: Veličina
+        intermediateprovider: 
         language: Jezik
         language_of_description: Jezik opisa
         media: 'Samo '

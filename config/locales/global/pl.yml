@@ -243,6 +243,7 @@ pl:
         image_aspectratio: Orientacja
         image_colour: Paleta
         image_size: Rozmiar
+        intermediateprovider: 
         language: Język
         language_of_description: Język opisu
         media: Pokaż wyłącznie obiekty z bezpośrednim dostępem do mediów

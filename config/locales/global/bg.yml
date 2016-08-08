@@ -243,6 +243,7 @@ bg:
         image_aspectratio: "Ориентация"
         image_colour: "Палитра"
         image_size: "Размер"
+        intermediateprovider: 
         language: "Език"
         language_of_description: "Език на описанието"
         media: "Само обекти с линк към медийния файл"

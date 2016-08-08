@@ -243,6 +243,7 @@
         image_aspectratio: Orientering
         image_colour: Palett
         image_size: Størrelse
+        intermediateprovider: 
         language: Språk
         language_of_description: Språk til beskrivning
         media: Bare objekter med lenker til media

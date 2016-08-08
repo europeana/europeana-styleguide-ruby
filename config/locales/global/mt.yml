@@ -243,6 +243,7 @@ mt:
         image_aspectratio: Orientazzjoni
         image_colour: Paletta
         image_size: Daqs
+        intermediateprovider: 
         language: Lingwa
         language_of_description: Lingwa tad-Deskrizzjoni
         media: Oġġetti bil-links għall-media biss

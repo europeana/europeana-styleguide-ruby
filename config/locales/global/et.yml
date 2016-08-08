@@ -243,6 +243,7 @@ et:
         image_aspectratio: Orientatsioon
         image_colour: Palett
         image_size: Suurus
+        intermediateprovider: 
         language: Keel
         language_of_description: Keel ja kirjeldus
         media: Ainult meedialingiga tulemused

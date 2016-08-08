@@ -243,6 +243,7 @@ ro:
         image_aspectratio: Orientare
         image_colour: Paletă coloristică
         image_size: Dimensiune
+        intermediateprovider: 
         language: Limbă
         language_of_description: Limba Descrierii
         media: Doar înregistrări cu legături către fișiere media

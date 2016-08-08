@@ -243,6 +243,7 @@ fr:
         image_aspectratio: Orientation
         image_colour: Palette
         image_size: Taille
+        intermediateprovider: 
         language: Langue
         language_of_description: Langue de la description
         media: Seulement les objets avec un lien direct vers le contenu

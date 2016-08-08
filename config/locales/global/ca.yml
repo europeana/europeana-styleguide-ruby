@@ -243,6 +243,7 @@ ca:
         image_aspectratio: Orientació
         image_colour: Paleta
         image_size: Mida
+        intermediateprovider: 
         language: Llengua
         language_of_description: Idioma de la descripció
         media: Només ítems que enllacin a fitxers

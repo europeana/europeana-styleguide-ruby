@@ -243,6 +243,7 @@ es:
         image_aspectratio: Orientación
         image_colour: Paleta
         image_size: Tamaño
+        intermediateprovider: 
         language: Idioma
         language_of_description: Idioma de Descripción
         media: Unicamente objetos con links multimedia
