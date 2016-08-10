@@ -149,12 +149,12 @@ es:
   global:
     about-us: Sobre nosotros
     actions:
-      filter-all: 
+      filter-all: Todos
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
-      all: 
+      all: Todas
       archaeology: arqueología
       architecture: arquitectura
       art: Historia del Arte
@@ -212,7 +212,7 @@ es:
         lithuania: Litúania
         luxembourg: Luxémburgo
         malta: Malta
-        netherlands: Paises Bajos
+        netherlands: Países Bajos
         norway: Noruega
         poland: Polonia
         portugal: Portugal
@@ -228,12 +228,12 @@ es:
         ukraine: Ucrania
         unitedkingdom: Reino Unido
         unitedstatesofamerica: EEUU
-        vaticancity: 
+        vaticancity: Ciudad del Vaticano
       creator: creador
       header:
         collection: Colecciones
         colourpalette: Color
-        country: Pais
+        country: País
         data_provider: Institución
         fashion:
           colour: color
@@ -246,10 +246,11 @@ es:
         intermediateprovider: 
         language: Idioma
         language_of_description: Idioma de Descripción
-        media: Unicamente objetos con links multimedia
+        media: Solo ítems con enlace a los objetos
         mime_type: Formato de archivo
         provider: Agregador
-        reusability: Puedo usarlo?
+        reusability: |
+          ¿Puedo usarlo?
         rights: Licence
         sound_duration: Duración
         sound_hq: Alta Calidad
@@ -333,9 +334,9 @@ es:
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-ucs: Unknown copyright status
         expiry: 
-        open: Si con atribución
+        open: Sí con atribución
         permission: Solo con permiso
-        restricted: Si con restricciones
+        restricted: Sí con restricciones
         simple: Simple
       sound_duration:
         long: Largo (6+ min)
@@ -406,7 +407,8 @@ es:
         bug: bug
         comment: comentario
         correction: corrección
-    find-us-elsewhere: Encuentranos en
+    find-us-elsewhere: |
+      ENCUÉNTRANOS EN
     find-us-social-media: Encontrar %{channel} en las redes sociales
     forgot-password: Olvidaste tu contraseña?
     genres: generos
@@ -458,7 +460,8 @@ es:
     language-swedish: Sueco
     language-ukranian: Ucraniano
     login: Accede
-    mission: Queremos constuir sobre la rica cultura Europea y hacer más facil su uso, ya sea para trabajar o aprender
+    mission: |
+      ¡Transformamos el mundo a través de la cultura! Queremos aprovechar el enorme patrimonio cultural Europeo y que la gente pueda usarlo fácilmente para su trabajo, su aprendizaje o por puro placer.
     mission-title: Nuestra misión
     more:
       load-more: Más
@@ -469,7 +472,7 @@ es:
       email-address-invalid: 'Debe de ser una direccion de correo electronico valida '
       email-address-required: 
       language-required: 
-      signup: 
+      signup: Suscríbete a nuestro newsletter
     our-sites: nuestros sitios
     password: Contraseña
     professional: Profesional
@@ -481,7 +484,7 @@ es:
     research-text: Conecta con la comunidad académica
     search-area:
       search-button-image-alt: Busca
-      search-placeholder-text: Introducir términos de búsqueda
+      search-placeholder-text: Introducir término de búsqueda
     search-collections: Colecciones
     search-collections-text: Explora el Patrimonio Cultural Europeo
     share: Compartir
@@ -491,7 +494,7 @@ es:
       channels:
         search:
           new-filter: 
-          new-grid: 
+          new-grid: "¿Has visto la nueva presentación en formato tabla?"
     type: Tipo
   'no': Noruega
   pl: Portugal
