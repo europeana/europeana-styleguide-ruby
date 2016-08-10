@@ -9,7 +9,7 @@ es:
   global:
     labs-link: 'link a labs '
     navigation:
-      agents: 
+      agents: Personas
       all_blog_posts: Todos los Posts...
       all_exhibitions: Todas las Exposiciones
       blog: Blog
@@ -19,7 +19,7 @@ es:
       browse_sources: Recursos
       channels: Colecciones
       collections: Colecciones
-      concepts: 
+      concepts: Temas
       exhibitions: Exposiciones
       home: Inicio
       more:
@@ -80,15 +80,15 @@ es:
     footer:
       menu:
         about: Acerca de
-        become-a-provider: Unete a nosotros
+        become-a-provider: "Únete a nosotros"
         contact: Contactar
-        contact-us: 
+        contact-us: Contacta con nosotros
         copyright: Derechos de Autor
         data-providers: Todos los proveedores de datos
         help: Ayuda
         new-collections: Nuevas Colecciones
         rights: Terminos de usp
-        roadmap: actualizaciones de desarrollo
+        roadmap: Actualizaciones
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
     more: Más
@@ -97,7 +97,7 @@ es:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
+          return_home: Exposiciones
         item_detail: Detalles del objeto
         results_list: Resulatdos
         return_home: Regresar al Inicio
@@ -270,7 +270,7 @@ es:
           text: Texto
           video: Video
         count-and-terms: "%{results_count} resultados"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} de %{results_count} resultados"
         empty: No hay resultados
         empty-with-terms: 'Tu búsqueda de %{query_terms} no ha dado resultados '
         header: Resultados para
@@ -280,7 +280,7 @@ es:
         less_adv: Menos filtros
         more: Más
         more_adv: Filtros avanzados
-        per-page: 
+        per-page: Por página
         product-3D: 3D
         product-image: 'Imagen '
         product-sound: Sonido
@@ -288,8 +288,8 @@ es:
         product-video: Video
         results-relevance: Relevancia
         results-view:
-          grid: 
-          list: 
+          grid: Tabla
+          list: Listado
         single-result: 1 resultado para %{query_terms}
         view:
           grid: Retícula
