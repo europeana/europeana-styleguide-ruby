@@ -11,7 +11,7 @@ es:
     navigation:
       agents: 
       all_blog_posts: Todos los Posts...
-      all_exhibitions: Todas las Exhibiciones
+      all_exhibitions: Todas las Exposiciones
       blog: Blog
       browse: Explorar
       browse_colours: Colores
@@ -20,7 +20,7 @@ es:
       channels: Colecciones
       collections: Colecciones
       concepts: 
-      exhibitions: Exhibiciones
+      exhibitions: Exposiciones
       home: Inicio
       more:
         agents: 
@@ -47,13 +47,13 @@ es:
         title: Nuevo Contenido
       people:
         description: 
-        title: 
+        title: Personas
       sources:
         description: 
         title: Recursos
       topics:
         description: 
-        title: 
+        title: Temas
     collections:
       art-history:
         description: Desde el Renacimiento a los surrealistas, pasando por la escultura del Imperio Romano al Arte Contemporáneo, Europeana Arte y el canal de Historia del Arte te presentan a los artistas y las obras de toda Europa.
