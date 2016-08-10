@@ -157,8 +157,8 @@ ca:
       all: 
       archaeology: arqueologia
       architecture: arquitectura
-      art: art
-      art-history: 
+      art: Història de l'art
+      art-history: Història de l'art
       fashion: moda
       home: 'Inici '
       maps: mapes
@@ -166,11 +166,11 @@ ca:
       natural-history: història natural
       newspapers: diaris
       performing-arts: arts escèniques
-    channels-art: Col·leccions d'Història de l'Art
+    channels-art: Història de l'Art
     channels-art-image: Imatges de la Col·lecció d'Història de l'Art
     channels-art-link: Col·leccions d'Història de l'Art
     channels-fashion: Moda
-    channels-music: Moda
+    channels-music: Música
     choose-language: Llengua
     cookie_disclaimer:
       more_info: 

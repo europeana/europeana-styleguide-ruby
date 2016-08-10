@@ -157,8 +157,8 @@ es:
       all: 
       archaeology: arqueología
       architecture: arquitectura
-      art: arte
-      art-history: 
+      art: Historia del Arte
+      art-history: Historia del Arte
       fashion: moda
       home: Inicio
       maps: mapas
@@ -166,7 +166,7 @@ es:
       natural-history: historia natural
       newspapers: prensa
       performing-arts: artes escenicas
-    channels-art: Colección de Historia del Arte
+    channels-art: Historia del Arte
     channels-art-image: 'Colección de Historia del Arte Imagen '
     channels-art-link: Colección de Historia del Arte
     channels-fashion: Moda
