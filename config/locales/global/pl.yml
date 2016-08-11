@@ -154,15 +154,15 @@ pl:
       fullscreen-enter: 
       fullscreen-exit: 
     channel:
-      all: 
+      all: Wszystko
       archaeology: archeologia
       architecture: architektura
       art: sztuka
-      art-history: 
+      art-history: Historia Sztuki
       fashion: moda
       home: Strona główna
       maps: mapy
-      music: muzyka
+      music: Muzyka
       natural-history: historia naturalna
       newspapers: gazety
       performing-arts: sztuki performatywne
