@@ -9,22 +9,22 @@ it:
   global:
     labs-link: Link ai laboratori
     navigation:
-      agents: 
+      agents: Persone
       all_blog_posts: Tutti i messaggi
-      all_exhibitions: Tutte le esibizioni
+      all_exhibitions: Tutte le esposizioni
       blog: Blog
-      browse: Motore di ricerca
+      browse: Esplora
       browse_colours: Colori
       browse_newcontent: Nuovo contenuto
       browse_sources: Fonti
       channels: Collezioni
       collections: Collezioni
-      concepts: 
-      exhibitions: Esibizioni
+      concepts: Argomenti
+      exhibitions: Esposizioni
       home: Pagina principale
       more:
         agents: 
-        topics: 
+        topics: Più argomenti
     pro-link: Link a pro
     pro-text: Testo per pro
     settings: Impostazioni
@@ -37,7 +37,7 @@ it:
     blog-link: link al blog
     browse:
       colours:
-        description: 
+        description: Cerca tra le immagini a partire dai loro colori. Clicca sul un box colorato per scoprire quali immagini contengono quel colore!
         title: Colori
       newcontent:
         description: 
@@ -47,13 +47,13 @@ it:
         title: Nuovo contenuto
       people:
         description: 
-        title: 
+        title: Persone
       sources:
         description: 
         title: Fonti
       topics:
-        description: 
-        title: 
+        description: Esplora la nostra Collezione per argomento, tema o genere
+        title: Temi
     collections:
       art-history:
         description: Dal Rinascimento ai surrealisti, e dall'antica scultura romana all'arte contemporanea, la Collezione d'Arte e Storia dell'arte di Europeana vi presenta artisti e opere d'arte provenienti da tutta l'Europa.
@@ -79,16 +79,16 @@ it:
           results: Risultati
     footer:
       menu:
-        about: 
-        become-a-provider: Diventa un fornitore di dati
+        about: Cosa facciamo
+        become-a-provider: Diventa un partner Europeana
         contact: Contatto
-        contact-us: 
+        contact-us: Contattaci
         copyright: Diritto d'autore
-        data-providers: Tutti i fornitori di dati
+        data-providers: I nostri partner
         help: Aiuto
         new-collections: Nuove Collezioni
         rights: Condizioni d'uso e linee di condotta
-        roadmap: Aggiornamenti sullo sviluppo
+        roadmap: Aggiornamenti e sviluppo
         search-tips: Suggerimenti di ricerca
         using-myeuropeana: 'Utilizzando or Utilizzare la Mia Europeana '
     more: Di più
@@ -97,8 +97,8 @@ it:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
-        item_detail: Dettaglio della voce or elemento or articolo
+          return_home: Esposizione
+        item_detail: Risultato
         results_list: Lista dei risultati
         return_home: Ritorna alla Pagina principale
     news: Notizie
@@ -110,13 +110,13 @@ it:
         download: Scarica
         download-additional: Anche disponibile come
         download-retry: 
-        download-started: 
+        download-started: Il download è cominciato
         downloaddata: Scarica i dati
-        explore-by-colour: 
+        explore-by-colour: Esplora per colore
         open-media: 
         show-less-data: Mostra meno
         show-more-data: Mostra di più
-        technicalmetadata: 
+        technicalmetadata: Metadata tecnici
       enrichment:
         who:
           title: Titolo
@@ -126,7 +126,7 @@ it:
         view-items-below: Vedi le voci or gli articoli sotto
       meta-label:
         codec: Codec
-        collection-name: Dataset or set di dati
+        collection-name: Dataset
         concept: Concetto or Idea
         concepts: Classificazioni
         consists-of: Consiste di
@@ -156,7 +156,7 @@ it:
         fps: Fotogrammi al secondo
         has-type: "è di tipo"
         identifier: Identificatore
-        intermediate-provider: 
+        intermediate-provider: Provider intermedio
         is-format-of: "È formato di or da"
         is-part-of: "È parte di"
         is-referenced-by: "è referenziato da"
@@ -170,7 +170,7 @@ it:
         map: Mappa
         map-tiles: 
         medium: Medium
-        people: Gente
+        people: Persone
         period: Periodo
         place: Luogo
         place-time: Luogo/Tempo
@@ -178,7 +178,7 @@ it:
         provenance: Provenienza
         provided-by: Scopri di più
         provided-by-detail: 
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: Europeana sta mostrando questo risultato tramite
         provider: Fornitore
         providing-country: Paese fornitore
         publication-date: Data di pubblicazione
@@ -204,22 +204,22 @@ it:
         ugc: Contenuto contribuito dall'utente
         version: Versione
       named-entities:
-        title: 
+        title: Entità
         what:
-          broader: Concetta Larga
-          label: Etichetta della concetta
-          term: Termine della concetta
+          broader: Termine più generale
+          label: Etichetta del Concetto
+          term: Concetto
           title: Cosa
         when:
           begin: Inizio Periodo
           end: Fine Periodo
           label: Etichetta del Periodo
           term: Termine Periodo
-          title: 
+          title: Quando
         where:
           label: Etichetta del Posto
           latitude: Latitudine del Posto
-          longitude: Posto Longitudine
+          longitude: Longitudine
           term: Termine del Posto
           title: Dove
         who:
@@ -252,9 +252,9 @@ it:
         dutchmasters: 
         favouriteart: 
         label: 
-        newcollection: 
-        product-save: 
-        saveto: 
+        newcollection: Nowa kolekcja
+        product-save: Zapisz
+        saveto: Zapisz do
         show-all-collections: 
       list:
         all-results:

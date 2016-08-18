@@ -296,7 +296,7 @@ es:
           list: Lista
         view-at-provider: Ver en
     search:
-      browse: Vistazo
+      browse: Navegar
       or-browse: o navegar
       placeholder:
         text: 'Añadir término de búsqueda '

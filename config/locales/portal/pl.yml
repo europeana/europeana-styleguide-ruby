@@ -3,9 +3,9 @@ pl:
     site:
       browse:
         newcontent:
-          description: 
+          description: Poniżej przedstawiamy ostatnio dodane kolekcje. Kliknij na wybraną instytucję, aby zobaczyć ile oraz jakie obiekty dodała do Europeany!
         sources:
-          description: 
+          description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
   global:
     labs-link: link do labs
     navigation:
@@ -23,8 +23,8 @@ pl:
       exhibitions: Wystawy
       home: Strona główna
       more:
-        agents: 
-        topics: 
+        agents: Więcej osób
+        topics: Więcej tematów
     pro-link: link do Europeana Pro
     pro-text: tekst dla Europeana Pro
     settings: Ustawienia
@@ -37,23 +37,23 @@ pl:
     blog-link: http://blog.europeana.eu
     browse:
       colours:
-        description: 
+        description: Wyszukuj obrazy ze względu na kolor. Kliknij na wybrany kolor poniżej, aby zobaczyć obrazy, które go zawierają!
         title: Kolory
       newcontent:
-        description: 
+        description: Poniżej przedstawiamy ostatnio dodane kolekcje. Kliknij na wybraną instytucję, aby zobaczyć ile oraz jakie obiekty dodała do Europeany!
         tableh1: Wszystkie instytucje
         tableh2: Obiekty
         tableh3: Data
         title: Nowości
       people:
-        description: 
-        title: 
+        description: Odkrywaj zbiory związane ze ważnymi osobami z dziedziny kultury i sztuki. Znajdziesz tu nie tylko malarzy czy kompozytorów, a także znane postacie historyczne.
+        title: Osoby
       sources:
-        description: 
+        description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
         title: "Źródła"
       topics:
-        description: 
-        title: 
+        description: Odkrywaj nasze Kolekcje wybierając temat, który Cię interesuje.
+        title: Tematy
     collections:
       art-history:
         description: Od renesansu do surrealistów, od starożytnej rzymskiej rzeźby do sztuki współczesnej, Europeana Historia Sztuki, pozwoli Ci zapoznać się z artystami i ich pracami z całej Europy.
@@ -82,7 +82,7 @@ pl:
         about: O nas
         become-a-provider: Zostań naszym partnerem
         contact: Kontakt
-        contact-us: 
+        contact-us: Napisz do nas
         copyright: Prawo autorskie
         data-providers: Wszystkie instytucje
         help: Pomoc
@@ -97,7 +97,7 @@ pl:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
+          return_home: Wystawy
         item_detail: Detal
         results_list: Lista Wyników
         return_home: Powrót do strony głównej
@@ -109,10 +109,10 @@ pl:
         attribute-plaintext: Zwykły tekst
         download: "Ściągnij"
         download-additional: Dostępne także jako
-        download-retry: 
-        download-started: 
+        download-retry: Spróbuj ponownie
+        download-started: "Ściąganie rozpoczęte"
         downloaddata: "Ściągnij dane"
-        explore-by-colour: 
+        explore-by-colour: Odkrywaj według kolorów
         open-media: Otwórz
         show-less-data: Pokaż mniej
         show-more-data: Pokaż więcej
@@ -156,7 +156,7 @@ pl:
         fps: 'Klatki na sekundę '
         has-type: Ma rodzaj
         identifier: Identyfikator
-        intermediate-provider: 
+        intermediate-provider: Instytucja pośrednicząca
         is-format-of: Jest w formacie
         is-part-of: Jest częścią
         is-referenced-by: Ma odniesienie w
@@ -178,7 +178,7 @@ pl:
         provenance: Pochodzenie
         provided-by: Dowiedz się więcej
         provided-by-detail: Europeana prezentuje ten obiekt przez %{institution_name_and_link}. Odwiedź ich stronnę, aby uzyskać więcej informacji.
-        provided-by-detail-no-link: 
+        provided-by-detail-no-link: 'Europeana prezentuje ten obiekt przez '
         provider: Agregator
         providing-country: Kraj dostarczający
         publication-date: Data wydania
@@ -277,7 +277,7 @@ pl:
           text: Tekst
           video: Wideo
         count-and-terms: "%{results_count} wyników"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} z %{results_count} wyników"
         empty: Brak Wyników
         empty-with-terms: Twoje zapytanie %{query_terms} nie przyniosło wyników
         header: Wyniki dla
@@ -287,7 +287,7 @@ pl:
         less_adv: Mniej Filtrów
         more: Więcej
         more_adv: Zaawansowane filtry
-        per-page: 
+        per-page: Liczba wyników na stronie
         product-3D: 3D
         product-image: Obraz
         product-sound: Dźwięk
@@ -295,8 +295,8 @@ pl:
         product-video: Wideo
         results-relevance: Trafność
         results-view:
-          grid: 
-          list: 
+          grid: Widok siatki
+          list: Widok listy
         single-result: 1 wynik dla %{query_terms}
         view:
           grid: Siatka
