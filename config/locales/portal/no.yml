@@ -113,6 +113,7 @@
         download-started: 
         downloaddata: 'Last ned '
         explore-by-colour: 
+        media-metadata: 
         open-media: "Åpne dette mediaobjektet"
         show-less-data: Vis mindre data
         show-more-data: Vis mer data

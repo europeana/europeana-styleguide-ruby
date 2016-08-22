@@ -113,6 +113,7 @@ fi:
         download-started: 
         downloaddata: Lataa data
         explore-by-colour: 
+        media-metadata: 
         open-media: Avaa mediakohde
         show-less-data: Näytä vähemmän tietoa
         show-more-data: Näytä enemmän tietoa

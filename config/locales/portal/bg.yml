@@ -113,6 +113,7 @@ bg:
         download-started: 
         downloaddata: "Изтегли данни"
         explore-by-colour: 
+        media-metadata: 
         open-media: "Отвори този медиен обект"
         show-less-data: "Покажи по-малко данни"
         show-more-data: "Покажи повече данни"
