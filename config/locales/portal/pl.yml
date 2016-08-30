@@ -81,8 +81,8 @@ pl:
       menu:
         about: O nas
         become-a-provider: Zostań naszym partnerem
-        contact: Kontakt
-        contact-us: Napisz do nas
+        contact: Napisz do nas
+        contact-us: Skontaktuj się z nami
         copyright: Prawo autorskie
         data-providers: Wszystkie instytucje
         help: Pomoc
@@ -98,7 +98,7 @@ pl:
       breadcrumb:
         exhibitions:
           return_home: Wystawy
-        item_detail: Detal
+        item_detail: Obiekt
         results_list: Lista Wyników
         return_home: Powrót do strony głównej
     news: Wiadomości
@@ -113,7 +113,7 @@ pl:
         download-started: "Ściąganie rozpoczęte"
         downloaddata: "Ściągnij dane"
         explore-by-colour: Odkrywaj według kolorów
-        media-metadata: 
+        media-metadata: Metadane Obiektu
         open-media: Otwórz
         show-less-data: Pokaż mniej
         show-more-data: Pokaż więcej
@@ -175,7 +175,7 @@ pl:
         period: Okres
         place: Miejsce
         place-time: Miejsce/Czas
-        properties: Własności
+        properties: Opis fizyczny
         provenance: Pochodzenie
         provided-by: Dowiedz się więcej
         provided-by-detail: Europeana prezentuje ten obiekt przez %{institution_name_and_link}. Odwiedź ich stronnę, aby uzyskać więcej informacji.
@@ -194,7 +194,7 @@ pl:
         source: "Źródło"
         subject: Przedmiot
         temporal: Przejściowy
-        time: Czas
+        time: Okres
         timestamp-created: Pierwszy raz dostępne w Europeanie
         timestamp-updated: Ostatni raz zaktualizowane w Europeanie
         timestamp_created: Pierwszy raz dostępne w Europeanie (%{timestamp_created})
@@ -205,28 +205,28 @@ pl:
         ugc: Materiały dodane przez użytkowników
         version: Wersja
       named-entities:
-        title: Podmioty
+        title: Tematy
         what:
-          broader: Termin Szerszy
-          label: Etykieta Pojęcia
-          term: Definicja Terminu
-          title: Co
+          broader: Pojęcie Szersze
+          label: Pojęcie Etykieta
+          term: Pojęcie Definicja
+          title: Tematy, rodzaje, gatunki (Pojęcia)
         when:
           begin: Początek Okresu
           end: Koniec Okresu
-          label: Okres etykieta
-          term: Okres termin
-          title: Kiedy
+          label: Okres Etykieta
+          term: Okres Definicja
+          title: Okresy i daty
         where:
-          label: Miejsce etykieta
+          label: Miejsce Etykieta
           latitude: Szerokość geograficzna
           longitude: Długość geograficzna
-          term: Miejsce termin
-          title: Gdzie
+          term: Miejsce Definicja
+          title: Miejsca
         who:
-          label: Podmiot etykieta
-          term: Podmiot termin
-          title: Kto
+          label: Osoba Etykieta
+          term: Osoba Definicja
+          title: Osoby i ciała zbiorowe
       nav:
         next: Następny
         prev: Poprzedni
