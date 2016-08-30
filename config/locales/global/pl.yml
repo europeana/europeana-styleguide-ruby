@@ -152,7 +152,7 @@ pl:
       filter-all: Wszystko
       filter-by: Filtruj
       fullscreen-enter: pełny ekran
-      fullscreen-exit: 
+      fullscreen-exit: wyjście z trybu pełnoekranowego
     channel:
       all: Wszystko
       archaeology: archeologia
@@ -167,14 +167,14 @@ pl:
       newspapers: gazety
       performing-arts: sztuki performatywne
     channels-art: Historia Sztuki
-    channels-art-image: Kanały sztuka obraz
-    channels-art-link: Kanały sztuka link
+    channels-art-image: Historia Sztuki Kolekcje obraz
+    channels-art-link: Historia Sztuki Kolekcje
     channels-fashion: Moda
     channels-music: Muzyka
     choose-language: Język
     cookie_disclaimer:
-      more_info: 
-      text: 
+      more_info: Więcej informacji
+      text: Nasza strona używa plików cookies (tzw. ciasteczek) aby zapewnić wygodniejsze korzystanie z serwisu. Pozostając na niej, wyrażasz zgodę na gromadzenie przez nas danych poprzez pliki cookies.
     email-address: email
     facet:
       advanced:
@@ -228,10 +228,10 @@ pl:
         ukraine: Ukraina
         unitedkingdom: Wielka Brytania
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Watykan
       creator: twórca
       header:
-        collection: Kanały
+        collection: Kolekcje
         colourpalette: Kolor
         country: Kraj
         data_provider: Instytucja
@@ -243,7 +243,7 @@ pl:
         image_aspectratio: Orientacja
         image_colour: Paleta
         image_size: Rozmiar
-        intermediateprovider: 
+        intermediateprovider: Instytucja Pośrednicząca
         language: Język
         language_of_description: Język opisu
         media: Pokaż wyłącznie obiekty z bezpośrednim dostępem do mediów
@@ -254,10 +254,10 @@ pl:
         sound_duration: Czas trwania
         sound_hq: Dobra Jakość
         text_fulltext: Pełna Treść
-        type: Media
+        type: Rodzaje
         ugc: Pokaż obiekty dodane przez użytkowników
         video_duration: Czas Trwania
-        video_hd: 
+        video_hd: Jakość
         year: Data
       image_aspectratio:
         landscape: Pejzaż
@@ -332,10 +332,10 @@ pl:
         advanced-rrpa: ''
         advanced-rrra: ''
         advanced-ucs: ''
-        expiry: 
-        open: Tak, ale z podaniem źródła
-        permission: Tylko za pisemną zgodą
-        restricted: Tak, ale z ograniczeniami
+        expiry: do %{date}
+        open: Tak, ale pamiętaj o podaniu źródła.
+        permission: Nie - wymagana jest pisemna zgoda.
+        restricted: Tak, ale z pewnymi ograniczeniami.
         simple: Proste
       sound_duration:
         long: Długi
@@ -393,15 +393,14 @@ pl:
         from: od
         to: do
     feedback:
-      close: Blisko
-      error: Error
-      open: Feedback
-      placeholder: Jeśli chcesz się skontaktować , proszę zostawić nam swój adres e-mail !
-      submit: Zatwierdź
+      close: Zamknij
+      error: Błąd
+      open: Twoja Opinia
+      placeholder: Napisz nam co możemy poprawić. Jeśli chcesz byśmy pozostali w kontakcie, nie zapomnij zostawić swojego adresu e-mail!
+      submit: Wyślij
       thanks:
-        long: |
-          Dziękujemy za twoją opinię. Jeśli potrzebne; my do was wrócić jak najszybciej
-        short: Dziękuję Ci!
+        long: Dziękujemy za opinię! W razie potrzeby skontaktujemy się z Tobą niezwłocznie.
+        short: Dziękujemy!
       title: Feedback
       type:
         bug: bug
@@ -476,7 +475,7 @@ pl:
     professional: Europeana Pro
     professional-text: Zaangażuj się, podziel się swoją wiedzą lub wykorzystaj naszą.
     refine-your-search: Zawęź wyniki wyszukiwania
-    refine-your-search-short: 
+    refine-your-search-short: Filtry
     register: Zarejestruj się
     research: Europeana Research
     research-text: Dołącz do naukowców z całej Europy
@@ -491,8 +490,8 @@ pl:
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Teraz możesz zawęzić wyszukiwanie do konkretnej licencji
+          new-grid: Wypróbowaliście już nowy widok siatki?
     type: typ
   'no': Norwegia
   pl: Portugalia

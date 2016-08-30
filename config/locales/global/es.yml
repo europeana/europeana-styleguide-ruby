@@ -150,9 +150,9 @@ es:
     about-us: Sobre nosotros
     actions:
       filter-all: Todos
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
+      filter-by: Filtrar por
+      fullscreen-enter: pantalla completa
+      fullscreen-exit: salir de pantalla completa
     channel:
       all: Todas
       archaeology: arqueología
@@ -173,8 +173,8 @@ es:
     channels-music: Música
     choose-language: Idioma
     cookie_disclaimer:
-      more_info: 
-      text: 
+      more_info: Más información
+      text: Este sitio web utiliza cookies para asegurarse que obtenga la mejor experiencia en nuestro sitio web. Al hacer clic o navegar por el sitio, usted se compromete a permitirnos la recopilación de información a través de cookies.
     email-address: dirección de correo electrónico
     facet:
       advanced:
@@ -243,7 +243,7 @@ es:
         image_aspectratio: Orientación
         image_colour: Paleta
         image_size: Tamaño
-        intermediateprovider: 
+        intermediateprovider: Proveedor intermedio
         language: Idioma
         language_of_description: Idioma de Descripción
         media: Solo ítems con enlace a los objetos
@@ -258,7 +258,7 @@ es:
         type: Multimedia
         ugc: Mostrar contenido generado por los usuarios
         video_duration: Duración de Video
-        video_hd: 
+        video_hd: Calidad
         year: Fecha
       image_aspectratio:
         landscape: Paisaje
@@ -333,7 +333,7 @@ es:
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
         advanced-ucs: Unknown copyright status
-        expiry: 
+        expiry: hasta %{date}
         open: Sí con atribución
         permission: Solo con permiso
         restricted: Sí con restricciones
@@ -470,15 +470,15 @@ es:
     more-info: Más información
     newsletter:
       email-address-invalid: 'Debe de ser una direccion de correo electronico valida '
-      email-address-required: 
-      language-required: 
+      email-address-required: Debe especificar una dirección de correo electrónico.
+      language-required: Debe especificar un idioma.
       signup: Suscríbete a nuestro newsletter
     our-sites: nuestros sitios
     password: Contraseña
     professional: Profesional
     professional-text: Participa, comparte tus datos o usa los nuestros
     refine-your-search: Refina tu busqueda
-    refine-your-search-short: 
+    refine-your-search-short: Filtro
     register: Registrate
     research: Investiga
     research-text: Conecta con la comunidad académica
@@ -493,7 +493,7 @@ es:
     tooltips:
       channels:
         search:
-          new-filter: 
+          new-filter: Ahora puede filtrar su búsqueda sobre licencias específicas
           new-grid: "¿Has visto la nueva presentación en formato tabla?"
     type: Tipo
   'no': Noruega

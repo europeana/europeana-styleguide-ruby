@@ -149,9 +149,9 @@
   global:
     about-us: Om oss
     actions:
-      filter-all: 
+      filter-all: Alt
       filter-by: 
-      fullscreen-enter: 
+      fullscreen-enter: full skjerm
       fullscreen-exit: 
     channel:
       all: 
@@ -173,7 +173,7 @@
     channels-music: Musikk
     choose-language: Språk
     cookie_disclaimer:
-      more_info: 
+      more_info: Mer informasjon
       text: 
     email-address: epostadresse
     facet:
@@ -228,7 +228,7 @@
         ukraine: Ukraina
         unitedkingdom: Storbritannia
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Vatikanstaten
       creator: skaper
       header:
         collection: samlinger
@@ -236,7 +236,7 @@
         country: Land
         data_provider: Institusjon
         fashion:
-          colour: 
+          colour: Farge
           designer: 
           technique: 
           type: 
@@ -257,7 +257,7 @@
         type: Media
         ugc: Vis innhold lagt til av brukere
         video_duration: Varighet
-        video_hd: 
+        video_hd: Kvalitet
         year: Dato
       image_aspectratio:
         landscape: Landskap
@@ -352,8 +352,8 @@
         3d: 3D
         image: Bilde
         sound: Lyd
-        text: 
-        video: 
+        text: Tekst
+        video: Video
       type-image:
         orientation:
           label: 
@@ -400,12 +400,12 @@
       submit: 
       thanks:
         long: 
-        short: 
-      title: 
+        short: Takk!
+      title: Tilbakemelding
       type:
-        bug: 
-        comment: 
-        correction: 
+        bug: bug
+        comment: kommenter
+        correction: rettelse
     find-us-elsewhere: Finn-oss-andre-steder
     find-us-social-media: 
     forgot-password: glemt-passord
@@ -432,30 +432,30 @@
     language-catalan: språk-katalansk
     language-croatian: språk-kroatisk
     language-czech: språk-tsjekkisk
-    language-danish: 
-    language-dutch: 
-    language-english: 
-    language-estonian: 
-    language-finnish: 
-    language-french: 
+    language-danish: Dansk
+    language-dutch: Nederlandsk
+    language-english: Engelsk
+    language-estonian: Estisk
+    language-finnish: Finsk
+    language-french: Fransk
     language-gaelic: 
-    language-german: 
-    language-greek: 
-    language-hungarian: 
-    language-icelandic: 
-    language-italian: 
-    language-latvian: 
-    language-lithuanian: 
-    language-maltese: 
-    language-norwegian: 
-    language-polish: 
-    language-portuguese: 
-    language-romanian: 
-    language-russian: 
-    language-slovakian: 
-    language-slovenian: 
-    language-spanish: 
-    language-swedish: 
+    language-german: Tysk
+    language-greek: Gresk
+    language-hungarian: Ungarsk
+    language-icelandic: Islandsk
+    language-italian: Italiensk
+    language-latvian: Latvisk
+    language-lithuanian: Litauisk
+    language-maltese: Maltesisk
+    language-norwegian: Norsk
+    language-polish: Polsk
+    language-portuguese: Portugisisk
+    language-romanian: Rumensk
+    language-russian: Russisk
+    language-slovakian: Slovakisk
+    language-slovenian: Slovensk
+    language-spanish: Spansk
+    language-swedish: Svensk
     language-ukranian: 
     login: 
     mission: 
@@ -482,9 +482,9 @@
     search-area:
       search-button-image-alt: 
       search-placeholder-text: 
-    search-collections: 
+    search-collections: Samlinger
     search-collections-text: 
-    share: 
+    share: Del
     sitemap: 
     terms-and-policies: 
     tooltips:
