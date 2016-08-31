@@ -249,6 +249,7 @@ fr:
         media: Seulement les objets avec un lien direct vers le contenu
         mime_type: Format du fichier
         provider: Aggrégateur
+        providing_country: Pays contributeur
         reusability: Puis-je l'utiliser?
         rights: Licence
         sound_duration: Durée

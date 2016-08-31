@@ -249,6 +249,7 @@ lv:
         media: Tikai ieraksti ar saitēm uz objektiem
         mime_type: Datnes formāts
         provider: Agregators
+        providing_country: Piegādātājvalsts
         reusability: Vai es varu to izmantot?
         rights: Licence
         sound_duration: Ilgums

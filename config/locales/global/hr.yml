@@ -249,6 +249,7 @@ hr:
         media: 'Samo '
         mime_type: Format datoteke
         provider: Agregator
+        providing_country: Država
         reusability: Smijem li koristiti ovaj sadržaj?
         rights: 
         sound_duration: Trajanje

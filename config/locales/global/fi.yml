@@ -249,6 +249,7 @@ fi:
         media: Vain kohteet, joista on kuva
         mime_type: Tiedostomuoto
         provider: Aggregaattori
+        providing_country: Tarjoava maa
         reusability: Voinko käyttää sitä?
         rights: 
         sound_duration: Kesto

@@ -249,6 +249,7 @@ es:
         media: Solo ítems con enlace a los objetos
         mime_type: Formato de archivo
         provider: Agregador
+        providing_country: País proveedor
         reusability: |
           ¿Puedo usarlo?
         rights: Licence

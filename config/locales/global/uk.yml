@@ -249,6 +249,7 @@ uk:
         media: "Лише елементи з по"
         mime_type: "Формат файлу"
         provider: "Агрегатор"
+        providing_country: 
         reusability: "Чи можу я "
         rights: 
         sound_duration: "Тривалість"

@@ -249,6 +249,7 @@
         media: Bare objekter med lenker til media
         mime_type: Filformat
         provider: Aggregator
+        providing_country: Giverland
         reusability: Kan jeg bruke det?
         rights: 
         sound_duration: Varighet

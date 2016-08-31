@@ -249,6 +249,7 @@ it:
         media: 
         mime_type: Formato del file
         provider: Aggregatore
+        providing_country: Paese fornitore
         reusability: Posso usarlo?
         rights: 'Licenza '
         sound_duration: Durata

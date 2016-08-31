@@ -249,6 +249,7 @@ sv:
         media: Enbart poster med medialänkar
         mime_type: Filformat
         provider: Aggregator
+        providing_country: Leverantörsland
         reusability: Kan jag använda det?
         rights: 
         sound_duration: Längd

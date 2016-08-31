@@ -249,6 +249,7 @@ tr:
         media: 
         mime_type: 
         provider: 
+        providing_country: 
         reusability: 
         rights: 
         sound_duration: 

@@ -249,6 +249,7 @@ ro:
         media: Doar înregistrări cu legături către fișiere media
         mime_type: Formatul fișierului
         provider: Agregator
+        providing_country: "Țara furnizoare"
         reusability: Pot folosi?
         rights: 
         sound_duration: Durata

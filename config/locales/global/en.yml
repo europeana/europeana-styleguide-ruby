@@ -249,6 +249,7 @@ en:
         media: Only items with links to media
         mime_type: File format
         provider: Aggregator
+        providing_country: Providing country
         reusability: Can I use it?
         rights: Licence
         sound_duration: Duration

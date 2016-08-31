@@ -249,6 +249,7 @@ nl:
         media: Alleen objecten die naar media verwijzen
         mime_type: Bestandsformaat
         provider: Aggegrator
+        providing_country: Land
         reusability: Kan ik het gebruiken?
         rights: 
         sound_duration: Lengte

@@ -249,6 +249,7 @@ ru:
         media: "Только со ссылками на носители"
         mime_type: "Формат файла"
         provider: "Агрегатор"
+        providing_country: "Страна"
         reusability: "Могу ли я это использовать?"
         rights: 
         sound_duration: "Продолжительность"

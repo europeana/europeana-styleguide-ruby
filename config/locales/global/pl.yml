@@ -249,6 +249,7 @@ pl:
         media: Pokaż wyłącznie obiekty z bezpośrednim dostępem do mediów
         mime_type: Format pliku
         provider: Agregator treści
+        providing_country: Kraj dostarczający
         reusability: Czy mogę to wykorzystać?
         rights: Licencja
         sound_duration: Czas trwania

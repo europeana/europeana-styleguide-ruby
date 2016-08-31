@@ -249,6 +249,7 @@ da:
         media: " Kun materiale med links til medier"
         mime_type: Fil format
         provider: Aggregator
+        providing_country: Oprindelsesland
         reusability: Kan jeg bruge det?
         rights: 
         sound_duration: Varighed

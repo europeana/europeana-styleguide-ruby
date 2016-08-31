@@ -249,6 +249,7 @@ mt:
         media: Oġġetti bil-links għall-media biss
         mime_type: Format tal-fajl
         provider: Aggregatur
+        providing_country: Pajjiż fornitur
         reusability: Nista' nużagħha?
         rights: 
         sound_duration: 'Dewmien '

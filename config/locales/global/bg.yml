@@ -249,6 +249,7 @@ bg:
         media: "Само обекти с линк към медийния файл"
         mime_type: "Файлов формат"
         provider: "Агрегатор на съдържание"
+        providing_country: "Страна-доставчик"
         reusability: "Мога ли да го ползвам?"
         rights: 
         sound_duration: "Продължителност"

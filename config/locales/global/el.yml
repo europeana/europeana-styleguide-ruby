@@ -249,6 +249,7 @@ el:
         media: "Μόνο αντικείμενα με συνδέσμους σε μέσα"
         mime_type: "Τύπος αρχείου"
         provider: "Συλλέκτης"
+        providing_country: "Χώρα ιδρύματος"
         reusability: "Μπορώ να το χρησιμοποιήσω;"
         rights: 
         sound_duration: "Διάρκεια"

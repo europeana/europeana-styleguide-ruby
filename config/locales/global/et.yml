@@ -249,6 +249,7 @@ et:
         media: Ainult meedialingiga tulemused
         mime_type: Failiformaat
         provider: Agregaator
+        providing_country: Annetusriik
         reusability: Kas tohin kasutada?
         rights: 
         sound_duration: Kestus

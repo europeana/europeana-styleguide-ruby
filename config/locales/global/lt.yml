@@ -249,6 +249,7 @@ lt:
         media: Tik įrašai su nuorodomis
         mime_type: Failo formatas
         provider: Agregatorius
+        providing_country: "Šalis"
         reusability: Ar galiu tai naudoti?
         rights: 
         sound_duration: Trukmė

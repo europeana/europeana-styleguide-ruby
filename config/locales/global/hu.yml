@@ -249,6 +249,7 @@ hu:
         media: Csak médiára mutató linket tartalmazó elemek
         mime_type: Fájl formátum
         provider: Aggregátor
+        providing_country: Szolgáltató ország
         reusability: Felhasználhatom?
         rights: 
         sound_duration: Időtartam

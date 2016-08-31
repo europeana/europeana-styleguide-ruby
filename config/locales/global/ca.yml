@@ -249,6 +249,7 @@ ca:
         media: Només ítems que enllacin a fitxers
         mime_type: Format de fitxer
         provider: Agregador
+        providing_country: País proveïdor
         reusability: Puc fer-ho servir?
         rights: 
         sound_duration: Durada

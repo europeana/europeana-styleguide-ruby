@@ -249,6 +249,7 @@ de:
         media: 'Nur Objekte mit Link zum Medium '
         mime_type: Dateiformat
         provider: Beiträger
+        providing_country: Bereitstellendes Land
         reusability: Verwendbarkeit
         rights: Lizenz
         sound_duration: Laufzeit

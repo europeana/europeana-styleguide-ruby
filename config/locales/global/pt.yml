@@ -249,6 +249,7 @@ pt:
         media: Apenas itens com ligação a media
         mime_type: Formato do ficheiro
         provider: Agregador
+        providing_country: País Agregador
         reusability: Posso usar?
         rights: 
         sound_duration: Duração
