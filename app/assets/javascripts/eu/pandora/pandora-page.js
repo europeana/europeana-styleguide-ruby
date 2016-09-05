@@ -88,6 +88,7 @@ define(['jquery'], function ($) {
       if(pageName && pageName == 'itemCard'){
         applyXmlBeautify();    	  
       }
+      
     }
     
 	function selectView() {
