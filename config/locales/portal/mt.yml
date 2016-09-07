@@ -9,7 +9,7 @@ mt:
   global:
     labs-link: Link lejn il-labs
     navigation:
-      agents: 
+      agents: Nies
       all_blog_posts: Il-blog posts kollha...
       all_exhibitions: Il-wirjiet kollha...
       blog: Blog
@@ -19,12 +19,12 @@ mt:
       browse_sources: Sorsi
       channels: Kollezzjonijiet
       collections: Kollezzjonijiet
-      concepts: 
+      concepts: Suġġetti
       exhibitions: Wirjiet
       home: Paġna Primarja
       more:
-        agents: 
-        topics: 
+        agents: Izjed nies
+        topics: Izjed suġġetti
     pro-link: Link għal pro
     pro-text: Kitba għal pro
     settings: Settings
@@ -46,13 +46,13 @@ mt:
         tableh3: Data
         title: Kontenut ġdid
       people:
-        description: 
-        title: Aġenti
+        description: Hawnhekk tista 'ssib whud mil-aħjar kollezzjonijiet relatati mal-ħajja u x-xogħolijiet ta artisti farmużi, kompożituri u nies importanti oħra mill-istorja.
+        title: Nies
       sources:
         description: Hawn taħt tista' tara lista ta' sorsi għall-kollezzjonijiet tagħna. Dawn is sorsi ikomplu u jżidu kollezzjonijiet fuq Europeana, ikklikja fuq il-link li tinteressak hawn taħt biex tara l-kollezzjonijiet kollha!
         title: Sorsi
       topics:
-        description: 
+        description: Esplora l-kollezzjonijiet skond is-suġġett, it-tema jew b'permezz tal-generu
         title: Kunċetti
     collections:
       art-history:
@@ -60,7 +60,7 @@ mt:
         title: Arti tal-istorja ta' Europeana
       data-types:
         3d: Oġġetti 3D
-        all: 
+        all: Kollox
         count: Oġġetti
         images: Ritratti
         moving-images: Videos
@@ -82,13 +82,13 @@ mt:
         about: Dwar
         become-a-provider: Sir sieħeb tagħna
         contact: Kuntatt
-        contact-us: 
+        contact-us: Ikkuntatjana
         copyright: Copyright
         data-providers: Istituzzjonijiet kollha
         help: Għinuna
         new-collections: Kollezzjonijiet ġodda
         rights: Termini ta' użu
-        roadmap: 
+        roadmap: Aġġornamenti tad-'development'
         search-tips: Tips għat-tiftix
         using-myeuropeana: L-użu ta' Europeana Tiegħi
     more: Aktar...
@@ -97,7 +97,7 @@ mt:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
+          return_home: Wirjiet
         item_detail: Oġġett
         results_list: Riżultati
         return_home: Mur lura fuq il-paġna primarja
@@ -109,11 +109,11 @@ mt:
         attribute-plaintext: Kitba sempliċi
         download: Niżżel
         download-additional: Disponibbli wkoll bħala
-        download-retry: 
-        download-started: 
+        download-retry: Erġa' pprova
+        download-started: Id-'download' bdiet
         downloaddata: Niżżel informazzjoni
-        explore-by-colour: 
-        media-metadata: 
+        explore-by-colour: Esplora skond il-kulur
+        media-metadata: Medja Metadejta
         open-media: Iftaħ din l-iskjetta
         show-less-data: Uri inqas informazzjoni
         show-more-data: Uri aktar informazzjoni
@@ -128,7 +128,7 @@ mt:
       meta-label:
         codec: Codec
         collection-name: Dataset
-        concept: Kunċett
+        concept: Suġġetti
         concepts: Klassifikazzjonijiet
         consists-of: Jikkonsisti minn
         contributor: Kontributur
@@ -157,7 +157,7 @@ mt:
         fps: Frejm kull sekonda
         has-type: Huwa tat-tip
         identifier: identifikatur
-        intermediate-provider: 
+        intermediate-provider: Fornitur intermedjarju
         is-format-of: Huwa tal-format
         is-part-of: Huwa parti ta'
         is-referenced-by: Huwa referenzat minn
@@ -286,7 +286,7 @@ mt:
           text: Kitba
           video: Video
         count-and-terms: "%{results_count} riżultati"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range} minn %{results_count} riżultati"
         empty: M'hawnx riżultati
         empty-with-terms: It-tfixxija tiegħek għal %{query_terms} ma' ġabarx riżultati
         header: Riżultati għal
@@ -296,7 +296,7 @@ mt:
         less_adv: Inqas Rfinar
         more: Aktar
         more_adv: Filtri Avvanzati
-        per-page: 
+        per-page: Kull paġna
         product-3D: 3D
         product-image: Immaġni
         product-sound: "Ħsejjes"
@@ -304,16 +304,16 @@ mt:
         product-video: Video
         results-relevance: Relevanza
         results-view:
-          grid: 
-          list: 
+          grid: Gradilja
+          list: Lista
         single-result: Riżultat wieħed għal %{query_terms}
         view:
           grid: Grid
           list: Lista
         view-at-provider: Ara f'
     search:
-      browse: 
-      or-browse: 
+      browse: Fittex
+      or-browse: jew fittex
       placeholder:
         text: "Żid terminu ġdid għat-tfittxija"
       similar:

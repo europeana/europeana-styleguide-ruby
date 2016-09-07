@@ -128,7 +128,7 @@ en:
       meta-label:
         codec: Codec
         collection-name: Dataset
-        concept: Concept
+        concept: Topics
         concepts: Classifications
         consists-of: Consists of
         contributor: Contributor
