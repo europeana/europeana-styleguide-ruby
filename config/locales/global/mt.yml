@@ -1,9 +1,9 @@
 mt:
-  Symphonies: 
+  Symphonies: Simfoniji
   X11:
     colours:
       '000000': Iswed
-      000080: 
+      000080: Blu skur
       00008B: Blu Skur
       0000CD: 
       0000FF: Blu
@@ -151,10 +151,11 @@ mt:
     actions:
       filter-all: Kollha
       filter-by: Iffiltra skond
-      fullscreen-enter: 
-      fullscreen-exit: 
+      fullscreen-enter: Skrin kollu
+      fullscreen-exit: 'erġa lura '
     channel:
-      all: 
+      all: |
+        L-oġġetti kollha
       archaeology: arkeoloġija
       architecture: arkitettura
       art: arti
@@ -173,8 +174,8 @@ mt:
     channels-music: Mużika
     choose-language: Lingwa
     cookie_disclaimer:
-      more_info: 
-      text: 
+      more_info: Izjed informazzjoni
+      text: F'din il-websajt jintuzaw 'cookies' biex jiżguraw li jkollok l-aħjar esperjenza fuq il-websajt tagħna. Jekk tikklikkja jew iżżur is-sit, inti tkun qed taqbel li tippermetti l-ġbir ta 'informazzjoni.
     email-address: Indirizz tal-email
     facet:
       advanced:
@@ -228,7 +229,7 @@ mt:
         ukraine: L-Ukranija
         unitedkingdom: Ir-Renju Unit
         unitedstatesofamerica: L-Amerika
-        vaticancity: 
+        vaticancity: Belt tal-Vatikan
       creator: kreatur
       header:
         collection: Kollezzjonijiet
@@ -236,14 +237,14 @@ mt:
         country: Pajjiż
         data_provider: Istituzzjoni
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Kulur
+          designer: Disinjatur
+          technique: Teknika
+          type: It-tip tal-oġġett
         image_aspectratio: Orientazzjoni
         image_colour: Paletta
         image_size: Daqs
-        intermediateprovider: 
+        intermediateprovider: Fornitur intermedju
         language: Lingwa
         language_of_description: Lingwa tad-Deskrizzjoni
         media: Oġġetti bil-links għall-media biss
@@ -251,7 +252,7 @@ mt:
         provider: Aggregatur
         providing_country: Pajjiż fornitur
         reusability: Nista' nużagħha?
-        rights: 
+        rights: Liċenzja
         sound_duration: 'Dewmien '
         sound_hq: Kwalita' Għolja
         text_fulltext: Il-kitba sħiħa
@@ -272,44 +273,44 @@ mt:
         medium: Medju (0.5-1MP)
         small: "Żgħir (<0.5MP)"
       language:
-        bg: 
-        ca: 
-        cs: 
+        bg: Bulgaru
+        ca: Katalan
+        cs: "Ċek"
         da: Daniż
         de: Tedesc
-        el: 
+        el: Grieg
         en: Ingliż
         es: Spanjol
-        et: 
-        fi: 
+        et: Estonjan
+        fi: Finlandiz
         fr: Franċiż
-        ga: 
-        he: 
-        hr: 
-        hu: 
-        is: 
+        ga: Irlandiz
+        he: Hibru
+        hr: Kroat
+        hu: Ungeriż
+        is: Iżlandiż
         it: Taljan
-        lt: 
-        lv: 
+        lt: Litwan
+        lv: Latvjan
         mt: Malti
         mul: Aktar minn lingwa waħda
-        nl: 
-        'no': 
+        nl: Olandiż
+        'no': Norveġiż
         pl: Polakk
         pt: Portugiż
-        ro: 
-        ru: 
-        sk: 
-        sl: 
-        sr: 
-        sv: 
+        ro: Rumen
+        ru: Russu
+        sk: Slovakk
+        sl: Slovenjan
+        sr: Serb
+        sv: Svediż
         tr: Tork
-        uk: 
-        yi: 
+        uk: Ukran
+        yi: Jiddix
       less: Inqas
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Aħbi liċenzi speċifiċi
+        show-specific: Uri liċenzi speċifiċi
       media:
         'false': Le
         'true': Iva
@@ -319,21 +320,21 @@ mt:
         type: Tip
       reusability:
         advanced: Avvanzat
-        advanced-cc-by: 
-        advanced-cc-by-nc: 
-        advanced-cc-by-nc-nd: 
-        advanced-cc-by-nc-sa: 
-        advanced-cc-by-nd: 
-        advanced-cc-by-sa: 
-        advanced-cc0: 
-        advanced-orphan-work: 
+        advanced-cc-by: CC BY
+        advanced-cc-by-nc: CC BY-NC
+        advanced-cc-by-nc-nd: CC BY-NC-ND
+        advanced-cc-by-nc-sa: CC BY-NC-SA
+        advanced-cc-by-nd: CC BY-ND
+        advanced-cc-by-sa: CC BY-SA
+        advanced-cc0: CC0
+        advanced-orphan-work: Xogħol Orfni
         advanced-out-of-copyright-non-commercial: Barra mill-copyright - mhux għal użu kummerċjali
-        advanced-pdm: 
+        advanced-pdm: "'Public Domain Marked'"
         advanced-rrfa: Drittijiet riżervati - Aċċess b'xejn
         advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
         advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
         advanced-ucs: L-istatus tal-copyright mhux magħruf
-        expiry: 
+        expiry: sa %{date}
         open: Iva bl-attribuzzjoni
         permission: Bil-permess biss
         restricted: Iva bir-restrizzjonijiet
@@ -394,21 +395,21 @@ mt:
         from: minn
         to: għal
     feedback:
-      close: 
-      error: 
-      open: 
-      placeholder: 
-      submit: 
+      close: Agħlaq
+      error: "żball"
+      open: Il-Kummenti Tiegħek
+      placeholder: Għidilna x'taħseb u dak li aħna nistgħu ntejbu. Jekk tixtieq li nkunu nistu nikunttjawk lura, jekk joġħġbok ikteb l-emejl tiegħek!
+      submit: Ibgħat
       thanks:
-        long: 
-        short: 
-      title: 
+        long: Grazzi ħafna tal-kummenti tiegħek. Nirissponduk lura mil-iktar fiss possibli.
+        short: Grazzi!
+      title: Il-Kummenti Tiegħek
       type:
-        bug: 
-        comment: 
-        correction: 
+        bug: problema
+        comment: kumment
+        correction: korrezzjoni
     find-us-elsewhere: Sibna x'imkien ieħor
-    find-us-social-media: 
+    find-us-social-media: Fittex %{channel} fuq midja soċjali
     forgot-password: Insejt il-password?
     genres: tip
     genres-chamber-music: Mużika 'chamber'
@@ -428,18 +429,18 @@ mt:
     javascript-required: Biex taċċessa l-kontenut, jekk joġgħbok ħaddem il-JavaScript, u kkonsidra li tuża web browswer li jiflaħ kontenut ta' HTML5.
     labs: Laboratorji
     labs-text: Remix tal-kontenut kulturali ma' l-APIs & datasets tagħna
-    language-basque: 
+    language-basque: Bask
     language-bulgarian: Bulgaru
-    language-catalan: 
-    language-croatian: 
-    language-czech: 
+    language-catalan: Katalan
+    language-croatian: Kroat
+    language-czech: "Ċek"
     language-danish: Daniż
     language-dutch: Olandiż
     language-english: Ingliż
     language-estonian: Estonjan
     language-finnish: Finlandiż
     language-french: Franċiż
-    language-gaelic: 
+    language-gaelic: Gaelic
     language-german: Germaniż
     language-greek: Grieg
     language-hungarian: Ungariż
@@ -458,7 +459,7 @@ mt:
     language-spanish: Spanjol
     language-swedish: Svediż
     language-ukranian: Ukrain
-    login: 
+    login: Irrifma biex tid
     mission: Aħna nittrasformaw id-dinja permezz tal-kultura! Rridu li nibnu fuq il-wirt għani tal-Ewropa u nagħmluha aktar faċli għal persuni li jużaw, kemm jekk għal xogħol, għat-tagħlim jew biss għall-gost.
     mission-title: Il-missjoni tagħna
     more:
@@ -472,11 +473,11 @@ mt:
       language-required: Il-lingwa għandha tkun speċifikata
       signup: Irreġistra għan-newsletter tagħna
     our-sites: Is-siti tagħna
-    password: 
-    professional: 
+    password: Password
+    professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna
     refine-your-search: Irfina t-tfixxija tiegħek
-    refine-your-search-short: 
+    refine-your-search-short: Iffiltra
     register: Irreġistra
     research: Riċerka
     research-text: Kkonnetja mal-komunita' akademika
@@ -486,13 +487,13 @@ mt:
     search-collections: Kollezzjonijiet
     search-collections-text: Skopri l-kultura u l-istorja ta' l-Ewropa
     share: Aqsam
-    sitemap: 
+    sitemap: Mappa tas-sit
     terms-and-policies: Termini u Kundizzjonijiet
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Tista tiffiltra it-tfittxija tiegħek skont il-liċenzja speċifika
+          new-grid: Kont taf li tista tirranga r-risultati b'forma ta' gradilja?
     type: tip
   'no': In-Norveġja
   pl: Il-Portugal
