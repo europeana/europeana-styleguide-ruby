@@ -230,11 +230,13 @@ et:
         unitedstatesofamerica: Ameerika Ühendriigid
         vaticancity: 
       creator: looja
+      filter: 
       header:
         collection: Kogud
         colourpalette: Värv
         country: Riik
         data_provider: Asutus
+        date-created: 
         fashion:
           colour: 
           designer: 

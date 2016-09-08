@@ -230,11 +230,13 @@ hu:
         unitedstatesofamerica: Amerikai Egyesült Államok
         vaticancity: 
       creator: alkotó
+      filter: 
       header:
         collection: Gyűjtemények
         colourpalette: Szín
         country: Ország
         data_provider: Intézmény
+        date-created: 
         fashion:
           colour: 
           designer: 

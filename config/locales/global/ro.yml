@@ -230,11 +230,13 @@ ro:
         unitedstatesofamerica: SUA
         vaticancity: 
       creator: creator
+      filter: 
       header:
         collection: Colecții
         colourpalette: Culoare
         country: "Țară"
         data_provider: Instituție
+        date-created: 
         fashion:
           colour: 
           designer: 

@@ -230,11 +230,13 @@ pl:
         unitedstatesofamerica: USA
         vaticancity: Watykan
       creator: twórca
+      filter: 
       header:
         collection: Kolekcje
         colourpalette: Kolor
         country: Kraj
         data_provider: Instytucja
+        date-created: 
         fashion:
           colour: Kolor
           designer: Projektant

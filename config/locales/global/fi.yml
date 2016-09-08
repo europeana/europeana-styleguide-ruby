@@ -230,11 +230,13 @@ fi:
         unitedstatesofamerica: USA
         vaticancity: 
       creator: tekijä
+      filter: 
       header:
         collection: Kokoelmat
         colourpalette: Väri
         country: Maa
         data_provider: Instituutio
+        date-created: 
         fashion:
           colour: 
           designer: 

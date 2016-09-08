@@ -230,11 +230,13 @@ lv:
         unitedstatesofamerica: ASV
         vaticancity: Vatikāns
       creator: autors
+      filter: 
       header:
         collection: Kolekcijas
         colourpalette: Krāsa
         country: Valsts
         data_provider: Institūcija
+        date-created: 
         fashion:
           colour: Krāsa
           designer: Dizainers

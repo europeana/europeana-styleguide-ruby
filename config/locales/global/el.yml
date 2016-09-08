@@ -230,11 +230,13 @@ el:
         unitedstatesofamerica: "ΗΠΑ"
         vaticancity: 
       creator: "δημιουργός"
+      filter: 
       header:
         collection: "Συλλογές"
         colourpalette: "Χρώμα"
         country: "Χώρα"
         data_provider: "Ίδρυμα"
+        date-created: 
         fashion:
           colour: 
           designer: 

@@ -230,11 +230,13 @@ sv:
         unitedstatesofamerica: USA
         vaticancity: 
       creator: upphovsman
+      filter: 
       header:
         collection: Samlingar
         colourpalette: Färg
         country: Land
         data_provider: Institution
+        date-created: 
         fashion:
           colour: 
           designer: 

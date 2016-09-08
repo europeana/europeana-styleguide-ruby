@@ -230,11 +230,13 @@ uk:
         unitedstatesofamerica: "США"
         vaticancity: 
       creator: 
+      filter: 
       header:
         collection: "Колекції"
         colourpalette: "Колір"
         country: "Країна"
         data_provider: "Установа"
+        date-created: 
         fashion:
           colour: 
           designer: 

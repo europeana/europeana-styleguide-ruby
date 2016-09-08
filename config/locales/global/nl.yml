@@ -230,11 +230,13 @@ nl:
         unitedstatesofamerica: Amerika
         vaticancity: 
       creator: Auteur
+      filter: 
       header:
         collection: Collecties
         colourpalette: Kleur
         country: Land
         data_provider: Instituut
+        date-created: 
         fashion:
           colour: Kleur
           designer: Designer

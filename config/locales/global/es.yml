@@ -230,11 +230,13 @@ es:
         unitedstatesofamerica: EEUU
         vaticancity: Ciudad del Vaticano
       creator: creador
+      filter: 
       header:
         collection: Colecciones
         colourpalette: Color
         country: País
         data_provider: Institución
+        date-created: 
         fashion:
           colour: color
           designer: diseñador

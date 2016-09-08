@@ -230,11 +230,13 @@ hr:
         unitedstatesofamerica: SAD
         vaticancity: 
       creator: stvaratelj
+      filter: 
       header:
         collection: Zbirke
         colourpalette: Boja
         country: Država
         data_provider: Ustanova
+        date-created: 
         fashion:
           colour: 
           designer: 

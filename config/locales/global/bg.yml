@@ -230,11 +230,13 @@ bg:
         unitedstatesofamerica: "САЩ"
         vaticancity: 
       creator: "Автор"
+      filter: 
       header:
         collection: "Колекции"
         colourpalette: "Цвят"
         country: "Държава"
         data_provider: "Институция"
+        date-created: 
         fashion:
           colour: 
           designer: 

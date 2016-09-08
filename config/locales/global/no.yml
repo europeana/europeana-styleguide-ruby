@@ -230,11 +230,13 @@
         unitedstatesofamerica: USA
         vaticancity: Vatikanstaten
       creator: skaper
+      filter: 
       header:
         collection: samlinger
         colourpalette: Farge
         country: Land
         data_provider: Institusjon
+        date-created: 
         fashion:
           colour: Farge
           designer: 

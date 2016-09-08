@@ -230,11 +230,13 @@ lt:
         unitedstatesofamerica: JAV
         vaticancity: 
       creator: autorius
+      filter: 
       header:
         collection: Kolekcijos
         colourpalette: Spalva
         country: "Šalis"
         data_provider: Institucija
+        date-created: 
         fashion:
           colour: 
           designer: 

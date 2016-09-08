@@ -231,11 +231,13 @@ mt:
         unitedstatesofamerica: L-Amerika
         vaticancity: Belt tal-Vatikan
       creator: kreatur
+      filter: 
       header:
         collection: Kollezzjonijiet
         colourpalette: Kulur
         country: Pajjiż
         data_provider: Istituzzjoni
+        date-created: 
         fashion:
           colour: Kulur
           designer: Disinjatur

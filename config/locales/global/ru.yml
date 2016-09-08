@@ -230,11 +230,13 @@ ru:
         unitedstatesofamerica: "США"
         vaticancity: 
       creator: "Автор"
+      filter: 
       header:
         collection: "Коллекции"
         colourpalette: "Цвет"
         country: "Страна"
         data_provider: "Организация"
+        date-created: 
         fashion:
           colour: 
           designer: 
