@@ -317,6 +317,7 @@ ca:
         'true': Sí
       more: Més
       more-refinements: Més refinaments
+      proxy_dcterms_created: 
       resource:
         type: Tipus
       reusability:

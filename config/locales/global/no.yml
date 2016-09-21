@@ -317,6 +317,7 @@
         'true': Ja
       more: Mer
       more-refinements: Flere avgrensninger
+      proxy_dcterms_created: 
       resource:
         type: Type
       reusability:

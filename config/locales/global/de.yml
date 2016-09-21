@@ -317,6 +317,7 @@ de:
         'true': Ja
       more: Mehr
       more-refinements: Suche verfeinern
+      proxy_dcterms_created: 
       resource:
         type: Art
       reusability:

@@ -317,6 +317,7 @@ hu:
         'true': Igen
       more: Több
       more-refinements: Több finomítás
+      proxy_dcterms_created: 
       resource:
         type: Típus
       reusability:

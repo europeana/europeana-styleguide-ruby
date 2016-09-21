@@ -317,6 +317,7 @@ hr:
         'true': Da
       more: Više
       more-refinements: Suzi rezultate pretraživanja
+      proxy_dcterms_created: 
       resource:
         type: Vrsta
       reusability:

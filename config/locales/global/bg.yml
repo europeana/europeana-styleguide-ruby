@@ -317,6 +317,7 @@ bg:
         'true': "Да"
       more: "Повече"
       more-refinements: "Пoвече филтри"
+      proxy_dcterms_created: 
       resource:
         type: "Тип"
       reusability:

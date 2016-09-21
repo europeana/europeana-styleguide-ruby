@@ -317,6 +317,7 @@ pt:
         'true': Sim
       more: Mais
       more-refinements: Mais ajustes
+      proxy_dcterms_created: 
       resource:
         type: Tipo
       reusability:

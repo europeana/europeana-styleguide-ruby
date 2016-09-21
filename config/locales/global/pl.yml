@@ -317,6 +317,7 @@ pl:
         'true': Tak
       more: Więcej
       more-refinements: Więcej filtrów
+      proxy_dcterms_created: 
       resource:
         type: Typ
       reusability:

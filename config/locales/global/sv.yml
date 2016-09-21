@@ -317,6 +317,7 @@ sv:
         'true': Ja
       more: Fler
       more-refinements: Flera filter
+      proxy_dcterms_created: 
       resource:
         type: Typ
       reusability:

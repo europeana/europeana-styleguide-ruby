@@ -317,6 +317,7 @@ et:
         'true': Jah
       more: Veel
       more-refinements: Rohkem täpsustusi
+      proxy_dcterms_created: 
       resource:
         type: Tüüp
       reusability:
