@@ -252,6 +252,7 @@ et:
         mime_type: Failiformaat
         provider: Agregaator
         providing_country: Annetusriik
+        proxy_dcterms_created: 
         reusability: Kas tohin kasutada?
         rights: 
         sound_duration: Kestus
@@ -317,7 +318,6 @@ et:
         'true': Jah
       more: Veel
       more-refinements: Rohkem täpsustusi
-      proxy_dcterms_created: 
       resource:
         type: Tüüp
       reusability:

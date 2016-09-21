@@ -252,6 +252,7 @@ ru:
         mime_type: "Формат файла"
         provider: "Агрегатор"
         providing_country: "Страна"
+        proxy_dcterms_created: 
         reusability: "Могу ли я это использовать?"
         rights: 
         sound_duration: "Продолжительность"
@@ -317,7 +318,6 @@ ru:
         'true': "Да"
       more: "Больше"
       more-refinements: "Более детально"
-      proxy_dcterms_created: 
       resource:
         type: "Тип"
       reusability:

@@ -252,6 +252,7 @@ es:
         mime_type: Formato de archivo
         provider: Agregador
         providing_country: País proveedor
+        proxy_dcterms_created: 
         reusability: |
           ¿Puedo usarlo?
         rights: Licence
@@ -318,7 +319,6 @@ es:
         'true': Si
       more: Más
       more-refinements: Más filtros
-      proxy_dcterms_created: 
       resource:
         type: Tipo
       reusability:

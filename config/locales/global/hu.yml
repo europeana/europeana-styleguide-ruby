@@ -252,6 +252,7 @@ hu:
         mime_type: Fájl formátum
         provider: Aggregátor
         providing_country: Szolgáltató ország
+        proxy_dcterms_created: 
         reusability: Felhasználhatom?
         rights: 
         sound_duration: Időtartam
@@ -317,7 +318,6 @@ hu:
         'true': Igen
       more: Több
       more-refinements: Több finomítás
-      proxy_dcterms_created: 
       resource:
         type: Típus
       reusability:

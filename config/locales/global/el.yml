@@ -252,6 +252,7 @@ el:
         mime_type: "Τύπος αρχείου"
         provider: "Συλλέκτης"
         providing_country: "Χώρα ιδρύματος"
+        proxy_dcterms_created: 
         reusability: "Μπορώ να το χρησιμοποιήσω;"
         rights: 
         sound_duration: "Διάρκεια"
@@ -317,7 +318,6 @@ el:
         'true': "Ναι"
       more: "Περισσότερα"
       more-refinements: "Περισσότεροι όροι εξειδικευμένης αναζήτησης"
-      proxy_dcterms_created: 
       resource:
         type: "Τύπος"
       reusability:

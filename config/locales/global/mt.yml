@@ -253,6 +253,7 @@ mt:
         mime_type: Format tal-fajl
         provider: Aggregatur
         providing_country: Pajjiż fornitur
+        proxy_dcterms_created: 
         reusability: Nista' nużagħha?
         rights: Liċenzja
         sound_duration: 'Dewmien '
@@ -318,7 +319,6 @@ mt:
         'true': Iva
       more: Iktar
       more-refinements: Iktar rfinar
-      proxy_dcterms_created: 
       resource:
         type: Tip
       reusability:

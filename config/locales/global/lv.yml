@@ -252,6 +252,7 @@ lv:
         mime_type: Datnes formāts
         provider: Agregators
         providing_country: Piegādātājvalsts
+        proxy_dcterms_created: 
         reusability: Vai es varu to izmantot?
         rights: Licence
         sound_duration: Ilgums
@@ -317,7 +318,6 @@ lv:
         'true': Jā
       more: Vairāk
       more-refinements: Vairāk preicizējumi
-      proxy_dcterms_created: 
       resource:
         type: Tips
       reusability:

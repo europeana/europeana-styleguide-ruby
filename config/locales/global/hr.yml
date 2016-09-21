@@ -252,6 +252,7 @@ hr:
         mime_type: Format datoteke
         provider: Agregator
         providing_country: Država
+        proxy_dcterms_created: 
         reusability: Smijem li koristiti ovaj sadržaj?
         rights: 
         sound_duration: Trajanje
@@ -317,7 +318,6 @@ hr:
         'true': Da
       more: Više
       more-refinements: Suzi rezultate pretraživanja
-      proxy_dcterms_created: 
       resource:
         type: Vrsta
       reusability:

@@ -252,6 +252,7 @@ sk:
         mime_type: 
         provider: 
         providing_country: 
+        proxy_dcterms_created: 
         reusability: 
         rights: 
         sound_duration: 
@@ -317,7 +318,6 @@ sk:
         'true': 
       more: 
       more-refinements: 
-      proxy_dcterms_created: 
       resource:
         type: 
       reusability:

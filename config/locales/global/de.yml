@@ -252,6 +252,7 @@ de:
         mime_type: Dateiformat
         provider: Beiträger
         providing_country: Bereitstellendes Land
+        proxy_dcterms_created: 
         reusability: Verwendbarkeit
         rights: Lizenz
         sound_duration: Laufzeit
@@ -317,7 +318,6 @@ de:
         'true': Ja
       more: Mehr
       more-refinements: Suche verfeinern
-      proxy_dcterms_created: 
       resource:
         type: Art
       reusability:

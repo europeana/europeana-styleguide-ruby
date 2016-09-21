@@ -252,6 +252,7 @@ nl:
         mime_type: Bestandsformaat
         provider: Aggegrator
         providing_country: Land
+        proxy_dcterms_created: 
         reusability: Kan ik het gebruiken?
         rights: 
         sound_duration: Lengte
@@ -317,7 +318,6 @@ nl:
         'true': Ja
       more: Meer
       more-refinements: Verder verfijnen
-      proxy_dcterms_created: 
       resource:
         type: Type
       reusability:

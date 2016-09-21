@@ -252,6 +252,7 @@ ca:
         mime_type: Format de fitxer
         provider: Agregador
         providing_country: País proveïdor
+        proxy_dcterms_created: 
         reusability: Puc fer-ho servir?
         rights: 
         sound_duration: Durada
@@ -317,7 +318,6 @@ ca:
         'true': Sí
       more: Més
       more-refinements: Més refinaments
-      proxy_dcterms_created: 
       resource:
         type: Tipus
       reusability:

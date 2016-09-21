@@ -252,6 +252,7 @@ da:
         mime_type: Fil format
         provider: Aggregator
         providing_country: Oprindelsesland
+        proxy_dcterms_created: 
         reusability: Kan jeg bruge det?
         rights: 
         sound_duration: Varighed
@@ -317,7 +318,6 @@ da:
         'true': Ja
       more: Flere
       more-refinements: Flere ændringer
-      proxy_dcterms_created: 
       resource:
         type: Type
       reusability:

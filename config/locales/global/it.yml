@@ -252,6 +252,7 @@ it:
         mime_type: Formato del file
         provider: Aggregatore
         providing_country: Paese fornitore
+        proxy_dcterms_created: 
         reusability: Posso usarlo?
         rights: 'Licenza '
         sound_duration: Durata
@@ -317,7 +318,6 @@ it:
         'true': Si
       more: Più
       more-refinements: Più informazioni
-      proxy_dcterms_created: 
       resource:
         type: Tipo
       reusability:

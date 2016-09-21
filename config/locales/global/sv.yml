@@ -252,6 +252,7 @@ sv:
         mime_type: Filformat
         provider: Aggregator
         providing_country: Leverantörsland
+        proxy_dcterms_created: 
         reusability: Kan jag använda det?
         rights: 
         sound_duration: Längd
@@ -317,7 +318,6 @@ sv:
         'true': Ja
       more: Fler
       more-refinements: Flera filter
-      proxy_dcterms_created: 
       resource:
         type: Typ
       reusability:

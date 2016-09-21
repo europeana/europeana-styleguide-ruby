@@ -252,6 +252,7 @@ fi:
         mime_type: Tiedostomuoto
         provider: Aggregaattori
         providing_country: Tarjoava maa
+        proxy_dcterms_created: 
         reusability: Voinko käyttää sitä?
         rights: 
         sound_duration: Kesto
@@ -317,7 +318,6 @@ fi:
         'true': Kyllä
       more: Lisää
       more-refinements: Enemmän tarkennuksia
-      proxy_dcterms_created: 
       resource:
         type: Tyyppi
       reusability:

@@ -252,6 +252,7 @@ lt:
         mime_type: Failo formatas
         provider: Agregatorius
         providing_country: "Šalis"
+        proxy_dcterms_created: 
         reusability: Ar galiu tai naudoti?
         rights: 
         sound_duration: Trukmė
@@ -317,7 +318,6 @@ lt:
         'true': Taip
       more: Daugiau
       more-refinements: Daugiau pasirinkimų
-      proxy_dcterms_created: 
       resource:
         type: Tipas
       reusability:

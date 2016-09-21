@@ -252,6 +252,7 @@ uk:
         mime_type: "Формат файлу"
         provider: "Агрегатор"
         providing_country: 
+        proxy_dcterms_created: 
         reusability: "Чи можу я "
         rights: 
         sound_duration: "Тривалість"
@@ -317,7 +318,6 @@ uk:
         'true': 
       more: 
       more-refinements: 
-      proxy_dcterms_created: 
       resource:
         type: 
       reusability:
