@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :development, :test do
-  gem 'rubocop', '0.35.1', require: false # only update when Hound does
+  gem 'rubocop', '0.39.0', require: false # only update when Hound does
 end
 
 group :localeapp do
