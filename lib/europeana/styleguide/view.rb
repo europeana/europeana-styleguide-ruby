@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Europeana
   module Styleguide
     ##
@@ -23,7 +24,8 @@ module Europeana
           { meta_name: 'HandheldFriendly', content: 'True' },
           { httpequiv: 'Content-Type', content: 'text/html; charset=utf-8' },
           { meta_name: 'csrf-param', content: 'authenticity_token' },
-          { meta_name: 'csrf-token', content: form_authenticity_token }
+          { meta_name: 'csrf-token', content: form_authenticity_token },
+          { meta_name: 'referrer', content: 'always' }
         ]
       end
 

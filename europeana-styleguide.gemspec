@@ -1,4 +1,5 @@
 # coding: utf-8
+# frozen_string_literal: true
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'europeana/styleguide/version'
@@ -8,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version       = Europeana::Styleguide::VERSION
   spec.authors       = ['Richard Doe']
   spec.email         = ['richard.doe@rwdit.net']
-  spec.summary       = %q{Europeana styleguide for Ruby.}
+  spec.summary       = 'Europeana styleguide for Ruby.'
   spec.homepage      = 'https://github.com/europeana/europeana-styleguide-ruby'
   spec.license       = 'EUPL 1.1'
 

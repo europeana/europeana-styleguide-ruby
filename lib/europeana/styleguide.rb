@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'europeana/styleguide/version'
 require 'europeana/styleguide/engine' if defined?(Rails)
 
