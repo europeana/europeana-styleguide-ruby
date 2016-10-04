@@ -3,7 +3,7 @@ lv:
     site:
       browse:
         newcontent:
-          description: "Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto."
+          description: Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto.
         sources:
           description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu!
   global:
@@ -37,16 +37,16 @@ lv:
     blog-link: saite uz blogu
     browse:
       colours:
-        description: "Šajā sadaļā ir iespējams meklēt attēlus pēc to krāsas. Klikšķiniet uz izvēlētās krāsas un skatiet atlasīto kolekciju!"
+        description: Šajā sadaļā ir iespējams meklēt attēlus pēc to krāsas. Klikšķiniet uz izvēlētās krāsas un skatiet atlasīto kolekciju!
         title: Krāsas
       newcontent:
-        description: "Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto."
+        description: Šajā sadaļā ir apkopots viss saturs, kas nesen ir ticis pievienots Europeana Kolekcijām. Te ir iespējams redzēt, kura institūcija ir publicējusi jaunus materiālus un kad. Klikšķiniet uz zemāk esošajām saitēm, lai apskatītu pievienoto.
         tableh1: Visas institūcijas
         tableh2: Ieraksti
         tableh3: Datējums
         title: Jauns saturs
       people:
-        description: "Šeit var atrast mūsu kolekciju īpašos ierakstus, kas saistīti ar slavenu mākslinieku, komponistu un citu vēsturiski nozīmīgu personu dzīvi un darbiem."
+        description: Šeit var atrast mūsu kolekciju īpašos ierakstus, kas saistīti ar slavenu mākslinieku, komponistu un citu vēsturiski nozīmīgu personu dzīvi un darbiem.
         title: Cilvēki
       sources:
         description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu.
@@ -165,9 +165,9 @@ lv:
         is-required-by: Nepieciešams
         issued: Pirmo reizi izdots
         language: Valoda
-        latitude: "Ģeogrāfiskais platums"
+        latitude: Ģeogrāfiskais platums
         location: Novietojums
-        longitude: "Ģeogrāfiskais garums"
+        longitude: Ģeogrāfiskais garums
         map: Karte
         map-tiles: Lapas
         medium: Datu fiziskais nesējs
@@ -175,7 +175,7 @@ lv:
         period: Periods
         place: Vieta
         place-time: Vieta/Laiks
-        properties: "Īpašības"
+        properties: Īpašības
         provenance: Izcelsme
         provided-by: Uzzināt vairāk
         provided-by-detail: Europeana šo ierakstu atrāda ar %{institution_name_and_link} līdzdalību. Lai saņemtu vairāk informācijas, apmeklējiet viņu vietni.
@@ -219,8 +219,8 @@ lv:
           title: Laika posmi un datumi (Laika sprīdis)
         where:
           label: Vietas apzīmējums
-          latitude: "Ģeogrāfiskais platums"
-          longitude: "Ģeogrāfiskais garums"
+          latitude: Ģeogrāfiskais platums
+          longitude: Ģeogrāfiskais garums
           term: Vietas nosaukums
           title: Vietu nosaukumi (Vietas)
         who:

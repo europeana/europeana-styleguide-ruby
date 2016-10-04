@@ -64,11 +64,11 @@ fi:
         count: kohdetta
         images: kuvaa
         moving-images: videota
-        sound: "äänitallennetta"
+        sound: äänitallennetta
         texts: tekstiä
       labels:
         credits: Kuratoinut
-        recent: "Äskettäiset lisäykset"
+        recent: Äskettäiset lisäykset
         spotlight-on: Valokeilassa
       music:
         description: <strong>Europeanan Musiikkikokoelma</strong> tuo yhteen parhaat musiikkitallenteet, nuotit, ja muut musiikkiaiheiset kokoelmat Euroopan audiovisuaalisista arkistoista, kirjastoista ja museoista. <a href="/portal/channels/music/about">Lisätietoa Musiikkikokoelma.</a>
@@ -304,7 +304,7 @@ fi:
         per-page: 
         product-3D: 3D
         product-image: Kuva
-        product-sound: "Ääni"
+        product-sound: Ääni
         product-text: Teksti
         product-video: Video
         results-relevance: Osuvuus

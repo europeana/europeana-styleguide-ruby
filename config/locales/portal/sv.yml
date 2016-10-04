@@ -19,7 +19,7 @@ sv:
       browse_sources: Våra källor
       channels: Collections
       collections: Samlingar
-      concepts: "Ämnen"
+      concepts: Ämnen
       exhibitions: Utställningar
       home: Start
       more:
@@ -53,7 +53,7 @@ sv:
         title: Källor
       topics:
         description: 
-        title: "Ämnen och typer"
+        title: Ämnen och typer
     collections:
       art-history:
         description: 
@@ -155,11 +155,11 @@ sv:
         file-size: Filstorlek
         format: Format
         fps: Buildrutor per sekund
-        has-type: "Är av typen"
+        has-type: Är av typen
         identifier: ID-nummer
         intermediate-provider: 
-        is-format-of: "Är en form av"
-        is-part-of: "Är en del av"
+        is-format-of: Är en form av
+        is-part-of: Är en del av
         is-referenced-by: Refereras av
         is-replaced-by: Ersatt av
         is-required-by: Erfordras av
@@ -192,7 +192,7 @@ sv:
         runtime: Speltid
         runtime-unit-seconds: sekunder
         source: Källa
-        subject: "Ämne"
+        subject: Ämne
         temporal: Tidsaspekt
         time: Tid
         timestamp-created: Publicerad första gången i Europeana
@@ -210,7 +210,7 @@ sv:
           broader: Bredare term
           label: Termetikett
           term: Term URI
-          title: "Ämnen, typer, och genres (Concepts)"
+          title: Ämnen, typer, och genres (Concepts)
         when:
           begin: Från
           end: Till
@@ -231,7 +231,7 @@ sv:
         next: Nästa
         prev: Föregående
       points:
-        east: "Öst"
+        east: Öst
         north: Nord
         south: Syd
         west: Väst
@@ -302,9 +302,9 @@ sv:
         save-settings: Spara inställnigarna
       language:
         auto-translate-limit: Max %{max_languages} språk kan väljas
-        auto-translate-page: "Översätt postbeskrivningarna till..."
-        auto-translate-page-short: "Översätt postbeskrivningarna till"
-        auto-translate-query: "Översätt söktermer till"
+        auto-translate-page: Översätt postbeskrivningarna till...
+        auto-translate-page-short: Översätt postbeskrivningarna till
+        auto-translate-query: Översätt söktermer till
         available: Tillgängliga språk
         default: Förinställt språk
         flash:

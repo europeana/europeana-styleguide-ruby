@@ -146,9 +146,9 @@ pt:
           has-met: Está relacionado com
           incorporates: Incorpora
           is-derivative-of: Deriva de
-          is-representation-of: "É uma representação de"
-          is-similar-to: "É semelhante a"
-          is-successor-of: "É sucessor de"
+          is-representation-of: É uma representação de
+          is-similar-to: É semelhante a
+          is-successor-of: É sucessor de
           realises: Realiza
           was-present-at: Presente em
         extent: Tamanho
@@ -158,11 +158,11 @@ pt:
         has-type: Tem tipo
         identifier: Identificador
         intermediate-provider: 
-        is-format-of: "É formato de"
-        is-part-of: "É parte de"
-        is-referenced-by: "É referido por"
-        is-replaced-by: "É substituido por"
-        is-required-by: "É requerido por"
+        is-format-of: É formato de
+        is-part-of: É parte de
+        is-referenced-by: É referido por
+        is-replaced-by: É substituido por
+        is-required-by: É requerido por
         issued: Publicado pela primeira vez
         language: Língua
         latitude: Latitude
@@ -196,9 +196,9 @@ pt:
         temporal: Temporal
         time: Tempo
         timestamp-created: Publicado pela primeira vez na Europeana
-        timestamp-updated: "Última actualização na Europeana"
+        timestamp-updated: Última actualização na Europeana
         timestamp_created: Publicado pela primeira vez na Europeana (%{timestamp_created})
-        timestamp_updated: "Última actualização na Europeana (%{timestamp_updated})"
+        timestamp_updated: Última actualização na Europeana (%{timestamp_updated})
         title: Título
         toc: Tabela de Conteúdos
         type: Tipo

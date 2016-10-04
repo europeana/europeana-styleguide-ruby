@@ -64,11 +64,11 @@ mt:
         count: Oġġetti
         images: Ritratti
         moving-images: Videos
-        sound: "Ħsejjes"
+        sound: Ħsejjes
         texts: Kitba
       labels:
         credits: Superviżjonata minn
-        recent: "Żidiet riċenti"
+        recent: Żidiet riċenti
         spotlight-on: Il-Lenti mixgħul
       music:
         description: Il-<strong>Kollezzjoni tal-Mużika tal-Europeana</strong> tiġbor l-isbaħ rikordji ta' mużika, mużika miktuba, u aktar affarijiet relatati lejn il-kollezzjonijiet minn arkivji Ewropej tal-awdjo viswali, libreriji, arkivji u mużewijiet. <a href="/portal/channels/music/about">Skopri aktar informazzjoni dwar il-Kollezzjoni tal-Mużika.
@@ -172,7 +172,7 @@ mt:
         map-tiles: Madum
         medium: Mezz
         people: Nies
-        period: "Żmien"
+        period: Żmien
         place: Post
         place-time: Post/Ħin
         properties: Proprjetajiet
@@ -194,7 +194,7 @@ mt:
         source: Sors
         subject: Suġġett
         temporal: Temporali
-        time: "Ħin"
+        time: Ħin
         timestamp-created: L-ewwel ppubblikat f'Europeana
         timestamp-updated: Aġġornat l-aħħar minn Europeana
         timestamp_created: L-ewwel ppubblikat f'Europeana (%{timestamp_created})
@@ -299,7 +299,7 @@ mt:
         per-page: Kull paġna
         product-3D: 3D
         product-image: Immaġni
-        product-sound: "Ħsejjes"
+        product-sound: Ħsejjes
         product-text: Kitba
         product-video: Video
         results-relevance: Relevanza
@@ -315,7 +315,7 @@ mt:
       browse: Fittex
       or-browse: jew fittex
       placeholder:
-        text: "Żid terminu ġdid għat-tfittxija"
+        text: Żid terminu ġdid għat-tfittxija
       similar:
         prefix: 'Simili għal: %{mlt_item}'
     settings:

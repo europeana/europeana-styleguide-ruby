@@ -187,7 +187,7 @@ et:
         references: Viited
         refs-rels: Viited ja seosed
         relations: Seosed
-        rights: "Õigused"
+        rights: Õigused
         rights-human: Kas ma saan seda kasutada?
         runtime: Käitusaeg
         runtime-unit-seconds: sekundid
@@ -205,7 +205,7 @@ et:
         ugc: Kasutaja panustatud sisu
         version: Versioon
       named-entities:
-        title: "Üksused"
+        title: Üksused
         what:
           broader: Laiem mõiste
           label: Mõiste märgend
@@ -287,7 +287,7 @@ et:
           video: Video
         count-and-terms: "%{results_count} tulemust"
         count-and-terms-with-range: 
-        empty: "Ühtki tulemust"
+        empty: Ühtki tulemust
         empty-with-terms: Sinu otsing %{query_terms} ei andnud ühtki tulemust
         header: 
         header-and: ja

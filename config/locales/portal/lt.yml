@@ -31,7 +31,7 @@ lt:
   site:
     alpha:
       feedback_banner:
-        description: "Šiuo metu jūs naršote svetainės Beta versijoje, o tai reiškia, kad mes ją dar vis tobuliname. Svetainė kartais gali būti nepasiekiama. Atsiųskite mums savo komentarus apie svetainę."
+        description: Šiuo metu jūs naršote svetainės Beta versijoje, o tai reiškia, kad mes ją dar vis tobuliname. Svetainė kartais gali būti nepasiekiama. Atsiųskite mums savo komentarus apie svetainę.
         link-text: Prisidėkite prie svetainės tobulinimo!
         title: Tai mūsų naujųjų "Kolekcijų" ir "Muzikos kolekcijos" Beta versija
     blog-link: Nuoroda į tinklaraštį
@@ -42,7 +42,7 @@ lt:
       newcontent:
         description: 
         tableh1: Visos institucijos
-        tableh2: "Įrašai"
+        tableh2: Įrašai
         tableh3: Data
         title: Naujas turinys
       people:
@@ -61,7 +61,7 @@ lt:
       data-types:
         3d: 3D objektai
         all: 
-        count: "įrašai"
+        count: įrašai
         images: Vaizdai
         moving-images: Vaizdo įrašai
         sound: Garso įrašai
@@ -98,7 +98,7 @@ lt:
       breadcrumb:
         exhibitions:
           return_home: 
-        item_detail: "Įrašo aprašymas"
+        item_detail: Įrašo aprašymas
         results_list: Rezultatų sąrašas
         return_home: Grįžti į pagrindinį puslapį
     news: Naujienos
@@ -131,7 +131,7 @@ lt:
         concept: Koncepcija
         concepts: Klasifikacijos
         consists-of: Susideda iš
-        contributor: "Įrašas pridėtas"
+        contributor: Įrašas pridėtas
         copyright: Autorinės teisės
         creation-date: Sukūrimo data
         creator: Autorius
@@ -168,10 +168,10 @@ lt:
         latitude: Platuma
         location: Lokacija
         longitude: Ilguma
-        map: "Žemėlapis"
+        map: Žemėlapis
         map-tiles: Blokai
         medium: Medija
-        people: "Žmonės"
+        people: Žmonės
         period: Laikotarpis
         place: Vieta
         place-time: Vieta/laikas
@@ -181,7 +181,7 @@ lt:
         provided-by-detail: Europeana atvaizduoja šį įrašą iš %{institution_name_and_link}. Daugiau informacijos rasite jų internetinėje svetainėje.
         provided-by-detail-no-link: 
         provider: Tiekėjas
-        providing-country: "Šalis"
+        providing-country: Šalis
         publication-date: Publikacijos data
         publisher: Leidėjas
         references: Nuorodos
@@ -191,7 +191,7 @@ lt:
         rights-human: Ar galiu tai naudoti?
         runtime: Trukmė
         runtime-unit-seconds: sekundės
-        source: "Šaltinis"
+        source: Šaltinis
         subject: Tema
         temporal: Laikinis
         time: Laikas
@@ -205,7 +205,7 @@ lt:
         ugc: Turinys atsiųstas vartotojo
         version: Versija
       named-entities:
-        title: "Įvardinti subjektai"
+        title: Įvardinti subjektai
         what:
           broader: Platesnė sąvoka
           label: Sąvokos žymė
@@ -232,7 +232,7 @@ lt:
         prev: Ankstesnis
       points:
         east: Rytai
-        north: "Šiaurė"
+        north: Šiaurė
         south: Pietūs
         west: Vakarai
       show-more-similar-items: rodyti daugiau
@@ -297,7 +297,7 @@ lt:
         view:
           grid: Tinklelis
           list: Sąsžrašas
-        view-at-provider: "Žiūrėti kaip"
+        view-at-provider: Žiūrėti kaip
     search:
       browse: 
       or-browse: 

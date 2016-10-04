@@ -42,7 +42,7 @@ ca:
       newcontent:
         description: 
         tableh1: Totes les institucions
-        tableh2: "Ítems"
+        tableh2: Ítems
         tableh3: Data
         title: Contingut nou
       people:
@@ -61,7 +61,7 @@ ca:
       data-types:
         3d: Objectes 3D
         all: 
-        count: "ítems"
+        count: ítems
         images: Imatges
         moving-images: Vídeos
         sound: Enregistraments de so
@@ -98,7 +98,7 @@ ca:
       breadcrumb:
         exhibitions:
           return_home: 
-        item_detail: "Ítem"
+        item_detail: Ítem
         results_list: Resultats
         return_home: Tornar a l'inici
     news: Novetats
@@ -122,7 +122,7 @@ ca:
         who:
           title: Títol
       hierarchy:
-        title: "Ítems relacionats"
+        title: Ítems relacionats
         view-items-above: veure els ítems superiors
         view-items-below: verue els ítems inferiors
       meta-label:
@@ -145,10 +145,10 @@ ca:
         edm:
           has-met: Té relació amb
           incorporates: Incorpora
-          is-derivative-of: "És derivat de"
-          is-representation-of: "És una representació de"
-          is-similar-to: "És similar a"
-          is-successor-of: "És succcesor de"
+          is-derivative-of: És derivat de
+          is-representation-of: És una representació de
+          is-similar-to: És similar a
+          is-successor-of: És succcesor de
           realises: realitza
           was-present-at: Present a
         extent: Mida
@@ -158,11 +158,11 @@ ca:
         has-type: Tipus de Has
         identifier: Identificador
         intermediate-provider: 
-        is-format-of: "és format de"
-        is-part-of: "és part de"
-        is-referenced-by: "és referenciat per"
-        is-replaced-by: "és reemplacat per"
-        is-required-by: "és requerit per"
+        is-format-of: és format de
+        is-part-of: és part de
+        is-referenced-by: és referenciat per
+        is-replaced-by: és reemplacat per
+        is-required-by: és requerit per
         issued: Primera marca
         language: Llengua
         latitude: Latitud
@@ -236,7 +236,7 @@ ca:
         south: Sud
         west: Oest
       show-more-similar-items: mostra més
-      similar-items: "ítems similars"
+      similar-items: ítems similars
     pages:
       '404':
         intro: Ho sentim, no hem pogut trobar la pàgina

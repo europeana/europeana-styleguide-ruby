@@ -165,7 +165,7 @@ hr:
         is-required-by: Zahtijeva ga
         issued: Prvi put izdano
         language: Jezik
-        latitude: "Širina"
+        latitude: Širina
         location: Lokacija
         longitude: Dužina
         map: Karta
@@ -207,7 +207,7 @@ hr:
       named-entities:
         title: Entiteti
         what:
-          broader: "Širi pojam"
+          broader: Širi pojam
           label: Oznaka koncepta
           term: Pojam koncepta
           title: Teme, vrste izvora, žanrovi i oblici (koncepti)
@@ -219,7 +219,7 @@ hr:
           title: Vremenski rasponi i datumi (TimeSpan)
         where:
           label: Naziv mjesta
-          latitude: "Širina"
+          latitude: Širina
           longitude: Dužina
           term: Pojam mjesta
           title: Imena mjesta (Places)

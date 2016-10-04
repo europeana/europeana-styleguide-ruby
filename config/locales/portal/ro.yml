@@ -42,7 +42,7 @@ ro:
       newcontent:
         description: 
         tableh1: Instituții
-        tableh2: "Înregistrări"
+        tableh2: Înregistrări
         tableh3: Dată
         title: Noi înregistrări
       people:
@@ -61,10 +61,10 @@ ro:
       data-types:
         3d: Obiecte 3D
         all: 
-        count: "înregistrări"
+        count: înregistrări
         images: Imagini
-        moving-images: "Înregistrări video"
-        sound: "Înregistrări audio"
+        moving-images: Înregistrări video
+        sound: Înregistrări audio
         texts: Texte
       labels:
         credits: Alcătuit de
@@ -101,7 +101,7 @@ ro:
         item_detail: detalii înregistrare
         results_list: Lista rezultatelor
         return_home: Inapoi Acasă
-    news: "Știri"
+    news: Știri
     object:
       actions:
         attribute-author: Atribuie autorul
@@ -122,7 +122,7 @@ ro:
         who:
           title: Titlu
       hierarchy:
-        title: "Înregistrări înrudite"
+        title: Înregistrări înrudite
         view-items-above: vezi obiectele de mai sus
         view-items-below: vezi obiectele de mai jos
       meta-label:
@@ -181,7 +181,7 @@ ro:
         provided-by-detail: Europeana vă ofera aceasta înregistrare cu ajutorul %{institution_name_and_link}. Pentru mai multe detalii vizitați website-ul acestei instituții.
         provided-by-detail-no-link: 
         provider: Instituție
-        providing-country: "Țara furnizoare"
+        providing-country: Țara furnizoare
         publication-date: Data publicării
         publisher: Editor
         references: Referințe
@@ -195,8 +195,9 @@ ro:
         subject: Subiect
         temporal: Temporal
         time: Timp
-        timestamp-created: |
-          Prima publicare în Europeana
+        timestamp-created: 'Prima publicare în Europeana
+
+'
         timestamp-updated: Ultima actualizare în Europeana
         timestamp_created: Prima publicare în Europeana (%{timestamp_created})
         timestamp_updated: Ultima actualizare în Europeana (%{timestamp_updated})
@@ -237,7 +238,7 @@ ro:
         south: Sud
         west: Vest
       show-more-similar-items: arată mai multe
-      similar-items: "Înregistrări asemănătoare"
+      similar-items: Înregistrări asemănătoare
     pages:
       '404':
         intro: Ne pare rău, pagina nu a fost găsită
@@ -281,14 +282,14 @@ ro:
           3D: 3D
           images: Imagini
           text: Text
-          video: "Înregistrare video"
+          video: Înregistrare video
         count-and-terms: "%{results_count} rezultate găsite"
         count-and-terms-with-range: 
         empty: Niciun rezultat
         empty-with-terms: Pentru căutarea după %{query_terms} nu au fost găsite rezultate
         header: Rezultate pentru
-        header-and: "și"
-        in-channel: "în Colecția"
+        header-and: și
+        in-channel: în Colecția
         less: Mai puțin
         less_adv: Mai puține filtre
         more: Mai mult
@@ -296,9 +297,9 @@ ro:
         per-page: 
         product-3D: 3D
         product-image: Imagine
-        product-sound: "Înregistrare audio"
+        product-sound: Înregistrare audio
         product-text: Text
-        product-video: "Înregistrare video"
+        product-video: Înregistrare video
         results-relevance: Relevanță
         results-view:
           grid: 

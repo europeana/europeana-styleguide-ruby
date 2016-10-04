@@ -16,7 +16,7 @@ pl:
       browse: Przeglądaj
       browse_colours: Kolory
       browse_newcontent: Nowości
-      browse_sources: "Źródła"
+      browse_sources: Źródła
       channels: Kolekcje
       collections: Kolekcje
       concepts: Tematy
@@ -50,7 +50,7 @@ pl:
         title: Osoby
       sources:
         description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
-        title: "Źródła"
+        title: Źródła
       topics:
         description: Odkrywaj nasze Kolekcje wybierając temat, który Cię interesuje.
         title: Tematy
@@ -107,11 +107,11 @@ pl:
         attribute-author: Oznacz autora
         attribute-html: 
         attribute-plaintext: Zwykły tekst
-        download: "Ściągnij"
+        download: Ściągnij
         download-additional: Dostępne także jako
         download-retry: Spróbuj ponownie
-        download-started: "Ściąganie rozpoczęte"
-        downloaddata: "Ściągnij dane"
+        download-started: Ściąganie rozpoczęte
+        downloaddata: Ściągnij dane
         explore-by-colour: Odkrywaj według kolorów
         media-metadata: Metadane Obiektu
         open-media: Otwórz
@@ -191,7 +191,7 @@ pl:
         rights-human: Czy mogę tego użyć?
         runtime: Długość
         runtime-unit-seconds: sekundy
-        source: "Źródło"
+        source: Źródło
         subject: Przedmiot
         temporal: Przejściowy
         time: Okres

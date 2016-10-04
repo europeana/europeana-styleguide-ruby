@@ -114,7 +114,7 @@
         downloaddata: 'Last ned '
         explore-by-colour: 
         media-metadata: 
-        open-media: "Åpne dette mediaobjektet"
+        open-media: Åpne dette mediaobjektet
         show-less-data: Vis mindre data
         show-more-data: Vis mer data
         technicalmetadata: Tekniske metadata
@@ -231,7 +231,7 @@
         next: Neste
         prev: Forrige
       points:
-        east: "Øst"
+        east: Øst
         north: Nord
         south: Sør
         west: Vest

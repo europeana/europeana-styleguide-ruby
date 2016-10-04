@@ -155,14 +155,14 @@ it:
         file-size: Dimensione del file
         format: Formato
         fps: Fotogrammi al secondo
-        has-type: "è di tipo"
+        has-type: è di tipo
         identifier: Identificatore
         intermediate-provider: Provider intermedio
-        is-format-of: "È formato di or da"
-        is-part-of: "È parte di"
-        is-referenced-by: "è referenziato da"
-        is-replaced-by: "è sostituito da"
-        is-required-by: "è richiesto dal"
+        is-format-of: È formato di or da
+        is-part-of: È parte di
+        is-referenced-by: è referenziato da
+        is-replaced-by: è sostituito da
+        is-required-by: è richiesto dal
         issued: Rilasciato
         language: Lingua
         latitude: Latitudine

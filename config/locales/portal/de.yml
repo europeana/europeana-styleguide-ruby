@@ -79,7 +79,7 @@ de:
           results: Ergebnisse
     footer:
       menu:
-        about: "Über Uns"
+        about: Über Uns
         become-a-provider: Datengeber werden
         contact: Kontakt
         contact-us: Kontaktiere Uns
@@ -114,7 +114,7 @@ de:
         downloaddata: Daten herunterladen
         explore-by-colour: 
         media-metadata: 
-        open-media: "Öffnen Sie dieses Objekt"
+        open-media: Öffnen Sie dieses Objekt
         show-less-data: Weniger Daten anzeigen
         show-more-data: Weitere Daten anzeigen
         technicalmetadata: Technische Metadaten
@@ -122,7 +122,7 @@ de:
         who:
           title: Titel
       hierarchy:
-        title: "Ähnliche Objekte"
+        title: Ähnliche Objekte
         view-items-above: Objekte oben anzeigen
         view-items-below: Objekte unten anzeigen
       meta-label:
@@ -231,17 +231,18 @@ de:
         next: Weiter
         prev: Zurück
       points:
-        east: "Östlich"
+        east: Östlich
         north: Nördlich
         south: Südlich
         west: Westlich
       show-more-similar-items: Mehr anzeigen
-      similar-items: "Ähnliche Objekte"
+      similar-items: Ähnliche Objekte
     pages:
       '404':
         intro: Leider konnten wir die Seite nicht finden
-        text: |
-          Leider konnten wir die Seite die Sie suchen nicht finden. Suchen Sie bitte erneut in Europeana oder wählen Sie aus den unten aufgeführten Objekten.
+        text: 'Leider konnten wir die Seite die Sie suchen nicht finden. Suchen Sie bitte erneut in Europeana oder wählen Sie aus den unten aufgeführten Objekten.
+
+'
       about:
         text: |-
           <p>Egal ob Sie Material für Ihre Forschungsarbeit suchen, auf der Suche nach Ihrem nächsten Kaffeebecher-Entwurf sind, oder sich einfach nur umschauen möchten. Wir hoffen, dass Sie unter den 45 Millionen Objekten, die wir hier zur Verfügung stellen, finden was Sie suchen.<p>
@@ -265,7 +266,7 @@ de:
           <p> Im Interesse der Transparenz und der Privatsphäre sollten Sie wissen, dass wir Benutzerstatistiken und Nutzerverhalten in Google Analytics und einem Dienst namens Hotjar festhalten. Wir tun dies um Hinweise zu bekommen wie wir die Musik Sammlung verbessern können. Alle Protokolle werden vertraulich und anonymisiert behandelt und nur zur Verbesserung unserer Dienstleistung verwendet.</p>
 
           <p> Wir empfehlen Ihnen die Sammlung zu durchsuchen, Musik abzuspielen, Noten anzusehen, oder zu lesen. Wenn es das Urheberrecht ermöglicht, können Sie die Inhalte auch herunterladen. Besuchen Sie außerdem unsere virtuellen Ausstellungen, um Musik in einer Weise zu entdecken wie nie zuvor! </ p>
-        title: "Über die Musiksammlung"
+        title: Über die Musiksammlung
     results:
       actions:
         configure-actions: Konfigurieren Sie Aktionen
@@ -314,7 +315,7 @@ de:
       placeholder:
         text: Fügen Sie einen Suchbegriff ein
       similar:
-        prefix: "Ähnlich wie: %{mlt_item}"
+        prefix: 'Ähnlich wie: %{mlt_item}'
     settings:
       actions:
         clear-selection: Auswahl löschen

@@ -15,7 +15,7 @@ hu:
       blog: Blog
       browse: Böngészés
       browse_colours: Színek
-      browse_newcontent: "Új tartalom"
+      browse_newcontent: Új tartalom
       browse_sources: Források
       channels: Gyűjtemények
       collections: Gyűjtemények
@@ -32,7 +32,7 @@ hu:
     alpha:
       feedback_banner:
         description: Az Beta verzió az jelenti, hogy a weboldalt még aktívan fejlesztjük és gyakran frissítjük. Ezért az oldal néha elérhetetlen lehet. Az Ön visszajelzése segíthet az oldal minőségének javításában.
-        link-text: "Írd le a véleményed!"
+        link-text: Írd le a véleményed!
         title: Ez egy Beta verzió új Gyűjtemények, Művészettörténet gyűjtemények és Zenei Gyűjtemények számára
     blog-link: link a blogra
     browse:
@@ -44,7 +44,7 @@ hu:
         tableh1: Adatszolgáltatók
         tableh2: Elemek
         tableh3: Dátum
-        title: "Új tartalom"
+        title: Új tartalom
       people:
         description: 
         title: 
@@ -84,9 +84,9 @@ hu:
         contact: Elérhetőség
         contact-us: 
         copyright: Copyright
-        data-providers: "Összes intézmény"
+        data-providers: Összes intézmény
         help: Segítség
-        new-collections: "Új gyűjtemények"
+        new-collections: Új gyűjtemények
         rights: Felhasználási feltételek
         roadmap: 
         search-tips: Keresési segítség
@@ -224,15 +224,15 @@ hu:
           term: Helyszín terminus
           title: Hol
         who:
-          label: "Ügynök címke"
-          term: "Ügynök terminus"
+          label: Ügynök címke
+          term: Ügynök terminus
           title: Kicsoda
       nav:
         next: Következő
         prev: Előző
       points:
         east: Kelet
-        north: "Észak"
+        north: Észak
         south: Dél
         west: Nyugat
       show-more-similar-items: mutass többet
@@ -252,7 +252,7 @@ hu:
           <p>Egy új verzióját próbáljuk ki Europeana Gyűjteményeknek. Keményen dolgozunk azon, hogy javítsunk látogatóink élményén és lehetővé tegyük, hogy a lehető legkönnyebben megtalálhassák amit keresnek. Ezért lehet, hogy megkérünk arra, segítsd munkánkat pár kérdésre való válasszal. Válaszaid nagyon sokat segíthetnek, ezért kérünk szánj rá pár percet, hogy megoszd gondolataid velünk! Köszönjük!</p>
 
           <p>Nagyon reméljük, hogy addig is kedvét leli a velünk való kulturális utazásban.</p>
-        title: "Üdvözöljük, kultúra szerelmese!"
+        title: Üdvözöljük, kultúra szerelmese!
       music-channel-about:
         text: "<p>Képzeld el milyen lehet megtekinteni egy eredeti kézzel írt kottát, miközben az előadását hallgatod különböző előadóktól és közben a zeneszerző életrajzát is böngészed. Az Europeana Zenei Gyűjteménnyel ezt mind megteheted!</p> \n\n<p><a href=\"http://www.europeanasounds.eu\">Partnereink</a>, akik valamennyien európai zenei szakemberek, gondosan válogatták ki ezt a zenei felvételekből, kottákból, hangszerek képeiből, zenével kapcsolatos könyvekből és más zenéhez kapcsolódó anyagokból álló gyűjteményt. </p>\n\n<p>Elérhetővé tettük látogatóink számára a Zenei Csatornának ezt a korai teszt verzióját , hogy segítsetek formálni, amint továbbfejlesztjük. Tehát, amíg az oldalt böngészi néha megkérjük, hogy válaszoljon pár kérdésre vagy kérdőívre. Nagyra értékelnénk, ha időt szánna ezeknek a kérdéseknek megválaszolására, illetve kérdőívek kitöltésére!</p>\n\n<p>Értékeljük az átláthatóságot és magánéletet, így tudnod kell továbbá azt is, hogy naplózzuk a felhasználói statisztikákat és felhasználói viselkedést a Google Analyticsban és egy Hotjar nevű szolgáltatásban. Azért tesszük mindezt, hogy megtudjuk mit rontottunk el a tervezésben és hogy fejleszthessük a Zenei Csatornát. Minden naplót bizalmasan és névtelenül kezelünk és csakis a szolgáltatás javítására használjuk.</p>\n\n<p>Bíztatunk, hogy keress a gyűjteményben, hallgass zenét, tekints meg kottákat vagy olvass. Amikor a copyright megengedi, le is töltheted a kedvenc dolgaidat. Látogasd meg a virtuális kiállításainkat is, hogy felfedezd a zenének azt az arcát, melyet még sosem láttál!</p>"
         title: A Zenei Gyűjteményről
@@ -262,7 +262,7 @@ hu:
         dutchmasters: Holland mesterek
         favouriteart: Kedvenc művészet
         label: Tevékenységek
-        newcollection: "Új gyűjtemény"
+        newcollection: Új gyűjtemény
         product-save: Mentés
         saveto: Mentés ide
         show-all-collections: Mutasd az összes gyűjteményt
@@ -277,12 +277,12 @@ hu:
         empty: Nincs találat
         empty-with-terms: A %{query_terms}  kifejezésre való keresés nem eredményezett találatot
         header: 'Találatok a '
-        header-and: "és"
+        header-and: és
         in-channel: Gyűjteményben
         less: Kevesebb
         less_adv: Kevesebb finomítás
         more: Több
-        more_adv: "Összetett szűrők"
+        more_adv: Összetett szűrők
         per-page: 
         product-3D: 3D
         product-image: Kép
@@ -317,7 +317,7 @@ hu:
         available: Elérhető nyelvek
         default: Alapértelmezett nyelv
         flash:
-          alert: "Érvénytelen nyelv kiválasztva.Elérhető nyelvek: %{locales}"
+          alert: 'Érvénytelen nyelv kiválasztva.Elérhető nyelvek: %{locales}'
           notice: Nyelvi beállítások elmentve.
         label: Nyelv
         settings-label: nyelvi beállítások

@@ -80,7 +80,7 @@ es:
     footer:
       menu:
         about: Acerca de
-        become-a-provider: "Únete a nosotros"
+        become-a-provider: Únete a nosotros
         contact: Contactar
         contact-us: Contacta con nosotros
         copyright: Derechos de Autor
@@ -196,9 +196,9 @@ es:
         temporal: Temporal
         time: Tiempo
         timestamp-created: Primera publicación en Europeana
-        timestamp-updated: "Última actualización en Europeana"
+        timestamp-updated: Última actualización en Europeana
         timestamp_created: Primera publicación en Europeana  (%{timestamp_created})
-        timestamp_updated: "Última actualización en Europeana (%{timestamp_updated})"
+        timestamp_updated: Última actualización en Europeana (%{timestamp_updated})
         title: Título
         toc: Tabla de contenidos
         type: Tipo
