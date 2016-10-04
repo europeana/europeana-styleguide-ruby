@@ -154,8 +154,9 @@ mt:
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
     channel:
-      all: |
-        L-oġġetti kollha
+      all: 'L-oġġetti kollha
+
+'
       archaeology: arkeoloġija
       architecture: arkitettura
       art: arti
@@ -185,9 +186,9 @@ mt:
       art:
         form:
           paintings:
-            genre: "Ġeneru"
+            genre: Ġeneru
             medium: Mezz
-      carrier: "Ġarrier"
+      carrier: Ġarrier
       colour: Kulur
       colour-black-and-white: Iswed u abjad
       country:
@@ -195,7 +196,7 @@ mt:
         belgium: il-Belġju
         bulgaria: il-Bulgarija
         croatia: il-Kroazja
-        cyprus: "Ċipru"
+        cyprus: Ċipru
         czechrepublic: Ir-Repubblika Ċeka
         denmark: Id-Danimarka
         estonia: L-Estonja
@@ -274,11 +275,11 @@ mt:
         extra_large: L-Akbar (4MP+)
         large: Kbir (1-4MP)
         medium: Medju (0.5-1MP)
-        small: "Żgħir (<0.5MP)"
+        small: Żgħir (<0.5MP)
       language:
         bg: Bulgaru
         ca: Katalan
-        cs: "Ċek"
+        cs: Ċek
         da: Daniż
         de: Tedesc
         el: Grieg
@@ -356,7 +357,7 @@ mt:
       type:
         3d: 3D
         image: Immaġni
-        sound: "Ħoss"
+        sound: Ħoss
         text: Kitba
         video: Video
       type-image:
@@ -373,7 +374,7 @@ mt:
           label: Id-daqs tal-immaġni
           large: Kbir (%{data})
           medium: Medju (%{data})
-          small: "Żgħir (%{data})"
+          small: Żgħir (%{data})
           xl: Kbir ħafna (%{data})
       type-sound:
         duration:
@@ -399,7 +400,7 @@ mt:
         to: għal
     feedback:
       close: Agħlaq
-      error: "żball"
+      error: żball
       open: Il-Kummenti Tiegħek
       placeholder: Għidilna x'taħseb u dak li aħna nistgħu ntejbu. Jekk tixtieq li nkunu nistu nikunttjawk lura, jekk joġħġbok ikteb l-emejl tiegħek!
       submit: Ibgħat
@@ -424,7 +425,7 @@ mt:
     genres-traditional-music: Mużika tradizzjonali
     header:
       connect: Kkonnektja
-      develop: "Żviluppa"
+      develop: Żviluppa
       discover: Skopri
       network: Komunita'
     help: Għinuna
@@ -436,7 +437,7 @@ mt:
     language-bulgarian: Bulgaru
     language-catalan: Katalan
     language-croatian: Kroat
-    language-czech: "Ċek"
+    language-czech: Ċek
     language-danish: Daniż
     language-dutch: Olandiż
     language-english: Ingliż
@@ -486,7 +487,7 @@ mt:
     research-text: Kkonnetja mal-komunita' akademika
     search-area:
       search-button-image-alt: Fittex
-      search-placeholder-text: "Żid terminu fit-tfixxija"
+      search-placeholder-text: Żid terminu fit-tfixxija
     search-collections: Kollezzjonijiet
     search-collections-text: Skopri l-kultura u l-istorja ta' l-Ewropa
     share: Aqsam

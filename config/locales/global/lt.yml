@@ -8,20 +8,20 @@ lt:
       0000CD: Mėlyna
       0000FF: Mėlyna
       '006400': Tamsiai žalia
-      008000: "Žalia"
+      008000: Žalia
       008080: Elektrinė
       008B8B: Tamsiai elektrinė
-      00BFFF: "Žydra"
+      00BFFF: Žydra
       00CED1: Tamsaus turkio
-      00FA9A: "Šviesiai žalia"
-      00FF00: "Žalia"
-      00FF7F: "Šviesiai žalia"
+      00FA9A: Šviesiai žalia
+      00FF00: Žalia
+      00FF7F: Šviesiai žalia
       00FFFF: Elektrinė
       '191970': Tamsiai mėlyna
       1E90FF: Mėlyna
-      20B2AA: "Šviesiai mėlyna"
+      20B2AA: Šviesiai mėlyna
       228B22: Tamsiai žalia
-      2E8B57: "Šviesiai žalia"
+      2E8B57: Šviesiai žalia
       2F4F4F: 
       32CD32: 
       3CB371: 
@@ -161,7 +161,7 @@ lt:
       art-history: Meno Istorija
       fashion: mada
       home: Pagrindinis (visi)
-      maps: "žemėlapiai"
+      maps: žemėlapiai
       music: Muzika
       natural-history: gamtotyra
       newspapers: laikraščiai
@@ -184,7 +184,7 @@ lt:
       art:
         form:
           paintings:
-            genre: "Žanras"
+            genre: Žanras
             medium: Medija
       carrier: Tiekėjas
       colour: Spalva
@@ -195,7 +195,7 @@ lt:
         bulgaria: Bulgarija
         croatia: Kroatija
         cyprus: Kipras
-        czechrepublic: "Čekija"
+        czechrepublic: Čekija
         denmark: Danija
         estonia: Estija
         europe: Europa
@@ -222,8 +222,8 @@ lt:
         slovakia: Slovakija
         slovenia: Slovėnija
         spain: Ispanija
-        sweden: "Švedija"
-        switzerland: "Šveicarija"
+        sweden: Švedija
+        switzerland: Šveicarija
         turkey: Turkija
         ukraine: Ukraina
         unitedkingdom: Jungtinė Karalystė
@@ -234,7 +234,7 @@ lt:
       header:
         collection: Kolekcijos
         colourpalette: Spalva
-        country: "Šalis"
+        country: Šalis
         data_provider: Institucija
         date-created: 
         fashion:
@@ -251,7 +251,7 @@ lt:
         media: Tik įrašai su nuorodomis
         mime_type: Failo formatas
         provider: Agregatorius
-        providing_country: "Šalis"
+        providing_country: Šalis
         proxy_dcterms_created: 
         reusability: Ar galiu tai naudoti?
         rights: 
@@ -277,7 +277,7 @@ lt:
       language:
         bg: Bulgrarų
         ca: Katalonų
-        cs: "Čekų"
+        cs: Čekų
         da: Danų
         de: Vokiečių
         el: Graikų
@@ -305,7 +305,7 @@ lt:
         sk: Slovakų
         sl: Slovėnų
         sr: Serbų
-        sv: "Švedų"
+        sv: Švedų
         tr: Turkų
         uk: Ukrainiečių
         yi: Jidiš
@@ -348,7 +348,7 @@ lt:
         very_short: Labai trumpas (<30 s)
       sound_hq:
         'true': Taip
-      source: "Šaltinis"
+      source: Šaltinis
       text_fulltext:
         'false': Ne
         'true': Taip
@@ -413,7 +413,7 @@ lt:
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
     forgot-password: Pamiršote slaptažodį?
-    genres: "Žanrai"
+    genres: Žanrai
     genres-chamber-music: Kamerinė muzika
     genres-classical-music: Klasikinė muzika
     genres-concertos: Koncertai
@@ -435,7 +435,7 @@ lt:
     language-bulgarian: Bulgarų
     language-catalan: Katalonų
     language-croatian: Kroatų
-    language-czech: "Čekų"
+    language-czech: Čekų
     language-danish: Danų
     language-dutch: Olandų
     language-english: Anglų
@@ -459,7 +459,7 @@ lt:
     language-slovakian: Slovakų
     language-slovenian: Slovėnų
     language-spanish: Ispanų
-    language-swedish: "Švedų"
+    language-swedish: Švedų
     language-ukranian: Ukrainiečių
     login: Prisijungti
     mission: Mes keičiame pasaulį kultūros pagalba! Siekiame kurti turtingiausią Europos kultūrinio paveldo sistemą ir padaryti ją patogia naudotis tiek darbo, tiek mokslo, tiek laisvalaikio tikslais.
@@ -467,10 +467,10 @@ lt:
     more:
       load-more: Daugiau
       show-more: Rodyti daugiau
-      view-more: "Žiūrėti daugiau"
+      view-more: Žiūrėti daugiau
     more-info: Daugiau informacijos
     newsletter:
-      email-address-invalid: "Įveskite egzistuojantį el. pašto adresą"
+      email-address-invalid: Įveskite egzistuojantį el. pašto adresą
       email-address-required: El. pašto adresas privalomas
       language-required: Pasirinkite kalbą
       signup: Užsiprenumeruokite mūsų naujienlaiškį
@@ -485,7 +485,7 @@ lt:
     research-text: Prisijunkite prie akademinės bendruomenės
     search-area:
       search-button-image-alt: Ieškoti
-      search-placeholder-text: "Įveskite paieškos terminą"
+      search-placeholder-text: Įveskite paieškos terminą
     search-collections: Kolekcijos
     search-collections-text: Atraskite Europos kultūros paveldą
     share: Dalintis

@@ -185,7 +185,7 @@ pl:
         form:
           paintings:
             genre: Gatunek
-            medium: "Średni"
+            medium: Średni
       carrier: Nośnik
       colour: Kolor
       colour-black-and-white: Czarno-białe
@@ -208,7 +208,7 @@ pl:
         ireland: Irlandia
         israel: Izrael
         italy: Włochy
-        latvia: "Łotwa"
+        latvia: Łotwa
         lithuania: Litwa
         luxembourg: Luksemburg
         malta: Malta
@@ -272,7 +272,7 @@ pl:
       image_size:
         extra_large: Bardzo duży
         large: Duży
-        medium: "Średni"
+        medium: Średni
         small: Mały
       language:
         bg: 
@@ -343,12 +343,12 @@ pl:
         simple: Proste
       sound_duration:
         long: Długi
-        medium: "Średni"
+        medium: Średni
         short: Krótki
         very_short: Bardzo krótki
       sound_hq:
         'true': Tak
-      source: "Źródło"
+      source: Źródło
       text_fulltext:
         'false': Nie
         'true': Tak
@@ -371,25 +371,25 @@ pl:
           explanation: Co oznaczają te rozmiary?
           label: Rozmiar obrazu
           large: Duży (%{data})
-          medium: "Średni (%{data})"
+          medium: Średni (%{data})
           small: Mały (%{data})
           xl: Bardzo duży (%{data})
       type-sound:
         duration:
           label: Czas trwania
           long: Długi (%{data})
-          medium: "Średni (%{data})"
+          medium: Średni (%{data})
           short: Krótki (%{data})
           very-short: Bardzo krótki (%{data})
       type-video:
         duration:
           label: Czas trwania
           long: Długi (%{data})
-          medium: "Średni (%{data})"
+          medium: Średni (%{data})
           short: Krótki (%{data})
       video_duration:
         long: Długi (>20 min)
-        medium: "Średni (4-20 min)"
+        medium: Średni (4-20 min)
         short: Krótki (<4 min)
       video_hd:
         'true': Wysoka rozdzielczość
@@ -448,7 +448,7 @@ pl:
     language-hungarian: Węgierski
     language-icelandic: Islandzki
     language-italian: Włoski
-    language-latvian: "Łotewski"
+    language-latvian: Łotewski
     language-lithuanian: Litewski
     language-maltese: Maltański
     language-norwegian: Norweski

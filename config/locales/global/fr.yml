@@ -147,7 +147,7 @@ fr:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: "À propos"
+    about-us: À propos
     actions:
       filter-all: 
       filter-by: 
@@ -227,7 +227,7 @@ fr:
         turkey: Turquie
         ukraine: Ukraine
         unitedkingdom: Royaume-Uni
-        unitedstatesofamerica: "États-Unis"
+        unitedstatesofamerica: États-Unis
         vaticancity: 
       creator: auteur
       filter: 
@@ -395,7 +395,7 @@ fr:
         'true': HD
       year:
         from: de
-        to: "à"
+        to: à
     feedback:
       close: Fermer
       error: Error

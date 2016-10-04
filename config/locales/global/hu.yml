@@ -156,7 +156,7 @@ hu:
     channel:
       all: 
       archaeology: régészet
-      architecture: "építészet"
+      architecture: építészet
       art: művészet
       art-history: Művészettörténet
       fashion: divat
@@ -164,7 +164,7 @@ hu:
       maps: térképek
       music: Zene
       natural-history: természettudomány
-      newspapers: "újságok"
+      newspapers: újságok
       performing-arts: előadóművészet
     channels-art: Művészettörténet
     channels-art-image: Művészettörténet Gyűjtemény kép
@@ -197,7 +197,7 @@ hu:
         cyprus: Ciprus
         czechrepublic: Cseh Köztársaság
         denmark: Dánia
-        estonia: "Észtország"
+        estonia: Észtország
         europe: Európa
         finland: Finnország
         france: Franciaország
@@ -205,7 +205,7 @@ hu:
         greece: Görögország
         hungary: Magyarország
         iceland: Izland
-        ireland: "Írország"
+        ireland: Írország
         israel: Izrael
         italy: Olaszország
         latvia: Lettország
@@ -321,7 +321,7 @@ hu:
       resource:
         type: Típus
       reusability:
-        advanced: "Összetett"
+        advanced: Összetett
         advanced-cc-by: 
         advanced-cc-by-nc: 
         advanced-cc-by-nc-nd: 
@@ -439,7 +439,7 @@ hu:
     language-danish: Dán
     language-dutch: Holland
     language-english: Angol
-    language-estonian: "Észt"
+    language-estonian: Észt
     language-finnish: Finn
     language-french: Francia
     language-gaelic: Kelta

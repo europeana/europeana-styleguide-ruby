@@ -1,5 +1,5 @@
 ru:
-  Symphonies: "Симфонии"
+  Symphonies: Симфонии
   X11:
     colours:
       '000000': 
@@ -147,7 +147,7 @@ ru:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: "О нас"
+    about-us: О нас
     actions:
       filter-all: 
       filter-by: 
@@ -155,125 +155,125 @@ ru:
       fullscreen-exit: 
     channel:
       all: 
-      archaeology: "Археология"
-      architecture: "Архитектура"
-      art: "Искусство"
-      art-history: "История Искусств"
-      fashion: "Мода"
-      home: "Домой"
-      maps: "Карты"
-      music: "Музыка"
-      natural-history: "Естествознание"
-      newspapers: "Пресса"
-      performing-arts: "Исполнительское искусство"
-    channels-art: "История Искусств"
-    channels-art-image: "Изображение коллекции Art History Collection"
-    channels-art-link: "Коллекция Art History Collection"
-    channels-fashion: "Мода"
-    channels-music: "Музыка"
-    choose-language: "Язык"
+      archaeology: Археология
+      architecture: Архитектура
+      art: Искусство
+      art-history: История Искусств
+      fashion: Мода
+      home: Домой
+      maps: Карты
+      music: Музыка
+      natural-history: Естествознание
+      newspapers: Пресса
+      performing-arts: Исполнительское искусство
+    channels-art: История Искусств
+    channels-art-image: Изображение коллекции Art History Collection
+    channels-art-link: Коллекция Art History Collection
+    channels-fashion: Мода
+    channels-music: Музыка
+    choose-language: Язык
     cookie_disclaimer:
       more_info: 
       text: 
-    email-address: "Адрес электронной почты"
+    email-address: Адрес электронной почты
     facet:
       advanced:
-        options: "Опции"
+        options: Опции
         show:
-          ugc: "Контент, созданный пользователем"
+          ugc: Контент, созданный пользователем
       art:
         form:
           paintings:
-            genre: "Жанр"
-            medium: "Средний"
-      carrier: "Носитель"
-      colour: "Цвет"
-      colour-black-and-white: "Черно-белый"
+            genre: Жанр
+            medium: Средний
+      carrier: Носитель
+      colour: Цвет
+      colour-black-and-white: Черно-белый
       country:
-        austria: "Австрия"
-        belgium: "Бельгия"
-        bulgaria: "Болгария"
-        croatia: "Хорватия"
-        cyprus: "Кипр"
-        czechrepublic: "Чехия"
-        denmark: "Дания"
-        estonia: "Эстония"
-        europe: "Европа"
-        finland: "Финляндия"
-        france: "Франция"
-        germany: "Германия"
-        greece: "Греция"
-        hungary: "Венгрия"
-        iceland: "Исландия"
-        ireland: "Ирландия"
-        israel: "Израиль"
-        italy: "Италия"
-        latvia: "Латвия"
-        lithuania: "Литва"
-        luxembourg: "Люксембург"
-        malta: "Мальта"
-        netherlands: "Нидерланды"
-        norway: "Норвегия"
-        poland: "Польша"
-        portugal: "Польша"
-        romania: "Румыния"
-        russia: "Россия"
-        serbia: "Сербия"
-        slovakia: "Словакия"
-        slovenia: "Словения"
-        spain: "Испания"
-        sweden: "Швеция"
-        switzerland: "Швейцария"
-        turkey: "Турция"
-        ukraine: "Украина"
-        unitedkingdom: "Великобритания"
-        unitedstatesofamerica: "США"
+        austria: Австрия
+        belgium: Бельгия
+        bulgaria: Болгария
+        croatia: Хорватия
+        cyprus: Кипр
+        czechrepublic: Чехия
+        denmark: Дания
+        estonia: Эстония
+        europe: Европа
+        finland: Финляндия
+        france: Франция
+        germany: Германия
+        greece: Греция
+        hungary: Венгрия
+        iceland: Исландия
+        ireland: Ирландия
+        israel: Израиль
+        italy: Италия
+        latvia: Латвия
+        lithuania: Литва
+        luxembourg: Люксембург
+        malta: Мальта
+        netherlands: Нидерланды
+        norway: Норвегия
+        poland: Польша
+        portugal: Польша
+        romania: Румыния
+        russia: Россия
+        serbia: Сербия
+        slovakia: Словакия
+        slovenia: Словения
+        spain: Испания
+        sweden: Швеция
+        switzerland: Швейцария
+        turkey: Турция
+        ukraine: Украина
+        unitedkingdom: Великобритания
+        unitedstatesofamerica: США
         vaticancity: 
-      creator: "Автор"
+      creator: Автор
       filter: 
       header:
-        collection: "Коллекции"
-        colourpalette: "Цвет"
-        country: "Страна"
-        data_provider: "Организация"
+        collection: Коллекции
+        colourpalette: Цвет
+        country: Страна
+        data_provider: Организация
         date-created: 
         fashion:
           colour: 
           designer: 
           technique: 
           type: 
-        image_aspectratio: "Ориентация"
-        image_colour: "Палитра"
-        image_size: "Размер"
+        image_aspectratio: Ориентация
+        image_colour: Палитра
+        image_size: Размер
         intermediateprovider: 
-        language: "Язык"
-        language_of_description: "Язык описания"
-        media: "Только со ссылками на носители"
-        mime_type: "Формат файла"
-        provider: "Агрегатор"
-        providing_country: "Страна"
+        language: Язык
+        language_of_description: Язык описания
+        media: Только со ссылками на носители
+        mime_type: Формат файла
+        provider: Агрегатор
+        providing_country: Страна
         proxy_dcterms_created: 
-        reusability: "Могу ли я это использовать?"
+        reusability: Могу ли я это использовать?
         rights: 
-        sound_duration: "Продолжительность"
-        sound_hq: "Высокое качество"
-        text_fulltext: "Полный текст"
-        type: "Носитель"
-        ugc: "Показать контент, добавленный пользователями"
-        video_duration: "Длительность видео"
+        sound_duration: Продолжительность
+        sound_hq: Высокое качество
+        text_fulltext: Полный текст
+        type: Носитель
+        ugc: Показать контент, добавленный пользователями
+        video_duration: Длительность видео
         video_hd: 
-        year: "Дата"
+        year: Дата
       image_aspectratio:
-        landscape: "Альбомная"
-        portrait: "Книжная"
+        landscape: Альбомная
+        portrait: Книжная
       image_colour:
-        'false': "Черно-белый"
-        'true': "Цвет"
+        'false': Черно-белый
+        'true': Цвет
       image_size:
-        extra_large: "Очень большие (> 4 Мп)"
-        large: "Большие (1 Мп - 4 Мп)"
-        medium: "Средние (0.5 Мп - 1 Мп)"
-        small: "Маленькие (<0.5 Мп)"
+        extra_large: Очень большие (> 4 Мп)
+        large: Большие (1 Мп - 4 Мп)
+        medium: Средние (0.5 Мп - 1 Мп)
+        small: Маленькие (<0.5 Мп)
       language:
         bg: 
         ca: 
@@ -309,17 +309,17 @@ ru:
         tr: 
         uk: 
         yi: 
-      less: "Меньше"
+      less: Меньше
       license:
         hide-specific: 
         show-specific: 
       media:
-        'false': "Нет"
-        'true': "Да"
-      more: "Больше"
-      more-refinements: "Более детально"
+        'false': Нет
+        'true': Да
+      more: Больше
+      more-refinements: Более детально
       resource:
-        type: "Тип"
+        type: Тип
       reusability:
         advanced: ''
         advanced-cc-by: 
@@ -337,65 +337,65 @@ ru:
         advanced-rrra: ''
         advanced-ucs: ''
         expiry: 
-        open: "Да с указанием правообладателя"
-        permission: "Только с разрешения правообладателя"
-        restricted: "Да с ограничениями"
+        open: Да с указанием правообладателя
+        permission: Только с разрешения правообладателя
+        restricted: Да с ограничениями
         simple: ''
       sound_duration:
-        long: "Длинный (6+ минут)"
-        medium: "Средний (3-6 минут)"
-        short: "Короткий (30 секунд - 3 минуты)"
-        very_short: "Очень короткий (<30 секунд)"
+        long: Длинный (6+ минут)
+        medium: Средний (3-6 минут)
+        short: Короткий (30 секунд - 3 минуты)
+        very_short: Очень короткий (<30 секунд)
       sound_hq:
-        'true': "Да"
-      source: "Источник"
+        'true': Да
+      source: Источник
       text_fulltext:
-        'false': "Нет"
-        'true': "Да"
+        'false': Нет
+        'true': Да
       type:
         3d: 3D
-        image: "Изображение"
-        sound: "Звукозапись"
-        text: "Текст"
-        video: "Видео"
+        image: Изображение
+        sound: Звукозапись
+        text: Текст
+        video: Видео
       type-image:
         orientation:
-          label: "Ориентация изображения"
-          landscape: "Альбомная"
-          portrait: "Книжная"
+          label: Ориентация изображения
+          landscape: Альбомная
+          portrait: Книжная
         quality:
-          all: "Показать все"
-          hq-only: "Показать только в высоком качестве"
-          label: "Качество"
+          all: Показать все
+          hq-only: Показать только в высоком качестве
+          label: Качество
         size:
-          explanation: "Что означают эти размеры?"
-          label: "Размер изображения"
-          large: "Большой (%{data})"
-          medium: "Средний (%{data})"
-          small: "Маленький (%{data})"
-          xl: "Очень большой (%{data})"
+          explanation: Что означают эти размеры?
+          label: Размер изображения
+          large: Большой (%{data})
+          medium: Средний (%{data})
+          small: Маленький (%{data})
+          xl: Очень большой (%{data})
       type-sound:
         duration:
-          label: "Длительность аудиозаписи"
-          long: "Длинный (%{data})"
-          medium: "Средний (%{data})"
-          short: "Короткий (%{data})"
-          very-short: "Очень короткий (%{data})"
+          label: Длительность аудиозаписи
+          long: Длинный (%{data})
+          medium: Средний (%{data})
+          short: Короткий (%{data})
+          very-short: Очень короткий (%{data})
       type-video:
         duration:
-          label: "Длительность видео"
-          long: "Длинный (%{data})"
-          medium: "Средний (%{data})"
-          short: "Короткий (%{data})"
+          label: Длительность видео
+          long: Длинный (%{data})
+          medium: Средний (%{data})
+          short: Короткий (%{data})
       video_duration:
-        long: "Длинный (20+ минут)"
-        medium: "Средний (4 - 20 минут)"
-        short: "Короткий (<4 минут)"
+        long: Длинный (20+ минут)
+        medium: Средний (4 - 20 минут)
+        short: Короткий (<4 минут)
       video_hd:
         'true': HD
       year:
-        from: "с"
-        to: "по"
+        from: с
+        to: по
     feedback:
       close: 
       error: 
@@ -410,98 +410,98 @@ ru:
         bug: 
         comment: 
         correction: 
-    find-us-elsewhere: "Вы также можете найти нас"
+    find-us-elsewhere: Вы также можете найти нас
     find-us-social-media: 
-    forgot-password: "Забыли пароль?"
-    genres: "Жанры"
-    genres-chamber-music: "Камерная музыка"
-    genres-classical-music: "Классическая музыка"
-    genres-concertos: "Концертная музыка"
-    genres-non-western-classical-music: "Не-западная классическая музыка"
-    genres-opera: "Опера"
-    genres-popular-music: "Популярная музыка"
-    genres-traditional-music: "Традиционная музыка"
+    forgot-password: Забыли пароль?
+    genres: Жанры
+    genres-chamber-music: Камерная музыка
+    genres-classical-music: Классическая музыка
+    genres-concertos: Концертная музыка
+    genres-non-western-classical-music: Не-западная классическая музыка
+    genres-opera: Опера
+    genres-popular-music: Популярная музыка
+    genres-traditional-music: Традиционная музыка
     header:
-      connect: "Связь"
-      develop: "Разработка"
-      discover: "Открытия"
-      network: "Сообщество"
-    help: "Помощь"
-    home: "Домой"
-    javascript-required: "Чтобы увидеть содержимое, пожалуйста, включите JavaScript в Вашем браузере и попробуйте обновить веб-браузер до версии, которая поддерживает HTML5."
+      connect: Связь
+      develop: Разработка
+      discover: Открытия
+      network: Сообщество
+    help: Помощь
+    home: Домой
+    javascript-required: Чтобы увидеть содержимое, пожалуйста, включите JavaScript в Вашем браузере и попробуйте обновить веб-браузер до версии, которая поддерживает HTML5.
     labs: Labs
-    labs-text: "Воспользуйтесь нашими API сервисами и коллекциями"
-    language-basque: "Баскский"
-    language-bulgarian: "Болгарский"
-    language-catalan: "Каталонский"
-    language-croatian: "Хорватский"
-    language-czech: "Чешский"
-    language-danish: "Датский"
-    language-dutch: "Голландский"
-    language-english: "Английский"
-    language-estonian: "Эстонский"
-    language-finnish: "Финнский"
-    language-french: "Французский"
-    language-gaelic: "Галльский"
-    language-german: "Немецкий"
-    language-greek: "Греческий"
-    language-hungarian: "Венгерский"
-    language-icelandic: "Исландский"
-    language-italian: "Итальянский"
-    language-latvian: "Латышский"
-    language-lithuanian: "Литовский"
-    language-maltese: "Мальтийский"
-    language-norwegian: "Норвежский"
-    language-polish: "Польский"
-    language-portuguese: "Португальсикй"
-    language-romanian: "Румынский"
-    language-russian: "Русский"
-    language-slovakian: "Словакский"
-    language-slovenian: "Словенский"
-    language-spanish: "Испанский"
-    language-swedish: "Шедский"
-    language-ukranian: "Украинский"
-    login: "Логин"
-    mission: "Культура меняет наш мир! Мы хотим построить банк данных общеевропейского культурного наследия, доступного для использования в работе, в учебе или просто для развлечения."
-    mission-title: "Наша миссия"
+    labs-text: Воспользуйтесь нашими API сервисами и коллекциями
+    language-basque: Баскский
+    language-bulgarian: Болгарский
+    language-catalan: Каталонский
+    language-croatian: Хорватский
+    language-czech: Чешский
+    language-danish: Датский
+    language-dutch: Голландский
+    language-english: Английский
+    language-estonian: Эстонский
+    language-finnish: Финнский
+    language-french: Французский
+    language-gaelic: Галльский
+    language-german: Немецкий
+    language-greek: Греческий
+    language-hungarian: Венгерский
+    language-icelandic: Исландский
+    language-italian: Итальянский
+    language-latvian: Латышский
+    language-lithuanian: Литовский
+    language-maltese: Мальтийский
+    language-norwegian: Норвежский
+    language-polish: Польский
+    language-portuguese: Португальсикй
+    language-romanian: Румынский
+    language-russian: Русский
+    language-slovakian: Словакский
+    language-slovenian: Словенский
+    language-spanish: Испанский
+    language-swedish: Шедский
+    language-ukranian: Украинский
+    login: Логин
+    mission: Культура меняет наш мир! Мы хотим построить банк данных общеевропейского культурного наследия, доступного для использования в работе, в учебе или просто для развлечения.
+    mission-title: Наша миссия
     more:
-      load-more: "Еще"
-      show-more: "Показать еще"
-      view-more: "Просмотреть еще"
-    more-info: "Информация"
+      load-more: Еще
+      show-more: Показать еще
+      view-more: Просмотреть еще
+    more-info: Информация
     newsletter:
-      email-address-invalid: "Адрес электронной почты должен быть корректным электронным адресом."
-      email-address-required: "Адрес электронной почты должен быть указан."
-      language-required: "Язык должен быть указан."
-      signup: "Подпишитесь на рассылку наших новостей"
-    our-sites: "наши сайты"
-    password: "Пароль"
+      email-address-invalid: Адрес электронной почты должен быть корректным электронным адресом.
+      email-address-required: Адрес электронной почты должен быть указан.
+      language-required: Язык должен быть указан.
+      signup: Подпишитесь на рассылку наших новостей
+    our-sites: наши сайты
+    password: Пароль
     professional: Pro
-    professional-text: "Принимайте участие, делитесь своими данными или используйте наши"
-    refine-your-search: "Инструменты поиска"
+    professional-text: Принимайте участие, делитесь своими данными или используйте наши
+    refine-your-search: Инструменты поиска
     refine-your-search-short: 
-    register: "Зарегистрируйтесь"
+    register: Зарегистрируйтесь
     research: Research
-    research-text: "Свяжитесь с академическими сообществами"
+    research-text: Свяжитесь с академическими сообществами
     search-area:
-      search-button-image-alt: "Поиск"
-      search-placeholder-text: "Введите поисковый запрос"
+      search-button-image-alt: Поиск
+      search-placeholder-text: Введите поисковый запрос
     search-collections: Collections
-    search-collections-text: "Исследуйте европейское культурное наследие"
-    share: "Поделиться"
-    sitemap: "Карта сайта"
-    terms-and-policies: "Условия и положения"
+    search-collections-text: Исследуйте европейское культурное наследие
+    share: Поделиться
+    sitemap: Карта сайта
+    terms-and-policies: Условия и положения
     tooltips:
       channels:
         search:
           new-filter: 
           new-grid: 
-    type: "Тип"
-  'no': "Норвегия"
-  pl: "Португалия"
+    type: Тип
+  'no': Норвегия
+  pl: Португалия
   site:
     facet:
       language:
         show:
-          results: "Результаты"
-        show-results-all: "Показать все результаты"
+          results: Результаты
+        show-results-all: Показать все результаты

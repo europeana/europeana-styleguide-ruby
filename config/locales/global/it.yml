@@ -403,8 +403,9 @@ it:
       placeholder: Se si vuole essere contattati , lascia il tuo indirizzo e-mail !
       submit: invio
       thanks:
-        long: |
-          Grazie per il tuo feedback. Se necessario; ti risponderemo al più presto possibile
+        long: 'Grazie per il tuo feedback. Se necessario; ti risponderemo al più presto possibile
+
+'
         short: Grazie!
       title: Feedback
       type:

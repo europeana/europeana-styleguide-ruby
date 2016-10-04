@@ -190,7 +190,7 @@ pt:
       colour: Cor
       colour-black-and-white: Preto e branco
       country:
-        austria: "Áustria"
+        austria: Áustria
         belgium: Bélgica
         bulgaria: Bulgária
         croatia: Croácia
@@ -418,7 +418,7 @@ pt:
     genres-classical-music: Música clássica
     genres-concertos: Concertos
     genres-non-western-classical-music: Música clássica não-ocidental
-    genres-opera: "Ópera"
+    genres-opera: Ópera
     genres-popular-music: Musica popular
     genres-traditional-music: Música tradicional
     header:

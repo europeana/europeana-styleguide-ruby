@@ -1,5 +1,5 @@
 el:
-  Symphonies: "Συμφωνίες"
+  Symphonies: Συμφωνίες
   X11:
     colours:
       '000000': 
@@ -147,7 +147,7 @@ el:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: "Σχετικά με εμάς"
+    about-us: Σχετικά με εμάς
     actions:
       filter-all: 
       filter-by: 
@@ -155,125 +155,125 @@ el:
       fullscreen-exit: 
     channel:
       all: 
-      archaeology: "αρχαιολογία"
-      architecture: "αρχιτεκτονική"
-      art: "τέχνη"
-      art-history: "Ιστορία της τέχνης"
-      fashion: "μόδα"
-      home: "Αρχική"
-      maps: "χάρτες"
-      music: "μουσική"
-      natural-history: "φυσική ιστορία"
-      newspapers: "εφημερίδες"
-      performing-arts: "Τέχνες του θεάματος"
-    channels-art: "Ιστορία της τέχνης"
-    channels-art-image: "Εικόνα από την Συλλογή Ιστορία της Τέχνης"
-    channels-art-link: "Συλλογή Ιστορία της Τέχνης"
-    channels-fashion: "Μόδα"
-    channels-music: "Μουσική"
-    choose-language: "Γλώσσα"
+      archaeology: αρχαιολογία
+      architecture: αρχιτεκτονική
+      art: τέχνη
+      art-history: Ιστορία της τέχνης
+      fashion: μόδα
+      home: Αρχική
+      maps: χάρτες
+      music: μουσική
+      natural-history: φυσική ιστορία
+      newspapers: εφημερίδες
+      performing-arts: Τέχνες του θεάματος
+    channels-art: Ιστορία της τέχνης
+    channels-art-image: Εικόνα από την Συλλογή Ιστορία της Τέχνης
+    channels-art-link: Συλλογή Ιστορία της Τέχνης
+    channels-fashion: Μόδα
+    channels-music: Μουσική
+    choose-language: Γλώσσα
     cookie_disclaimer:
       more_info: 
       text: 
-    email-address: "διεύθυνση ηλεκτρονικού ταχυδρομείου"
+    email-address: διεύθυνση ηλεκτρονικού ταχυδρομείου
     facet:
       advanced:
-        options: "Επιλογές"
+        options: Επιλογές
         show:
-          ugc: "Περιεχόμενο από χρήστες"
+          ugc: Περιεχόμενο από χρήστες
       art:
         form:
           paintings:
-            genre: "Είδος"
-            medium: "Μέσο"
-      carrier: "Μέσο αποθήκευσης"
-      colour: "Χρώμα"
-      colour-black-and-white: "Ασπρόμαυρο"
+            genre: Είδος
+            medium: Μέσο
+      carrier: Μέσο αποθήκευσης
+      colour: Χρώμα
+      colour-black-and-white: Ασπρόμαυρο
       country:
-        austria: "Αυστρία"
-        belgium: "Βέλγιο"
-        bulgaria: "Βουλγαρία"
-        croatia: "Κροατία"
-        cyprus: "Κύπρος"
-        czechrepublic: "Τσεχία"
-        denmark: "Δανία"
-        estonia: "Εσθονία"
-        europe: "Ευρώπη"
-        finland: "Φινλανδία"
-        france: "Γαλλία"
-        germany: "Γερμανία"
-        greece: "Ελλάδα"
-        hungary: "Ουγγαρία"
-        iceland: "Ισλανδία"
-        ireland: "Ιρλανδία"
-        israel: "Ισραήλ"
-        italy: "Ιταλία"
-        latvia: "Λετονία"
-        lithuania: "Λιθουανία"
-        luxembourg: "Λουξεμβούργο"
-        malta: "Μάλτα"
-        netherlands: "Ολλανδία"
-        norway: "Νορβηγία"
-        poland: "Πολωνία"
-        portugal: "Πορτογαλία"
-        romania: "Ρουμανία"
-        russia: "Ρωσία"
-        serbia: "Σερβία"
-        slovakia: "Σλοβακία"
-        slovenia: "Σλοβενία"
-        spain: "Ισπανία"
-        sweden: "Σουηδία"
-        switzerland: "Ελβετία"
-        turkey: "Τουρκία"
-        ukraine: "Ουκρανία"
-        unitedkingdom: "Ηνωμένο Βασίλειο"
-        unitedstatesofamerica: "ΗΠΑ"
+        austria: Αυστρία
+        belgium: Βέλγιο
+        bulgaria: Βουλγαρία
+        croatia: Κροατία
+        cyprus: Κύπρος
+        czechrepublic: Τσεχία
+        denmark: Δανία
+        estonia: Εσθονία
+        europe: Ευρώπη
+        finland: Φινλανδία
+        france: Γαλλία
+        germany: Γερμανία
+        greece: Ελλάδα
+        hungary: Ουγγαρία
+        iceland: Ισλανδία
+        ireland: Ιρλανδία
+        israel: Ισραήλ
+        italy: Ιταλία
+        latvia: Λετονία
+        lithuania: Λιθουανία
+        luxembourg: Λουξεμβούργο
+        malta: Μάλτα
+        netherlands: Ολλανδία
+        norway: Νορβηγία
+        poland: Πολωνία
+        portugal: Πορτογαλία
+        romania: Ρουμανία
+        russia: Ρωσία
+        serbia: Σερβία
+        slovakia: Σλοβακία
+        slovenia: Σλοβενία
+        spain: Ισπανία
+        sweden: Σουηδία
+        switzerland: Ελβετία
+        turkey: Τουρκία
+        ukraine: Ουκρανία
+        unitedkingdom: Ηνωμένο Βασίλειο
+        unitedstatesofamerica: ΗΠΑ
         vaticancity: 
-      creator: "δημιουργός"
+      creator: δημιουργός
       filter: 
       header:
-        collection: "Συλλογές"
-        colourpalette: "Χρώμα"
-        country: "Χώρα"
-        data_provider: "Ίδρυμα"
+        collection: Συλλογές
+        colourpalette: Χρώμα
+        country: Χώρα
+        data_provider: Ίδρυμα
         date-created: 
         fashion:
           colour: 
           designer: 
           technique: 
           type: 
-        image_aspectratio: "Προσανατολισμός"
-        image_colour: "Παλέτα"
-        image_size: "Μέγεθος"
+        image_aspectratio: Προσανατολισμός
+        image_colour: Παλέτα
+        image_size: Μέγεθος
         intermediateprovider: 
-        language: "Γλώσσα"
-        language_of_description: "Γλώσσα Περιγραφής"
-        media: "Μόνο αντικείμενα με συνδέσμους σε μέσα"
-        mime_type: "Τύπος αρχείου"
-        provider: "Συλλέκτης"
-        providing_country: "Χώρα ιδρύματος"
+        language: Γλώσσα
+        language_of_description: Γλώσσα Περιγραφής
+        media: Μόνο αντικείμενα με συνδέσμους σε μέσα
+        mime_type: Τύπος αρχείου
+        provider: Συλλέκτης
+        providing_country: Χώρα ιδρύματος
         proxy_dcterms_created: 
-        reusability: "Μπορώ να το χρησιμοποιήσω;"
+        reusability: Μπορώ να το χρησιμοποιήσω;
         rights: 
-        sound_duration: "Διάρκεια"
-        sound_hq: "Υψηλή ποιότητα"
-        text_fulltext: "Πλήρες κείμενο"
-        type: "Μέσα"
-        ugc: "Περιεχόμενο που παρείχαν χρήστες"
-        video_duration: "Διάρκεια Video"
+        sound_duration: Διάρκεια
+        sound_hq: Υψηλή ποιότητα
+        text_fulltext: Πλήρες κείμενο
+        type: Μέσα
+        ugc: Περιεχόμενο που παρείχαν χρήστες
+        video_duration: Διάρκεια Video
         video_hd: 
-        year: "Ημερομηνία"
+        year: Ημερομηνία
       image_aspectratio:
-        landscape: "Τοπίο"
-        portrait: "Πορτρέτο"
+        landscape: Τοπίο
+        portrait: Πορτρέτο
       image_colour:
-        'false': "Ασπρόμαυρο"
-        'true': "Χρώμα"
+        'false': Ασπρόμαυρο
+        'true': Χρώμα
       image_size:
-        extra_large: "Πολύ μεγάλη ανάλυση (4MP+)"
-        large: "Μεγάλη ανάλυση (1-4MP)"
-        medium: "Μέση ανάλυση (0.5-1MP)"
-        small: "Χαμηλή ανάλυση (<0.5MP)"
+        extra_large: Πολύ μεγάλη ανάλυση (4MP+)
+        large: Μεγάλη ανάλυση (1-4MP)
+        medium: Μέση ανάλυση (0.5-1MP)
+        small: Χαμηλή ανάλυση (<0.5MP)
       language:
         bg: 
         ca: 
@@ -309,19 +309,19 @@ el:
         tr: 
         uk: 
         yi: 
-      less: "Λιγότερα"
+      less: Λιγότερα
       license:
         hide-specific: 
         show-specific: 
       media:
-        'false': "Όχι"
-        'true': "Ναι"
-      more: "Περισσότερα"
-      more-refinements: "Περισσότεροι όροι εξειδικευμένης αναζήτησης"
+        'false': Όχι
+        'true': Ναι
+      more: Περισσότερα
+      more-refinements: Περισσότεροι όροι εξειδικευμένης αναζήτησης
       resource:
-        type: "Τύπος"
+        type: Τύπος
       reusability:
-        advanced: "Για προχωρημένους"
+        advanced: Για προχωρημένους
         advanced-cc-by: 
         advanced-cc-by-nc: 
         advanced-cc-by-nc-nd: 
@@ -337,65 +337,65 @@ el:
         advanced-rrra: ''
         advanced-ucs: ''
         expiry: 
-        open: "Ναι με απόδοση πνευματικών δικαιωμάτων"
-        permission: "Μόνο με άδεια"
-        restricted: "Ναι με περιορισμούς"
-        simple: "Απλό"
+        open: Ναι με απόδοση πνευματικών δικαιωμάτων
+        permission: Μόνο με άδεια
+        restricted: Ναι με περιορισμούς
+        simple: Απλό
       sound_duration:
-        long: "Μεγάλη διάρκεια (6+ λεπτά)"
-        medium: "Μεσαία διάρκεια (3-6 λεπτά)"
-        short: "Μικρή διάρκεια (30δ - 3 λεπτά) "
-        very_short: "Πολύ μικρή διάρκεια (<30δ)"
+        long: Μεγάλη διάρκεια (6+ λεπτά)
+        medium: Μεσαία διάρκεια (3-6 λεπτά)
+        short: 'Μικρή διάρκεια (30δ - 3 λεπτά) '
+        very_short: Πολύ μικρή διάρκεια (<30δ)
       sound_hq:
-        'true': "Ναι"
-      source: "Πηγή"
+        'true': Ναι
+      source: Πηγή
       text_fulltext:
-        'false': "Όχι"
-        'true': "Ναι"
+        'false': Όχι
+        'true': Ναι
       type:
         3d: 3D
-        image: "Εικόνα"
-        sound: "Ήχος"
-        text: "Κείμενο"
-        video: "Βίντεο"
+        image: Εικόνα
+        sound: Ήχος
+        text: Κείμενο
+        video: Βίντεο
       type-image:
         orientation:
-          label: "Προσανατολισμός εικόνας"
-          landscape: "Τοπίο"
-          portrait: "Πορτρέτο"
+          label: Προσανατολισμός εικόνας
+          landscape: Τοπίο
+          portrait: Πορτρέτο
         quality:
-          all: "Εμφάνιση όλων"
-          hq-only: "Εμφάνιση μόνος υψηλής ποιότητας"
-          label: "Ποιότητα"
+          all: Εμφάνιση όλων
+          hq-only: Εμφάνιση μόνος υψηλής ποιότητας
+          label: Ποιότητα
         size:
-          explanation: "Τι σημαίνουν αυτά τα μεγέθη;"
-          label: "Μέγεθος εικόνας"
-          large: "Μεγάλη (%{data})"
-          medium: "Μεσαία (%{data})"
-          small: "Μικρή (%{data})"
-          xl: "Πολύ μεγάλη (%{data})"
+          explanation: Τι σημαίνουν αυτά τα μεγέθη;
+          label: Μέγεθος εικόνας
+          large: Μεγάλη (%{data})
+          medium: Μεσαία (%{data})
+          small: Μικρή (%{data})
+          xl: Πολύ μεγάλη (%{data})
       type-sound:
         duration:
-          label: "Διάρκεια ήχου"
-          long: "Μεγάλη (%{data})"
-          medium: "Μεσαία (%{data})"
-          short: "Μικρή (%{data})"
-          very-short: "Πολύ μικρή (%{data})"
+          label: Διάρκεια ήχου
+          long: Μεγάλη (%{data})
+          medium: Μεσαία (%{data})
+          short: Μικρή (%{data})
+          very-short: Πολύ μικρή (%{data})
       type-video:
         duration:
-          label: "Διάρκεια Βίντεο"
-          long: "Μεγάλη (%{data})"
-          medium: "Μεσαία (%{data})"
-          short: "Μικρή (%{data})"
+          label: Διάρκεια Βίντεο
+          long: Μεγάλη (%{data})
+          medium: Μεσαία (%{data})
+          short: Μικρή (%{data})
       video_duration:
-        long: "Μεγάλη (20+ λεπτά)"
-        medium: "Μεσαία (4-20 λεπτά)"
-        short: "Μικρή (<4 λεπτά)"
+        long: Μεγάλη (20+ λεπτά)
+        medium: Μεσαία (4-20 λεπτά)
+        short: Μικρή (<4 λεπτά)
       video_hd:
         'true': HD
       year:
-        from: "από"
-        to: "μέχρι"
+        from: από
+        to: μέχρι
     feedback:
       close: 
       error: 
@@ -410,98 +410,98 @@ el:
         bug: 
         comment: 
         correction: 
-    find-us-elsewhere: "Βρείτε μας αλλού"
+    find-us-elsewhere: Βρείτε μας αλλού
     find-us-social-media: 
-    forgot-password: "Ξεχάσατε τον κωδικό σας"
-    genres: "είδη"
-    genres-chamber-music: "Μουσική δωματίου"
-    genres-classical-music: "Κλασσική μουσική"
-    genres-concertos: "Κονσέρτα"
-    genres-non-western-classical-music: "Μη-δυτική κλασσική μουσική"
-    genres-opera: "Όπερα"
-    genres-popular-music: "Λαϊκή μουσική"
-    genres-traditional-music: "Παραδοσιακή"
+    forgot-password: Ξεχάσατε τον κωδικό σας
+    genres: είδη
+    genres-chamber-music: Μουσική δωματίου
+    genres-classical-music: Κλασσική μουσική
+    genres-concertos: Κονσέρτα
+    genres-non-western-classical-music: Μη-δυτική κλασσική μουσική
+    genres-opera: Όπερα
+    genres-popular-music: Λαϊκή μουσική
+    genres-traditional-music: Παραδοσιακή
     header:
-      connect: "συνδεθείτε"
-      develop: "αναπτύξτε"
-      discover: "ανακάλυψτε"
-      network: "δίκτυο"
-    help: "Βοήθεια"
-    home: "Αρχική"
-    javascript-required: "Για να αποκτήσετε πρόσβαση σε αυτό το περιεχόμενο, ενεργοποιήστε τις επεκτάσεις Javascript, και χρησιμοποιήστε έναν φυλλομετρητή με υποστήριξη περιεχομένου HTML5"
+      connect: συνδεθείτε
+      develop: αναπτύξτε
+      discover: ανακάλυψτε
+      network: δίκτυο
+    help: Βοήθεια
+    home: Αρχική
+    javascript-required: Για να αποκτήσετε πρόσβαση σε αυτό το περιεχόμενο, ενεργοποιήστε τις επεκτάσεις Javascript, και χρησιμοποιήστε έναν φυλλομετρητή με υποστήριξη περιεχομένου HTML5
     labs: 
-    labs-text: "Συνδυάστε πολιτιστικό περιεχόμενο μέσω των APIs και τις συλλογές μας"
-    language-basque: "Βάσκικα"
-    language-bulgarian: "Βουλγάρικα"
-    language-catalan: "Καταλανικά"
-    language-croatian: "Κροατικά"
-    language-czech: "Τσέχικα"
-    language-danish: "Δανέζικα"
-    language-dutch: "Ολλανδικά"
-    language-english: "Αγγλικά"
-    language-estonian: "Εσθονικά"
-    language-finnish: "Φινλανδέζικα"
-    language-french: "Γαλλικά"
-    language-gaelic: "Γαλικιακά"
-    language-german: "Γερμανικά"
-    language-greek: "Ελληνικά"
-    language-hungarian: "Ουγγαρέζικα"
-    language-icelandic: "Ισλανδικά"
-    language-italian: "Ιταλικά"
-    language-latvian: "Λετονικά"
-    language-lithuanian: "Λιθουανικά"
-    language-maltese: "Μαλτέζικα"
-    language-norwegian: "Νορβηγικά"
-    language-polish: "Πολωνικά"
-    language-portuguese: "Πορτογαλικά"
-    language-romanian: "Ρουμανικά"
-    language-russian: "Ρώσικα"
-    language-slovakian: "Σλοβάκικα"
-    language-slovenian: "Σλοβένικα"
-    language-spanish: "Ισπανικά"
-    language-swedish: "Σουηδικά"
-    language-ukranian: "Ουκρανικά"
-    login: "Είσοδος"
-    mission: "Αλλάζουμε τον κόσμο μέσω του πολιτισμού! Θέλουμε να βασιστούμε στην πολιτιστική κληρονομιά της Ευρώπης και να το κάνουμε πιο εύκολο για τους ανθρώπους να την χρησιμοποιήσουν, είτε για δουλειά, είτε για να μάθουν είτε απλά για διασκέδαση."
-    mission-title: "Η αποστολή μας"
+    labs-text: Συνδυάστε πολιτιστικό περιεχόμενο μέσω των APIs και τις συλλογές μας
+    language-basque: Βάσκικα
+    language-bulgarian: Βουλγάρικα
+    language-catalan: Καταλανικά
+    language-croatian: Κροατικά
+    language-czech: Τσέχικα
+    language-danish: Δανέζικα
+    language-dutch: Ολλανδικά
+    language-english: Αγγλικά
+    language-estonian: Εσθονικά
+    language-finnish: Φινλανδέζικα
+    language-french: Γαλλικά
+    language-gaelic: Γαλικιακά
+    language-german: Γερμανικά
+    language-greek: Ελληνικά
+    language-hungarian: Ουγγαρέζικα
+    language-icelandic: Ισλανδικά
+    language-italian: Ιταλικά
+    language-latvian: Λετονικά
+    language-lithuanian: Λιθουανικά
+    language-maltese: Μαλτέζικα
+    language-norwegian: Νορβηγικά
+    language-polish: Πολωνικά
+    language-portuguese: Πορτογαλικά
+    language-romanian: Ρουμανικά
+    language-russian: Ρώσικα
+    language-slovakian: Σλοβάκικα
+    language-slovenian: Σλοβένικα
+    language-spanish: Ισπανικά
+    language-swedish: Σουηδικά
+    language-ukranian: Ουκρανικά
+    login: Είσοδος
+    mission: Αλλάζουμε τον κόσμο μέσω του πολιτισμού! Θέλουμε να βασιστούμε στην πολιτιστική κληρονομιά της Ευρώπης και να το κάνουμε πιο εύκολο για τους ανθρώπους να την χρησιμοποιήσουν, είτε για δουλειά, είτε για να μάθουν είτε απλά για διασκέδαση.
+    mission-title: Η αποστολή μας
     more:
-      load-more: "Περισσότερα"
-      show-more: "Εμφάνιση περισσοτέρων"
-      view-more: "Δείτε περισσότερα"
-    more-info: "Περισσότερες πληροφορίες"
+      load-more: Περισσότερα
+      show-more: Εμφάνιση περισσοτέρων
+      view-more: Δείτε περισσότερα
+    more-info: Περισσότερες πληροφορίες
     newsletter:
-      email-address-invalid: "Η διεύθυνση του ηλεκτρινοκού ταχυδρομείου δεν είναι έγκυρη."
-      email-address-required: "Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν έχει καθοριστεί."
-      language-required: "Η γλώσσα δεν έχει καθοριστεί."
-      signup: "Εγγραφείτε για το newsletter"
-    our-sites: "Οι ιστοσελίδες μας"
-    password: "Κωδικός"
+      email-address-invalid: Η διεύθυνση του ηλεκτρινοκού ταχυδρομείου δεν είναι έγκυρη.
+      email-address-required: Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν έχει καθοριστεί.
+      language-required: Η γλώσσα δεν έχει καθοριστεί.
+      signup: Εγγραφείτε για το newsletter
+    our-sites: Οι ιστοσελίδες μας
+    password: Κωδικός
     professional: 
-    professional-text: "Συμμετέχετε, μοιραστείτε τα δεδομένα σας ή χρησιμοποιήστε τα δικά μας"
-    refine-your-search: "Επαναπροσδιορίστε τα αποτελέσματά σας"
+    professional-text: Συμμετέχετε, μοιραστείτε τα δεδομένα σας ή χρησιμοποιήστε τα δικά μας
+    refine-your-search: Επαναπροσδιορίστε τα αποτελέσματά σας
     refine-your-search-short: 
-    register: "Εγγραφή"
+    register: Εγγραφή
     research: ''
-    research-text: "Σε σύνδεση με την ακαδημαϊκή κοινότητα"
+    research-text: Σε σύνδεση με την ακαδημαϊκή κοινότητα
     search-area:
-      search-button-image-alt: "Αναζήτηση"
-      search-placeholder-text: "Προσθέστε όρο αναζήτησης"
-    search-collections: "Συλλογές"
-    search-collections-text: "Περιηγηθείτε στην πολιτιστική κληρονομιά της Ευρώπης"
-    share: "Μοιραστείτε"
-    sitemap: "Χάρτης ιστοχώρου"
-    terms-and-policies: "Όροι και πολιτική χρήσης"
+      search-button-image-alt: Αναζήτηση
+      search-placeholder-text: Προσθέστε όρο αναζήτησης
+    search-collections: Συλλογές
+    search-collections-text: Περιηγηθείτε στην πολιτιστική κληρονομιά της Ευρώπης
+    share: Μοιραστείτε
+    sitemap: Χάρτης ιστοχώρου
+    terms-and-policies: Όροι και πολιτική χρήσης
     tooltips:
       channels:
         search:
           new-filter: 
           new-grid: 
-    type: "τύπος"
-  'no': "Νορβηγία"
-  pl: "Πορτογαλία"
+    type: τύπος
+  'no': Νορβηγία
+  pl: Πορτογαλία
   site:
     facet:
       language:
         show:
-          results: "Αποτελέσματα"
-        show-results-all: "Εμφάνιση όλων των αποτελεσμάτων"
+          results: Αποτελέσματα
+        show-results-all: Εμφάνιση όλων των αποτελεσμάτων

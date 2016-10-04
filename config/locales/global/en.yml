@@ -275,22 +275,22 @@ en:
         medium: Medium (0.5-1MP)
         small: Small (<0.5MP)
       language:
-        bg: "Български"
+        bg: Български
         ca: Català
-        cs: "Čeština"
+        cs: Čeština
         da: Dansk
         de: Deutsch
-        el: "Ελληνικά"
+        el: Ελληνικά
         en: English
         es: Español
         et: Eesti
         fi: Suomi
         fr: Français
         ga: Gaeilge
-        he: "עברית"
+        he: עברית
         hr: Hrvatski
         hu: Magyar
-        is: "Íslenska"
+        is: Íslenska
         it: Italiano
         lt: Lietuvių
         lv: Latviešu
@@ -301,14 +301,14 @@ en:
         pl: Polski
         pt: Português
         ro: Română
-        ru: "Русский"
+        ru: Русский
         sk: Slovenský
         sl: Slovenski
-        sr: "Српски"
+        sr: Српски
         sv: Svenska
         tr: " Türkçe"
-        uk: "Українська"
-        yi: "ייִדיש"
+        uk: Українська
+        yi: ייִדיש
       less: Fewer
       license:
         hide-specific: Hide specific licenses
@@ -430,8 +430,9 @@ en:
     home: Home
     javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
     labs: Labs
-    labs-text: |
-      Remix cultural content with our APIs & datasets
+    labs-text: 'Remix cultural content with our APIs & datasets
+
+'
     language-basque: Basque
     language-bulgarian: Bulgarian
     language-catalan: Catalan

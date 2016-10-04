@@ -190,7 +190,7 @@ da:
       colour: Farve
       colour-black-and-white: Sort og hvid
       country:
-        austria: "Østrig"
+        austria: Østrig
         belgium: Belgien
         bulgaria: Bulgarien
         croatia: Kroatien
@@ -412,8 +412,9 @@ da:
         correction: 
     find-us-elsewhere: Find os
     find-us-social-media: 
-    forgot-password: |
-      Glemt dit brugernavn?
+    forgot-password: 'Glemt dit brugernavn?
+
+'
     genres: genre
     genres-chamber-music: Kamer musik
     genres-classical-music: Klassisk musik

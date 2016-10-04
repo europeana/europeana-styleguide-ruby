@@ -1,5 +1,5 @@
 uk:
-  Symphonies: "Симфонії"
+  Symphonies: Симфонії
   X11:
     colours:
       '000000': 
@@ -147,7 +147,7 @@ uk:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: "Про нас"
+    about-us: Про нас
     actions:
       filter-all: 
       filter-by: 
@@ -155,27 +155,27 @@ uk:
       fullscreen-exit: 
     channel:
       all: 
-      archaeology: "археологія"
-      architecture: "архітектура"
-      art: "мистецтво"
-      art-history: "Історія Мистецтва"
-      fashion: "мода"
+      archaeology: археологія
+      architecture: архітектура
+      art: мистецтво
+      art-history: Історія Мистецтва
+      fashion: мода
       home: 
-      maps: "карти"
-      music: "музика"
-      natural-history: "природнича історія"
-      newspapers: "газети"
+      maps: карти
+      music: музика
+      natural-history: природнича історія
+      newspapers: газети
       performing-arts: 
-    channels-art: "Історія Мистецтва"
+    channels-art: Історія Мистецтва
     channels-art-image: 
     channels-art-link: 
     channels-fashion: 
-    channels-music: "Музика"
+    channels-music: Музика
     choose-language: 
     cookie_disclaimer:
       more_info: 
       text: 
-    email-address: "адреса електронної пошти"
+    email-address: адреса електронної пошти
     facet:
       advanced:
         options: 
@@ -190,90 +190,90 @@ uk:
       colour: 
       colour-black-and-white: 
       country:
-        austria: "Австрія"
-        belgium: "Бельгія"
-        bulgaria: "Болгарія"
-        croatia: "Хорватія"
-        cyprus: "Кіпр"
-        czechrepublic: "Чехія"
-        denmark: "Данія"
-        estonia: "Естонія"
-        europe: "Європа"
-        finland: "Фінляндія"
-        france: "Франція"
-        germany: "Німеччина"
-        greece: "Греція"
-        hungary: "Угорщина"
-        iceland: "Ісландія"
-        ireland: "Ірландія"
-        israel: "Ізраїль"
-        italy: "Італія"
-        latvia: "Латвія"
-        lithuania: "Литва"
-        luxembourg: "Люксембург"
-        malta: "Мальта"
-        netherlands: "Нідерланди"
-        norway: "Норвегія"
-        poland: "Польща"
-        portugal: "Португалія"
-        romania: "Румунія"
-        russia: "Росія"
-        serbia: "Сербія"
-        slovakia: "Словаччина"
-        slovenia: "Словенія"
-        spain: "Іспанія"
-        sweden: "Швеція"
-        switzerland: "Швейцарія"
-        turkey: "Туреччина"
-        ukraine: "Україна"
-        unitedkingdom: "Великобританія"
-        unitedstatesofamerica: "США"
+        austria: Австрія
+        belgium: Бельгія
+        bulgaria: Болгарія
+        croatia: Хорватія
+        cyprus: Кіпр
+        czechrepublic: Чехія
+        denmark: Данія
+        estonia: Естонія
+        europe: Європа
+        finland: Фінляндія
+        france: Франція
+        germany: Німеччина
+        greece: Греція
+        hungary: Угорщина
+        iceland: Ісландія
+        ireland: Ірландія
+        israel: Ізраїль
+        italy: Італія
+        latvia: Латвія
+        lithuania: Литва
+        luxembourg: Люксембург
+        malta: Мальта
+        netherlands: Нідерланди
+        norway: Норвегія
+        poland: Польща
+        portugal: Португалія
+        romania: Румунія
+        russia: Росія
+        serbia: Сербія
+        slovakia: Словаччина
+        slovenia: Словенія
+        spain: Іспанія
+        sweden: Швеція
+        switzerland: Швейцарія
+        turkey: Туреччина
+        ukraine: Україна
+        unitedkingdom: Великобританія
+        unitedstatesofamerica: США
         vaticancity: 
       creator: 
       filter: 
       header:
-        collection: "Колекції"
-        colourpalette: "Колір"
-        country: "Країна"
-        data_provider: "Установа"
+        collection: Колекції
+        colourpalette: Колір
+        country: Країна
+        data_provider: Установа
         date-created: 
         fashion:
           colour: 
           designer: 
           technique: 
           type: 
-        image_aspectratio: "Орієнтація"
-        image_colour: "Палітра"
-        image_size: "Розмір"
+        image_aspectratio: Орієнтація
+        image_colour: Палітра
+        image_size: Розмір
         intermediateprovider: 
-        language: "Мова"
-        language_of_description: "Мова опису"
-        media: "Лише елементи з по"
-        mime_type: "Формат файлу"
-        provider: "Агрегатор"
+        language: Мова
+        language_of_description: Мова опису
+        media: Лише елементи з по
+        mime_type: Формат файлу
+        provider: Агрегатор
         providing_country: 
         proxy_dcterms_created: 
-        reusability: "Чи можу я "
+        reusability: 'Чи можу я '
         rights: 
-        sound_duration: "Тривалість"
-        sound_hq: "Висока якість"
-        text_fulltext: "Повний текст"
+        sound_duration: Тривалість
+        sound_hq: Висока якість
+        text_fulltext: Повний текст
         type: 
-        ugc: "Показувати вміст доданий користувачами"
-        video_duration: "Тривалість"
-        video_hd: "Якість"
-        year: "Дата"
+        ugc: Показувати вміст доданий користувачами
+        video_duration: Тривалість
+        video_hd: Якість
+        year: Дата
       image_aspectratio:
-        landscape: "Альбомна"
-        portrait: "Портретна"
+        landscape: Альбомна
+        portrait: Портретна
       image_colour:
-        'false': "Чорнобіле"
-        'true': "Кольорове"
+        'false': Чорнобіле
+        'true': Кольорове
       image_size:
-        extra_large: "Дуже велике (4MP+)"
-        large: "Велике (1-4MP)"
-        medium: "Середнє (0,5-1MP)"
-        small: "Мале (<0,5MP)"
+        extra_large: Дуже велике (4MP+)
+        large: Велике (1-4MP)
+        medium: Середнє (0,5-1MP)
+        small: Мале (<0,5MP)
       language:
         bg: 
         ca: 

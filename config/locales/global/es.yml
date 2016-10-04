@@ -253,8 +253,7 @@ es:
         provider: Agregador
         providing_country: País proveedor
         proxy_dcterms_created: 
-        reusability: |
-          ¿Puedo usarlo?
+        reusability: "¿Puedo usarlo?\n"
         rights: Licence
         sound_duration: Duración
         sound_hq: Alta Calidad
@@ -411,8 +410,9 @@ es:
         bug: bug
         comment: comentario
         correction: corrección
-    find-us-elsewhere: |
-      ENCUÉNTRANOS EN
+    find-us-elsewhere: 'ENCUÉNTRANOS EN
+
+'
     find-us-social-media: Encontrar %{channel} en las redes sociales
     forgot-password: Olvidaste tu contraseña?
     genres: generos
@@ -464,8 +464,7 @@ es:
     language-swedish: Sueco
     language-ukranian: Ucraniano
     login: Accede
-    mission: |
-      ¡Transformamos el mundo a través de la cultura! Queremos aprovechar el enorme patrimonio cultural Europeo y que la gente pueda usarlo fácilmente para su trabajo, su aprendizaje o por puro placer.
+    mission: "¡Transformamos el mundo a través de la cultura! Queremos aprovechar el enorme patrimonio cultural Europeo y que la gente pueda usarlo fácilmente para su trabajo, su aprendizaje o por puro placer.\n"
     mission-title: Nuestra misión
     more:
       load-more: Más

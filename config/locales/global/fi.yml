@@ -275,22 +275,22 @@ fi:
         medium: Keskikokoinen (0,5–1MP)
         small: Pieni (<0,5MP)
       language:
-        bg: "Български"
+        bg: Български
         ca: Català
-        cs: "Čeština"
+        cs: Čeština
         da: Dansk
         de: Deutsch
-        el: "Ελληνικά"
+        el: Ελληνικά
         en: English
         es: Español
         et: Eesti
         fi: Suomi
         fr: Français
         ga: Gaeilge
-        he: "עברית"
+        he: עברית
         hr: Hrvatski
         hu: Magyar
-        is: "Íslenska"
+        is: Íslenska
         it: ''
         lt: ''
         lv: 
@@ -355,7 +355,7 @@ fi:
       type:
         3d: 3D
         image: Kuva
-        sound: "Ääni"
+        sound: Ääni
         text: Teksti
         video: Video
       type-image:

@@ -190,7 +190,7 @@ ca:
       colour: Color
       colour-black-and-white: Blanc i negre
       country:
-        austria: "Àustria"
+        austria: Àustria
         belgium: Bèlgica
         bulgaria: Bulgària
         croatia: Cròacia
@@ -275,22 +275,22 @@ ca:
         medium: Mitjà (0,5 - 1 MP)
         small: Petit (<0,5 MP)
       language:
-        bg: "Български"
+        bg: Български
         ca: Català
-        cs: "Čeština"
+        cs: Čeština
         da: Dansk
         de: Deutsch
-        el: "Ελληνικά"
+        el: Ελληνικά
         en: English
         es: Español
         et: Eesti
         fi: Suomi
         fr: Français
         ga: Gaeilge
-        he: "עברית"
+        he: עברית
         hr: Hrvatski
         hu: Magyar
-        is: "Íslenska"
+        is: Íslenska
         it: Italiano
         lt: Lietuvių
         lv: Latviešu
@@ -301,14 +301,14 @@ ca:
         pl: Polonès
         pt: Portuguès
         ro: Română
-        ru: "Русский"
+        ru: Русский
         sk: Slovenský
         sl: Slovenski
-        sr: "Српски"
+        sr: Српски
         sv: Svenska
         tr: Türkçe
-        uk: "Українська"
-        yi: "ייִדיש"
+        uk: Українська
+        yi: ייִדיש
       less: Menys
       license:
         hide-specific: 
@@ -418,7 +418,7 @@ ca:
     genres-classical-music: Música clàssica
     genres-concertos: Concerts
     genres-non-western-classical-music: Música clàssica no-occidental
-    genres-opera: "Òpera"
+    genres-opera: Òpera
     genres-popular-music: Música popular
     genres-traditional-music: Música tradicional
     header:

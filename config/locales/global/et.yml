@@ -84,7 +84,7 @@ et:
       C71585: Mõõdukas violettpunane
       CD5C5C: India punane
       CD853F: Peruu
-      D2691E: "Šokolaad"
+      D2691E: Šokolaad
       D2B48C: Helepruun
       D3D3D3: Helehall
       D8BFD8: Ohakas
@@ -140,7 +140,7 @@ et:
       FFF5EE: Merekarbi
       FFF8DC: Cornsilk
       FFFACD: Sidruni šifoon
-      FFFAF0: "Õievalge"
+      FFFAF0: Õievalge
       FFFAFA: Lumi
       FFFF00: Kollane
       FFFFE0: Helekollane
@@ -184,7 +184,7 @@ et:
       art:
         form:
           paintings:
-            genre: "Žanr"
+            genre: Žanr
             medium: Meedium
       carrier: Kandja
       colour: Värv
@@ -223,10 +223,10 @@ et:
         slovenia: Sloveenia
         spain: Hispaania
         sweden: Rootsi
-        switzerland: "Šveits"
+        switzerland: Šveits
         turkey: Türgi
         ukraine: Ukraina
-        unitedkingdom: "Ühendkuningriik"
+        unitedkingdom: Ühendkuningriik
         unitedstatesofamerica: Ameerika Ühendriigid
         vaticancity: 
       creator: looja
@@ -332,9 +332,9 @@ et:
         advanced-orphan-work: Orbteos
         advanced-out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
         advanced-pdm: Märgistatud avalikuks omandiks
-        advanced-rrfa: "Õigused kaitstud - vaba ligipääs"
-        advanced-rrpa: "Õigused kaitstud - tasuline ligipääs"
-        advanced-rrra: "Õigused kaitstud - piiratud ligipääs"
+        advanced-rrfa: Õigused kaitstud - vaba ligipääs
+        advanced-rrpa: Õigused kaitstud - tasuline ligipääs
+        advanced-rrra: Õigused kaitstud - piiratud ligipääs
         advanced-ucs: Autorikaitse staatus teadmata
         expiry: 
         open: Jah, omistamisega
@@ -413,7 +413,7 @@ et:
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
     forgot-password: Unustasid parooli?
-    genres: "žanrid"
+    genres: žanrid
     genres-chamber-music: Kammermuusika
     genres-classical-music: Klassikaline muusika
     genres-concertos: Kontsertid
@@ -424,7 +424,7 @@ et:
 
       Pärimusmuusika
     header:
-      connect: "Ühenda"
+      connect: Ühenda
       develop: Arenda
       discover: Avasta
       network: Võrgustik

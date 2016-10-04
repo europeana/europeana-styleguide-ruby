@@ -184,7 +184,7 @@ hr:
       art:
         form:
           paintings:
-            genre: "Žanr"
+            genre: Žanr
             medium: Medij
       carrier: Nositelj
       colour: Boja
@@ -195,7 +195,7 @@ hr:
         bulgaria: Bugarska
         croatia: Hrvatska
         cyprus: Cipar
-        czechrepublic: "Češka"
+        czechrepublic: Češka
         denmark: Danska
         estonia: Estonija
         europe: Europa
@@ -221,9 +221,9 @@ hr:
         serbia: Srbija
         slovakia: Slovačka
         slovenia: Slovenija
-        spain: "Španjolska"
-        sweden: "Švedska"
-        switzerland: "Švicarska"
+        spain: Španjolska
+        sweden: Švedska
+        switzerland: Švicarska
         turkey: Turska
         ukraine: Ukrajina
         unitedkingdom: Ujedinjeno Kraljevstvo
@@ -368,7 +368,7 @@ hr:
           hq-only: Prikaži samo slike visoke kvalitete
           label: Kvaliteta
         size:
-          explanation: "Što znače ove veličine?"
+          explanation: Što znače ove veličine?
           label: Veličina slike
           large: Velika (%{data})
           medium: Srednja (%{data})
@@ -413,7 +413,7 @@ hr:
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     find-us-social-media: 
     forgot-password: Zaboravili ste lozinku?
-    genres: "žanrovi"
+    genres: žanrovi
     genres-chamber-music: Komorna glazba
     genres-classical-music: Klasična glazba
     genres-concertos: Koncerti
@@ -435,7 +435,7 @@ hr:
     language-bulgarian: Bugarski
     language-catalan: Katalonski
     language-croatian: Hrvatski
-    language-czech: "Češki"
+    language-czech: Češki
     language-danish: Danski
     language-dutch: Nizozemski
     language-english: Engleski
@@ -458,8 +458,8 @@ hr:
     language-russian: Ruski
     language-slovakian: Slovački
     language-slovenian: Slovenski
-    language-spanish: "Španjolski"
-    language-swedish: "Švedski"
+    language-spanish: Španjolski
+    language-swedish: Švedski
     language-ukranian: Ukrajinski
     login: Prijava
     mission: Mi preoblikujemo svijet kulturom! Želimo unaprijediti bogatu baštinu Europe i olakšati ljudima njeno korištenje, bilo za posao, učenje ili samo za zabavu.

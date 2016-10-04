@@ -212,7 +212,7 @@ ro:
         lithuania: Lituania
         luxembourg: Luxemburg
         malta: Malta
-        netherlands: "Țările de Jos"
+        netherlands: Țările de Jos
         norway: Norvegia
         poland: Polonia
         portugal: Portugalia
@@ -234,7 +234,7 @@ ro:
       header:
         collection: Colecții
         colourpalette: Culoare
-        country: "Țară"
+        country: Țară
         data_provider: Instituție
         date-created: 
         fashion:
@@ -251,7 +251,7 @@ ro:
         media: Doar înregistrări cu legături către fișiere media
         mime_type: Formatul fișierului
         provider: Agregator
-        providing_country: "Țara furnizoare"
+        providing_country: Țara furnizoare
         proxy_dcterms_created: 
         reusability: Pot folosi?
         rights: 
@@ -473,14 +473,14 @@ ro:
       email-address-invalid: Adresa de email trebuie să fie validă
       email-address-required: Specificați o adresă de email
       language-required: Specificați limba
-      signup: "Înscrieți-vă aici pentru a primi buletinul nostru de știri"
+      signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
     our-sites: paginile noastre
     password: Parolă
     professional: ''
     professional-text: Implică-te, partajează datele pe care le deții sau exploatează-le pe cele existente la noi
     refine-your-search: Rafinează căutare
     refine-your-search-short: 
-    register: "Înregistrează-te"
+    register: Înregistrează-te
     research: ''
     research-text: Puntea către comunitatea academică
     search-area:

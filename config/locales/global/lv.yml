@@ -174,7 +174,7 @@ lv:
     choose-language: Valoda
     cookie_disclaimer:
       more_info: Papildinformācija
-      text: "Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija."
+      text: Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija.
     email-address: e-pasta adrese
     facet:
       advanced:
@@ -184,7 +184,7 @@ lv:
       art:
         form:
           paintings:
-            genre: "Žanrs"
+            genre: Žanrs
             medium: Vidējs
       carrier: Nesējs
       colour: Krāsa
@@ -195,7 +195,7 @@ lv:
         bulgaria: Bulgārija
         croatia: Horvātija
         cyprus: Kipra
-        czechrepublic: "Čehija"
+        czechrepublic: Čehija
         denmark: Dānija
         estonia: Igaunija
         europe: Eiropa
@@ -205,7 +205,7 @@ lv:
         greece: Grieķija
         hungary: Ungārija
         iceland: Islande
-        ireland: "Īrija"
+        ireland: Īrija
         israel: Izraēla
         italy: Itālija
         latvia: Latvija
@@ -223,7 +223,7 @@ lv:
         slovenia: Slovēnija
         spain: Spānija
         sweden: Zviedrija
-        switzerland: "Šveice"
+        switzerland: Šveice
         turkey: Turcija
         ukraine: Ukraina
         unitedkingdom: Apvienotā Karaliste
@@ -270,7 +270,7 @@ lv:
         'false': Melnbalts
         'true': Krāsa
       image_size:
-        extra_large: "Ļoti liels (4MP+)"
+        extra_large: Ļoti liels (4MP+)
         large: Liels (1-4MP)
         medium: Vidējs (0.5-1MP)
         small: Mazs (<0.5MP)
@@ -344,8 +344,8 @@ lv:
       sound_duration:
         long: Garš (6+ minūtes)
         medium: Vidējs (3-6 minūtes)
-        short: "Īss (30 sekundes - 3 minūtes)"
-        very_short: "Ļoti īss (<30 sekundes)"
+        short: Īss (30 sekundes - 3 minūtes)
+        very_short: Ļoti īss (<30 sekundes)
       sound_hq:
         'true': Jā
       source: Avots
@@ -373,24 +373,24 @@ lv:
           large: Liels (%{data})
           medium: Vidējs (%{data})
           small: Mazs (%{data})
-          xl: "Ļoti liels (%{data})"
+          xl: Ļoti liels (%{data})
       type-sound:
         duration:
           label: Ilgums
           long: Garš (%{data})
           medium: Vidējs (%{data})
-          short: "Īss (%{data})"
-          very-short: "Ļoti īss (%{data})"
+          short: Īss (%{data})
+          very-short: Ļoti īss (%{data})
       type-video:
         duration:
           label: Ilgums
           long: Garš (%{data})
           medium: Vidējs (%{data})
-          short: "Īss (%{data})"
+          short: Īss (%{data})
       video_duration:
         long: Garš (20+ minūtes)
         medium: Vidējs (4-20 minūtes)
-        short: "Īss (<4 minūtes)"
+        short: Īss (<4 minūtes)
       video_hd:
         'true': HD
       year:
@@ -413,7 +413,7 @@ lv:
     find-us-elsewhere: Meklē mūs arī citur
     find-us-social-media: Meklē %{channel} sociālajos tīklos
     forgot-password: Aizmirsi savu paroli?
-    genres: "žanri"
+    genres: žanri
     genres-chamber-music: Kamermūzika
     genres-classical-music: Klasiskā mūzika
     genres-concertos: Koncerti
@@ -435,7 +435,7 @@ lv:
     language-bulgarian: Bulgāru
     language-catalan: Katalāņu
     language-croatian: Horvātu
-    language-czech: "Čehu"
+    language-czech: Čehu
     language-danish: Dāņu
     language-dutch: Holandiešu
     language-english: Angļu
