@@ -25,6 +25,7 @@ en:
       more:
         agents: More people
         topics: More topics
+      periods: Time periods
     pro-link: 'link to pro '
     pro-text: text for pro
     settings: Settings
@@ -48,6 +49,9 @@ en:
       people:
         description: Here you can find highlights from our Collections relating to the lives and works of famous artists, composers and other important figures from history.
         title: People
+      periods:
+        description: Browse by time period.
+        title: Time Periods
       sources:
         description: Below you see a list of institutions who have contributed their content to Europeana Collections. These institutions aggregate and contribute their data to Europeana, click on the link that interests you below to view a particular partner collection!
         title: Sources
