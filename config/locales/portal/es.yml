@@ -25,6 +25,7 @@ es:
       more:
         agents: Más personas
         topics: Más temas
+      periods: 
     pro-link: link a pro
     pro-text: texto para pro
     settings: Ajustes
@@ -48,6 +49,9 @@ es:
       people:
         description: Aquí se encuentran algunos contenidos destacados de nuestras colecciones relacionadas con las vidas y obras de famosos artistas, compositores y otras figuras importantes de la historia.
         title: Personas
+      periods:
+        description: 
+        title: 
       sources:
         description: A continuación puede ver una lista de las instituciones que han aportado su contenido a Europeana Collections. Estas instituciones agregan y aportar sus datos a Europeana, Haga clic en el enlace que le interese para ver una colección de un proveedor en particular.
         title: Recursos

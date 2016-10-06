@@ -25,6 +25,7 @@ pl:
       more:
         agents: Więcej osób
         topics: Więcej tematów
+      periods: 
     pro-link: link do Europeana Pro
     pro-text: tekst dla Europeana Pro
     settings: Ustawienia
@@ -48,6 +49,9 @@ pl:
       people:
         description: Odkrywaj zbiory związane ze ważnymi osobami z dziedziny kultury i sztuki. Znajdziesz tu nie tylko malarzy czy kompozytorów, a także znane postacie historyczne.
         title: Osoby
+      periods:
+        description: 
+        title: 
       sources:
         description: Poniżej przedstawiamy listę instytucji kultury, które podzieliły się swoimi zbiorami z Europeaną. Kliknij na wybraną instytucję, aby zobaczyć jej kolekcję!
         title: Źródła

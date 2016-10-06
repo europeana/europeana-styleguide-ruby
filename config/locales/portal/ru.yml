@@ -25,6 +25,7 @@ ru:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: Ссылка на Pro
     pro-text: Текст для Pro
     settings: Настройки
@@ -46,6 +47,9 @@ ru:
         tableh3: Дата
         title: Новинки
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

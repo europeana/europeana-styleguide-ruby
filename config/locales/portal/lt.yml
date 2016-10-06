@@ -25,6 +25,7 @@ lt:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: Nuoroda į Pro
     pro-text: Tekstas Europeana Pro
     settings: Nustatymai
@@ -46,6 +47,9 @@ lt:
         tableh3: Data
         title: Naujas turinys
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

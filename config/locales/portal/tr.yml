@@ -25,6 +25,7 @@ tr:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: 
     pro-text: 
     settings: 
@@ -46,6 +47,9 @@ tr:
         tableh3: 
         title: 
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

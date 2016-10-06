@@ -25,6 +25,7 @@ lv:
       more:
         agents: Vairāk cilvēku
         topics: Vairāk tēmu
+      periods: 
     pro-link: saite uz Profesionālo
     pro-text: teksts Profesionālajai
     settings: Iestatījumi
@@ -48,6 +49,9 @@ lv:
       people:
         description: Šeit var atrast mūsu kolekciju īpašos ierakstus, kas saistīti ar slavenu mākslinieku, komponistu un citu vēsturiski nozīmīgu personu dzīvi un darbiem.
         title: Cilvēki
+      periods:
+        description: 
+        title: 
       sources:
         description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu.
         title: Avoti

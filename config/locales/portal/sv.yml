@@ -25,6 +25,7 @@ sv:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: länk till Pro
     pro-text: 
     settings: Inställningar
@@ -48,6 +49,9 @@ sv:
       people:
         description: 
         title: Personer
+      periods:
+        description: 
+        title: 
       sources:
         description: 'Här finner du de senaste uppdateringarna i Europeanas samlingar. Från vilken partner, hur mycket och när. '
         title: Källor

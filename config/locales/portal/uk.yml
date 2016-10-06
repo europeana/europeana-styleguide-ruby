@@ -25,6 +25,7 @@ uk:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: Посилання на Europeana Pro
     pro-text: Текст для Europeana Pro
     settings: Налаштування
@@ -46,6 +47,9 @@ uk:
         tableh3: Дата
         title: Новий контент
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

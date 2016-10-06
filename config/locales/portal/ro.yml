@@ -25,6 +25,7 @@ ro:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: 
     pro-text: 
     settings: Setări
@@ -46,6 +47,9 @@ ro:
         tableh3: Dată
         title: Noi înregistrări
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

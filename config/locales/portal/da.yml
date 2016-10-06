@@ -25,6 +25,7 @@ da:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: link til pro
     pro-text: tekst til pro
     settings: Indstillinger
@@ -46,6 +47,9 @@ da:
         tableh3: 
         title: Nyt Indhold
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

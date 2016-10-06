@@ -25,6 +25,7 @@ it:
       more:
         agents: 
         topics: Più argomenti
+      periods: 
     pro-link: Link a pro
     pro-text: Testo per pro
     settings: Impostazioni
@@ -48,6 +49,9 @@ it:
       people:
         description: 
         title: Persone
+      periods:
+        description: 
+        title: 
       sources:
         description: 
         title: Fonti

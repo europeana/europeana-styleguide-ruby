@@ -25,6 +25,7 @@ de:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: Link zu Pro
     pro-text: Text für Pro
     settings: Einstellungen
@@ -46,6 +47,9 @@ de:
         tableh3: 
         title: Neue Inhalte
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

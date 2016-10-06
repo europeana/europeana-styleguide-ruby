@@ -25,6 +25,7 @@ mt:
       more:
         agents: Izjed nies
         topics: Izjed suġġetti
+      periods: 
     pro-link: Link għal pro
     pro-text: Kitba għal pro
     settings: Settings
@@ -48,6 +49,9 @@ mt:
       people:
         description: Hawnhekk tista 'ssib whud mil-aħjar kollezzjonijiet relatati mal-ħajja u x-xogħolijiet ta artisti farmużi, kompożituri u nies importanti oħra mill-istorja.
         title: Nies
+      periods:
+        description: 
+        title: 
       sources:
         description: Hawn taħt tista' tara lista ta' sorsi għall-kollezzjonijiet tagħna. Dawn is sorsi ikomplu u jżidu kollezzjonijiet fuq Europeana, ikklikja fuq il-link li tinteressak hawn taħt biex tara l-kollezzjonijiet kollha!
         title: Sorsi

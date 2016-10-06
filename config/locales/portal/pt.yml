@@ -25,6 +25,7 @@ pt:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: ''
     pro-text: texto para Europeana Pro
     settings: Definições
@@ -46,6 +47,9 @@ pt:
         tableh3: Data
         title: Novo Conteúdo
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

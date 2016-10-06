@@ -25,6 +25,7 @@ nl:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: link naar pro
     pro-text: tekst voor pro
     settings: Instellingen
@@ -46,6 +47,9 @@ nl:
         tableh3: 
         title: Onlangs toegevoegd
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

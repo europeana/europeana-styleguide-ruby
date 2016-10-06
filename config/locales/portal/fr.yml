@@ -25,6 +25,7 @@ fr:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: ''
     pro-text: ''
     settings: Paramètres
@@ -46,6 +47,9 @@ fr:
         tableh3: 
         title: Nouveau contenu
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

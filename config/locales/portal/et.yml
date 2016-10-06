@@ -25,6 +25,7 @@ et:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: link Pro'sse
     pro-text: tekst Pro jaoks
     settings: Seadistused
@@ -46,6 +47,9 @@ et:
         tableh3: Kuupäev
         title: Uus sisu
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

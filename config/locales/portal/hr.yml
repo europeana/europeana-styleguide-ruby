@@ -25,6 +25,7 @@ hr:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: http://pro.europeana.eu/
     pro-text: tekst za pro
     settings: Postavke
@@ -46,6 +47,9 @@ hr:
         tableh3: Datum
         title: Novi sadržaj
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

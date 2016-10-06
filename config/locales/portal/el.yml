@@ -25,6 +25,7 @@ el:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: ''
     pro-text: ''
     settings: προτιμήσεις
@@ -46,6 +47,9 @@ el:
         tableh3: Ημερομηνία
         title: Νέο Περιεχόμενο
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

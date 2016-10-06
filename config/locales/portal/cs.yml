@@ -25,6 +25,7 @@ cs:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: 
     pro-text: 
     settings: Nastavení
@@ -46,6 +47,9 @@ cs:
         tableh3: 
         title: 
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

@@ -25,6 +25,7 @@ ca:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: enllaç a pro
     pro-text: text per a pro
     settings: Configuració
@@ -46,6 +47,9 @@ ca:
         tableh3: Data
         title: Contingut nou
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:

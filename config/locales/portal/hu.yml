@@ -25,6 +25,7 @@ hu:
       more:
         agents: 
         topics: 
+      periods: 
     pro-link: link a pro-ra
     pro-text: pro-nak való szöveg
     settings: Beállítások
@@ -46,6 +47,9 @@ hu:
         tableh3: Dátum
         title: Új tartalom
       people:
+        description: 
+        title: 
+      periods:
         description: 
         title: 
       sources:
