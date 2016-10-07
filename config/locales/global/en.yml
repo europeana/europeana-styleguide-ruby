@@ -158,7 +158,7 @@ en:
       archaeology: archaeology
       architecture: architecture
       art: Art History
-      art-history: Art History
+      art-history: Art
       fashion: fashion
       home: Home
       maps: maps
@@ -456,7 +456,7 @@ en:
     language-norwegian: Norwegian
     language-polish: Polish
     language-portuguese: Portuguese
-    language-romanian: 'Română '
+    language-romanian: Romanian
     language-russian: Russian
     language-slovakian: Slovak
     language-slovenian: Slovenian
