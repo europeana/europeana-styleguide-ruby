@@ -34,7 +34,7 @@ ru:
       feedback_banner:
         description: Релиз Beta означает, что данный веб-сайт находится в стадии активной разработки и регулярно обновляется. Иногда он может работать в автономном режиме (off-line). Ваш отзыв поможет улучшить наш веб-сайт.
         link-text: Оставьте свой отзыв!
-        title: Это Beta релиз наших новых проектов Collections и Music Collection и  Art History Collections
+        title: Это Beta релиз наших новых проектов Collections и Music Collection и  Art Collections
     blog-link: Ссылка на блог
     browse:
       colours:
