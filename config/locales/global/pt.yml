@@ -470,10 +470,12 @@ pt:
       view-more: Ver mais
     more-info: Mais informação
     newsletter:
+      choose-language: 
       email-address-invalid: O endereço terá que ser um endereço de correio electrónico válido.
       email-address-required: Um endereço de correio electrónico terá que ser especificado.
       language-required: Uma língua terá que ser especificada.
       signup: Inscreva-se na nossa newsletter
+      submit-alt: 
     our-sites: os nossos sites
     password: Palavra-passe
     professional: Europeana Pro

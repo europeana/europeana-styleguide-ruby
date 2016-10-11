@@ -470,10 +470,12 @@ hr:
       view-more: Pogledaj više
     more-info: Više informacija
     newsletter:
+      choose-language: 
       email-address-invalid: E-mail mora biti valjana e-mail adresa.
       email-address-required: E-mail adresa mora biti navedena.
       language-required: Jezik mora biti naveden.
       signup: Prijavite se na naš newsletter
+      submit-alt: 
     our-sites: naše stranice
     password: Lozinka
     professional: Pro

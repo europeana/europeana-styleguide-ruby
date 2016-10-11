@@ -472,10 +472,12 @@ it:
       view-more: Visualizza ulteriori informazioni
     more-info: Maggiori informazioni
     newsletter:
+      choose-language: 
       email-address-invalid: L'indirizzo email deve essere valido
       email-address-required: Deve essere inserito almeno un indirizzo email
       language-required: E' necessario specificare una lingua
       signup: Iscriviti alla nostra newsletter
+      submit-alt: 
     our-sites: i nostri siti
     password: 
     professional: 

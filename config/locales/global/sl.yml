@@ -470,10 +470,12 @@ sl:
       view-more: 
     more-info: 
     newsletter:
+      choose-language: 
       email-address-invalid: 
       email-address-required: 
       language-required: 
       signup: 
+      submit-alt: 
     our-sites: 
     password: 
     professional: 

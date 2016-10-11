@@ -472,10 +472,12 @@ es:
       view-more: Ver más
     more-info: Más información
     newsletter:
+      choose-language: 
       email-address-invalid: 'Debe de ser una direccion de correo electronico valida '
       email-address-required: Debe especificar una dirección de correo electrónico.
       language-required: Debe especificar un idioma.
       signup: Suscríbete a nuestro newsletter
+      submit-alt: 
     our-sites: nuestros sitios
     password: Contraseña
     professional: Profesional

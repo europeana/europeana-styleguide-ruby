@@ -470,10 +470,12 @@ ru:
       view-more: Просмотреть еще
     more-info: Информация
     newsletter:
+      choose-language: 
       email-address-invalid: Адрес электронной почты должен быть корректным электронным адресом.
       email-address-required: Адрес электронной почты должен быть указан.
       language-required: Язык должен быть указан.
       signup: Подпишитесь на рассылку наших новостей
+      submit-alt: 
     our-sites: наши сайты
     password: Пароль
     professional: Pro

@@ -470,10 +470,12 @@ fr:
       view-more: Voir plus
     more-info: En savoir plus
     newsletter:
+      choose-language: 
       email-address-invalid: L'email doit être une adresse email valide.
       email-address-required: Une adresse email doit être précisée.
       language-required: Une langue doit être précisée.
       signup: Inscrivez-vous à notre newsletter
+      submit-alt: 
     our-sites: nos sites
     password: Mot de passe
     professional: 

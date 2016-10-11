@@ -470,10 +470,12 @@ ro:
       view-more: Vezi mai mult
     more-info: Mai multe informații
     newsletter:
+      choose-language: 
       email-address-invalid: Adresa de email trebuie să fie validă
       email-address-required: Specificați o adresă de email
       language-required: Specificați limba
       signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
+      submit-alt: 
     our-sites: paginile noastre
     password: Parolă
     professional: ''

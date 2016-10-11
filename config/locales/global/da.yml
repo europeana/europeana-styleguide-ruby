@@ -472,10 +472,12 @@ da:
       view-more: Se flere
     more-info: Mere oplysninger
     newsletter:
+      choose-language: 
       email-address-invalid: E-mail skal være en tilgængelig e-mail adresse
       email-address-required: 'Angiv email adressen '
       language-required: 'Angiv sprog '
       signup: Tilmeld dig til vores nyhedsbrev
+      submit-alt: 
     our-sites: Vores sider
     password: Adgangskode
     professional: Pro

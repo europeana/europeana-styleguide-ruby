@@ -472,10 +472,12 @@ mt:
       view-more: Ara aktar
     more-info: Aktar informazzjoni
     newsletter:
+      choose-language: 
       email-address-invalid: L-indirizz ta' l-email għandu jkun validu.
       email-address-required: Indirizz ta' email għandu jkun speċifikat
       language-required: Il-lingwa għandha tkun speċifikata
       signup: Irreġistra għan-newsletter tagħna
+      submit-alt: 
     our-sites: Is-siti tagħna
     password: Password
     professional: Professjonali

@@ -470,10 +470,12 @@ lt:
       view-more: Žiūrėti daugiau
     more-info: Daugiau informacijos
     newsletter:
+      choose-language: 
       email-address-invalid: Įveskite egzistuojantį el. pašto adresą
       email-address-required: El. pašto adresas privalomas
       language-required: Pasirinkite kalbą
       signup: Užsiprenumeruokite mūsų naujienlaiškį
+      submit-alt: 
     our-sites: mūsų puslapiai
     password: Slaptažodis
     professional: Pro

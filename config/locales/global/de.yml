@@ -472,10 +472,12 @@ de:
       view-more: Mehr anzeigen
     more-info: Mehr Information
     newsletter:
+      choose-language: 
       email-address-invalid: Die E-Mail muss eine gültige E-Mail-Adresse sein.
       email-address-required: Eine E-Mail-Adresse muss angegeben werden.
       language-required: Eine Sprache muss angegeben werden.
       signup: Newsletter Anmeldung
+      submit-alt: 
     our-sites: Unsere Seiten
     password: Passwort
     professional: Pro

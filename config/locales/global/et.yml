@@ -472,10 +472,12 @@ et:
       view-more: Vaata veel
     more-info: Veel infot
     newsletter:
+      choose-language: 
       email-address-invalid: E-posti väljal peab olema korrektne meiliaadress
       email-address-required: E-posti aadress peab olema täidetud
       language-required: Keel peab olema valitud.
       signup: Liitu meie uudiskirjaga
+      submit-alt: 
     our-sites: meie veebilehed
     password: Parool
     professional: Pro

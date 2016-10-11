@@ -470,10 +470,12 @@ hu:
       view-more: Nézz meg többet
     more-info: Több információ
     newsletter:
+      choose-language: 
       email-address-invalid: Működő email címet adjon meg.
       email-address-required: Meg kell adnia egy email címet.
       language-required: Meg kell jelölnie egy nyelvet.
       signup: Iratkozon fel hírlevelünkre.
+      submit-alt: 
     our-sites: weboldalaink
     password: Jelszó
     professional: Pro

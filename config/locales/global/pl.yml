@@ -470,10 +470,12 @@ pl:
       view-more: Zobacz więcej
     more-info: Więcej infromacji
     newsletter:
+      choose-language: 
       email-address-invalid: Wprowadź poprawny adres email.
       email-address-required: Dodaj adres email.
       language-required: Zaznacz preferowany język.
       signup: Zapisz się na comiesięczną dawkę kultury w naszym biuletynie
+      submit-alt: 
     our-sites: nasze strony
     password: Hasło
     professional: Europeana Pro

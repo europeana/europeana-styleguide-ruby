@@ -470,10 +470,12 @@ bg:
       view-more: Виж повече
     more-info: Повече информация
     newsletter:
+      choose-language: 
       email-address-invalid: Моля, въведете валиден имейл адрес.
       email-address-required: Моля, въведете имейл адрес.
       language-required: Моля, изберете език.
       signup: Абонамент за бюлентин
+      submit-alt: 
     our-sites: нашите страници
     password: Парола
     professional: Pro

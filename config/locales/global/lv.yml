@@ -470,10 +470,12 @@ lv:
       view-more: Skatīt vairāk
     more-info: Vairāk informācijas
     newsletter:
+      choose-language: 
       email-address-invalid: Kā e-pasts ir jānorāda derīga e-pasta adrese.
       email-address-required: Ir jāuzrāda e-pasta adrese.
       language-required: Ir jāuzrāda valoda.
       signup: Paraksties uz mūsu informatīvo izdevumu
+      submit-alt: 
     our-sites: mūsu vietnes
     password: Parole
     professional: Profesionālā

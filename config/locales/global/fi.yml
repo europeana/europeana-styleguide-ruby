@@ -470,10 +470,12 @@ fi:
       view-more: Katso lisää
     more-info: Lisätietoa
     newsletter:
+      choose-language: 
       email-address-invalid: Sähköpostiosoitteen on oltava toimiva osoite.
       email-address-required: Sähköpostiosoite on määritettävä.
       language-required: Kieli on määritettävä.
       signup: Tilaa uutiskirje
+      submit-alt: 
     our-sites: sivustomme
     password: Salasana
     professional: Pro
