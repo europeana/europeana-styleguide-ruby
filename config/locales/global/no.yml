@@ -153,6 +153,7 @@
       filter-by: 
       fullscreen-enter: full skjerm
       fullscreen-exit: 
+      skip-to-main: 
     channel:
       all: 
       archaeology: arkeologi

@@ -153,6 +153,7 @@ lv:
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns
       fullscreen-exit: iziet no pilnekrāna
+      skip-to-main: 
     channel:
       all: Visi ieraksti
       archaeology: arheoloģija

@@ -153,6 +153,7 @@ mt:
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
+      skip-to-main: 
     channel:
       all: 'L-oġġetti kollha
 

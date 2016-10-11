@@ -153,6 +153,7 @@ en:
       filter-by: Filter by
       fullscreen-enter: full screen
       fullscreen-exit: exit full screen
+      skip-to-main: Skip to page contents
     channel:
       all: All items
       archaeology: archaeology

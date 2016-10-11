@@ -153,6 +153,7 @@ da:
       filter-by: Filter med
       fullscreen-enter: 
       fullscreen-exit: 
+      skip-to-main: 
     channel:
       all: 
       archaeology: arkæologi
