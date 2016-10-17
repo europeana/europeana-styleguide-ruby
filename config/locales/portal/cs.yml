@@ -116,6 +116,7 @@ cs:
         download-retry: 
         download-started: 
         downloaddata: 
+        enlarge: 
         explore-by-colour: 
         media-metadata: 
         open-media: 

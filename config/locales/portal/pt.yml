@@ -116,6 +116,7 @@ pt:
         download-retry: 
         download-started: 
         downloaddata: Descarregar dados
+        enlarge: 
         explore-by-colour: 
         media-metadata: 
         open-media: Abrir este item de media

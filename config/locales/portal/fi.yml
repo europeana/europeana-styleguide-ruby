@@ -116,6 +116,7 @@ fi:
         download-retry: 
         download-started: 
         downloaddata: Lataa data
+        enlarge: 
         explore-by-colour: 
         media-metadata: 
         open-media: Avaa mediakohde
