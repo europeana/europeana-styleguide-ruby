@@ -239,6 +239,7 @@ nl:
         north: Noord
         south: Zuid
         west: West
+      preview_unavailable: 
       show-more-similar-items: toon meer
       similar-items: 'Gelijke objecten '
     pages:

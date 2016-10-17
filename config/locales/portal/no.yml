@@ -239,6 +239,7 @@
         north: Nord
         south: Sør
         west: Vest
+      preview_unavailable: 
       show-more-similar-items: Vis mer
       similar-items: Like objekter
     pages:

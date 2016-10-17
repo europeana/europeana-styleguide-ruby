@@ -241,6 +241,7 @@ ro:
         north: Nord
         south: Sud
         west: Vest
+      preview_unavailable: 
       show-more-similar-items: arată mai multe
       similar-items: Înregistrări asemănătoare
     pages:

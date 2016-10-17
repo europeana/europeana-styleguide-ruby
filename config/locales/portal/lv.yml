@@ -239,6 +239,7 @@ lv:
         north: Ziemeļi
         south: Dienvidi
         west: Rietumi
+      preview_unavailable: 
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
     pages:

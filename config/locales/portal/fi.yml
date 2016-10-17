@@ -239,6 +239,7 @@ fi:
         north: Pohjoinen
         south: Etelä
         west: Länsi
+      preview_unavailable: 
       show-more-similar-items: näytä lisää
       similar-items: Vastaavia kohteita
     pages:

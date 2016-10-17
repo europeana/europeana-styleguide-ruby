@@ -239,6 +239,7 @@ pt:
         north: Norte
         south: Sul
         west: Oeste
+      preview_unavailable: 
       show-more-similar-items: mostrar mais
       similar-items: Itens semelhantes
     pages:

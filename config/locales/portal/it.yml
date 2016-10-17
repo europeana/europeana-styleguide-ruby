@@ -239,6 +239,7 @@ it:
         north: Nord
         south: Sud
         west: Ovest
+      preview_unavailable: 
       show-more-similar-items: mostra di più
       similar-items: Oggetti simili
     pages:

@@ -239,6 +239,7 @@ mt:
         north: Tramuntana
         south: Nofsinhar
         west: Punent
+      preview_unavailable: 
       show-more-similar-items: Uri aktar
       similar-items: Oġġetti simili
     pages:

@@ -239,6 +239,7 @@ el:
         north: Βορράς
         south: Νότος
         west: Δύση
+      preview_unavailable: 
       show-more-similar-items: εμφάνιση περισσοτέρων
       similar-items: Παρόμοια αντικείμενα
     pages:

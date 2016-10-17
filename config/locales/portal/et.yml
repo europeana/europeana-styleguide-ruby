@@ -239,6 +239,7 @@ et:
         north: Põhi
         south: Lõuna
         west: Lääs
+      preview_unavailable: 
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
     pages:

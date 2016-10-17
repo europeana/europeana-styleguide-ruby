@@ -239,6 +239,7 @@ hr:
         north: Sjever
         south: Jug
         west: Zapad
+      preview_unavailable: 
       show-more-similar-items: prikaži više
       similar-items: Slični objekti
     pages:

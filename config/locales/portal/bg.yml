@@ -241,6 +241,7 @@ bg:
         north: Север
         south: Юг
         west: Запад
+      preview_unavailable: 
       show-more-similar-items: покажи повече
       similar-items: Подобни обекти
     pages:

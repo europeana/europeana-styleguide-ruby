@@ -239,6 +239,7 @@ pl:
         north: Północ
         south: Południe
         west: Zachód
+      preview_unavailable: 
       show-more-similar-items: pokaż więcej
       similar-items: Podobne obiekty
     pages:

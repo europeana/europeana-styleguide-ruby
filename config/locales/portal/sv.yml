@@ -239,6 +239,7 @@ sv:
         north: Nord
         south: Syd
         west: Väst
+      preview_unavailable: 
       show-more-similar-items: visa fler
       similar-items: Liknande poster
     pages:

@@ -239,6 +239,7 @@ en:
         north: North
         south: South
         west: West
+      preview_unavailable: Item preview not available, to access the full image and more information about the item go to %{institution_name_and_link}
       show-more-similar-items: show more
       similar-items: Similar items
     pages:

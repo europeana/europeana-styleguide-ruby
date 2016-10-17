@@ -239,6 +239,7 @@ da:
         north: Nord
         south: Syd
         west: Vest
+      preview_unavailable: 
       show-more-similar-items: vis mere
       similar-items: Lignende genstande
     pages:
