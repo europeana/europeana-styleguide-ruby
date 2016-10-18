@@ -312,8 +312,8 @@ en:
         yi: ייִדיש
       less: Fewer
       license:
-        hide-specific: Hide specific licenses
-        show-specific: Show specific licenses
+        hide-specific: Hide specific licences
+        show-specific: Show specific licences
       media:
         'false': 'No'
         'true': 'Yes'
@@ -499,7 +499,7 @@ en:
     tooltips:
       channels:
         search:
-          new-filter: You can now filter your search on specific license
+          new-filter: You can now filter your search on specific licence
           new-grid: Have you seen the new grid layout?
     type: type
   'no': Norway
