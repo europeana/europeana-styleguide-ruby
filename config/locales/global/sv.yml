@@ -153,6 +153,8 @@ sv:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ sv:
       signup: Prenumerera på vårt nyhetsbrev
       submit-alt: 
     our-sites: Våra sajter
+    page: 
     password: Lösenord
     professional: Pro
     professional-text: Engagera dig, dela dina data eller använda våra

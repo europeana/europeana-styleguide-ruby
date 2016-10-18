@@ -153,6 +153,8 @@ lv:
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns
       fullscreen-exit: iziet no pilnekrāna
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: Visi ieraksti
@@ -478,6 +480,7 @@ lv:
       signup: Paraksties uz mūsu informatīvo izdevumu
       submit-alt: 
     our-sites: mūsu vietnes
+    page: 
     password: Parole
     professional: Profesionālā
     professional-text: Iesaisties, dalies ar saviem datiem vai izmanto mūsu

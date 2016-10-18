@@ -153,6 +153,8 @@ pt:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ pt:
       signup: Inscreva-se na nossa newsletter
       submit-alt: 
     our-sites: os nossos sites
+    page: 
     password: Palavra-passe
     professional: Europeana Pro
     professional-text: Envolva-se, partilhe os seus dados ou use os nossos

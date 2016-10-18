@@ -153,6 +153,8 @@ hu:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ hu:
       signup: Iratkozon fel hírlevelünkre.
       submit-alt: 
     our-sites: weboldalaink
+    page: 
     password: Jelszó
     professional: Pro
     professional-text: Csatlakozz te is, oszd meg adataidat vagy használd fel a miénket

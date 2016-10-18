@@ -153,6 +153,8 @@ mt:
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 'L-oġġetti kollha
@@ -480,6 +482,7 @@ mt:
       signup: Irreġistra għan-newsletter tagħna
       submit-alt: 
     our-sites: Is-siti tagħna
+    page: 
     password: Password
     professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna

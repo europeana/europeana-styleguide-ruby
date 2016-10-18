@@ -153,6 +153,8 @@ ro:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ ro:
       signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
       submit-alt: 
     our-sites: paginile noastre
+    page: 
     password: Parolă
     professional: ''
     professional-text: Implică-te, partajează datele pe care le deții sau exploatează-le pe cele existente la noi

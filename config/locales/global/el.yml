@@ -153,6 +153,8 @@ el:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ el:
       signup: Εγγραφείτε για το newsletter
       submit-alt: 
     our-sites: Οι ιστοσελίδες μας
+    page: 
     password: Κωδικός
     professional: 
     professional-text: Συμμετέχετε, μοιραστείτε τα δεδομένα σας ή χρησιμοποιήστε τα δικά μας

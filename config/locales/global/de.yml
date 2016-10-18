@@ -153,6 +153,8 @@ de:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -480,6 +482,7 @@ de:
       signup: Newsletter Anmeldung
       submit-alt: 
     our-sites: Unsere Seiten
+    page: 
     password: Passwort
     professional: Pro
     professional-text: Machen Sie mit, teilen Sie Ihre Daten oder benutzen Sie unsere

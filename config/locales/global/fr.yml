@@ -153,6 +153,8 @@ fr:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ fr:
       signup: Inscrivez-vous à notre newsletter
       submit-alt: 
     our-sites: nos sites
+    page: 
     password: Mot de passe
     professional: 
     professional-text: Participez, partagez vos données ou utilisez les nôtres

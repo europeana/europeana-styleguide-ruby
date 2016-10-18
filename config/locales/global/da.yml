@@ -153,6 +153,8 @@ da:
       filter-by: Filter med
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -480,6 +482,7 @@ da:
       signup: Tilmeld dig til vores nyhedsbrev
       submit-alt: 
     our-sites: Vores sider
+    page: 
     password: Adgangskode
     professional: Pro
     professional-text: Bliv involveret, del din data eller brug vores

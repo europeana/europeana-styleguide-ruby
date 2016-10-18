@@ -153,6 +153,8 @@ en:
       filter-by: Filter by
       fullscreen-enter: full screen
       fullscreen-exit: exit full screen
+      next: next
+      previous: previous
       skip-to-main: Skip to page contents
     channel:
       all: All items
@@ -480,6 +482,7 @@ en:
       signup: Sign up for our newsletter
       submit-alt: Subscribe
     our-sites: our sites
+    page: page
     password: Password
     professional: Pro
     professional-text: Get involved, share your data or use ours

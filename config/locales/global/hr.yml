@@ -153,6 +153,8 @@ hr:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ hr:
       signup: Prijavite se na naš newsletter
       submit-alt: 
     our-sites: naše stranice
+    page: 
     password: Lozinka
     professional: Pro
     professional-text: Uključi se, dijeli svoje sadržaje ili koristi naše

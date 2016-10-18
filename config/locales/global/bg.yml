@@ -153,6 +153,8 @@ bg:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ bg:
       signup: Абонамент за бюлентин
       submit-alt: 
     our-sites: нашите страници
+    page: 
     password: Парола
     professional: Pro
     professional-text: Включете се, споделете своите данни или използвайте нашите

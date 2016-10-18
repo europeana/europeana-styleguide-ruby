@@ -153,6 +153,8 @@ et:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -480,6 +482,7 @@ et:
       signup: Liitu meie uudiskirjaga
       submit-alt: 
     our-sites: meie veebilehed
+    page: 
     password: Parool
     professional: Pro
     professional-text: Võta osa, jaga oma andmeid või kasuta meie omi

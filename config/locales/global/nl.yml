@@ -153,6 +153,8 @@ nl:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ nl:
       signup: Word lid van onze nieuwsbrief!
       submit-alt: 
     our-sites: onze sites
+    page: 
     password: Wachtwoord
     professional: Professional
     professional-text: Doe mee; deel uw collectie met ons!

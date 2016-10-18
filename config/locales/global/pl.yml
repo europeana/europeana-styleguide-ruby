@@ -153,6 +153,8 @@ pl:
       filter-by: Filtruj
       fullscreen-enter: pełny ekran
       fullscreen-exit: wyjście z trybu pełnoekranowego
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: Wszystko
@@ -478,6 +480,7 @@ pl:
       signup: Zapisz się na comiesięczną dawkę kultury w naszym biuletynie
       submit-alt: 
     our-sites: nasze strony
+    page: 
     password: Hasło
     professional: Europeana Pro
     professional-text: Zaangażuj się, podziel się swoją wiedzą lub wykorzystaj naszą.

@@ -153,6 +153,8 @@ ru:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ ru:
       signup: Подпишитесь на рассылку наших новостей
       submit-alt: 
     our-sites: наши сайты
+    page: 
     password: Пароль
     professional: Pro
     professional-text: Принимайте участие, делитесь своими данными или используйте наши

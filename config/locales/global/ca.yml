@@ -153,6 +153,8 @@ ca:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ ca:
       signup: Signeu per a una newsletter
       submit-alt: 
     our-sites: els nostres webs
+    page: 
     password: Paraula de pas
     professional: Pro
     professional-text: Involucra't, comparteix les teves dades amb nosaltres

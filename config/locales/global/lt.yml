@@ -153,6 +153,8 @@ lt:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ lt:
       signup: Užsiprenumeruokite mūsų naujienlaiškį
       submit-alt: 
     our-sites: mūsų puslapiai
+    page: 
     password: Slaptažodis
     professional: Pro
     professional-text: Prisijunkite! Dalinkitės savo duomenimis ar naudokite mūsiškius

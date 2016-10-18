@@ -153,6 +153,8 @@
       filter-by: 
       fullscreen-enter: full skjerm
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@
       signup: 
       submit-alt: 
     our-sites: 
+    page: 
     password: 
     professional: 
     professional-text: 

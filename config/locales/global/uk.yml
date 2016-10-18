@@ -153,6 +153,8 @@ uk:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ uk:
       signup: 
       submit-alt: 
     our-sites: 
+    page: 
     password: 
     professional: 
     professional-text: 

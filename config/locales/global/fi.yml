@@ -153,6 +153,8 @@ fi:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -478,6 +480,7 @@ fi:
       signup: Tilaa uutiskirje
       submit-alt: 
     our-sites: sivustomme
+    page: 
     password: Salasana
     professional: Pro
     professional-text: Osallistu, jaa tai hyödynnä aineistoja

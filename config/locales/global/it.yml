@@ -153,6 +153,8 @@ it:
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      next: 
+      previous: 
       skip-to-main: 
     channel:
       all: 
@@ -480,6 +482,7 @@ it:
       signup: Iscriviti alla nostra newsletter
       submit-alt: 
     our-sites: i nostri siti
+    page: 
     password: 
     professional: 
     professional-text: Fatti coinvolgere, condividi i tuoi dati o utilizza i nostri
