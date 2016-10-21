@@ -321,6 +321,7 @@ mt:
       browse: Fittex
       or-browse: jew fittex
       placeholder:
+        filter-text: 
         text: Żid terminu ġdid għat-tfittxija
       similar:
         prefix: 'Simili għal: %{mlt_item}'

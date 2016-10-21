@@ -313,6 +313,7 @@
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Legg til en søketerm
       similar:
         prefix: 'Lik som: %{mlt_item}'

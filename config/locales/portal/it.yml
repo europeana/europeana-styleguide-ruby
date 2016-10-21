@@ -299,6 +299,7 @@ it:
       browse: Naviga
       or-browse: oppure naviga
       placeholder:
+        filter-text: 
         text: 
       similar:
         prefix: 

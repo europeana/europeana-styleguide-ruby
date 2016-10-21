@@ -321,6 +321,7 @@ ca:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Afegir terme de cerca
       similar:
         prefix: 'Similar a: %{mlt_item}'

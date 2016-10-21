@@ -321,6 +321,7 @@ et:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Lisa otsisõna
       similar:
         prefix: 'Sarnane objektile: %{mlt_item}'

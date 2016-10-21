@@ -312,6 +312,7 @@ lv:
       browse: Pārlūko
       or-browse: vai pārlūko
       placeholder:
+        filter-text: 
         text: Pievienot meklējamo vārdu
       similar:
         prefix: 'Līdzīgs: %{mlt_item}'

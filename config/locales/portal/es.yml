@@ -306,6 +306,7 @@ es:
       browse: Navegar
       or-browse: o navegar
       placeholder:
+        filter-text: 
         text: 'Añadir término de búsqueda '
       similar:
         prefix: Similar a %{mlt_item}

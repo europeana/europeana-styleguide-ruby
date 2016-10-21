@@ -308,6 +308,7 @@ el:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Προσθήκη όρου αναζήτησης
       similar:
         prefix: 'Παρόμοιο με: %{mlt_item}'

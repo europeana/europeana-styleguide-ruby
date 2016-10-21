@@ -308,6 +308,7 @@ lt:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Pridėti paieškos sąlygų
       similar:
         prefix: 'Panašus į: %{mlt_item}'

@@ -308,6 +308,7 @@ pt:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Adicionar termo de pesquisa
       similar:
         prefix: 'Similar a: %{mlt_item}'

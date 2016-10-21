@@ -299,6 +299,7 @@ sl:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: 
       similar:
         prefix: 

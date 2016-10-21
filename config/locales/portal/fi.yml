@@ -326,6 +326,7 @@ fi:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Lisää hakutermi
       similar:
         prefix: Samalainen kuin %{mlt_item}

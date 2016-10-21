@@ -313,6 +313,7 @@ pl:
       browse: Przeglądaj
       or-browse: lub przeglądaj
       placeholder:
+        filter-text: 
         text: Dodaj termin wyszukiwawczy
       similar:
         prefix: 'Podobne do: %{mlt_item}'

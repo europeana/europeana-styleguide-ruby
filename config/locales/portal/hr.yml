@@ -312,6 +312,7 @@ hr:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Upišite pojam za pretraživanje
       similar:
         prefix: 'Slično kao: %{mlt_item} '

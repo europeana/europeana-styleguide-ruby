@@ -299,6 +299,7 @@ sv:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Lägg till sökterm
       similar:
         prefix: 'Liknar: %{mlt_item}'

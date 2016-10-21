@@ -319,6 +319,7 @@ de:
       browse: Erkunden
       or-browse: oder Entdecken
       placeholder:
+        filter-text: 
         text: Fügen Sie einen Suchbegriff ein
       similar:
         prefix: 'Ähnlich wie: %{mlt_item}'

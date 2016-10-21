@@ -312,6 +312,7 @@ en:
       browse: Browse
       or-browse: or browse
       placeholder:
+        filter-text: Search
         text: Add a search term
       similar:
         prefix: 'Similar to: %{mlt_item}'

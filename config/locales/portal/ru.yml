@@ -308,6 +308,7 @@ ru:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Добавить поисковый термин
       similar:
         prefix: Имеет сходство с %{mlt_item}

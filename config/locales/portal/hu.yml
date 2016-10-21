@@ -308,6 +308,7 @@ hu:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Keresési kulcsszó megadása
       similar:
         prefix: 'Hasonló a következőhöz: %{mlt_item}'

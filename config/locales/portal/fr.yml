@@ -308,6 +308,7 @@ fr:
       browse: Naviguez
       or-browse: ou naviguez
       placeholder:
+        filter-text: 
         text: Ajouter un terme à votre recherche
       similar:
         prefix: 'Similaire à: %{mlt_item}'

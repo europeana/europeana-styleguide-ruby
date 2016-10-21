@@ -308,6 +308,7 @@ da:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Tilføj en søgeterm
       similar:
         prefix: 'Beslægtet med: %{mlt_item}'

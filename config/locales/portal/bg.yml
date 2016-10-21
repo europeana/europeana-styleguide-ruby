@@ -310,6 +310,7 @@ bg:
       browse: 
       or-browse: 
       placeholder:
+        filter-text: 
         text: Добави дума за търсене
       similar:
         prefix: Сходен с %{mlt_item}

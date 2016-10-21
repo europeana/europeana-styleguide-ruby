@@ -299,6 +299,7 @@ nl:
       browse: Bladeren
       or-browse: 
       placeholder:
+        filter-text: 
         text: Voeg zoekterm toe
       similar:
         prefix: Hetzelfde als %{mlt_item}
