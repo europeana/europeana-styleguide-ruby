@@ -338,11 +338,17 @@ ro:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: ''
         expiry: 
         open: Da, cu atribuire
         permission: Doar cu permisiune
         restricted: Da, cu restricții
+        rs_noc_oklr: 
         simple: Simplu
       sound_duration:
         long: Lungă (6+ min)

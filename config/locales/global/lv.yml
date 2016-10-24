@@ -338,11 +338,17 @@ lv:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: 
         expiry: līdz %{date}
         open: Jā, ar atsauci
         permission: Tikai ar atļauju
         restricted: Jā, ar ierobežojumiem
+        rs_noc_oklr: 
         simple: Vienkāršā
       sound_duration:
         long: Garš (6+ minūtes)

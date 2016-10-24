@@ -338,11 +338,17 @@ nl:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: 
         expiry: 
         open: 
         permission: 
         restricted: 
+        rs_noc_oklr: 
         simple: 
       sound_duration:
         long: Lang (6+ min)

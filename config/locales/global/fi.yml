@@ -338,11 +338,17 @@ fi:
         advanced-rrfa: Oikeudet pidätetään - Vapaasti katseltavissa
         advanced-rrpa: Oikeudet pidätetään - Katselu maksullinen
         advanced-rrra: Oikeudet pidätetään - Rajattu katseluoikeus
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Tuntematon tekijänoikeudellinen status
         expiry: 
         open: Sallittu, kun lähde mainitaan
         permission: Vain luvanvaraisesti
         restricted: Kyllä, rajoituksin
+        rs_noc_oklr: 
         simple: Yksinkertainen
       sound_duration:
         long: Pitä (6+ minuuttia)

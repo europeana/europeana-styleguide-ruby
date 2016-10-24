@@ -338,11 +338,17 @@ et:
         advanced-rrfa: Õigused kaitstud - vaba ligipääs
         advanced-rrpa: Õigused kaitstud - tasuline ligipääs
         advanced-rrra: Õigused kaitstud - piiratud ligipääs
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Autorikaitse staatus teadmata
         expiry: 
         open: Jah, omistamisega
         permission: Ainult loaga
         restricted: Jah, piirangutega
+        rs_noc_oklr: 
         simple: Lihtne
       sound_duration:
         long: Pikk (üle 6 minuti)

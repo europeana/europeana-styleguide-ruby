@@ -338,11 +338,17 @@ es:
         advanced-rrfa: Rights reserved - Free access
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Unknown copyright status
         expiry: hasta %{date}
         open: Sí con atribución
         permission: Solo con permiso
         restricted: Sí con restricciones
+        rs_noc_oklr: 
         simple: Simple
       sound_duration:
         long: Largo (6+ min)

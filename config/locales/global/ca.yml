@@ -338,11 +338,17 @@ ca:
         advanced-rrfa: Drets reservats - Accés lliure
         advanced-rrpa: Drets reservat - Accés de pagament
         advanced-rrra: Drets reservats - Accés restringit
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Situació de copyright desconeguda
         expiry: 
         open: Sí, amb atribució
         permission: Només amb permís
         restricted: Sí, amb restriccions
+        rs_noc_oklr: 
         simple: Simple
       sound_duration:
         long: Llarg (6+ minuts)

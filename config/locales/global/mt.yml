@@ -340,11 +340,17 @@ mt:
         advanced-rrfa: Drittijiet riżervati - Aċċess b'xejn
         advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
         advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: L-istatus tal-copyright mhux magħruf
         expiry: sa %{date}
         open: Iva bl-attribuzzjoni
         permission: Bil-permess biss
         restricted: Iva bir-restrizzjonijiet
+        rs_noc_oklr: 
         simple: Sempliċi
       sound_duration:
         long: Twil (6+ minuti)

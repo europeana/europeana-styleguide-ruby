@@ -338,11 +338,17 @@ lt:
         advanced-rrfa: Teisės saugomis - laisva prieiga
         advanced-rrpa: Teisės saugomos - mokama prieiga
         advanced-rrra: Teisės saugomos - ribota prieiga
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Autorinių teisių statusas nežinomas
         expiry: 
         open: Taip, su atribucija
         permission: Tik su leidimu
         restricted: Taip, su apribojimais
+        rs_noc_oklr: 
         simple: Paprastas
       sound_duration:
         long: Ilgas (6+ min)

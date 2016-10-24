@@ -338,11 +338,17 @@ bg:
         advanced-rrfa: Rights reserved - Free access
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Unknown copyright status
         expiry: 
         open: Да, с посочване на авторските права
         permission: Само с разрешение
         restricted: Да, с ограничения
+        rs_noc_oklr: 
         simple: Просто
       sound_duration:
         long: Дълъг (6+ мин)

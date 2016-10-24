@@ -338,11 +338,17 @@ sv:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: 
         expiry: 
         open: Ja, med attribuering
         permission: Enbart med tillstånd
         restricted: Ja, med vissa begränsingar
+        rs_noc_oklr: 
         simple: Enkel
       sound_duration:
         long: Lång (6+ minuter)

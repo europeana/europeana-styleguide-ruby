@@ -338,11 +338,17 @@ en:
         advanced-rrfa: Rights reserved - Free access
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
+        advanced-rs-cne: Copyright Not Evaluated
+        advanced-rs-inc: In Copyright
+        advanced-rs-inc-edu: In Copyright - Educational Use Permitted
+        advanced-rs-inc-ow-eu: In Copyright - EU Orphan Work
+        advanced-rs-noc-nc: No Copyright - Non-Commercial Use Only
         advanced-ucs: Unknown copyright status
         expiry: until %{date}
         open: Free Re-use
         permission: No Re-use
         restricted: Limited Re-use
+        rs_noc_oklr: No Copyright - Other Known Legal Restrictions
         simple: Simple
       sound_duration:
         long: Long (6+ minutes)

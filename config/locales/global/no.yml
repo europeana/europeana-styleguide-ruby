@@ -338,11 +338,17 @@
         advanced-rrfa: Rettigheter reservert - fri tilgang
         advanced-rrpa: Rettigheter reservert - betalt tilgang
         advanced-rrra: Rettigheter reservert - begrenset tilgang
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: Ukjent opphavsrettslig status
         expiry: 
         open: Ja ved navngivelse
         permission: Bare med tillatelse
         restricted: Ja med restriksjoner
+        rs_noc_oklr: 
         simple: Enkel
       sound_duration:
         long: Lang (6+ minutter)

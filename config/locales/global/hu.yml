@@ -338,11 +338,17 @@ hu:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: ''
         expiry: 
         open: Igen, tulajdonos feltüntetésével
         permission: Csak engedéllyel
         restricted: Igen, korlátozásokkal
+        rs_noc_oklr: 
         simple: Egyszerű
       sound_duration:
         long: Hosszú (6+ perc)

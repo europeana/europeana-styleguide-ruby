@@ -338,11 +338,17 @@ pl:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
+        advanced-rs-cne: 
+        advanced-rs-inc: 
+        advanced-rs-inc-edu: 
+        advanced-rs-inc-ow-eu: 
+        advanced-rs-noc-nc: 
         advanced-ucs: ''
         expiry: do %{date}
         open: Tak, ale pamiętaj o podaniu źródła.
         permission: Nie - wymagana jest pisemna zgoda.
         restricted: Tak, ale z pewnymi ograniczeniami.
+        rs_noc_oklr: 
         simple: Proste
       sound_duration:
         long: Długi
