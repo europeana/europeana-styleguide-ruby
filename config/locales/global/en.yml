@@ -315,7 +315,7 @@ en:
       less: Fewer
       license:
         hide-specific: Hide specific rights statements
-        show-specific: Show specific licences
+        show-specific: Show specific rights statements
       media:
         'false': 'No'
         'true': 'Yes'
