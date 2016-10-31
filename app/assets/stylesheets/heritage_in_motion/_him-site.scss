@@ -68,21 +68,6 @@ input[type="submit"].him-view{
 
 .him-btn-square{
   border-radius: 4px;
-  &:hover{
-    cursor:  pointer;
-    opacity: 0.9;
-  }
-}
-
-.him-black-status,
-.him-blue-status,
-.him-grey-status,
-.him-green-status,
-.him-orange-status,
-.him-red-status{
-  background-color: white;
-  font-weight:      bold;
-  text-transform:   uppercase;
 }
 
 .him-black,
@@ -90,17 +75,9 @@ input[type="submit"].him-view{
   background-color: #1a1a1a;
 }
 
-.him-black-status{
-  color: #1a1a1a;
-}
-
 .him-blue,
 [type="submit"].him-blue{
   background-color: #2f3e95;
-}
-
-.him-blue-status{
-  color: #2f3e95;
 }
 
 .him-grey,
@@ -108,17 +85,9 @@ input[type="submit"].him-view{
   background-color: #ccc;
 }
 
-.him-grey-status{
-  color: #ccc;
-}
-
 .him-green,
 [type="submit"].him-green{
   background-color: #37b98b;
-}
-
-.him-green-status{
-  color: #37b98b;
 }
 
 .him-orange,
@@ -126,20 +95,16 @@ input[type="submit"].him-view{
   background-color: #ffae00;
 }
 
-.him-orange-status{
-  color: #ffae00;
-}
-
 .him-red,
 [type="submit"].him-red{
   background-color: #d43900;
 }
 
-.him-red-status{
-  color: #d43900;
+// Breadcrumbs override
+.search-object{
+    margin-bottom: 0;
+    background-color: #F8F8F8;
 }
-
-
 
 
 //Logo for Heritage in Motion
@@ -386,6 +351,10 @@ input[type="submit"].him-view{
     margin-right: 0;
   }
 
+}
+
+.content-pad{
+  padding: $space;
 }
 
 // Secondary navigation over-ride
