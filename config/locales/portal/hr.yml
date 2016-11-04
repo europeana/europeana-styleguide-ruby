@@ -104,6 +104,7 @@ hr:
           return_home: 
         item_detail: Objekt
         results_list: Rezultati
+        results_list_mlt: 
         return_home: Povratak na naslovnicu
     news: Novosti
     object:

@@ -104,6 +104,7 @@ nl:
           return_home: 
         item_detail: Object details
         results_list: Resultaten
+        results_list_mlt: 
         return_home: Terug naar hoofdpagina
     news: Nieuws
     object:

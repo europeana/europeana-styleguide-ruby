@@ -104,6 +104,7 @@ ru:
           return_home: 
         item_detail: Подробная информация
         results_list: Список результатов
+        results_list_mlt: 
         return_home: Домой
     news: Новости
     object:

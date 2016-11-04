@@ -104,6 +104,7 @@ da:
           return_home: 
         item_detail: Genstandsdetalje
         results_list: Oversigt over Resultater
+        results_list_mlt: 
         return_home: Tilbage til Hjem
     news: Nyheder
     object:

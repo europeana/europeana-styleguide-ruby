@@ -104,6 +104,7 @@ fr:
           return_home: 
         item_detail: Informations sur l'objet
         results_list: Liste de résultats
+        results_list_mlt: 
         return_home: Retour à la page d'accueil
     news: Nouvelles
     object:

@@ -104,6 +104,7 @@ en:
           return_home: Exhibitions
         item_detail: Item
         results_list: Results
+        results_list_mlt: Similar items
         return_home: Return to Home
     news: News
     object:

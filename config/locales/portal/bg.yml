@@ -104,6 +104,7 @@ bg:
           return_home: 
         item_detail: Допълнителна информация за обекта
         results_list: Списък с резултати
+        results_list_mlt: 
         return_home: Обратно към начална страница
     news: Новини
     object:

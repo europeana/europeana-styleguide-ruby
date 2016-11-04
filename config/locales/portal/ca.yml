@@ -104,6 +104,7 @@ ca:
           return_home: 
         item_detail: Ítem
         results_list: Resultats
+        results_list_mlt: 
         return_home: Tornar a l'inici
     news: Novetats
     object:

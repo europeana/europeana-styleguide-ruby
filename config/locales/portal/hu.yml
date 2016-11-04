@@ -104,6 +104,7 @@ hu:
           return_home: 
         item_detail: Elem részletei
         results_list: Találati lista
+        results_list_mlt: 
         return_home: Vissza a Főoldalra
     news: Hírek
     object:

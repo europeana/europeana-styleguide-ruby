@@ -104,6 +104,7 @@ mt:
           return_home: Wirjiet
         item_detail: Oġġett
         results_list: Riżultati
+        results_list_mlt: 
         return_home: Mur lura fuq il-paġna primarja
     news: Aħbarijiet
     object:

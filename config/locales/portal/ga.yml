@@ -104,6 +104,7 @@ ga:
           return_home: 
         item_detail: 
         results_list: 
+        results_list_mlt: 
         return_home: 
     news: 
     object:

@@ -104,6 +104,7 @@ ro:
           return_home: 
         item_detail: detalii înregistrare
         results_list: Lista rezultatelor
+        results_list_mlt: 
         return_home: Inapoi Acasă
     news: Știri
     object:

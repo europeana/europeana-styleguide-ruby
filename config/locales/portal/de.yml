@@ -104,6 +104,7 @@ de:
           return_home: Ausstellungen
         item_detail: Objektdetail
         results_list: Ergebnisliste
+        results_list_mlt: 
         return_home: Zurück zur Startseite
     news: Neuigkeiten
     object:

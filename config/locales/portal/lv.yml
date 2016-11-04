@@ -104,6 +104,7 @@ lv:
           return_home: Izstādes
         item_detail: Ieraksts
         results_list: Rezultāti
+        results_list_mlt: 
         return_home: Atgriezties uz sākumu
     news: Ziņas
     object:

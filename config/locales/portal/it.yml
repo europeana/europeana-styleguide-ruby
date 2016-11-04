@@ -104,6 +104,7 @@ it:
           return_home: Esposizione
         item_detail: Risultato
         results_list: Lista dei risultati
+        results_list_mlt: 
         return_home: Ritorna alla Pagina principale
     news: Notizie
     object:

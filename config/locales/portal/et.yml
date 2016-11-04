@@ -104,6 +104,7 @@ et:
           return_home: 
         item_detail: Ese
         results_list: Tulemused
+        results_list_mlt: 
         return_home: Tagasi avalehele
     news: Uudised
     object:

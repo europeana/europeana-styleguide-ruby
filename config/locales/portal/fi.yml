@@ -104,6 +104,7 @@ fi:
           return_home: 
         item_detail: Kohde
         results_list: Tulokset
+        results_list_mlt: 
         return_home: Palaa Aloitussivulle
     news: Uutiset
     object:

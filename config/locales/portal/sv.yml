@@ -104,6 +104,7 @@ sv:
           return_home: 
         item_detail: Post
         results_list: Resultat
+        results_list_mlt: 
         return_home: Tillbaka till Startsidan
     news: Nyheter
     object:

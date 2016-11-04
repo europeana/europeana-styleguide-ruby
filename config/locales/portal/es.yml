@@ -104,6 +104,7 @@ es:
           return_home: Exposiciones
         item_detail: Detalles del objeto
         results_list: Resulatdos
+        results_list_mlt: 
         return_home: Regresar al Inicio
     news: Noticias
     object:
