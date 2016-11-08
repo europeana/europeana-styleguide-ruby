@@ -274,7 +274,7 @@ es:
         'true': Color
       image_size:
         extra_large: Extra Grande (4MP+)
-        large: Tamaño
+        large: Grande (1-4MP)
         medium: Medio (0.5-1MP)
         small: Pequeño (<0.5MP)
       language:
@@ -318,7 +318,7 @@ es:
         show-specific: Mostrar licencias específicas
       media:
         'false': 'No'
-        'true': Si
+        'true': Sí
       more: Más
       more-refinements: Más filtros
       resource:
@@ -356,11 +356,11 @@ es:
         short: Corto (30s - 3 min)
         very_short: Muy Corto (<30s)
       sound_hq:
-        'true': Si
+        'true': Sí
       source: Fuente
       text_fulltext:
         'false': 'No'
-        'true': Si
+        'true': Sí
       type:
         3d: 
         image: Imagen
@@ -409,7 +409,7 @@ es:
       close: cerca
       error: Error
       open: Feedback
-      placeholder: Háganos saber lo que piensa y lo que se puede mejorar . Si desea ser contactado , por favor deje su dirección de correo electrónico aquí también!
+      placeholder: Háganos saber lo que piensa y lo que se puede mejorar. Si desea ser contactado, por favor deje su dirección de correo electrónico aquí también!
       submit: Enviar
       thanks:
         long: Gracias por tus comentarios. Si es necesario; nos pondremos en contacto con usted tan pronto como sea posible
