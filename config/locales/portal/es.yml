@@ -11,7 +11,7 @@ es:
     navigation:
       agents: Personas
       all_blog_posts: Todos los Posts...
-      all_exhibitions: Todas las Exposiciones
+      all_exhibitions: Todas las exposiciones...
       blog: Blog
       browse: Explorar
       browse_colours: Colores
@@ -95,7 +95,7 @@ es:
         roadmap: Actualizaciones
         search-tips: 'Consejos de búsqueda '
         using-myeuropeana: Usando Mi Europeana
-    more: Más
+    more: Más...
     my-europeana: Mi Europeana
     my-europeana-link: link a Mi Europeana
     navigation:
@@ -103,7 +103,7 @@ es:
         exhibitions:
           return_home: Exposiciones
         item_detail: Detalles del objeto
-        results_list: Resulatdos
+        results_list: Resultados
         results_list_mlt: 
         return_home: Regresar al Inicio
     news: Noticias
