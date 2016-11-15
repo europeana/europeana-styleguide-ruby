@@ -132,6 +132,7 @@ lt:
         view-items-above: Peržiūrėti įrašus esančius viršuje
         view-items-below: Peržiūrėti įrašus esančius apačioje
       meta-label:
+        additional-rights: 
         codec: Kodekai
         collection-name: Duomenų rinkinys
         concept: Koncepcija

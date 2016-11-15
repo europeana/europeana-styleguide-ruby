@@ -132,6 +132,7 @@ ru:
         view-items-above: Показать вышестоящие элементы
         view-items-below: Показать нижестоящие элементы
       meta-label:
+        additional-rights: 
         codec: Кодек
         collection-name: Набор данных
         concept: Концепция

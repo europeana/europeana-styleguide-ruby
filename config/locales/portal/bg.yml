@@ -132,6 +132,7 @@ bg:
         view-items-above: Виж обектите по-горе
         view-items-below: Виж обектите по-долу
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Масив от данни
         concept: Концепция

@@ -132,6 +132,7 @@ es:
         view-items-above: ver objetos más arriba
         view-items-below: ver objetos más abajo
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Set de datos
         concept: Concepto

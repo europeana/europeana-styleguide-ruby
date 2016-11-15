@@ -132,6 +132,7 @@ fr:
         view-items-above: voir les objets au-dessus
         view-items-below: voir les objets en dessous
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Dataset
         concept: Concept

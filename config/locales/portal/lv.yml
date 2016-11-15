@@ -132,6 +132,7 @@ lv:
         view-items-above: skatīt iepriekšējos ierakstus
         view-items-below: skatīt nākamos ierakstus
       meta-label:
+        additional-rights: 
         codec: Kodeks
         collection-name: Datu kopa
         concept: Jēdziens

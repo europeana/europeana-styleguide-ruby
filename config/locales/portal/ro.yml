@@ -132,6 +132,7 @@ ro:
         view-items-above: vezi obiectele de mai sus
         view-items-below: vezi obiectele de mai jos
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Set de date
         concept: Concept

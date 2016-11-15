@@ -132,6 +132,7 @@ da:
         view-items-above: se genstande ovenfor
         view-items-below: se genstande nedenfor
       meta-label:
+        additional-rights: 
         codec: 'Codec '
         collection-name: Datasæt
         concept: Koncept

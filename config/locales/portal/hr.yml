@@ -132,6 +132,7 @@ hr:
         view-items-above: pogledaj gornje objekte
         view-items-below: pogledaj donje objekte
       meta-label:
+        additional-rights: 
         codec: Kodek
         collection-name: Skup podataka
         concept: Koncept

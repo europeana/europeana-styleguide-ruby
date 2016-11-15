@@ -132,6 +132,7 @@ sv:
         view-items-above: visa poster ovan
         view-items-below: visa poster nedan
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Dataset
         concept: Koncept

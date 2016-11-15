@@ -132,6 +132,7 @@
         view-items-above: se på objekter over
         view-items-below: se på objekter under
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Datasett
         concept: Konsept

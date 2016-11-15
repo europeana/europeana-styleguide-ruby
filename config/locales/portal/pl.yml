@@ -132,6 +132,7 @@ pl:
         view-items-above: zobacz obiekty powyżej
         view-items-below: zobacz obiekty poniżej
       meta-label:
+        additional-rights: 
         codec: Kodek
         collection-name: Zbiór
         concept: Koncept

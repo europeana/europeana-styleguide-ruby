@@ -132,6 +132,7 @@ nl:
         view-items-above: bekijk bovenstaande resultaten
         view-items-below: bekijk onderstaande resultaten
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Dataset
         concept: Soort object

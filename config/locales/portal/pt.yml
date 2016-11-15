@@ -132,6 +132,7 @@ pt:
         view-items-above: ver itens acima
         view-items-below: ver itens abaixo
       meta-label:
+        additional-rights: 
         codec: Codec
         collection-name: Conjunto de Dados
         concept: Conceito
