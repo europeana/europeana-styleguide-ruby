@@ -26,6 +26,7 @@ fi:
         agents: 
         topics: 
       periods: 
+      places: 
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset
