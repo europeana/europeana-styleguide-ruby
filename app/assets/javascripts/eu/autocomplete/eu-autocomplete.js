@@ -92,7 +92,17 @@ define(['jquery', 'util_resize'], function($){
     }
   }
 
+  function setSelected($el){
+    $list.find('li').removeClass('selected');
+    $el.addClass('selected');
+    select();
+    form.submit();
+  }
+
   function back(first){
+    if($list.find('li').length == 0){
+      return;
+    }
     if(first){
       $list.find('li').removeClass('selected');
       var $f = $list.find('li:first')
@@ -117,6 +127,9 @@ define(['jquery', 'util_resize'], function($){
   }
 
   function fwd(last){
+    if($list.find('li').length == 0){
+      return;
+    }
     if(last){
       var $l = $list.find('li:last')
       $list.find('li').removeClass('selected');
@@ -251,11 +264,7 @@ define(['jquery', 'util_resize'], function($){
 
   function bindMouse(){
     $(document).on('click', '.eu-autocomplete li', function(e){
-      form.submit();
-    });
-
-    $(document).on('click', '.eu-autocomplete li', function(e){
-      select();
+      setSelected($(this));
     });
   }
 
