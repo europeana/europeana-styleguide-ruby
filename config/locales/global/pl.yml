@@ -343,6 +343,7 @@ pl:
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
         advanced-rs-noc-nc: 
+        advanced-rs-noc-oklr: 
         advanced-ucs: ''
         expiry: do %{date}
         open: Tak, ale pamiętaj o podaniu źródła.

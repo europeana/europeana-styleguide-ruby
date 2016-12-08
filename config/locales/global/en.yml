@@ -343,6 +343,7 @@ en:
         advanced-rs-inc-edu: In Copyright - Educational Use Permitted
         advanced-rs-inc-ow-eu: In Copyright - EU Orphan Work
         advanced-rs-noc-nc: No Copyright - Non-Commercial Use Only
+        advanced-rs-noc-oklr: No Copyright - Other Known Legal Restrictions
         advanced-ucs: Unknown copyright status
         expiry: until %{date}
         open: Free Re-use
