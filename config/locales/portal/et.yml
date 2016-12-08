@@ -134,6 +134,7 @@ et:
         view-items-below: vaata kirjeid all
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Codec
         collection-name: Andmestik
         concept: Kontseptsioon

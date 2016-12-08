@@ -134,6 +134,7 @@ el:
         view-items-below: εμφάνιση επόμενων
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Κωδικοποιητής
         collection-name: Συλλογή δεδομένων
         concept: Έννοια

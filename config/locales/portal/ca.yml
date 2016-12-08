@@ -134,6 +134,7 @@ ca:
         view-items-below: verue els ítems inferiors
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Códec
         collection-name: Dataset
         concept: Concepte

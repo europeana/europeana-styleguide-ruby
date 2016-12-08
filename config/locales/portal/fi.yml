@@ -134,6 +134,7 @@ fi:
         view-items-below: katso alla olevia kohteita
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Koodekki
         collection-name: Datasetti
         concept: Käsite

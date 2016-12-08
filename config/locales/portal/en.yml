@@ -134,6 +134,7 @@ en:
         view-items-below: view items below
       meta-label:
         additional-rights: Additional rights information
+        annotations: Annotations
         codec: Codec
         collection-name: Dataset
         concept: Topics

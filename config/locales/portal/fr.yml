@@ -134,6 +134,7 @@ fr:
         view-items-below: voir les objets en dessous
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Codec
         collection-name: Dataset
         concept: Concept

@@ -134,6 +134,7 @@ it:
         view-items-below: Vedi le voci or gli articoli sotto
       meta-label:
         additional-rights: 
+        annotations: 
         codec: Codec
         collection-name: Dataset
         concept: Concetto or Idea
