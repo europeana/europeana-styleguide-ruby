@@ -73,8 +73,11 @@ fi:
         texts: tekstiä
       labels:
         credits: Kuratoinut
+        editors-picks: 
         recent: Äskettäiset lisäykset
+        sneak-peek: 
         spotlight-on: Valokeilassa
+        whats-happening: 
       music:
         description: <strong>Europeanan Musiikkikokoelma</strong> tuo yhteen parhaat musiikkitallenteet, nuotit, ja muut musiikkiaiheiset kokoelmat Euroopan audiovisuaalisista arkistoista, kirjastoista ja museoista. <a href="/portal/channels/music/about">Lisätietoa Musiikkikokoelma.</a>
         title: Europeana Musiikki

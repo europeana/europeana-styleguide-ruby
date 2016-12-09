@@ -73,8 +73,11 @@ lv:
         texts: Teksti
       labels:
         credits: Kurators
+        editors-picks: 
         recent: Jaunākie papildinājumi
+        sneak-peek: 
         spotlight-on: Uzmanības centrā
+        whats-happening: 
       music:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzzini vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika

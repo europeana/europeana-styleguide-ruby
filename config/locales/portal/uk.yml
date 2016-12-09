@@ -73,8 +73,11 @@ uk:
         texts: Тексти
       labels:
         credits: Куратор
+        editors-picks: 
         recent: Нові надходження
+        sneak-peek: 
         spotlight-on: 
+        whats-happening: 
       music:
         description: 
         title: 

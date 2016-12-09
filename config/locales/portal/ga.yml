@@ -73,8 +73,11 @@ ga:
         texts: 
       labels:
         credits: 
+        editors-picks: 
         recent: 
+        sneak-peek: 
         spotlight-on: 
+        whats-happening: 
       music:
         description: 
         title: 

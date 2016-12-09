@@ -73,8 +73,11 @@ hr:
         texts: tekstova
       labels:
         credits: Priredio
+        editors-picks: 
         recent: Nedavno dodano
+        sneak-peek: 
         spotlight-on: U fokusu
+        whats-happening: 
       music:
         description: <strong>Europeana glazbena zbirka</strong> povezuje najbolje glazbene snimke, notne zapise i ostale zbirke glazbene tematike iz audio-vizualnih arhiva, knjižnica, arhiva i muzeja Europe. <a href="/portal/channels/music/about">Saznajte više o Glazbenoj zbirci.</a>
         title: Europeana glazba

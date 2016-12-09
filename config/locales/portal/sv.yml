@@ -73,8 +73,11 @@ sv:
         texts: Texter
       labels:
         credits: Sammanställd av
+        editors-picks: 
         recent: Senaste tilläggen
+        sneak-peek: 
         spotlight-on: 
+        whats-happening: 
       music:
         description: 
         title: 

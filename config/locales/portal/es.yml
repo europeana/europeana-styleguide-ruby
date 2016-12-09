@@ -73,8 +73,11 @@ es:
         texts: Textos
       labels:
         credits: Curado por
+        editors-picks: 
         recent: Adiciones recientes
+        sneak-peek: 
         spotlight-on: Destacados
+        whats-happening: 
       music:
         description: La <strong>Colección de Música de Europeana<strong> reúne las mejores grabaciones, partituras y otros objectos relacionados con la música de los archivos audiovisuales europeos, bibliotecas y museos. <a href="/portal/channels/music/about">Más acerca del Colección de Música.</a>
         title: Europeana Música

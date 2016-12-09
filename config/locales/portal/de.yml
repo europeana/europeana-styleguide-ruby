@@ -73,8 +73,11 @@ de:
         texts: Texte
       labels:
         credits: Kuratiert von
+        editors-picks: 
         recent: Neu hinzugefügt
+        sneak-peek: 
         spotlight-on: Spotlight auf
+        whats-happening: 
       music:
         description: Die <strong> Europeana Musik Sammlung </ strong> vereint die besten Musikaufnahmen, Noten und andere musikbezogene Sammlungen von Europas audiovisuellen Archiven und Bibliotheken. <a href="/portal/channels/music/about">Erfahren Sie mehr über die Musik Sammlung.</a>
         title: Europeana Musik

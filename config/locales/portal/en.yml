@@ -73,8 +73,11 @@ en:
         texts: Texts
       labels:
         credits: 'Curated by '
+        editors-picks: Editor's picks
         recent: Recent additions
+        sneak-peek: Sneak peek
         spotlight-on: 'Spotlight on '
+        whats-happening: What's happening
       music:
         description: The <strong>Europeana Music Collection</strong> brings together the best music recordings, sheet music, and other music related collections from Europe's audio-visual archives, libraries, archives and museums. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>
         title: Europeana Music

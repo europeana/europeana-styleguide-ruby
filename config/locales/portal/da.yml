@@ -73,8 +73,11 @@ da:
         texts: Tekster
       labels:
         credits: Kurateret af
+        editors-picks: 
         recent: Senest tilføjet
+        sneak-peek: 
         spotlight-on: Fokus på
+        whats-happening: 
       music:
         description: <strong>Europeanas Musiksamling</strong> samler de bedste musikoptagelser, partiturer og andre musikrelaterede genstande fra Europas audiovisuelle arkiver, biblioteker og museer. <a href="/portal/channels/music/about">Find ud af mere om Musiksamling.</a>
         title: Europeana Musik

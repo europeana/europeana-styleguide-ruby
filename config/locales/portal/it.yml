@@ -73,8 +73,11 @@ it:
         texts: Testi
       labels:
         credits: Curato da
+        editors-picks: 
         recent: Aggiunte recenti
+        sneak-peek: 
         spotlight-on: Riflettori su
+        whats-happening: 
       music:
         description: La collezione musicale di Europeana riunisce le migliori registrazioni musicali, spartiti ed altre raccolte musicali provenienti da archivi audiovisivi, biblioteche, archivi e musei europei. Scopri di più sul canale musicale.
         title: Europeana Musica

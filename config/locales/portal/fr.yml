@@ -73,8 +73,11 @@ fr:
         texts: Textes
       labels:
         credits: Administrée par
+        editors-picks: 
         recent: Ajouts récents
+        sneak-peek: 
         spotlight-on: Lumière sur
+        whats-happening: 
       music:
         description: '<strong>Europeana Collections: Musique</strong> rassemble les meilleurs enregistrements musicaux, partitions de musique, et autres collections musicales des archives audiovisuelles, bibliothèques, musées européens. <a href="/portal/channels/music/about">En savoir plus sur Europeana Collections: Musique</a>'
         title: Europeana Musique

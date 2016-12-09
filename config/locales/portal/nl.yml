@@ -73,8 +73,11 @@ nl:
         texts: Tekst
       labels:
         credits: Gecureerd door
+        editors-picks: 
         recent: Recent toegevoegd
+        sneak-peek: 
         spotlight-on: In de spotlight
+        whats-happening: 
       music:
         description: 'Het <strong> Europeana collecties: muziek</strong> brengt u de beste muziek opnames, blad muziek en ander muziek gerelateerde collecties van Europa''s audio-visuele archieven, bibliotheken, archieven en musea. <a href="/portal/channels/music/about"> Meer over Europeana collecties: muziek</a>'
         title: Europeana Muziek

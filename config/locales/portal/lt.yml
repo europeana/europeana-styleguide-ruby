@@ -73,8 +73,11 @@ lt:
         texts: Tekstai
       labels:
         credits: Kuruojama
+        editors-picks: 
         recent: Naujausi papildymai
+        sneak-peek: 
         spotlight-on: Dėmesio centre
+        whats-happening: 
       music:
         description: <strong>Europeana muzikos kolekcija</strong> sujungia geriausių muzikos įrašų, natų ir kitų, su muzika susijusių, įrašų kolekcijas iš daugelio Europos vaizdo ir garso archyvų, bibliotekų, muziejų bei archyvų. <a href="/portal/channels/music/about">Sužinokite daugiau apie muzikos kolekcija.</a>
         title: Europeana muzika
