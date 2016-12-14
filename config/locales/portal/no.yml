@@ -73,6 +73,7 @@
         texts: Tekst
       labels:
         credits: 'Kuratert av '
+        designer: 
         editors-picks: 
         recent: Nylige tilføringer
         sneak-peek: 

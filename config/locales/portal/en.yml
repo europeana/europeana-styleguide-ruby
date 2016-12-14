@@ -73,6 +73,7 @@ en:
         texts: Texts
       labels:
         credits: 'Curated by '
+        designer: Designer
         editors-picks: Editor's picks
         recent: Recent additions
         sneak-peek: Sneak peek

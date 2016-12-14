@@ -73,6 +73,7 @@ pl:
         texts: Teksty
       labels:
         credits: 'Kurator:'
+        designer: 
         editors-picks: 
         recent: Ostatnio dodane
         sneak-peek: 
