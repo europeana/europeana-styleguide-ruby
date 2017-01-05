@@ -25,8 +25,8 @@ lv:
       more:
         agents: Vairāk cilvēku
         topics: Vairāk tēmu
-      periods: 
-      places: 
+      periods: Laika periodi
+      places: Vietas
     pro-link: saite uz Profesionālo
     pro-text: teksts Profesionālajai
     settings: Iestatījumi
@@ -51,8 +51,8 @@ lv:
         description: Šeit var atrast mūsu kolekciju īpašos ierakstus, kas saistīti ar slavenu mākslinieku, komponistu un citu vēsturiski nozīmīgu personu dzīvi un darbiem.
         title: Cilvēki
       periods:
-        description: 
-        title: 
+        description: Pārlūko pēc laika perioda.
+        title: Laika periodi
       sources:
         description: Zemāk esošajā sarakstā ir uzskaitīti mūsu kolekciju avoti. Šie avoti ir apkopojuši kolekcijas un iesnieguši tās Europeana. Klikšķiniet uz zemāk esošajām saitēm, lai iepazītos ar visu to kolekciju saturu.
         title: Avoti
@@ -73,12 +73,12 @@ lv:
         texts: Teksti
       labels:
         credits: Kurators
-        designer: 
-        editors-picks: 
+        designer: Dizainers
+        editors-picks: Redaktora izvēle
         recent: Jaunākie papildinājumi
-        sneak-peek: 
+        sneak-peek: Ieskats
         spotlight-on: Uzmanības centrā
-        whats-happening: 
+        whats-happening: Kas notiek
       music:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzzini vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika
@@ -109,7 +109,7 @@ lv:
           return_home: Izstādes
         item_detail: Ieraksts
         results_list: Rezultāti
-        results_list_mlt: 
+        results_list_mlt: Līdzīgi ieraksti
         return_home: Atgriezties uz sākumu
     news: Ziņas
     object:
@@ -122,7 +122,7 @@ lv:
         download-retry: Atkārtot
         download-started: Lejupielāde uzsākta
         downloaddata: Lejupielādēt datus
-        enlarge: 
+        enlarge: Palielināt
         explore-by-colour: Izpētīt pēc krāsas
         media-metadata: Resursa metadati
         open-media: Atvērt šo ierakstu
@@ -137,8 +137,8 @@ lv:
         view-items-above: skatīt iepriekšējos ierakstus
         view-items-below: skatīt nākamos ierakstus
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Tiesību papildinformācija
+        annotations: Lietotāju anotācijas
         codec: Kodeks
         collection-name: Datu kopa
         concept: Jēdziens
@@ -248,7 +248,7 @@ lv:
         north: Ziemeļi
         south: Dienvidi
         west: Rietumi
-      preview_unavailable: 
+      preview_unavailable: Ieraksta priekšskatījums nav pieejams, lai piekļūtu attēlam un informācijai par ierakstu, atveriet %{institution_name_and_link}
       show-more-similar-items: rādīt vairāk
       similar-items: Līdzīgi ieraksti
     pages:
