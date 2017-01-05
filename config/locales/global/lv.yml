@@ -153,8 +153,8 @@ lv:
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns
       fullscreen-exit: iziet no pilnekrāna
-      next: 
-      previous: 
+      next: nākamā
+      previous: iepriekšējā
       skip-to-main: 
     channel:
       all: Visi ieraksti
@@ -239,7 +239,7 @@ lv:
         colourpalette: Krāsa
         country: Valsts
         data_provider: Institūcija
-        date-created: 
+        date-created: Izveidošanas datējums
         fashion:
           colour: Krāsa
           designer: Dizainers
@@ -255,7 +255,7 @@ lv:
         mime_type: Datnes formāts
         provider: Agregators
         providing_country: Piegādātājvalsts
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Izveidošanas datējums
         reusability: Vai es varu to izmantot?
         rights: Licence
         sound_duration: Ilgums
@@ -480,14 +480,14 @@ lv:
       view-more: Skatīt vairāk
     more-info: Vairāk informācijas
     newsletter:
-      choose-language: 
+      choose-language: Izvēlieties valodu
       email-address-invalid: Kā e-pasts ir jānorāda derīga e-pasta adrese.
       email-address-required: Ir jāuzrāda e-pasta adrese.
       language-required: Ir jāuzrāda valoda.
       signup: Paraksties uz mūsu informatīvo izdevumu
       submit-alt: 
     our-sites: mūsu vietnes
-    page: 
+    page: lapa
     password: Parole
     professional: Profesionālā
     professional-text: Iesaisties, dalies ar saviem datiem vai izmanto mūsu
