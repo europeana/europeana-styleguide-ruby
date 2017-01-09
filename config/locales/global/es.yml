@@ -156,6 +156,7 @@ es:
       next: 
       previous: 
       skip-to-main: 
+      skip-to-section: 
     channel:
       all: Todas
       archaeology: arqueología

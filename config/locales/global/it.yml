@@ -156,6 +156,7 @@ it:
       next: 
       previous: 
       skip-to-main: 
+      skip-to-section: 
     channel:
       all: 
       archaeology: archeologia

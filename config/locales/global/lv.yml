@@ -156,6 +156,7 @@ lv:
       next: nākamā
       previous: iepriekšējā
       skip-to-main: 
+      skip-to-section: 
     channel:
       all: Visi ieraksti
       archaeology: arheoloģija

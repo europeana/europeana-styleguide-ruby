@@ -156,6 +156,7 @@ ca:
       next: 
       previous: 
       skip-to-main: 
+      skip-to-section: 
     channel:
       all: 
       archaeology: arqueologia

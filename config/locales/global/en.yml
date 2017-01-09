@@ -156,6 +156,7 @@ en:
       next: next
       previous: previous
       skip-to-main: Skip to page contents
+      skip-to-section: Skip to section
     channel:
       all: All items
       archaeology: archaeology
