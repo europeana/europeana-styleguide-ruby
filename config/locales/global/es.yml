@@ -425,6 +425,7 @@ es:
 
 '
     find-us-social-media: Encontrar %{channel} en las redes sociales
+    follow-channel: 
     forgot-password: Olvidaste tu contraseña?
     genres: generos
     genres-chamber-music: 'Música de Cámara '

@@ -423,6 +423,7 @@ en:
         correction: correction
     find-us-elsewhere: Find us elsewhere
     find-us-social-media: Find %{channel} on social media
+    follow-channel: Follow %{channel}
     forgot-password: Forgot your password?
     genres: genres
     genres-chamber-music: Chamber music

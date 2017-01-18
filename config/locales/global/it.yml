@@ -425,6 +425,7 @@ it:
         correction: correzione
     find-us-elsewhere: 
     find-us-social-media: Trova %{channel}  sui social media
+    follow-channel: 
     forgot-password: Hai dimenticato la password?
     genres: Genere
     genres-chamber-music: Musica da camera
