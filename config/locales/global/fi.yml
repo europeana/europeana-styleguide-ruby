@@ -485,6 +485,9 @@ fi:
       choose-language: 
       email-address-invalid: Sähköpostiosoitteen on oltava toimiva osoite.
       email-address-required: Sähköpostiosoite on määritettävä.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Kieli on määritettävä.
       signup: Tilaa uutiskirje
       submit-alt: 

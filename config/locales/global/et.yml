@@ -487,6 +487,9 @@ et:
       choose-language: 
       email-address-invalid: E-posti väljal peab olema korrektne meiliaadress
       email-address-required: E-posti aadress peab olema täidetud
+      fashion:
+        heading: 
+        subheading: 
       language-required: Keel peab olema valitud.
       signup: Liitu meie uudiskirjaga
       submit-alt: 

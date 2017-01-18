@@ -487,6 +487,9 @@ mt:
       choose-language: 
       email-address-invalid: L-indirizz ta' l-email għandu jkun validu.
       email-address-required: Indirizz ta' email għandu jkun speċifikat
+      fashion:
+        heading: 
+        subheading: 
       language-required: Il-lingwa għandha tkun speċifikata
       signup: Irreġistra għan-newsletter tagħna
       submit-alt: 

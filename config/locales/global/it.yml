@@ -487,6 +487,9 @@ it:
       choose-language: 
       email-address-invalid: L'indirizzo email deve essere valido
       email-address-required: Deve essere inserito almeno un indirizzo email
+      fashion:
+        heading: 
+        subheading: 
       language-required: E' necessario specificare una lingua
       signup: Iscriviti alla nostra newsletter
       submit-alt: 

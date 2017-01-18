@@ -485,6 +485,9 @@ lv:
       choose-language: Izvēlieties valodu
       email-address-invalid: Kā e-pasts ir jānorāda derīga e-pasta adrese.
       email-address-required: Ir jāuzrāda e-pasta adrese.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Ir jāuzrāda valoda.
       signup: Paraksties uz mūsu informatīvo izdevumu
       submit-alt: 

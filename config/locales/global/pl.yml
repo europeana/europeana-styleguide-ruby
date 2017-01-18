@@ -485,6 +485,9 @@ pl:
       choose-language: 
       email-address-invalid: Wprowadź poprawny adres email.
       email-address-required: Dodaj adres email.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Zaznacz preferowany język.
       signup: Zapisz się na comiesięczną dawkę kultury w naszym biuletynie
       submit-alt: 

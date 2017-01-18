@@ -485,6 +485,9 @@ fr:
       choose-language: 
       email-address-invalid: L'email doit être une adresse email valide.
       email-address-required: Une adresse email doit être précisée.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Une langue doit être précisée.
       signup: Inscrivez-vous à notre newsletter
       submit-alt: 

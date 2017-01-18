@@ -485,6 +485,9 @@ cs:
       choose-language: 
       email-address-invalid: 
       email-address-required: 
+      fashion:
+        heading: 
+        subheading: 
       language-required: 
       signup: 
       submit-alt: 

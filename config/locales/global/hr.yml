@@ -485,6 +485,9 @@ hr:
       choose-language: 
       email-address-invalid: E-mail mora biti valjana e-mail adresa.
       email-address-required: E-mail adresa mora biti navedena.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Jezik mora biti naveden.
       signup: Prijavite se na naš newsletter
       submit-alt: 

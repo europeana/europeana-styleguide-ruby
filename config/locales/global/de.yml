@@ -487,6 +487,9 @@ de:
       choose-language: 
       email-address-invalid: Die E-Mail muss eine gültige E-Mail-Adresse sein.
       email-address-required: Eine E-Mail-Adresse muss angegeben werden.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Eine Sprache muss angegeben werden.
       signup: Newsletter Anmeldung
       submit-alt: 

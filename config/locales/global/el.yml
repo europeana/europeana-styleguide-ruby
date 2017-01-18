@@ -485,6 +485,9 @@ el:
       choose-language: 
       email-address-invalid: Η διεύθυνση του ηλεκτρινοκού ταχυδρομείου δεν είναι έγκυρη.
       email-address-required: Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν έχει καθοριστεί.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Η γλώσσα δεν έχει καθοριστεί.
       signup: Εγγραφείτε για το newsletter
       submit-alt: 

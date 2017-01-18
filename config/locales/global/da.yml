@@ -487,6 +487,9 @@ da:
       choose-language: 
       email-address-invalid: E-mail skal være en tilgængelig e-mail adresse
       email-address-required: 'Angiv email adressen '
+      fashion:
+        heading: 
+        subheading: 
       language-required: 'Angiv sprog '
       signup: Tilmeld dig til vores nyhedsbrev
       submit-alt: 

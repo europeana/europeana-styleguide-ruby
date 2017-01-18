@@ -485,6 +485,9 @@ bg:
       choose-language: 
       email-address-invalid: Моля, въведете валиден имейл адрес.
       email-address-required: Моля, въведете имейл адрес.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Моля, изберете език.
       signup: Абонамент за бюлентин
       submit-alt: 

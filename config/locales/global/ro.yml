@@ -485,6 +485,9 @@ ro:
       choose-language: 
       email-address-invalid: Adresa de email trebuie să fie validă
       email-address-required: Specificați o adresă de email
+      fashion:
+        heading: 
+        subheading: 
       language-required: Specificați limba
       signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
       submit-alt: 

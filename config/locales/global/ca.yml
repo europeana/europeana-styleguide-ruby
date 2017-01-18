@@ -485,6 +485,9 @@ ca:
       choose-language: 
       email-address-invalid: El correu electrònic ha de ser una adreça vàlida
       email-address-required: Especifiqueu una adreça de correu electrònic.
+      fashion:
+        heading: 
+        subheading: 
       language-required: Especifiqueu una llengua
       signup: Signeu per a una newsletter
       submit-alt: 

@@ -485,6 +485,9 @@ sv:
       choose-language: 
       email-address-invalid: 'E-postadressen måste vara giltig '
       email-address-required: Du måste ange en e-postadress
+      fashion:
+        heading: 
+        subheading: 
       language-required: Språk måste anges
       signup: Prenumerera på vårt nyhetsbrev
       submit-alt: 

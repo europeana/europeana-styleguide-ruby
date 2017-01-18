@@ -485,6 +485,9 @@ lt:
       choose-language: 
       email-address-invalid: Įveskite egzistuojantį el. pašto adresą
       email-address-required: El. pašto adresas privalomas
+      fashion:
+        heading: 
+        subheading: 
       language-required: Pasirinkite kalbą
       signup: Užsiprenumeruokite mūsų naujienlaiškį
       submit-alt: 
