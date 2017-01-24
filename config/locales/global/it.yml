@@ -150,15 +150,15 @@ it:
     about-us: Chi siamo
     actions:
       filter-all: Tutte
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-by: Filtra per
+      fullscreen-enter: A schermo intero
+      fullscreen-exit: schermo intero uscita
+      next: Il prossimo
+      previous: precedente
+      skip-to-main: Passa al contenuto della pagina
+      skip-to-section: Vai alla sezione
     channel:
-      all: 
+      all: Tutti gli articoli
       archaeology: archeologia
       architecture: architettura
       art: arte
@@ -177,7 +177,7 @@ it:
     channels-music: Musica
     choose-language: Lingua
     cookie_disclaimer:
-      more_info: 
+      more_info: Ulteriori informazioni
       text: 
     email-address: indirizzo email
     facet:

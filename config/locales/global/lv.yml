@@ -155,8 +155,8 @@ lv:
       fullscreen-exit: iziet no pilnekrāna
       next: nākamā
       previous: iepriekšējā
-      skip-to-main: 
-      skip-to-section: 
+      skip-to-main: Pāriet uz lapas saturu
+      skip-to-section: Pāriet uz sadaļu
     channel:
       all: Visi ieraksti
       archaeology: arheoloģija

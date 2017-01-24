@@ -149,16 +149,16 @@ lt:
   global:
     about-us: Apie mus
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: filtruoti visus
+      filter-by: Filtruoti pagal
+      fullscreen-enter: Per visą ekraną
+      fullscreen-exit: išeiti visą ekraną
+      next: Kitas
+      previous: iepriekšējā
+      skip-to-main: Pereiti į puslapio turinį
+      skip-to-section: Pereiti į skyrių
     channel:
-      all: 
+      all: Visi daiktai
       archaeology: archeologija
       architecture: architektūra
       art: menas
@@ -177,7 +177,7 @@ lt:
     channels-music: Muzika
     choose-language: Kalba
     cookie_disclaimer:
-      more_info: 
+      more_info: Daugiau informacijos
       text: 
     email-address: el. pašto adresas
     facet:

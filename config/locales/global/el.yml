@@ -149,16 +149,16 @@ el:
   global:
     about-us: Σχετικά με εμάς
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: φιλτράρει όλα
+      filter-by: Φιλτράρισμα με βάση
+      fullscreen-enter: ΠΛΗΡΗΣ ΟΘΟΝΗ
+      fullscreen-exit: Έξοδος από πλήρη οθόνη
+      next: επόμενος
+      previous: προηγούμενος
+      skip-to-main: Μετάβαση στο περιεχόμενο της σελίδας
+      skip-to-section: Μετάβαση στο τμήμα
     channel:
-      all: 
+      all: Ολα τα αντικείμενα
       archaeology: αρχαιολογία
       architecture: αρχιτεκτονική
       art: τέχνη
@@ -177,7 +177,7 @@ el:
     channels-music: Μουσική
     choose-language: Γλώσσα
     cookie_disclaimer:
-      more_info: 
+      more_info: Περισσότερες πληροφορίες
       text: 
     email-address: διεύθυνση ηλεκτρονικού ταχυδρομείου
     facet:

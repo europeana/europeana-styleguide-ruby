@@ -149,16 +149,16 @@ hr:
   global:
     about-us: O nama
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: " Filter sve"
+      filter-by: Filtrirati po
+      fullscreen-enter: Puni zaslon
+      fullscreen-exit: izlaz na cijelom zaslonu
+      next: Sljedeći
+      previous: prijašnji
+      skip-to-main: Preskoči na sadržaj stranice
+      skip-to-section: Preskoči na odjeljak
     channel:
-      all: 
+      all: Svi predmeti
       archaeology: arheologija
       architecture: arhitektura
       art: umjetnost
@@ -177,7 +177,7 @@ hr:
     channels-music: Glazba
     choose-language: Jezik
     cookie_disclaimer:
-      more_info: 
+      more_info: Više informacija
       text: 
     email-address: e-mail adresa
     facet:

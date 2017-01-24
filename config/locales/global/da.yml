@@ -151,14 +151,14 @@ da:
     actions:
       filter-all: Alt
       filter-by: Filter med
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      fullscreen-enter: Fuld skærm
+      fullscreen-exit: exit fuld skærm
+      next: Næste
+      previous: tidligere
+      skip-to-main: Spring til sideindhold
+      skip-to-section: Hop til afsnit
     channel:
-      all: 
+      all: Alle elementer
       archaeology: arkæologi
       architecture: arkitektur
       art: kunst
@@ -177,7 +177,7 @@ da:
     channels-music: Musik
     choose-language: Sprog
     cookie_disclaimer:
-      more_info: 
+      more_info: Mere info
       text: 
     email-address: e-mail adresse
     facet:

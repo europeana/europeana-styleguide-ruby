@@ -149,16 +149,16 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: suodatetaan
+      filter-by: Suodata
+      fullscreen-enter: Koko näyttö
+      fullscreen-exit: exit koko näytön
+      next: Seuraava
+      previous: Edellinen
+      skip-to-main: Siirry sivun sisältöön
+      skip-to-section: Siirry osio
     channel:
-      all: 
+      all: Kaikki tavarat
       archaeology: arkeologia
       architecture: arkkitehtuuri
       art: taide
@@ -177,7 +177,7 @@ fi:
     channels-music: Musiikki
     choose-language: Kieli
     cookie_disclaimer:
-      more_info: 
+      more_info: Lisätietoja
       text: 
     email-address: sähköpostiosoite
     facet:

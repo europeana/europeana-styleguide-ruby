@@ -149,16 +149,16 @@ fr:
   global:
     about-us: À propos
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Filtrer tout
+      filter-by: Filtrer par
+      fullscreen-enter: Plein écran
+      fullscreen-exit: Quitter le mode plein écran
+      next: prochain
+      previous: précédent
+      skip-to-main: Passer au contenu de la page
+      skip-to-section: Passer à la section
     channel:
-      all: 
+      all: Tous les articles
       archaeology: archéologie
       architecture: architecture
       art: art
@@ -177,7 +177,7 @@ fr:
     channels-music: Musique
     choose-language: Langue
     cookie_disclaimer:
-      more_info: 
+      more_info: Plus d'informations
       text: 
     email-address: adresse email
     facet:

@@ -149,16 +149,16 @@ ro:
   global:
     about-us: Despre noi
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Se filtrează toate
+      filter-by: Filtreaza dupa
+      fullscreen-enter: " Ecran complet"
+      fullscreen-exit: ieșire ecran complet
+      next: Următor →
+      previous: anterior
+      skip-to-main: Treci la conținutul paginii
+      skip-to-section: Treci la secțiunea
     channel:
-      all: 
+      all: Toate obiectele
       archaeology: arheologie
       architecture: arhitectură
       art: artă
@@ -177,7 +177,7 @@ ro:
     channels-music: Muzică
     choose-language: Limbă
     cookie_disclaimer:
-      more_info: 
+      more_info: Mai multe informatii
       text: 
     email-address: adresă de email
     facet:

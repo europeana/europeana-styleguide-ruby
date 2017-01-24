@@ -150,15 +150,15 @@
     about-us: Om oss
     actions:
       filter-all: Alt
-      filter-by: 
+      filter-by: Filtrer etter
       fullscreen-enter: full skjerm
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      fullscreen-exit: Avslutt fullskjerm
+      next: neste
+      previous: tidligere
+      skip-to-main: Hopp til sideinnhold
+      skip-to-section: Gå til seksjon
     channel:
-      all: 
+      all: Alle ting
       archaeology: arkeologi
       architecture: arkitektur
       art: kunst

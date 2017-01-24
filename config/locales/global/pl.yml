@@ -153,10 +153,10 @@ pl:
       filter-by: Filtruj
       fullscreen-enter: pełny ekran
       fullscreen-exit: wyjście z trybu pełnoekranowego
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      next: Następny
+      previous: poprzedni
+      skip-to-main: Przejdź do zawartości strony
+      skip-to-section: Przejdź do sekcji
     channel:
       all: Wszystko
       archaeology: archeologia

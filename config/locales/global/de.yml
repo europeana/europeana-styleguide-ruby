@@ -149,16 +149,16 @@ de:
   global:
     about-us: Über uns
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Alle filtern
+      filter-by: Filtern nach
+      fullscreen-enter: Vollbild
+      fullscreen-exit: Beenden Sie den Vollbildmodus
+      next: Nächster
+      previous: bisherige
+      skip-to-main: Direkt zum Seiteninhalt
+      skip-to-section: Weiter zum Abschnitt
     channel:
-      all: 
+      all: Alle Elemente
       archaeology: 'Archäologie '
       architecture: Architektur
       art: Kunst
@@ -177,7 +177,7 @@ de:
     channels-music: Musik
     choose-language: Sprache
     cookie_disclaimer:
-      more_info: 
+      more_info: Mehr Info
       text: 
     email-address: E-Mail-Adresse
     facet:

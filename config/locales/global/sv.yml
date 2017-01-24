@@ -149,16 +149,16 @@ sv:
   global:
     about-us: Om oss
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: filtrera alla
+      filter-by: Filtrera efter
+      fullscreen-enter: Fullskärm
+      fullscreen-exit: Avsluta helskärmsläge
+      next: Nästa
+      previous: tidigare
+      skip-to-main: Hoppa till sidans innehåll
+      skip-to-section: Hoppa till sektionen
     channel:
-      all: 
+      all: Alla objekt
       archaeology: arkeologi
       architecture: arkitektur
       art: konst

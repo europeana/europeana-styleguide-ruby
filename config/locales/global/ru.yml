@@ -149,16 +149,16 @@ ru:
   global:
     about-us: О нас
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Фильтр все
+      filter-by: Сортировать по
+      fullscreen-enter: Полноэкранный
+      fullscreen-exit: Выход из полноэкранного режима
+      next: следующий
+      previous: предыдущий
+      skip-to-main: Перейти к содержанию страницы
+      skip-to-section: Перейти в раздел
     channel:
-      all: 
+      all: Все детали
       archaeology: Археология
       architecture: Архитектура
       art: Искусство
@@ -177,7 +177,7 @@ ru:
     channels-music: Музыка
     choose-language: Язык
     cookie_disclaimer:
-      more_info: 
+      more_info: Больше информации
       text: 
     email-address: Адрес электронной почты
     facet:

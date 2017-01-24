@@ -149,16 +149,16 @@ et:
   global:
     about-us: Meist
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Filter kõik
+      filter-by: " Filtreeri"
+      fullscreen-enter: Täisekraan
+      fullscreen-exit: väljumise täisekraanil
+      next: järgmine
+      previous: eelmine
+      skip-to-main: Otse lehekülje sisu
+      skip-to-section: Otse sektsiooni
     channel:
-      all: 
+      all: Kõik teemad
       archaeology: arheoloogia
       architecture: arhitektuur
       art: kunst
@@ -177,7 +177,7 @@ et:
     channels-music: Muusika
     choose-language: Keel
     cookie_disclaimer:
-      more_info: 
+      more_info: Rohkem infot
       text: 
     email-address: e-posti aadress
     facet:

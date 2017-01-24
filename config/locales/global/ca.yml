@@ -149,16 +149,16 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: filtrar tot
+      filter-by: Filtrar per
+      fullscreen-enter: Pantalla completa
+      fullscreen-exit: Surt de la pantalla completa
+      next: Pròxim
+      previous: anterior
+      skip-to-main: Saltar als continguts de la pàgina
+      skip-to-section: Avançar a la secció
     channel:
-      all: 
+      all: tots els articles
       archaeology: arqueologia
       architecture: arquitectura
       art: Història de l'art
@@ -177,7 +177,7 @@ ca:
     channels-music: Música
     choose-language: Llengua
     cookie_disclaimer:
-      more_info: 
+      more_info: Més informació
       text: 
     email-address: correu electrònic
     facet:

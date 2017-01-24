@@ -149,16 +149,16 @@ nl:
   global:
     about-us: Over ons
     actions:
-      filter-all: 
-      filter-by: 
-      fullscreen-enter: 
-      fullscreen-exit: 
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      filter-all: Allen filteren
+      filter-by: Filter op
+      fullscreen-enter: Volledig scherm
+      fullscreen-exit: verlaat volledig scherm
+      next: volgende
+      previous: vorige
+      skip-to-main: Direct naar pagina-inhoud
+      skip-to-section: Overslaan
     channel:
-      all: 
+      all: Alles
       archaeology: Archeology
       architecture: 'Architectuur '
       art: Kunst
@@ -177,7 +177,7 @@ nl:
     channels-music: Muziek
     choose-language: Taal
     cookie_disclaimer:
-      more_info: 
+      more_info: Meer informatie
       text: 
     email-address: e-mail adres
     facet:

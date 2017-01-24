@@ -153,10 +153,10 @@ mt:
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
-      next: 
-      previous: 
-      skip-to-main: 
-      skip-to-section: 
+      next: li jmiss
+      previous: qabel
+      skip-to-main: Aqbeż għall-kontenut paġna
+      skip-to-section: Aqbeż għall-taqsima
     channel:
       all: 'L-oġġetti kollha
 
