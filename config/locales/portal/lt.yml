@@ -3,13 +3,13 @@ lt:
     site:
       browse:
         newcontent:
-          description: 
+          description: Čia galite išsiaiškinti visus naujausius papildymus Europeana kolekcijas. Pamatyti, kokie kultūros įstaiga prisidėjo naujus elementus, vienetų skaičius, jie jau įtraukta ir kada. Tiesiog spustelėkite ant žemiau esančių nuorodų sužinoti daugiau.
         sources:
-          description: 
+          description: Žemiau matote institucijų, kurie prisidėjo jų turinį Europeana rinkinių sąrašą. Šios institucijos kaupti ir prisidėti savo duomenis Europeana paspausti nuorodą, kuri jus domina toliau peržiūrėti konkretaus partnerio kolekciją!
   global:
     labs-link: Nuoroda į Labs
     navigation:
-      agents: 
+      agents: žmonės
       all_blog_posts: Visi įrašai
       all_exhibitions: Visos parodos
       blog: Tinklaraštis
@@ -19,7 +19,7 @@ lt:
       browse_sources: Ištekliai
       channels: Kolekcijos
       collections: Kolekcijos
-      concepts: 
+      concepts: tematika
       exhibitions: Parodos
       home: Pagrindinis
       more:

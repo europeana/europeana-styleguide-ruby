@@ -3,13 +3,13 @@ ca:
     site:
       browse:
         newcontent:
-          description: 
+          description: Aquí, per visitar totes les addicions recents a Europeana Col·leccions. Veure què institució cultural ha contribuït nous articles, el nombre d&#39;elements que han afegit i quan. Només cal que feu clic als enllaços següents per obtenir més informació.
         sources:
-          description: 
+          description: A continuació veureu una llista d&#39;institucions que han aportat el seu contingut a Europeana Col·leccions. Aquestes institucions afegir i aportar les seves dades a Europeana, feu clic a 'enllaç de sota que li interessi per veure una col·lecció soci en particular!
   global:
     labs-link: enllaç a labs
     navigation:
-      agents: 
+      agents: Gent
       all_blog_posts: Tots els posts
       all_exhibitions: Totes les exposicions...
       blog: Blog
@@ -19,7 +19,7 @@ ca:
       browse_sources: Fonts
       channels: Col·leccions
       collections: Colleccions
-      concepts: 
+      concepts: temes
       exhibitions: Exposicions
       home: Inici
       more:

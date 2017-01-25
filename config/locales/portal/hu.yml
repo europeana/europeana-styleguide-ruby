@@ -3,13 +3,13 @@ hu:
     site:
       browse:
         newcontent:
-          description: 
+          description: Itt lehet felfedezni a közelmúltban kiegészítések Europeana gyűjtemények. Lásd, amely a kulturális intézmény hozzájárult az új elemek, az elemek száma, hogy már hozzá, és mikor. Csak kattints az alábbi linkekre, hogy többet megtudjon.
         sources:
-          description: 
+          description: Alább egy listát az intézmények, akik hozzájárultak a tartalmat Europeana gyűjtemények. Ezek az intézmények gyűjtik össze és hozzájárulnak adataik az Europeana, kattints a linkre, amely érdekli az alábbiakban megtekintheti egy adott partner gyűjtemény!
   global:
     labs-link: link a lab-hoz
     navigation:
-      agents: 
+      agents: Emberek
       all_blog_posts: Minden bejegyzés...
       all_exhibitions: Minden kiállítás
       blog: Blog
@@ -19,7 +19,7 @@ hu:
       browse_sources: Források
       channels: Gyűjtemények
       collections: Gyűjtemények
-      concepts: 
+      concepts: témakörök
       exhibitions: Kiállítások
       home: Főoldal
       more:

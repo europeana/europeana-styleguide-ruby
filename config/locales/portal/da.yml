@@ -3,13 +3,13 @@ da:
     site:
       browse:
         newcontent:
-          description: 
+          description: Her kan du udforske alle de seneste tilføjelser til Europeana samlinger. Se hvilke kulturinstitution har bidraget nye elementer, antallet af elementer, de har tilføjet, og hvornår. Bare klik på nedenstående links for at finde ud af mere.
         sources:
-          description: 
+          description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
   global:
     labs-link: link til labs
     navigation:
-      agents: 
+      agents: Mennesker
       all_blog_posts: Alle poster...
       all_exhibitions: Alle udstillinger
       blog: Blog
@@ -19,7 +19,7 @@ da:
       browse_sources: Kilder
       channels: Samlinger
       collections: Samlinger
-      concepts: 
+      concepts: Emner
       exhibitions: Udstillinger
       home: Hjem
       more:

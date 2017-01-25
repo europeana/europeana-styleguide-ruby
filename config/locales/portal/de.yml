@@ -3,13 +3,13 @@ de:
     site:
       browse:
         newcontent:
-          description: 
+          description: Hier können Sie alle Neuigkeiten zu Europeana Collections erkunden. Sehen Sie, welche kulturelle Institution neue Artikel, die Anzahl der Artikel, die sie hinzugefügt haben und wann beigetragen hat. Klicken Sie einfach auf die untenstehenden Links, um mehr zu erfahren.
         sources:
-          description: 
+          description: Unten sehen Sie eine Liste der Institutionen, die ihren Inhalt zu Europeana Collections beigetragen haben. Diese Institutionen aggregieren und tragen ihre Daten zu Europeana, klicken Sie auf den Link, der Sie unten interessiert, um eine bestimmte Partner-Kollektion zu sehen!
   global:
     labs-link: Link zu Labs
     navigation:
-      agents: 
+      agents: Menschen
       all_blog_posts: Alle Beiträge...
       all_exhibitions: Alle Ausstellungen...
       blog: 
@@ -19,7 +19,7 @@ de:
       browse_sources: Quellen
       channels: Sammlungen
       collections: Sammlungen
-      concepts: 
+      concepts: Themenbereiche
       exhibitions: Ausstellungen
       home: Startseite
       more:

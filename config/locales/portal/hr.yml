@@ -9,7 +9,7 @@ hr:
   global:
     labs-link: http://labs.europeana.eu/
     navigation:
-      agents: 
+      agents: narod
       all_blog_posts: Sve objave na blogu...
       all_exhibitions: Sve izložbe...
       blog: Blog
@@ -19,7 +19,7 @@ hr:
       browse_sources: Izvori
       channels: Zbirke
       collections: Zbirke
-      concepts: 
+      concepts: Teme
       exhibitions: Izložbe
       home: Naslovnica
       more:

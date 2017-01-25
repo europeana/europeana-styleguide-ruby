@@ -3,13 +3,13 @@ nl:
     site:
       browse:
         newcontent:
-          description: 
+          description: Hier kunt u alle recente toevoegingen aan Europeana Collections vinden. Bekijk welke culturele instelling nieuwe items heeft bijgedragen, het aantal items die ze hebben toegevoegd en wanneer. Klik op de onderstaande links voor meer informatie.
         sources:
-          description: 
+          description: 'Hieronder zie je een lijst van instellingen die inhoudelijk aan Europeana Collections bijgedragen. '
   global:
     labs-link: 'link naar labs '
     navigation:
-      agents: 
+      agents: Mensen
       all_blog_posts: Alle berichten...
       all_exhibitions: Alle tentoonstellingen
       blog: Blog
@@ -19,7 +19,7 @@ nl:
       browse_sources: Bronnen
       channels: Collecties
       collections: Collecties
-      concepts: 
+      concepts: onderwerpen
       exhibitions: Tentoonstellingen
       home: Home
       more:

@@ -3,13 +3,13 @@ fr:
     site:
       browse:
         newcontent:
-          description: 
+          description: Ici, vous pouvez explorer tous les ajouts récents aux collections Europeana. Voir quelle institution culturelle a contribué de nouveaux articles, le nombre d&#39;articles qu&#39;ils ont ajoutés et quand. Cliquez sur les liens ci-dessous pour en savoir plus.
         sources:
-          description: 
+          description: Vous trouverez ci-dessous une liste des institutions qui ont contribué leur contenu à Europeana Collections. Ces institutions regroupent et contribuent leurs données à Europeana, cliquez sur le lien qui vous intéresse ci-dessous pour afficher une collection de partenaires particuliers!
   global:
     labs-link: ''
     navigation:
-      agents: 
+      agents: Gens
       all_blog_posts: Tous les posts...
       all_exhibitions: Toutes les expositions...
       blog: Blog
@@ -19,7 +19,7 @@ fr:
       browse_sources: Par sources
       channels: Collections
       collections: Collections
-      concepts: 
+      concepts: Les sujets
       exhibitions: Expositions
       home: Accueil
       more:

@@ -9,7 +9,7 @@ et:
   global:
     labs-link: link Labs'i
     navigation:
-      agents: 
+      agents: Inimesed
       all_blog_posts: Kõik blogipostitused...
       all_exhibitions: Kõik näitused...
       blog: Blogi
@@ -19,7 +19,7 @@ et:
       browse_sources: Allikad
       channels: Kogud
       collections: Kogud
-      concepts: 
+      concepts: Teemasid
       exhibitions: Näitused
       home: Avaleht
       more:

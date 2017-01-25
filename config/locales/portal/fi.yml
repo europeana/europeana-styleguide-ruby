@@ -3,13 +3,13 @@ fi:
     site:
       browse:
         newcontent:
-          description: 
+          description: Täällä voit tutustua kaikkiin viimeaikaiset lisäykset Europeanan kokoelmat. Katso mikä kulttuurilaitos on edistänyt uusia kohteita, kohteiden määrä he lisänneet ja milloin. Klikkaa alla olevia linkkejä lisätietoja.
         sources:
-          description: 
+          description: Alla näet listan instituutiot, jotka ovat vaikuttaneet niiden sisältöä Europeanaan kokoelmat. Nämä instituutiot koota ja edistää tietonsa Europeanan klikkaa linkkiä, joka kiinnostaa sinua alla katsella tiettyä kumppani kokoelma!
   global:
     labs-link: linkki labsiin
     navigation:
-      agents: 
+      agents: Ihmiset
       all_blog_posts: Kaikki blogikirjoitukset...
       all_exhibitions: Kaikki näyttelyt...
       blog: Blogi
@@ -19,7 +19,7 @@ fi:
       browse_sources: Lähteet
       channels: Kokoelmat
       collections: Kokoelmat
-      concepts: 
+      concepts: Aiheet
       exhibitions: Näyttelyt
       home: Koti
       more:
