@@ -234,13 +234,13 @@ es:
         unitedstatesofamerica: EEUU
         vaticancity: Ciudad del Vaticano
       creator: creador
-      filter: 
+      filter: filtrar
       header:
         collection: Colecciones
         colourpalette: Color
         country: País
         data_provider: Institución
-        date-created: 
+        date-created: Fecha de creacion
         fashion:
           colour: color
           designer: diseñador
@@ -256,7 +256,7 @@ es:
         mime_type: Formato de archivo
         provider: Agregador
         providing_country: País proveedor
-        proxy_dcterms_created: 
+        proxy_dcterms_created: fecha de creacion
         reusability: "¿Puedo usarlo?\n"
         rights: Licence
         sound_duration: Duración
@@ -339,7 +339,7 @@ es:
         advanced-rrfa: Rights reserved - Free access
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright No Evaluado
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -484,17 +484,17 @@ es:
       view-more: Ver más
     more-info: Más información
     newsletter:
-      choose-language: 
+      choose-language: Elija un idioma
       email-address-invalid: 'Debe de ser una direccion de correo electronico valida '
       email-address-required: Debe especificar una dirección de correo electrónico.
       fashion:
-        heading: 
-        subheading: 
+        heading: "¡Consiga la primicia!"
+        subheading: Inscríbete al boletín de moda Europeana y mantente informado.
       language-required: Debe especificar un idioma.
       signup: Suscríbete a nuestro newsletter
-      submit-alt: 
+      submit-alt: Suscribir
     our-sites: nuestros sitios
-    page: 
+    page: página
     password: Contraseña
     professional: Profesional
     professional-text: Participa, comparte tus datos o usa los nuestros
@@ -510,7 +510,7 @@ es:
     search-collections-text: Explora el Patrimonio Cultural Europeo
     share: Compartir
     sitemap: Mapa del sitio
-    subscribe: 
+    subscribe: suscribir
     terms-and-policies: Términos de uso
     tooltips:
       channels:

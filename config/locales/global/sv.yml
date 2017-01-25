@@ -178,7 +178,7 @@ sv:
     choose-language: Språk
     cookie_disclaimer:
       more_info: 
-      text: 
+      text: Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår hemsida. Genom att klicka på eller navigera på webbplatsen, godkänner du att vår samling av information via cookies.
     email-address: e-postadress
     facet:
       advanced:
@@ -232,40 +232,40 @@ sv:
         ukraine: Ukraina
         unitedkingdom: Storbritannien
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Vatikanstaten
       creator: upphovsman
-      filter: 
+      filter: filtrera
       header:
         collection: Samlingar
         colourpalette: Färg
         country: Land
         data_provider: Institution
-        date-created: 
+        date-created: Skapat datum
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: Färg
+          designer: Designer
+          technique: Teknik
+          type: Objekttyp
         image_aspectratio: Orientering
         image_colour: Palett
         image_size: Storlek
-        intermediateprovider: 
+        intermediateprovider: mellanliggande Provider
         language: Språk
         language_of_description: Beskriven på
         media: Enbart poster med medialänkar
         mime_type: Filformat
         provider: Aggregator
         providing_country: Leverantörsland
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Skapat datum
         reusability: Kan jag använda det?
-        rights: 
+        rights: licens
         sound_duration: Längd
         sound_hq: Hög kvalitet
         text_fulltext: Fulltext
         type: Mediaformat
         ugc: Visa användarskapat innehåll
         video_duration: Längd
-        video_hd: 
+        video_hd: Kvalitet
         year: Datering
       image_aspectratio:
         landscape: Landskap
@@ -300,7 +300,7 @@ sv:
         lv: 
         mt: 
         mul: Flera språk
-        nl: 
+        nl: Nederlands
         'no': 
         pl: 
         pt: 
@@ -315,8 +315,8 @@ sv:
         yi: 
       less: Färre
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Dölja specifika uttalanden rättigheter
+        show-specific: Dölja specifika uttalanden rättigheter
       media:
         'false': Nej
         'true': Ja
@@ -339,7 +339,7 @@ sv:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Inte utvärderat
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ sv:
         from: från
         to: till
     feedback:
-      close: 
+      close: Stänga
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Låt oss veta vad du tycker och vad vi kan förbättra. Om du vill bli kontaktad, lämna din e-postadress här också!
+      submit: Lämna
       thanks:
-        long: 
-        short: 
+        long: Tack för din feedback. Om det behövs; Vi återkommer till dig så snart som möjligt.
+        short: Tack!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: kommentar
+        correction: korrektion
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ sv:
       view-more: Mer
     more-info: Mer information
     newsletter:
-      choose-language: 
+      choose-language: Välj ett språk
       email-address-invalid: 'E-postadressen måste vara giltig '
       email-address-required: Du måste ange en e-postadress
       fashion:
-        heading: 
-        subheading: 
+        heading: Få de senaste nyheterna!
+        subheading: Anmäl dig till Europeana mode nyhetsbrev och stanna i know!
       language-required: Språk måste anges
       signup: Prenumerera på vårt nyhetsbrev
-      submit-alt: 
+      submit-alt: Prenumerera
     our-sites: Våra sajter
-    page: 
+    page: sida
     password: Lösenord
     professional: Pro
     professional-text: Engagera dig, dela dina data eller använda våra
@@ -508,13 +508,13 @@ sv:
     search-collections-text: Utforska Europas kulturarv
     share: Dela
     sitemap: Sajtkarta
-    subscribe: 
+    subscribe: prenumerera
     terms-and-policies: Användarvillkor & Policys
     tooltips:
       channels:
         search:
           new-filter: 
-          new-grid: 
+          new-grid: Har du sett den nya rutnätslayout?
     type: typ
   'no': Norge
   pl: Portugal

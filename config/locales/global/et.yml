@@ -178,7 +178,7 @@ et:
     choose-language: Keel
     cookie_disclaimer:
       more_info: Rohkem infot
-      text: 
+      text: See veebileht kasutab küpsiseid, et tagada teile parim kogemus meie veebisaidil. Klõpsates või Saidil olete nõus, et võimaldada meie teabe kogumine toimub küpsised.
     email-address: e-posti aadress
     facet:
       advanced:
@@ -232,40 +232,40 @@ et:
         ukraine: Ukraina
         unitedkingdom: Ühendkuningriik
         unitedstatesofamerica: Ameerika Ühendriigid
-        vaticancity: 
+        vaticancity: Vatikan
       creator: looja
-      filter: 
+      filter: filter
       header:
         collection: Kogud
         colourpalette: Värv
         country: Riik
         data_provider: Asutus
-        date-created: 
+        date-created: Loomise kuupäev
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: värv
+          designer: Disainer
+          technique: tehnika
+          type: Punkt tüübist
         image_aspectratio: Orientatsioon
         image_colour: Palett
         image_size: Suurus
-        intermediateprovider: 
+        intermediateprovider: Intermediate Provider
         language: Keel
         language_of_description: Keel ja kirjeldus
         media: Ainult meedialingiga tulemused
         mime_type: Failiformaat
         provider: Agregaator
         providing_country: Annetusriik
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Loomise kuupäev
         reusability: Kas tohin kasutada?
-        rights: 
+        rights: litsents
         sound_duration: Kestus
         sound_hq: Kõrge kvaliteet
         text_fulltext: Täistekst
         type: Meedia
         ugc: Näita kasutajate poolt loodud sisu
         video_duration: Kestus
-        video_hd: 
+        video_hd: kvaliteet
         year: Kuupäev
       image_aspectratio:
         landscape: Rõhtformaat
@@ -315,8 +315,8 @@ et:
         yi: ''
       less: Vähem
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Peida eriõigused avaldused
+        show-specific: Peida eriõigused avaldused
       media:
         'false': Ei
         'true': Jah
@@ -339,7 +339,7 @@ et:
         advanced-rrfa: Õigused kaitstud - vaba ligipääs
         advanced-rrpa: Õigused kaitstud - tasuline ligipääs
         advanced-rrra: Õigused kaitstud - piiratud ligipääs
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright ole hinnatud
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ et:
         from: alates
         to: kuni
     feedback:
-      close: 
+      close: Sulge
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Anna meile teada, mida te arvate ja mida me saame parandada. Kui soovite ühendust võtta, palun jätke oma e-posti aadress siia ka!
+      submit: Esita
       thanks:
-        long: 
-        short: 
+        long: Aitäh tagasiside eest. Vajadusel; me võtame teiega ühendust niipea kui võimalik.
+        short: Aitäh!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: kommentaar
+        correction: parandus
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
     follow-channel: 
@@ -484,17 +484,17 @@ et:
       view-more: Vaata veel
     more-info: Veel infot
     newsletter:
-      choose-language: 
+      choose-language: Vali keel
       email-address-invalid: E-posti väljal peab olema korrektne meiliaadress
       email-address-required: E-posti aadress peab olema täidetud
       fashion:
-        heading: 
-        subheading: 
+        heading: Võta kühvel!
+        subheading: Registreeru Europeana mood uudiskirja ja jääda tea!
       language-required: Keel peab olema valitud.
       signup: Liitu meie uudiskirjaga
-      submit-alt: 
+      submit-alt: tellima
     our-sites: meie veebilehed
-    page: 
+    page: lehekülg
     password: Parool
     professional: Pro
     professional-text: Võta osa, jaga oma andmeid või kasuta meie omi
@@ -510,13 +510,13 @@ et:
     search-collections-text: Avasta euroopa kultuuripärandit
     share: Jaga
     sitemap: Sisukaart
-    subscribe: 
+    subscribe: tellima
     terms-and-policies: Kasutustingimused
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Nüüd saate filtreerida otsingut konkreetsete litsentsi
+          new-grid: Kas olete näinud uus võrgu skeem?
     type: tüüp
   'no': Norra
   pl: Portugal

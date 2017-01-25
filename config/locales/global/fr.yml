@@ -178,7 +178,7 @@ fr:
     choose-language: Langue
     cookie_disclaimer:
       more_info: Plus d'informations
-      text: 
+      text: Tämä sivusto käyttää evästeitä, jotta saat parhaan kokemuksen sivuillamme. Klikkaamalla tai navigoinnin sivusto, annat meidän kokoelma tietoja evästeiden avulla.
     email-address: adresse email
     facet:
       advanced:
@@ -232,15 +232,15 @@ fr:
         ukraine: Ukraine
         unitedkingdom: Royaume-Uni
         unitedstatesofamerica: États-Unis
-        vaticancity: 
+        vaticancity: Cité du Vatican
       creator: auteur
-      filter: 
+      filter: filtre
       header:
         collection: Collections
         colourpalette: Couleur
         country: Pays
         data_provider: Institution
-        date-created: 
+        date-created: Date créée
         fashion:
           colour: couleur
           designer: Designer
@@ -256,7 +256,7 @@ fr:
         mime_type: Format du fichier
         provider: Aggrégateur
         providing_country: Pays contributeur
-        proxy_dcterms_created: 
+        proxy_dcterms_created: date créée
         reusability: Puis-je l'utiliser?
         rights: Licence
         sound_duration: Durée
@@ -265,7 +265,7 @@ fr:
         type: Media
         ugc: Voir le contenu généré par les utilisateurs
         video_duration: Durée de la vidéo
-        video_hd: 
+        video_hd: Qualité
         year: Date
       image_aspectratio:
         landscape: Paysage
@@ -339,7 +339,7 @@ fr:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Droit d&#39;auteur non évalué
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -482,17 +482,17 @@ fr:
       view-more: Voir plus
     more-info: En savoir plus
     newsletter:
-      choose-language: 
+      choose-language: Choisissez une langue
       email-address-invalid: L'email doit être une adresse email valide.
       email-address-required: Une adresse email doit être précisée.
       fashion:
-        heading: 
-        subheading: 
+        heading: Obtenez le scoop!
+        subheading: Inscrivez-vous à la newsletter mode Europeana et restez au courant!
       language-required: Une langue doit être précisée.
       signup: Inscrivez-vous à notre newsletter
-      submit-alt: 
+      submit-alt: Souscrire
     our-sites: nos sites
-    page: 
+    page: page
     password: Mot de passe
     professional: 
     professional-text: Participez, partagez vos données ou utilisez les nôtres
@@ -508,13 +508,13 @@ fr:
     search-collections-text: Explorez l'héritage culturel d'Europe
     share: Partager
     sitemap: Plan du site
-    subscribe: 
+    subscribe: souscrire
     terms-and-policies: 'Conditions générales d''utilisation '
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Vous pouvez désormais filtrer votre recherche sur une licence spécifique
+          new-grid: Avez-vous vu la nouvelle disposition de grille?
     type: type
   'no': Norvège
   pl: Portugal

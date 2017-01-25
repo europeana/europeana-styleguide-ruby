@@ -178,7 +178,7 @@ it:
     choose-language: Lingua
     cookie_disclaimer:
       more_info: Ulteriori informazioni
-      text: 
+      text: Questo sito web utilizza i cookie per essere sicuri di ottenere la migliore esperienza sul nostro sito. Cliccando o la navigazione del sito, l'utente accetta di permettere alla nostra raccolta di informazioni tramite i cookie.
     email-address: indirizzo email
     facet:
       advanced:
@@ -232,15 +232,15 @@ it:
         ukraine: Ucraina
         unitedkingdom: Regno Unito
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Città del Vaticano
       creator: creatore
-      filter: 
+      filter: filtro
       header:
         collection: Collezioni
         colourpalette: Colore
         country: Paese
         data_provider: Istituzione
-        date-created: 
+        date-created: Data di creazione
         fashion:
           colour: Colore
           designer: Designer
@@ -249,14 +249,14 @@ it:
         image_aspectratio: Orientamento
         image_colour: 
         image_size: Dimensione
-        intermediateprovider: 
+        intermediateprovider: Provider Intermedio
         language: Lingua
         language_of_description: Lingua della descrizione
         media: 
         mime_type: Formato del file
         provider: Aggregatore
         providing_country: Paese fornitore
-        proxy_dcterms_created: 
+        proxy_dcterms_created: data di creazione
         reusability: Posso usarlo?
         rights: 'Licenza '
         sound_duration: Durata
@@ -265,7 +265,7 @@ it:
         type: 
         ugc: Mostra contenuti generati dagli utenti
         video_duration: Durata
-        video_hd: 
+        video_hd: Qualità
         year: Data
       image_aspectratio:
         landscape: Paesaggio
@@ -339,7 +339,7 @@ it:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Non Valutata
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -484,17 +484,17 @@ it:
       view-more: Visualizza ulteriori informazioni
     more-info: Maggiori informazioni
     newsletter:
-      choose-language: 
+      choose-language: Scegli una lingua
       email-address-invalid: L'indirizzo email deve essere valido
       email-address-required: Deve essere inserito almeno un indirizzo email
       fashion:
-        heading: 
-        subheading: 
+        heading: Ottenere lo scoop!
+        subheading: Iscriviti alla newsletter di moda Europeana e rimanere nel sapere!
       language-required: E' necessario specificare una lingua
       signup: Iscriviti alla nostra newsletter
-      submit-alt: 
+      submit-alt: sottoscrivi
     our-sites: i nostri siti
-    page: 
+    page: pagina
     password: 
     professional: 
     professional-text: Fatti coinvolgere, condividi i tuoi dati o utilizza i nostri
@@ -510,13 +510,13 @@ it:
     search-collections-text: Esplora il patrimonio culturale Europeo
     share: Condividi
     sitemap: Mappa del sito
-    subscribe: 
+    subscribe: sottoscrivi
     terms-and-policies: 'Condizioni e politiche di utilizzo '
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Ora è possibile filtrare la ricerca su specifica licenza
+          new-grid: Hai visto il nuovo layout a griglia?
     type: tipo
   'no': Norvegia
   pl: Portogallo

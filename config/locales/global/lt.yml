@@ -178,7 +178,7 @@ lt:
     choose-language: Kalba
     cookie_disclaimer:
       more_info: Daugiau informacijos
-      text: 
+      text: Ši svetainė naudoja slapukus, siekiant užtikrinti jums gauti geriausią patirtį mūsų svetainėje. Paspaudę arba naršyti svetainėje, Jūs sutinkate, kad mūsų informacijos rinkimo per slapukus.
     email-address: el. pašto adresas
     facet:
       advanced:
@@ -232,40 +232,40 @@ lt:
         ukraine: Ukraina
         unitedkingdom: Jungtinė Karalystė
         unitedstatesofamerica: JAV
-        vaticancity: 
+        vaticancity: Vatikano miestas
       creator: autorius
-      filter: 
+      filter: filtras
       header:
         collection: Kolekcijos
         colourpalette: Spalva
         country: Šalis
         data_provider: Institucija
-        date-created: 
+        date-created: Sukūrimo data
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: spalva
+          designer: dizaineris
+          technique: technika
+          type: Prekė
         image_aspectratio: Pozicija
         image_colour: Paletė
         image_size: Dydis
-        intermediateprovider: 
+        intermediateprovider: tarpinis teikėjas
         language: Kalba
         language_of_description: Aprašymo kalba
         media: Tik įrašai su nuorodomis
         mime_type: Failo formatas
         provider: Agregatorius
         providing_country: Šalis
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Sukūrimo data
         reusability: Ar galiu tai naudoti?
-        rights: 
+        rights: licenza
         sound_duration: Trukmė
         sound_hq: Aukšta kokybė
         text_fulltext: Pilnas tekstas
         type: Medija
         ugc: Rodyti vartotojų įkeltą turinį
         video_duration: Video įrašo trukmė
-        video_hd: 
+        video_hd: kokybė
         year: Data
       image_aspectratio:
         landscape: Kraštovaizdis
@@ -315,8 +315,8 @@ lt:
         yi: Jidiš
       less: Mažiau
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Slėpti konkrečias teises pareiškimus
+        show-specific: Slėpti konkrečias teises pareiškimus
       media:
         'false': Ne
         'true': Taip
@@ -339,7 +339,7 @@ lt:
         advanced-rrfa: Teisės saugomis - laisva prieiga
         advanced-rrpa: Teisės saugomos - mokama prieiga
         advanced-rrra: Teisės saugomos - ribota prieiga
-        advanced-rs-cne: 
+        advanced-rs-cne: Autorinės teisės neįvertino
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ lt:
         from: nuo
         to: iki
     feedback:
-      close: 
+      close: Uždaryti
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Leiskite mums žinoti, ką manote ir ką galime pagerinti. Jei norite susisiekti, palikite savo elektroninio pašto adresą čia pat!
+      submit: Pateikti
       thanks:
-        long: 
-        short: 
+        long: Dėkojame už jūsų atsiliepimus. Jei reikia; mes susisieksime su Jumis kaip įmanoma greičiau.
+        short: Ačiū!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: komentaras
+        correction: taisymas
     find-us-elsewhere: Raskite mus socialiniuose tinkluose
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ lt:
       view-more: Žiūrėti daugiau
     more-info: Daugiau informacijos
     newsletter:
-      choose-language: 
+      choose-language: Pasirinkite kalbą
       email-address-invalid: Įveskite egzistuojantį el. pašto adresą
       email-address-required: El. pašto adresas privalomas
       fashion:
-        heading: 
-        subheading: 
+        heading: Gaukite naujausią informaciją!
+        subheading: Užsiregistruoti Europeana mados naujienas ir likti žinoti!
       language-required: Pasirinkite kalbą
       signup: Užsiprenumeruokite mūsų naujienlaiškį
-      submit-alt: 
+      submit-alt: prenumeruoti
     our-sites: mūsų puslapiai
-    page: 
+    page: puslapis
     password: Slaptažodis
     professional: Pro
     professional-text: Prisijunkite! Dalinkitės savo duomenimis ar naudokite mūsiškius
@@ -508,13 +508,13 @@ lt:
     search-collections-text: Atraskite Europos kultūros paveldą
     share: Dalintis
     sitemap: Svetainės medis
-    subscribe: 
+    subscribe: prenumeruoti
     terms-and-policies: Naudojimosi taisyklės ir privatumo politika
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Dabar galite filtruoti paiešką konkrečios licencijos
+          new-grid: Ar matėte naują tinklo išdėstymą?
     type: tipas
   'no': Norvegija
   pl: Portugalija

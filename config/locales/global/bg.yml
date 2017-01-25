@@ -178,7 +178,7 @@ bg:
     choose-language: Език
     cookie_disclaimer:
       more_info: Повече информация
-      text: 
+      text: Този сайт използва бисквитки, за да се гарантира, че получавате най-доброто преживяване на нашия уебсайт. Чрез кликване или навигацията на сайта, Вие се съгласявате да се позволи на нашето събиране на информация чрез бисквитки.
     email-address: Имейл адрес
     facet:
       advanced:
@@ -232,40 +232,40 @@ bg:
         ukraine: Украйна
         unitedkingdom: Великобритания
         unitedstatesofamerica: САЩ
-        vaticancity: 
+        vaticancity: Ватикана
       creator: Автор
-      filter: 
+      filter: филтър
       header:
         collection: Колекции
         colourpalette: Цвят
         country: Държава
         data_provider: Институция
-        date-created: 
+        date-created: Дата на създаване
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: цвят
+          designer: дизайнер
+          technique: Техника
+          type: тип на съоражението
         image_aspectratio: Ориентация
         image_colour: Палитра
         image_size: Размер
-        intermediateprovider: 
+        intermediateprovider: Междинно Provider
         language: Език
         language_of_description: Език на описанието
         media: Само обекти с линк към медийния файл
         mime_type: Файлов формат
         provider: Агрегатор на съдържание
         providing_country: Страна-доставчик
-        proxy_dcterms_created: 
+        proxy_dcterms_created: дата на създаване
         reusability: Мога ли да го ползвам?
-        rights: 
+        rights: разрешително
         sound_duration: Продължителност
         sound_hq: Високо качество
         text_fulltext: Пълен текст
         type: Медия
         ugc: Покажи генерирано от потребителите съдържание
         video_duration: Продължителност на видеото
-        video_hd: 
+        video_hd: качество
         year: Дата
       image_aspectratio:
         landscape: Пейзажна ориентация
@@ -315,8 +315,8 @@ bg:
         yi: 
       less: По-малко
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Скриване на конкретни изявления на правата
+        show-specific: Скриване на конкретни изявления на правата
       media:
         'false': Не
         'true': Да
@@ -339,7 +339,7 @@ bg:
         advanced-rrfa: Rights reserved - Free access
         advanced-rrpa: Rights reserved - Paid access
         advanced-rrra: Rights Reserved - Restricted Access
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright не са оценени
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ bg:
         from: от
         to: до
     feedback:
-      close: 
+      close: Близо
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Кажете ни какво мислите и какво можем да подобрим. Ако искате да се свържете с тях, моля, оставете вашия имейл адрес тук също!
+      submit: Подайте
       thanks:
-        long: 
-        short: 
+        long: Благодарим Ви за обратната връзка. Ако е необходимо; ние ще се свържем с вас възможно най-скоро.
+        short: Благодаря!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: коментар
+        correction: корекция
     find-us-elsewhere: Други наши страници
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ bg:
       view-more: Виж повече
     more-info: Повече информация
     newsletter:
-      choose-language: 
+      choose-language: Изберете език
       email-address-invalid: Моля, въведете валиден имейл адрес.
       email-address-required: Моля, въведете имейл адрес.
       fashion:
-        heading: 
-        subheading: 
+        heading: Вземете лъжичка!
+        subheading: Абонирай се за модни бюлетина на Europeana и да остане в знаете!
       language-required: Моля, изберете език.
       signup: Абонамент за бюлентин
-      submit-alt: 
+      submit-alt: Абонирай се
     our-sites: нашите страници
-    page: 
+    page: страница
     password: Парола
     professional: Pro
     professional-text: Включете се, споделете своите данни или използвайте нашите
@@ -508,13 +508,13 @@ bg:
     search-collections-text: Запознайте се с европейското културно наследство
     share: Споделете
     sitemap: Карта на сайта
-    subscribe: 
+    subscribe: Абонирай се
     terms-and-policies: Условия за ползване  & Политики
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Сега можете да филтрирате търсенето си със специален лиценз
+          new-grid: Виждали ли сте новото оформление мрежа?
     type: тип
   'no': Норвегия
   pl: Португалия

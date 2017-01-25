@@ -178,7 +178,7 @@ el:
     choose-language: Γλώσσα
     cookie_disclaimer:
       more_info: Περισσότερες πληροφορίες
-      text: 
+      text: Αυτή η ιστοσελίδα χρησιμοποιεί cookies για να διασφαλίσετε ότι θα έχετε την καλύτερη εμπειρία στην ιστοσελίδα μας. Κάνοντας κλικ ή πλοήγηση στο site, συμφωνείτε να επιτρέψει τη συλλογή των πληροφοριών μας μέσω των cookies.
     email-address: διεύθυνση ηλεκτρονικού ταχυδρομείου
     facet:
       advanced:
@@ -232,40 +232,40 @@ el:
         ukraine: Ουκρανία
         unitedkingdom: Ηνωμένο Βασίλειο
         unitedstatesofamerica: ΗΠΑ
-        vaticancity: 
+        vaticancity: Η πόλη του Βατικανού
       creator: δημιουργός
-      filter: 
+      filter: φίλτρο
       header:
         collection: Συλλογές
         colourpalette: Χρώμα
         country: Χώρα
         data_provider: Ίδρυμα
-        date-created: 
+        date-created: Ημερομηνία Δημιουργίας
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: χρώμα
+          designer: Σχεδιαστής
+          technique: Τεχνική
+          type: Τύπος αντικειμένου
         image_aspectratio: Προσανατολισμός
         image_colour: Παλέτα
         image_size: Μέγεθος
-        intermediateprovider: 
+        intermediateprovider: ενδιάμεσο Provider
         language: Γλώσσα
         language_of_description: Γλώσσα Περιγραφής
         media: Μόνο αντικείμενα με συνδέσμους σε μέσα
         mime_type: Τύπος αρχείου
         provider: Συλλέκτης
         providing_country: Χώρα ιδρύματος
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Ημερομηνία Δημιουργίας
         reusability: Μπορώ να το χρησιμοποιήσω;
-        rights: 
+        rights: άδεια
         sound_duration: Διάρκεια
         sound_hq: Υψηλή ποιότητα
         text_fulltext: Πλήρες κείμενο
         type: Μέσα
         ugc: Περιεχόμενο που παρείχαν χρήστες
         video_duration: Διάρκεια Video
-        video_hd: 
+        video_hd: Ποιότητα
         year: Ημερομηνία
       image_aspectratio:
         landscape: Τοπίο
@@ -315,8 +315,8 @@ el:
         yi: 
       less: Λιγότερα
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Απόκρυψη συγκεκριμένες δηλώσεις δικαιώματα
+        show-specific: Απόκρυψη συγκεκριμένες δηλώσεις δικαιώματα
       media:
         'false': Όχι
         'true': Ναι
@@ -339,7 +339,7 @@ el:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Δεν αξιολογηθεί
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ el:
         from: από
         to: μέχρι
     feedback:
-      close: 
+      close: Κοντά
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Ας γνωρίζουν τι σκέφτεστε και τι μπορούμε να βελτιώσουμε. Αν θέλετε να επικοινωνήσετε, παρακαλώ αφήστε το email σας εδώ!
+      submit: υποβάλλουν
       thanks:
-        long: 
-        short: 
+        long: Ευχαριστούμε για την ανταπόκρισή σας. Αν χρειαστεί; εμείς θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατόν.
+        short: Ευχαριστώ!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: σχόλιο
+        correction: διόρθωση
     find-us-elsewhere: Βρείτε μας αλλού
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ el:
       view-more: Δείτε περισσότερα
     more-info: Περισσότερες πληροφορίες
     newsletter:
-      choose-language: 
+      choose-language: Επιλέξτε μια γλώσσα
       email-address-invalid: Η διεύθυνση του ηλεκτρινοκού ταχυδρομείου δεν είναι έγκυρη.
       email-address-required: Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν έχει καθοριστεί.
       fashion:
-        heading: 
-        subheading: 
+        heading: Πάρτε τη σέσουλα!
+        subheading: Εγγραφείτε για το ενημερωτικό δελτίο της μόδας Europeana και να παραμείνουν στην τεχνογνωσία!
       language-required: Η γλώσσα δεν έχει καθοριστεί.
       signup: Εγγραφείτε για το newsletter
-      submit-alt: 
+      submit-alt: Εγγραφείτε
     our-sites: Οι ιστοσελίδες μας
-    page: 
+    page: σελίδα
     password: Κωδικός
     professional: 
     professional-text: Συμμετέχετε, μοιραστείτε τα δεδομένα σας ή χρησιμοποιήστε τα δικά μας
@@ -508,13 +508,13 @@ el:
     search-collections-text: Περιηγηθείτε στην πολιτιστική κληρονομιά της Ευρώπης
     share: Μοιραστείτε
     sitemap: Χάρτης ιστοχώρου
-    subscribe: 
+    subscribe: Εγγραφείτε
     terms-and-policies: Όροι και πολιτική χρήσης
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Τώρα μπορείτε να φιλτράρετε την αναζήτησή σας για ειδική άδεια
+          new-grid: Έχετε δει τη νέα διάταξη πλέγματος;
     type: τύπος
   'no': Νορβηγία
   pl: Πορτογαλία

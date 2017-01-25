@@ -178,7 +178,7 @@ da:
     choose-language: Sprog
     cookie_disclaimer:
       more_info: Mere info
-      text: 
+      text: Denne hjemmeside bruger cookies til at sikre, at du får den bedste oplevelse på vores hjemmeside. Ved at klikke eller navigere på webstedet, accepterer du at give vores indsamling af oplysninger via cookies.
     email-address: e-mail adresse
     facet:
       advanced:
@@ -232,33 +232,33 @@ da:
         ukraine: Ukraine
         unitedkingdom: England
         unitedstatesofamerica: Amerika
-        vaticancity: 
+        vaticancity: Vatikanet
       creator: skaber
-      filter: 
+      filter: filter
       header:
         collection: Samlinger
         colourpalette: Farve
         country: Land
         data_provider: Organisation
-        date-created: 
+        date-created: Dato oprettet
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: farve
+          designer: Designer
+          technique: Teknik
+          type: Item typen
         image_aspectratio: Orientering
         image_colour: Palette
         image_size: Størrelse
-        intermediateprovider: 
+        intermediateprovider: Intermediate Provider
         language: Sprog
         language_of_description: Hvilket sprog er beskrivelsen
         media: " Kun materiale med links til medier"
         mime_type: Fil format
         provider: Aggregator
         providing_country: Oprindelsesland
-        proxy_dcterms_created: 
+        proxy_dcterms_created: oprettelsesdato
         reusability: Kan jeg bruge det?
-        rights: 
+        rights: licens
         sound_duration: Varighed
         sound_hq: Høj kvalitet
         text_fulltext: Fuld tekst
@@ -315,8 +315,8 @@ da:
         yi: 
       less: Mindre
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Skjul specifikke udsagn rettigheder
+        show-specific: Skjul specifikke udsagn rettigheder
       media:
         'false': Nej
         'true': Ja
@@ -339,7 +339,7 @@ da:
         advanced-rrfa: Rettigheder reserveret - Gratis benyttelse
         advanced-rrpa: Rettigheder reserveret - Mod betaling
         advanced-rrra: Rettigheder reserveret - Begranset adgang
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright ikke vurderet
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ da:
         from: fra
         to: til
     feedback:
-      close: 
+      close: Tæt
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Lad os vide hvad du synes, og hvad vi kan forbedre. Hvis du ønsker at blive kontaktet, bedes du forlade din e-mailadresse her også!
+      submit: Indsend
       thanks:
-        long: 
-        short: 
+        long: Tak for din feedback. Hvis det er nødvendigt; vender vi tilbage til dig så hurtigt som muligt.
+        short: Tak!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: kommentar
+        correction: rettelse
     find-us-elsewhere: Find os
     find-us-social-media: 
     follow-channel: 
@@ -484,17 +484,17 @@ da:
       view-more: Se flere
     more-info: Mere oplysninger
     newsletter:
-      choose-language: 
+      choose-language: Vælg et sprog
       email-address-invalid: E-mail skal være en tilgængelig e-mail adresse
       email-address-required: 'Angiv email adressen '
       fashion:
-        heading: 
-        subheading: 
+        heading: Få scoop!
+        subheading: Tilmeld dig Europeana mode nyhedsbrev og bo i know!
       language-required: 'Angiv sprog '
       signup: Tilmeld dig til vores nyhedsbrev
-      submit-alt: 
+      submit-alt: Tilmeld
     our-sites: Vores sider
-    page: 
+    page: side
     password: Adgangskode
     professional: Pro
     professional-text: Bliv involveret, del din data eller brug vores
@@ -510,13 +510,13 @@ da:
     search-collections-text: Opdag Europa's kulturav
     share: Del
     sitemap: Sidemappe
-    subscribe: 
+    subscribe: abonnere
     terms-and-policies: Brugerbetingelser og politikker
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Du kan nu filtrere din søgning på specifik licens
+          new-grid: Har du set den nye gitter layout?
     type: type
   'no': Norge
   pl: Portugal

@@ -178,7 +178,7 @@ ca:
     choose-language: Llengua
     cookie_disclaimer:
       more_info: Més informació
-      text: 
+      text: Aquest lloc web fa servir galetes per assegurar d&#39;obtenir la millor experiència en el nostre lloc web. En fer clic o navegar pel lloc, vostè es compromet a permetre que la nostra recopilació d&#39;informació a través de cookies.
     email-address: correu electrònic
     facet:
       advanced:
@@ -232,40 +232,40 @@ ca:
         ukraine: Ucraïna
         unitedkingdom: Regne Unit
         unitedstatesofamerica: EEUU
-        vaticancity: 
+        vaticancity: Ciutat del Vaticà
       creator: creador
-      filter: 
+      filter: filtre
       header:
         collection: Col·leccions
         colourpalette: Color
         country: Estat
         data_provider: Institució
-        date-created: 
+        date-created: data de creació
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: color
+          designer: dissenyador
+          technique: tècnica
+          type: tipus d'article
         image_aspectratio: Orientació
         image_colour: Paleta
         image_size: Mida
-        intermediateprovider: 
+        intermediateprovider: proveïdor intermedi
         language: Llengua
         language_of_description: Idioma de la descripció
         media: Només ítems que enllacin a fitxers
         mime_type: Format de fitxer
         provider: Agregador
         providing_country: País proveïdor
-        proxy_dcterms_created: 
+        proxy_dcterms_created: data de creació
         reusability: Puc fer-ho servir?
-        rights: 
+        rights: llicència
         sound_duration: Durada
         sound_hq: Alta Qualitat
         text_fulltext: Text complet
         type: Audiovisuals
         ugc: Mostrar continguts generats per usuaris
         video_duration: Durada
-        video_hd: 
+        video_hd: qualitat
         year: Data
       image_aspectratio:
         landscape: Paisatge
@@ -315,8 +315,8 @@ ca:
         yi: ייִדיש
       less: Menys
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Amaga declaracions de drets específics
+        show-specific: Amaga declaracions de drets específics
       media:
         'false': 'No'
         'true': Sí
@@ -339,7 +339,7 @@ ca:
         advanced-rrfa: Drets reservats - Accés lliure
         advanced-rrpa: Drets reservat - Accés de pagament
         advanced-rrra: Drets reservats - Accés restringit
-        advanced-rs-cne: 
+        advanced-rs-cne: Drets d&#39;Autor No avaluat
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ ca:
         from: de
         to: a
     feedback:
-      close: 
+      close: a prop
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Faci&#39;ns saber el que pensa i el que es pot millorar. Si desitja ser contactat, si us plau deixi la seva adreça de correu electrònic aquí també!
+      submit: Presentar
       thanks:
-        long: 
-        short: 
+        long: Gràcies pels seus comentaris. Si és necessari; ens posarem en contacte amb vostè tan aviat com sigui possible.
+        short: Gràcies!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: comentari
+        correction: correcció
     find-us-elsewhere: Troba'ns arreu
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ ca:
       view-more: Veure més
     more-info: Més informació
     newsletter:
-      choose-language: 
+      choose-language: Tria un idioma
       email-address-invalid: El correu electrònic ha de ser una adreça vàlida
       email-address-required: Especifiqueu una adreça de correu electrònic.
       fashion:
-        heading: 
-        subheading: 
+        heading: Obtenir la primícia!
+        subheading: Inscriure en el butlletí de moda Europeana i romandre en el saber!
       language-required: Especifiqueu una llengua
       signup: Signeu per a una newsletter
-      submit-alt: 
+      submit-alt: subscriure
     our-sites: els nostres webs
-    page: 
+    page: pàgina
     password: Paraula de pas
     professional: Pro
     professional-text: Involucra't, comparteix les teves dades amb nosaltres
@@ -508,13 +508,13 @@ ca:
     search-collections-text: Expora el patrimoni cultural d'Europa
     share: Comparteix
     sitemap: Mapa del lloc web
-    subscribe: 
+    subscribe: subscriure
     terms-and-policies: Termes d'ús i polítiques
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Ara pot filtrar la seva recerca en la llicència específica
+          new-grid: Has vist el nou disseny de la xarxa?
     type: tipus
   'no': Noruega
   pl: Portugal

@@ -178,7 +178,7 @@ nl:
     choose-language: Taal
     cookie_disclaimer:
       more_info: Meer informatie
-      text: 
+      text: Deze website maakt gebruik van cookies om ervoor te zorgen voor een betere website-ervaring. Door te klikken gaat u hiermee akkoord.
     email-address: e-mail adres
     facet:
       advanced:
@@ -232,15 +232,15 @@ nl:
         ukraine: Oekraïne
         unitedkingdom: Engeland
         unitedstatesofamerica: Amerika
-        vaticancity: 
+        vaticancity: Vaticaanstad
       creator: Auteur
-      filter: 
+      filter: filter
       header:
         collection: Collecties
         colourpalette: Kleur
         country: Land
         data_provider: Instituut
-        date-created: 
+        date-created: Datum gecreeërd
         fashion:
           colour: Kleur
           designer: Designer
@@ -249,23 +249,23 @@ nl:
         image_aspectratio: Oriëntatie
         image_colour: Palet
         image_size: Grootte
-        intermediateprovider: 
+        intermediateprovider: Tussenpersoon
         language: Taal
         language_of_description: Omschrijving in
         media: Alleen objecten die naar media verwijzen
         mime_type: Bestandsformaat
         provider: Aggegrator
         providing_country: Land
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Datum gecreeërd
         reusability: Kan ik het gebruiken?
-        rights: 
+        rights: licentie
         sound_duration: Lengte
         sound_hq: Hoge Kwaliteit
         text_fulltext: Volledige tekst
         type: Media
         ugc: Toon bijdragen door gebruikers
         video_duration: Video duur
-        video_hd: 
+        video_hd: Kwaliteit
         year: Datum
       image_aspectratio:
         landscape: Landschap
@@ -315,8 +315,8 @@ nl:
         yi: 
       less: Minder
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Verberg specifieke licencies
+        show-specific: Verberg bepaalde licencies
       media:
         'false': Nee
         'true': Ja
@@ -339,7 +339,7 @@ nl:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Niet beoordeeld
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -482,17 +482,17 @@ nl:
       view-more: Meer
     more-info: Meer informatie
     newsletter:
-      choose-language: 
+      choose-language: Kies een taal
       email-address-invalid: Vul een geldig email adres in
       email-address-required: Dit is een verplicht veld
       fashion:
-        heading: 
-        subheading: 
+        heading: Ontvang de laatste nieuwtjes!
+        subheading: Meld je aan voor de Europeana Fashion-nieuwsbrief en blijf op de hoogte!
       language-required: Dit is een verplicht veld
       signup: Word lid van onze nieuwsbrief!
-      submit-alt: 
+      submit-alt: abonneren
     our-sites: onze sites
-    page: 
+    page: pagina
     password: Wachtwoord
     professional: Professional
     professional-text: Doe mee; deel uw collectie met ons!
@@ -508,13 +508,13 @@ nl:
     search-collections-text: Ontdek Europa's cultureel erfgoed
     share: Deel
     sitemap: Sitemap
-    subscribe: 
+    subscribe: abonneren
     terms-and-policies: Gebruikersvoorwaarden
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: U kunt nu filteren op specifieke info
+          new-grid: Heb je de nieuwe grid gezien?
     type: tupe
   'no': Noorwegen
   pl: Portugal

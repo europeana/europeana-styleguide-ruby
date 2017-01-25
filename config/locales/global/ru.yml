@@ -178,7 +178,7 @@ ru:
     choose-language: Язык
     cookie_disclaimer:
       more_info: Больше информации
-      text: 
+      text: Данный сайт использует куки, чтобы гарантировать, что вы получите лучший опыт на нашем сайте. При нажатии или навигации по сайту, вы соглашаетесь с тем, наш сбор информации через куки.
     email-address: Адрес электронной почты
     facet:
       advanced:
@@ -232,40 +232,40 @@ ru:
         ukraine: Украина
         unitedkingdom: Великобритания
         unitedstatesofamerica: США
-        vaticancity: 
+        vaticancity: Ватикан
       creator: Автор
-      filter: 
+      filter: фильтр
       header:
         collection: Коллекции
         colourpalette: Цвет
         country: Страна
         data_provider: Организация
-        date-created: 
+        date-created: Дата создания
         fashion:
-          colour: 
+          colour: цвет
           designer: 
-          technique: 
-          type: 
+          technique: Техника
+          type: Тип вещи
         image_aspectratio: Ориентация
         image_colour: Палитра
         image_size: Размер
-        intermediateprovider: 
+        intermediateprovider: Промежуточное Провайдер
         language: Язык
         language_of_description: Язык описания
         media: Только со ссылками на носители
         mime_type: Формат файла
         provider: Агрегатор
         providing_country: Страна
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Дата создания
         reusability: Могу ли я это использовать?
-        rights: 
+        rights: лицензия
         sound_duration: Продолжительность
         sound_hq: Высокое качество
         text_fulltext: Полный текст
         type: Носитель
         ugc: Показать контент, добавленный пользователями
         video_duration: Длительность видео
-        video_hd: 
+        video_hd: Качественный
         year: Дата
       image_aspectratio:
         landscape: Альбомная
@@ -315,8 +315,8 @@ ru:
         yi: 
       less: Меньше
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Скрыть конкретные заявления прав
+        show-specific: Скрыть конкретные заявления прав
       media:
         'false': Нет
         'true': Да
@@ -339,7 +339,7 @@ ru:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Все права защищены Не определен
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ ru:
         from: с
         to: по
     feedback:
-      close: 
+      close: Закрыть
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Дайте нам знать, что вы думаете и что мы можем улучшить. Если вы хотите связаться, пожалуйста, оставьте свой адрес электронной почты здесь тоже!
+      submit: Отправить
       thanks:
-        long: 
-        short: 
+        long: Спасибо за ваш отзыв. Если нужно; мы вернемся к вам как можно скорее.
+        short: Спасибо!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: комментарий
+        correction: коррекция
     find-us-elsewhere: Вы также можете найти нас
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ ru:
       view-more: Просмотреть еще
     more-info: Информация
     newsletter:
-      choose-language: 
+      choose-language: Выберите язык
       email-address-invalid: Адрес электронной почты должен быть корректным электронным адресом.
       email-address-required: Адрес электронной почты должен быть указан.
       fashion:
-        heading: 
-        subheading: 
+        heading: Получите совок!
+        subheading: Подпишитесь на рассылку новостей моды Europeana и оставаться в курсе!
       language-required: Язык должен быть указан.
       signup: Подпишитесь на рассылку наших новостей
-      submit-alt: 
+      submit-alt: Подписывайся
     our-sites: наши сайты
-    page: 
+    page: страница
     password: Пароль
     professional: Pro
     professional-text: Принимайте участие, делитесь своими данными или используйте наши
@@ -508,13 +508,13 @@ ru:
     search-collections-text: Исследуйте европейское культурное наследие
     share: Поделиться
     sitemap: Карта сайта
-    subscribe: 
+    subscribe: подписываться
     terms-and-policies: Условия и положения
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Теперь вы можете фильтровать поиск по конкретной лицензии
+          new-grid: Вы видели новый макет сетки?
     type: Тип
   'no': Норвегия
   pl: Португалия

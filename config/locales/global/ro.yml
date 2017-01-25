@@ -178,7 +178,7 @@ ro:
     choose-language: Limbă
     cookie_disclaimer:
       more_info: Mai multe informatii
-      text: 
+      text: Acest website foloseste cookie-uri pentru a vă asigura că obțineți cea mai bună experiență pe site-ul nostru. Făcând clic pe sau navigarea pe site-ul, sunteți de acord să permită colectarea noastre de informații prin intermediul cookie-uri.
     email-address: adresă de email
     facet:
       advanced:
@@ -232,40 +232,40 @@ ro:
         ukraine: Ucraina
         unitedkingdom: Regatul Unit
         unitedstatesofamerica: SUA
-        vaticancity: 
+        vaticancity: Orasul Vatican
       creator: creator
-      filter: 
+      filter: filtru
       header:
         collection: Colecții
         colourpalette: Culoare
         country: Țară
         data_provider: Instituție
-        date-created: 
+        date-created: Data creării
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: culoare
+          designer: proiectant
+          technique: Tehnică
+          type: Categorie de obiect
         image_aspectratio: Orientare
         image_colour: Paletă coloristică
         image_size: Dimensiune
-        intermediateprovider: 
+        intermediateprovider: furnizor de intermediar
         language: Limbă
         language_of_description: Limba Descrierii
         media: Doar înregistrări cu legături către fișiere media
         mime_type: Formatul fișierului
         provider: Agregator
         providing_country: Țara furnizoare
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Data creării
         reusability: Pot folosi?
-        rights: 
+        rights: licență
         sound_duration: Durata
         sound_hq: Calitate superioară
         text_fulltext: Text complet
         type: Fișier media
         ugc: Arată conținut furnizat de către utilizatori
         video_duration: Durata videoclip
-        video_hd: 
+        video_hd: Calitate
         year: Dată
       image_aspectratio:
         landscape: Peisaj
@@ -315,8 +315,8 @@ ro:
         yi: 
       less: Mai puține
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Declarații drepturi specifice a ascunde
+        show-specific: Declarații drepturi specifice a ascunde
       media:
         'false': Nu
         'true': Da
@@ -339,7 +339,7 @@ ro:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright-ul Evaluate
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ ro:
         from: 'de la '
         to: până la
     feedback:
-      close: 
+      close: Închide
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Anuntati-ne ce crezi și ce putem îmbunătăți. Dacă doriți ca să fiți contactat, vă rugăm să lăsați adresa dvs. de e-mail aici!
+      submit: A depune
       thanks:
-        long: 
-        short: 
+        long: Multumim pentru feedback-ul dvs. Daca este nevoie; vom ajunge înapoi la tine cât mai curând posibil.
+        short: Mulțumesc!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: cometariu
+        correction: corecţie
     find-us-elsewhere: Ne găsiți și aici
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ ro:
       view-more: Vezi mai mult
     more-info: Mai multe informații
     newsletter:
-      choose-language: 
+      choose-language: Alegeți o limbă
       email-address-invalid: Adresa de email trebuie să fie validă
       email-address-required: Specificați o adresă de email
       fashion:
-        heading: 
-        subheading: 
+        heading: Ia lingura!
+        subheading: Inscrie-te pentru newsletter-ul de modă Europeana și să rămână în știu!
       language-required: Specificați limba
       signup: Înscrieți-vă aici pentru a primi buletinul nostru de știri
-      submit-alt: 
+      submit-alt: subscrie
     our-sites: paginile noastre
-    page: 
+    page: pagină
     password: Parolă
     professional: ''
     professional-text: Implică-te, partajează datele pe care le deții sau exploatează-le pe cele existente la noi
@@ -508,13 +508,13 @@ ro:
     search-collections-text: Exploră patrimoniul cultural european
     share: Partajează
     sitemap: Harta siteului
-    subscribe: 
+    subscribe: subscrie
     terms-and-policies: Termeni și condiții
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Acum, puteți filtra căutarea pe licență specifică
+          new-grid: Ai văzut noul aspect grila?
     type: tip
   'no': Norvegia
   pl: Portugalia

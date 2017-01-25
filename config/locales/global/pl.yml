@@ -234,13 +234,13 @@ pl:
         unitedstatesofamerica: USA
         vaticancity: Watykan
       creator: twórca
-      filter: 
+      filter: filtr
       header:
         collection: Kolekcje
         colourpalette: Kolor
         country: Kraj
         data_provider: Instytucja
-        date-created: 
+        date-created: Data utworzenia
         fashion:
           colour: Kolor
           designer: Projektant
@@ -256,7 +256,7 @@ pl:
         mime_type: Format pliku
         provider: Agregator treści
         providing_country: Kraj dostarczający
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Data utworzenia
         reusability: Czy mogę to wykorzystać?
         rights: Licencja
         sound_duration: Czas trwania
@@ -339,7 +339,7 @@ pl:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Prawa autorskie nie analizowany
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -482,17 +482,17 @@ pl:
       view-more: Zobacz więcej
     more-info: Więcej infromacji
     newsletter:
-      choose-language: 
+      choose-language: Wybierz język
       email-address-invalid: Wprowadź poprawny adres email.
       email-address-required: Dodaj adres email.
       fashion:
-        heading: 
-        subheading: 
+        heading: Pobierz miarka!
+        subheading: Zapisz się na biuletyn mody Europeana i pobyt w wiedzieć!
       language-required: Zaznacz preferowany język.
       signup: Zapisz się na comiesięczną dawkę kultury w naszym biuletynie
-      submit-alt: 
+      submit-alt: Subskrybować
     our-sites: nasze strony
-    page: 
+    page: strona
     password: Hasło
     professional: Europeana Pro
     professional-text: Zaangażuj się, podziel się swoją wiedzą lub wykorzystaj naszą.
@@ -508,7 +508,7 @@ pl:
     search-collections-text: Odkrywaj dziedzictwo kulturowe Europy
     share: Udostępnij
     sitemap: Mapa strony
-    subscribe: 
+    subscribe: subskrybować
     terms-and-policies: Regulamin i polityka prywatności
     tooltips:
       channels:

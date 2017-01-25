@@ -178,7 +178,7 @@ hu:
     choose-language: Nyelv
     cookie_disclaimer:
       more_info: Több információ
-      text: 
+      text: Ez a weboldal cookie-kat használ, hogy biztosítsa, hogy a legjobb élményt a honlapunkon. Kattintva, vagy a navigációt az oldalon, akkor beleegyezik abba, hogy mi az információgyűjtés sütikkel.
     email-address: Email cím
     facet:
       advanced:
@@ -232,40 +232,40 @@ hu:
         ukraine: Ukrajna
         unitedkingdom: Egyesült Királyság
         unitedstatesofamerica: Amerikai Egyesült Államok
-        vaticancity: 
+        vaticancity: Vatikán város
       creator: alkotó
-      filter: 
+      filter: szűrő
       header:
         collection: Gyűjtemények
         colourpalette: Szín
         country: Ország
         data_provider: Intézmény
-        date-created: 
+        date-created: létrehozás dátuma
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: szín
+          designer: Tervező
+          technique: Technika
+          type: Elem típusa
         image_aspectratio: Tájolás
         image_colour: Paletta
         image_size: Méret
-        intermediateprovider: 
+        intermediateprovider: Köztes Szolgáltató
         language: Nyelv
         language_of_description: Leírás nyelve
         media: Csak médiára mutató linket tartalmazó elemek
         mime_type: Fájl formátum
         provider: Aggregátor
         providing_country: Szolgáltató ország
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Létrehozás dátuma
         reusability: Felhasználhatom?
-        rights: 
+        rights: engedély
         sound_duration: Időtartam
         sound_hq: Magas minőségű
         text_fulltext: Teljes szöveg
         type: Média
         ugc: Mutasd a felhasználók által feltöltött tartalmat
         video_duration: Videó hossza
-        video_hd: 
+        video_hd: Minőség
         year: Dátum
       image_aspectratio:
         landscape: Fekvő
@@ -315,8 +315,8 @@ hu:
         yi: 
       less: Kevesebb
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Elrejtése konkrét jogi nyilatkozat
+        show-specific: Elrejtése konkrét jogi nyilatkozat
       media:
         'false': Nem
         'true': Igen
@@ -339,7 +339,7 @@ hu:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Minden jog nem értékelték
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ hu:
         from: "-tól"
         to: "-ig"
     feedback:
-      close: 
+      close: Bezárás
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Nézzük, mit gondol, és mit tudunk javítani. Ha azt szeretnénk, hogy a kapcsolatot, kérjük, hagyja el e-mail címét is!
+      submit: beküldése
       thanks:
-        long: 
-        short: 
+        long: Köszönjük a visszajelzést. Ha szükséges; fogunk Önnel a lehető leghamarabb.
+        short: Köszönöm!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: megjegyzés
+        correction: javítás
     find-us-elsewhere: Találj meg minket a közösségi médiában
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ hu:
       view-more: Nézz meg többet
     more-info: Több információ
     newsletter:
-      choose-language: 
+      choose-language: Válasszon egy nyelvet
       email-address-invalid: Működő email címet adjon meg.
       email-address-required: Meg kell adnia egy email címet.
       fashion:
-        heading: 
-        subheading: 
+        heading: Szerezd meg a lapát!
+        subheading: Iratkozzon fel az Europeana divat hírlevelünkre, és marad a know!
       language-required: Meg kell jelölnie egy nyelvet.
       signup: Iratkozon fel hírlevelünkre.
-      submit-alt: 
+      submit-alt: Iratkozz fel
     our-sites: weboldalaink
-    page: 
+    page: oldal
     password: Jelszó
     professional: Pro
     professional-text: Csatlakozz te is, oszd meg adataidat vagy használd fel a miénket
@@ -508,13 +508,13 @@ hu:
     search-collections-text: Fedezd fel Európa kulturális örökségét
     share: Oszd meg
     sitemap: Oldaltérkép
-    subscribe: 
+    subscribe: Iratkozz fel
     terms-and-policies: Felhasználási feltételek és házirend
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Szűrhetők keressen a konkrét engedély
+          new-grid: Láttad az új rács elrendezés?
     type: típus
   'no': Norvégia
   pl: Portugál

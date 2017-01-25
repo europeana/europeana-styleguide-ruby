@@ -178,7 +178,7 @@ pt:
     choose-language: Língua
     cookie_disclaimer:
       more_info: Mais informações
-      text: 
+      text: Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site. Ao clicar ou navegar no site, você concorda em permitir a coleta de informações por meio de cookies.
     email-address: endereço de email
     facet:
       advanced:
@@ -232,40 +232,40 @@ pt:
         ukraine: Ucrânia
         unitedkingdom: Reino Unido
         unitedstatesofamerica: EUA
-        vaticancity: 
+        vaticancity: Cidade do Vaticano
       creator: criador
-      filter: 
+      filter: filtro
       header:
         collection: Coleções
         colourpalette: Cor
         country: País
         data_provider: Instituição
-        date-created: 
+        date-created: Data Criada
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: cor
+          designer: Designer
+          technique: Técnica
+          type: Tipo de item
         image_aspectratio: Orientação
         image_colour: Paleta
         image_size: Tamanho
-        intermediateprovider: 
+        intermediateprovider: Provedor intermediário
         language: Língua
         language_of_description: Língua da Descrição
         media: Apenas itens com ligação a media
         mime_type: Formato do ficheiro
         provider: Agregador
         providing_country: País Agregador
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Data Criada
         reusability: Posso usar?
-        rights: 
+        rights: licença
         sound_duration: Duração
         sound_hq: Alta Qualidade
         text_fulltext: Texto completo
         type: Media
         ugc: Mostrar conteúdo contribuído por utilizadores
         video_duration: Duração do Vídeo
-        video_hd: 
+        video_hd: Qualidade
         year: Data
       image_aspectratio:
         landscape: Paisagem
@@ -315,8 +315,8 @@ pt:
         yi: 
       less: Menos
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Ocultar declarações de direitos específicos
+        show-specific: Ocultar declarações de direitos específicos
       media:
         'false': Não
         'true': Sim
@@ -339,7 +339,7 @@ pt:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright não avaliado
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ pt:
         from: de
         to: a
     feedback:
-      close: 
+      close: Fechar
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Deixe-nos saber o que você pensa eo que podemos melhorar. Se você quiser ser contatado, por favor deixe seu endereço de e-mail aqui também!
+      submit: Enviar
       thanks:
-        long: 
+        long: Obrigado pelo seu feedback. Se necessário; Entraremos em contato o mais breve possível.
         short: Obrigado!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: comente
+        correction: correção
     find-us-elsewhere: Encontre-nos noutros sítios
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ pt:
       view-more: Ver mais
     more-info: Mais informação
     newsletter:
-      choose-language: 
+      choose-language: Escolha um idioma
       email-address-invalid: O endereço terá que ser um endereço de correio electrónico válido.
       email-address-required: Um endereço de correio electrónico terá que ser especificado.
       fashion:
-        heading: 
-        subheading: 
+        heading: Obtenha a colher!
+        subheading: Inscreva-se no boletim informativo da moda Europeana e mantenha-se no saber!
       language-required: Uma língua terá que ser especificada.
       signup: Inscreva-se na nossa newsletter
-      submit-alt: 
+      submit-alt: Se inscrever
     our-sites: os nossos sites
-    page: 
+    page: página
     password: Palavra-passe
     professional: Europeana Pro
     professional-text: Envolva-se, partilhe os seus dados ou use os nossos
@@ -508,13 +508,13 @@ pt:
     search-collections-text: Explore a herança cultura da Europa
     share: Partilhe
     sitemap: Mapa do site
-    subscribe: 
+    subscribe: se inscrever
     terms-and-policies: Termos & Políticas de uso
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Agora você pode filtrar sua pesquisa em licença específica
+          new-grid: Você já viu o novo layout de grade?
     type: tipo
   'no': Noruega
   pl: Portugal

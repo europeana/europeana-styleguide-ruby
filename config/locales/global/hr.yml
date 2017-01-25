@@ -178,7 +178,7 @@ hr:
     choose-language: Jezik
     cookie_disclaimer:
       more_info: Više informacija
-      text: 
+      text: Ova web stranica koristi kolačiće kako bi se osiguralo da ćete dobiti najbolje iskustvo na našoj web stranici. Klikom ili navigacije web stranice, pristajete da naše prikupljanje podataka putem kolačića.
     email-address: e-mail adresa
     facet:
       advanced:
@@ -232,40 +232,40 @@ hr:
         ukraine: Ukrajina
         unitedkingdom: Ujedinjeno Kraljevstvo
         unitedstatesofamerica: SAD
-        vaticancity: 
+        vaticancity: Grad Vatikan
       creator: stvaratelj
-      filter: 
+      filter: filter
       header:
         collection: Zbirke
         colourpalette: Boja
         country: Država
         data_provider: Ustanova
-        date-created: 
+        date-created: Datum izrade
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: boja
+          designer: Dizajner
+          technique: Tehnika
+          type: Vrsta stavke
         image_aspectratio: Orijentacija
         image_colour: Paleta
         image_size: Veličina
-        intermediateprovider: 
+        intermediateprovider: Srednji Provider
         language: Jezik
         language_of_description: Jezik opisa
         media: 'Samo '
         mime_type: Format datoteke
         provider: Agregator
         providing_country: Država
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Datum izrade
         reusability: Smijem li koristiti ovaj sadržaj?
-        rights: 
+        rights: licenca
         sound_duration: Trajanje
         sound_hq: Visoka kvaliteta
         text_fulltext: Cjeloviti tekst
         type: Medij
         ugc: Prikaži sadržaj koji su postavili korisnici
         video_duration: Trajanje
-        video_hd: 
+        video_hd: kvaliteta
         year: Datum
       image_aspectratio:
         landscape: Pejzaž
@@ -315,8 +315,8 @@ hr:
         yi: 
       less: Manje
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Sakrij izjave određenih prava
+        show-specific: Sakrij izjave određenih prava
       media:
         'false': Ne
         'true': Da
@@ -339,7 +339,7 @@ hr:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright ne vrednuje
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ hr:
         from: od
         to: do
     feedback:
-      close: 
+      close: Blizu
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Recite nam što mislite i što možemo poboljšati. Ako želite da vas kontaktiramo, molimo vas da ostavite svoj e-mail i ovdje!
+      submit: podnijeti
       thanks:
-        long: 
-        short: 
+        long: Hvala vam na povratnim informacijama. Ako je potrebno; mi ćemo Vam se javiti u najkraćem mogućem roku.
+        short: Hvala ti!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: komentar
+        correction: korekcija
     find-us-elsewhere: Pronađite nas i na drugim mjestima
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ hr:
       view-more: Pogledaj više
     more-info: Više informacija
     newsletter:
-      choose-language: 
+      choose-language: Válasszon egy nyelvet
       email-address-invalid: E-mail mora biti valjana e-mail adresa.
       email-address-required: E-mail adresa mora biti navedena.
       fashion:
-        heading: 
-        subheading: 
+        heading: Dobiti kašičica!
+        subheading: Prijavite se za Europeana modne newsletter i ostati u znaju!
       language-required: Jezik mora biti naveden.
       signup: Prijavite se na naš newsletter
-      submit-alt: 
+      submit-alt: pretplatiti
     our-sites: naše stranice
-    page: 
+    page: stranica
     password: Lozinka
     professional: Pro
     professional-text: Uključi se, dijeli svoje sadržaje ili koristi naše
@@ -508,13 +508,13 @@ hr:
     search-collections-text: Istraži kulturnu baštinu Europe
     share: Podijeli
     sitemap: Mapa weba
-    subscribe: 
+    subscribe: pretplatiti
     terms-and-policies: Uvjeti korištenja
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Sada možete filtrirati Vašu pretragu na određenu licencu
+          new-grid: Jeste li vidjeli novi izgled mreže?
     type: vrsta
   'no': Norveška
   pl: Portugal

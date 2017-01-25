@@ -178,7 +178,7 @@ fi:
     choose-language: Kieli
     cookie_disclaimer:
       more_info: Lisätietoja
-      text: 
+      text: Tämä sivusto käyttää evästeitä, jotta saat parhaan kokemuksen sivuillamme. Klikkaamalla tai navigoinnin sivusto, annat meidän kokoelma tietoja evästeiden avulla.
     email-address: sähköpostiosoite
     facet:
       advanced:
@@ -232,40 +232,40 @@ fi:
         ukraine: Ukraina
         unitedkingdom: Britannia
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Vatikaanivaltio
       creator: tekijä
-      filter: 
+      filter: suodattaa
       header:
         collection: Kokoelmat
         colourpalette: Väri
         country: Maa
         data_provider: Instituutio
-        date-created: 
+        date-created: Päivämäärä luotu
         fashion:
-          colour: 
-          designer: 
-          technique: 
-          type: 
+          colour: väri
+          designer: Suunnittelija
+          technique: Tekniikka
+          type: Tehtävämuoto
         image_aspectratio: Suunta
         image_colour: Paletti
         image_size: Koko
-        intermediateprovider: 
+        intermediateprovider: Intermediate Provider
         language: Kieli
         language_of_description: Kuvailukieli
         media: Vain kohteet, joista on kuva
         mime_type: Tiedostomuoto
         provider: Aggregaattori
         providing_country: Tarjoava maa
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Päivämäärä luotu
         reusability: Voinko käyttää sitä?
-        rights: 
+        rights: lisenssi
         sound_duration: Kesto
         sound_hq: Korkealaatuinen
         text_fulltext: Kokoteksti
         type: Media
         ugc: Näytä käyttäjien lisäämä sisältö
         video_duration: Kesto
-        video_hd: 
+        video_hd: Laatu
         year: Päivämäärä
       image_aspectratio:
         landscape: Vaakakuva
@@ -315,8 +315,8 @@ fi:
         yi: 
       less: Vähemmän
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Piilota erityisiä oikeuksia lausuntoja
+        show-specific: Piilota erityisiä oikeuksia lausuntoja
       media:
         'false': Ei
         'true': Kyllä
@@ -339,7 +339,7 @@ fi:
         advanced-rrfa: Oikeudet pidätetään - Vapaasti katseltavissa
         advanced-rrpa: Oikeudet pidätetään - Katselu maksullinen
         advanced-rrra: Oikeudet pidätetään - Rajattu katseluoikeus
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Ei arvioitu
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,19 +408,19 @@ fi:
         from: alkaen
         to: päättyen
     feedback:
-      close: 
+      close: kiinni
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: Kerro meille mitä mieltä olet ja mitä voimme parantaa. Jos haluat yhteydenottoa, jätä sähköpostiosoitteesi täälläkin!
+      submit: Lähetä
       thanks:
-        long: 
-        short: 
+        long: Kiitos palautteesta. Tarvittaessa; palaamme asiaan niin pian kuin mahdollista.
+        short: Kiitos!
       title: 
       type:
         bug: 
-        comment: 
-        correction: 
+        comment: kommentti
+        correction: korjaus
     find-us-elsewhere: Muualla palvelussa
     find-us-social-media: 
     follow-channel: 
@@ -482,17 +482,17 @@ fi:
       view-more: Katso lisää
     more-info: Lisätietoa
     newsletter:
-      choose-language: 
+      choose-language: Valitse kieli
       email-address-invalid: Sähköpostiosoitteen on oltava toimiva osoite.
       email-address-required: Sähköpostiosoite on määritettävä.
       fashion:
-        heading: 
-        subheading: 
+        heading: Saada kauha!
+        subheading: Tilaa Europeana muoti uutiskirje ja pysyä ajan tasalla!
       language-required: Kieli on määritettävä.
       signup: Tilaa uutiskirje
-      submit-alt: 
+      submit-alt: merkitä
     our-sites: sivustomme
-    page: 
+    page: sivu
     password: Salasana
     professional: Pro
     professional-text: Osallistu, jaa tai hyödynnä aineistoja
@@ -508,13 +508,13 @@ fi:
     search-collections-text: Tutustu Euroopan kulttuuriperintöön
     share: Jaa
     sitemap: Sivukartta
-    subscribe: 
+    subscribe: merkitä
     terms-and-policies: Käyttöehdot & käytännöt
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Nyt voit suodattaa hakua tiettyihin lisenssi
+          new-grid: Oletko nähnyt uuden kantaverkkoon?
     type: tyyppi
   'no': Norja
   pl: Portugali

@@ -234,7 +234,7 @@ lv:
         unitedstatesofamerica: ASV
         vaticancity: Vatikāns
       creator: autors
-      filter: 
+      filter: filtrs
       header:
         collection: Kolekcijas
         colourpalette: Krāsa
@@ -339,7 +339,7 @@ lv:
         advanced-rrfa: 
         advanced-rrpa: 
         advanced-rrra: 
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Nav vērtēts
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -486,11 +486,11 @@ lv:
       email-address-invalid: Kā e-pasts ir jānorāda derīga e-pasta adrese.
       email-address-required: Ir jāuzrāda e-pasta adrese.
       fashion:
-        heading: 
-        subheading: 
+        heading: Saņemt liekšķere!
+        subheading: Pierakstīties Europeana modes biļetenu un uzturēties, kas zina!
       language-required: Ir jāuzrāda valoda.
       signup: Paraksties uz mūsu informatīvo izdevumu
-      submit-alt: 
+      submit-alt: abonēt
     our-sites: mūsu vietnes
     page: lapa
     password: Parole
@@ -508,7 +508,7 @@ lv:
     search-collections-text: Pārlūko Eiropas kultūras mantojumu
     share: Kopīgot
     sitemap: Lapas karte
-    subscribe: 
+    subscribe: abonēt
     terms-and-policies: Lietošanas noteikumi un politika
     tooltips:
       channels:

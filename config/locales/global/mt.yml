@@ -236,13 +236,13 @@ mt:
         unitedstatesofamerica: L-Amerika
         vaticancity: Belt tal-Vatikan
       creator: kreatur
-      filter: 
+      filter: filtru
       header:
         collection: Kollezzjonijiet
         colourpalette: Kulur
         country: Pajjiż
         data_provider: Istituzzjoni
-        date-created: 
+        date-created: data maħluqa
         fashion:
           colour: Kulur
           designer: Disinjatur
@@ -258,7 +258,7 @@ mt:
         mime_type: Format tal-fajl
         provider: Aggregatur
         providing_country: Pajjiż fornitur
-        proxy_dcterms_created: 
+        proxy_dcterms_created: data Maħluqa
         reusability: Nista' nużagħha?
         rights: Liċenzja
         sound_duration: 'Dewmien '
@@ -341,7 +341,7 @@ mt:
         advanced-rrfa: Drittijiet riżervati - Aċċess b'xejn
         advanced-rrpa: Drittijiet riżervati - Aċċess mħallas
         advanced-rrra: Drittijiet riżervati - Aċċess mhux permess
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Mhux evalwat
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -484,17 +484,17 @@ mt:
       view-more: Ara aktar
     more-info: Aktar informazzjoni
     newsletter:
-      choose-language: 
+      choose-language: Agħżel lingwa
       email-address-invalid: L-indirizz ta' l-email għandu jkun validu.
       email-address-required: Indirizz ta' email għandu jkun speċifikat
       fashion:
-        heading: 
-        subheading: 
+        heading: Niżżel l-sassla!
+        subheading: Sign up għall-newsletter moda Europeana u jibqgħu fil-know!
       language-required: Il-lingwa għandha tkun speċifikata
       signup: Irreġistra għan-newsletter tagħna
-      submit-alt: 
+      submit-alt: Abbona
     our-sites: Is-siti tagħna
-    page: 
+    page: paġna
     password: Password
     professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna
@@ -510,7 +510,7 @@ mt:
     search-collections-text: Skopri l-kultura u l-istorja ta' l-Ewropa
     share: Aqsam
     sitemap: Mappa tas-sit
-    subscribe: 
+    subscribe: jissottoskrivu
     terms-and-policies: Termini u Kundizzjonijiet
     tooltips:
       channels:

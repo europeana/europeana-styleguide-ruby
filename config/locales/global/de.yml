@@ -178,7 +178,7 @@ de:
     choose-language: Sprache
     cookie_disclaimer:
       more_info: Mehr Info
-      text: 
+      text: Diese Website verwendet Cookies, um sicherzustellen, dass Sie die besten Erfahrungen auf unserer Website erhalten. Durch Anklicken oder Navigieren der Website stimmen Sie zu, dass wir unsere Sammlung von Informationen über Cookies zulassen.
     email-address: E-Mail-Adresse
     facet:
       advanced:
@@ -232,15 +232,15 @@ de:
         ukraine: Ukraine
         unitedkingdom: Vereinigtes Königreich
         unitedstatesofamerica: USA
-        vaticancity: 
+        vaticancity: Vatikanstadt
       creator: Urheber
-      filter: 
+      filter: filter
       header:
         collection: Sammlungen
         colourpalette: Farbe
         country: Land
         data_provider: Datengeber
-        date-created: 
+        date-created: Datum erstellt
         fashion:
           colour: Farbe
           designer: Mode-designer
@@ -249,14 +249,14 @@ de:
         image_aspectratio: Ausrichtung
         image_colour: Palette
         image_size: Größe
-        intermediateprovider: 
+        intermediateprovider: Zwischenanbieter
         language: Sprache
         language_of_description: Sprache der Beschreibung
         media: 'Nur Objekte mit Link zum Medium '
         mime_type: Dateiformat
         provider: Beiträger
         providing_country: Bereitstellendes Land
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Datum erstellt
         reusability: Verwendbarkeit
         rights: Lizenz
         sound_duration: Laufzeit
@@ -265,7 +265,7 @@ de:
         type: Medien
         ugc: Von Nutzern beigetragene Inhalte einbeziehen
         video_duration: Video Laufzeit
-        video_hd: 
+        video_hd: Qualität
         year: Datum
       image_aspectratio:
         landscape: Querformat
@@ -339,7 +339,7 @@ de:
         advanced-rrfa: ''
         advanced-rrpa: ''
         advanced-rrra: ''
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright nicht ausgewertet
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -484,17 +484,17 @@ de:
       view-more: Mehr anzeigen
     more-info: Mehr Information
     newsletter:
-      choose-language: 
+      choose-language: Wählen Sie eine Sprache
       email-address-invalid: Die E-Mail muss eine gültige E-Mail-Adresse sein.
       email-address-required: Eine E-Mail-Adresse muss angegeben werden.
       fashion:
-        heading: 
-        subheading: 
+        heading: Holen Sie sich die Schaufel!
+        subheading: Melden Sie sich für den Europeana Fashion Newsletter an und bleiben Sie im Know!
       language-required: Eine Sprache muss angegeben werden.
       signup: Newsletter Anmeldung
-      submit-alt: 
+      submit-alt: Abonnieren
     our-sites: Unsere Seiten
-    page: 
+    page: Seite
     password: Passwort
     professional: Pro
     professional-text: Machen Sie mit, teilen Sie Ihre Daten oder benutzen Sie unsere
@@ -510,13 +510,13 @@ de:
     search-collections-text: Entdecken Sie das kulturelle Erbe Europas
     share: Teilen
     sitemap: 
-    subscribe: 
+    subscribe: abonnieren
     terms-and-policies: Nutzungsbedingungen und Datenschutzerklärung
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Sie können nun Ihre Suche nach einer bestimmten Lizenz filtern
+          new-grid: Haben Sie das neue Raster-Layout gesehen?
     type: Art
   'no': Norwegen
   pl: Portugal

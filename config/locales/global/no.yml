@@ -178,7 +178,7 @@
     choose-language: Språk
     cookie_disclaimer:
       more_info: Mer informasjon
-      text: 
+      text: Dette nettstedet bruker cookies for å sikre at du får den beste opplevelsen på vår nettside. Ved å klikke eller navigere på nettstedet, godtar du at vår samling av informasjon gjennom informasjonskapsler.
     email-address: epostadresse
     facet:
       advanced:
@@ -234,31 +234,31 @@
         unitedstatesofamerica: USA
         vaticancity: Vatikanstaten
       creator: skaper
-      filter: 
+      filter: filter
       header:
         collection: samlinger
         colourpalette: Farge
         country: Land
         data_provider: Institusjon
-        date-created: 
+        date-created: Date laget
         fashion:
           colour: Farge
-          designer: 
-          technique: 
-          type: 
+          designer: Designer
+          technique: Teknikk
+          type: Elementtype
         image_aspectratio: Orientering
         image_colour: Palett
         image_size: Størrelse
-        intermediateprovider: 
+        intermediateprovider: Intermediate Provider
         language: Språk
         language_of_description: Språk til beskrivning
         media: Bare objekter med lenker til media
         mime_type: Filformat
         provider: Aggregator
         providing_country: Giverland
-        proxy_dcterms_created: 
+        proxy_dcterms_created: Date laget
         reusability: Kan jeg bruke det?
-        rights: 
+        rights: lisens
         sound_duration: Varighet
         sound_hq: Høy kvalitet
         text_fulltext: Full tekst
@@ -315,8 +315,8 @@
         yi: Jiddisch
       less: Færre
       license:
-        hide-specific: 
-        show-specific: 
+        hide-specific: Skjule bestemte rettigheter uttalelser
+        show-specific: Skjule bestemte rettigheter uttalelser
       media:
         'false': Nei
         'true': Ja
@@ -339,7 +339,7 @@
         advanced-rrfa: Rettigheter reservert - fri tilgang
         advanced-rrpa: Rettigheter reservert - betalt tilgang
         advanced-rrra: Rettigheter reservert - begrenset tilgang
-        advanced-rs-cne: 
+        advanced-rs-cne: Copyright Ikke Evaluert
         advanced-rs-inc: 
         advanced-rs-inc-edu: 
         advanced-rs-inc-ow-eu: 
@@ -408,13 +408,13 @@
         from: 
         to: 
     feedback:
-      close: 
+      close: Lukk
       error: 
       open: 
-      placeholder: 
-      submit: 
+      placeholder: La oss få vite hva du tenker og hva vi kan forbedre. Hvis du ønsker å bli kontaktet, kan du legge igjen din e-postadresse her også!
+      submit: Sende inn
       thanks:
-        long: 
+        long: Takk for din tilbakemelding. Hvis nødvendig; vi vil komme tilbake til deg så snart som mulig.
         short: Takk!
       title: Tilbakemelding
       type:
@@ -482,17 +482,17 @@
       view-more: 
     more-info: 
     newsletter:
-      choose-language: 
+      choose-language: Velg et språk
       email-address-invalid: 
       email-address-required: 
       fashion:
-        heading: 
-        subheading: 
+        heading: Få scoop!
+        subheading: Meld deg på Europeana mote nyhetsbrev og bo i know!
       language-required: 
       signup: 
-      submit-alt: 
+      submit-alt: Abonnere
     our-sites: 
-    page: 
+    page: side
     password: 
     professional: 
     professional-text: 
@@ -508,13 +508,13 @@
     search-collections-text: 
     share: Del
     sitemap: 
-    subscribe: 
+    subscribe: abonnere
     terms-and-policies: 
     tooltips:
       channels:
         search:
-          new-filter: 
-          new-grid: 
+          new-filter: Nå kan du filtrere søket på spesifikke lisens
+          new-grid: Har du sett den nye rutenettet?
     type: 
   'no': Norge
   pl: Portugal
