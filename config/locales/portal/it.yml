@@ -25,8 +25,8 @@ it:
       more:
         agents: Più persone
         topics: Più argomenti
-      periods: 
-      places: 
+      periods: I periodi di tempo
+      places: posti
     pro-link: Link a pro
     pro-text: Testo per pro
     settings: Impostazioni
@@ -48,13 +48,13 @@ it:
         tableh3: Data
         title: Nuovo contenuto
       people:
-        description: 
+        description: Qui si possono trovare punti salienti delle nostre collezioni relative alla vita e opere di artisti famosi, compositori e altre importanti figure della storia.
         title: Persone
       periods:
-        description: 
-        title: 
+        description: Sfoglia per periodo di tempo
+        title: Periodi di tempo
       sources:
-        description: 
+        description: Qui sotto puoi vedere un elenco di istituzioni che hanno contribuito i loro contenuti per Europeana collezioni. Queste istituzioni aggregare e contribuire con i loro dati di Europeana, fare clic sul link che ti interessa per visualizzare una particolare collezione partner!
         title: Fonti
       topics:
         description: Esplora la nostra Collezione per argomento, tema o genere
@@ -73,10 +73,10 @@ it:
         texts: Testi
       labels:
         credits: Curato da
-        designer: 
-        editors-picks: 
+        designer: progettista
+        editors-picks: Scelti dall editore
         recent: Aggiunte recenti
-        sneak-peek: 
+        sneak-peek: Sbirciata
         spotlight-on: Riflettori su
         whats-happening: 
       music:

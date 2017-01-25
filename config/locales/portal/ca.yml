@@ -24,9 +24,9 @@ ca:
       home: Inici
       more:
         agents: Més gent
-        topics: 
-      periods: 
-      places: 
+        topics: més temes
+      periods: Els períodes de temps
+      places: llocs
     pro-link: enllaç a pro
     pro-text: text per a pro
     settings: Configuració
@@ -39,7 +39,7 @@ ca:
     blog-link: enllaç al blog
     browse:
       colours:
-        description: 
+        description: Recerca d&#39;imatges en funció del seu color. Simplement feu clic en un quadre de color sota per descobrir les imatges que continguin aquest color!
         title: Colors
       newcontent:
         description: 
@@ -48,24 +48,24 @@ ca:
         tableh3: Data
         title: Contingut nou
       people:
-        description: 
-        title: 
+        description: Aquí podeu trobar més destacat de les nostres col·leccions relacionades amb les vides i obres de famosos artistes, compositors i altres figures importants de la història.
+        title: Gent
       periods:
-        description: 
-        title: 
+        description: Exploració per període de temps
+        title: períodes de temps
       sources:
-        description: 
+        description: A continuació veureu una llista institucions que han aportat el seu contingut a Europeana Col·leccions. Aquestes institucions afegir i aportar les seves dades a Europeana, feu clic a lenllaç de sota que li interessi per veure una col·lecció soci en particular!
         title: Fonts
       topics:
-        description: 
-        title: 
+        description: Explora les nostres col·leccions per assumpte, tema o gènere.
+        title: temes
     collections:
       art-history:
         description: Del Renaixement als surrealistes, i des de l'esculptura de Antiga Roma a l'art contemporani, la Col·lecció d'Història de l'Art d'Europeana t'introdueix a artistes i obres d'art de tota Europa
         title: Europeana Art History
       data-types:
         3d: Objectes 3D
-        all: 
+        all: tots
         count: ítems
         images: Imatges
         moving-images: Vídeos
@@ -73,10 +73,10 @@ ca:
         texts: Texts
       labels:
         credits: A cura de
-        designer: 
-        editors-picks: 
+        designer: dissenyador
+        editors-picks: Seleccions de l&#39;Editor
         recent: Addicions Recents
-        sneak-peek: 
+        sneak-peek: Бърз поглед
         spotlight-on: Focus en
         whats-happening: 
       music:

@@ -24,9 +24,9 @@ pt:
       home: Início
       more:
         agents: Mais pessoas
-        topics: 
-      periods: 
-      places: 
+        topics: Mais tópicos
+      periods: Períodos de tempo
+      places: Locais
     pro-link: ''
     pro-text: texto para Europeana Pro
     settings: Definições
@@ -39,7 +39,7 @@ pt:
     blog-link: ligação ao blogue
     browse:
       colours:
-        description: 
+        description: Pesquise imagens com base na sua cor. Basta clicar em uma caixa colorida abaixo para descobrir imagens que contenham essa cor!
         title: Cores
       newcontent:
         description: 
@@ -48,24 +48,24 @@ pt:
         tableh3: Data
         title: Novo Conteúdo
       people:
-        description: 
-        title: 
+        description: Aqui você pode encontrar destaques de nossas coleções relativas às vidas e obras de artistas famosos, compositores e outras figuras importantes da história.
+        title: Pessoas
       periods:
-        description: 
-        title: 
+        description: Procurar por período de tempo
+        title: Períodos de tempo
       sources:
-        description: 
+        description: Abaixo, você verá uma lista de instituições que contribuíram com seu conteúdo para as Coleções Europeana. Essas instituições agregam e contribuem seus dados para a Europeana, clique no link que lhe interessa abaixo para ver uma coleção de parceiros específica!
         title: Fontes
       topics:
-        description: 
-        title: 
+        description: Explore nossas coleções por tópico, tema ou gênero.
+        title: Tópicos
     collections:
       art-history:
         description: Desde a Renascença aos surrealistas, e desde as esculturas da Roma antiga à arte contemporânea, a Europeana Coleção Arte e História da Arte irá dar-lhe a conhecer artistas e obras de arte de toda a Europa.
         title: Europeana História da Arte
       data-types:
         3d: Objectos 3D
-        all: 
+        all: Todos
         count: itens
         images: Imagens
         moving-images: Vídeos
@@ -73,10 +73,10 @@ pt:
         texts: Textos
       labels:
         credits: Curada por
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Escolhas do editor
         recent: Adições recentes
-        sneak-peek: 
+        sneak-peek: Espiada
         spotlight-on: Destacadas
         whats-happening: 
       music:

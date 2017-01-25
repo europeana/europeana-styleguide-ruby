@@ -24,9 +24,9 @@ lt:
       home: Pagrindinis
       more:
         agents: Daugiau žmonių
-        topics: 
-      periods: 
-      places: 
+        topics: Daugiau temų
+      periods: laikotarpiai
+      places: Lankytinos
     pro-link: Nuoroda į Pro
     pro-text: Tekstas Europeana Pro
     settings: Nustatymai
@@ -39,7 +39,7 @@ lt:
     blog-link: Nuoroda į tinklaraštį
     browse:
       colours:
-        description: 
+        description: Ieškoti vaizdų pagal jų spalvą. Tiesiog spustelėkite žemiau spalvotą dėžutę atrasti vaizdai, kurių sudėtyje yra šios spalvos!
         title: Spalvos
       newcontent:
         description: 
@@ -48,24 +48,24 @@ lt:
         tableh3: Data
         title: Naujas turinys
       people:
-        description: 
-        title: 
+        description: Čia rasite svarbiausius momentus iš rinkinių, susijusių su gyvenimu ir dirba žinomų atlikėjų, kompozitorių ir kitų svarbių veikėjų iš istorijos.
+        title: žmonės
       periods:
-        description: 
-        title: 
+        description: Naršyti pagal laikotarpį
+        title: laikotarpiai
       sources:
-        description: 
+        description: Žemiau matote institucijų, kurie prisidėjo jų turinį Europeana rinkinių sąrašą. Šios institucijos kaupti ir prisidėti savo duomenis Europeana paspausti nuorodą, kuri jus domina toliau peržiūrėti konkretaus partnerio kolekciją!
         title: Ištekliai
       topics:
-        description: 
-        title: 
+        description: Naršyti mūsų kolekcijose pagal temą, temos ar žanro.
+        title: tematika
     collections:
       art-history:
         description: Nuo renesanso iki siurrealizmo, nuo Senovės Romos skulptūrų iki šiuolaikinio meno, Europeana meno istorijos kolekcija jums suteikia galimybę susipažinti su Europos menininkais ir jų darbais. [Interaktyvaus elemento aprašymas]
         title: Europeana meno istorija
       data-types:
         3d: 3D objektai
-        all: 
+        all: visi
         count: įrašai
         images: Vaizdai
         moving-images: Vaizdo įrašai
@@ -73,10 +73,10 @@ lt:
         texts: Tekstai
       labels:
         credits: Kuruojama
-        designer: 
-        editors-picks: 
+        designer: dizaineris
+        editors-picks: Redaktoriaus kirtikliai
         recent: Naujausi papildymai
-        sneak-peek: 
+        sneak-peek: Užmesti akį
         spotlight-on: Dėmesio centre
         whats-happening: 
       music:

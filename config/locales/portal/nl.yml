@@ -24,9 +24,9 @@ nl:
       home: Home
       more:
         agents: Meer mensen
-        topics: 
-      periods: 
-      places: 
+        topics: meer onderwerpen
+      periods: Tijdvakken
+      places: plaatsen
     pro-link: link naar pro
     pro-text: tekst voor pro
     settings: Instellingen
@@ -39,26 +39,26 @@ nl:
     blog-link: link naar de blog
     browse:
       colours:
-        description: 
+        description: 'Zoek naar afbeeldingen op basis van hun kleur. Klik op een gekleurd vakje hieronder en ontdek bijbehorende afbeeldingen. '
         title: Kleuren
       newcontent:
         description: 
-        tableh1: 
-        tableh2: 
+        tableh1: Alle instellingen
+        tableh2: Items
         tableh3: 
         title: Onlangs toegevoegd
       people:
-        description: 
-        title: 
+        description: Hier vindt u de hoogtepunten van onze collecties die betrekking hebben tot het leven en de werken van beroemde kunstenaars, componisten en andere belangrijke figuren uit de geschiedenis.
+        title: Mensen
       periods:
-        description: 
-        title: 
+        description: Bekijk per tijdsperiode
+        title: Tijdvakken
       sources:
-        description: 
+        description: 'Hieronder zie je een lijst van instellingen die hun inhoudelijk aan Europeana Collections bijgedragen. '
         title: Bronnen
       topics:
-        description: 
-        title: 
+        description: Ontdek onze onderwerpen, thema's of genres.
+        title: onderwerpen
     collections:
       art-history:
         description: Van de Renaissance tot het Surrealisme, van antieke Romeinse sculpturen tot aan hedendaagse kunst; de Europeana Kunst Collecties bevatten voor elk wat wils en zullen u versteld doen staan van alle kunstwerken en kunstenaars die Europa te bieden heeft!
@@ -73,10 +73,10 @@ nl:
         texts: Tekst
       labels:
         credits: Gecureerd door
-        designer: 
-        editors-picks: 
+        designer: Ontwerper
+        editors-picks: Favorieten van de redactie
         recent: Recent toegevoegd
-        sneak-peek: 
+        sneak-peek: Voorproefje
         spotlight-on: In de spotlight
         whats-happening: 
       music:

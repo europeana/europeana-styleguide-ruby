@@ -24,9 +24,9 @@ fr:
       home: Accueil
       more:
         agents: Plus de gens
-        topics: 
-      periods: 
-      places: 
+        topics: Plus de sujets
+      periods: Périodes de temps
+      places: Places
     pro-link: ''
     pro-text: ''
     settings: Paramètres
@@ -39,26 +39,26 @@ fr:
     blog-link: lien vers le blog
     browse:
       colours:
-        description: 
+        description: Recherche d&#39;images en fonction de leur couleur. Cliquez simplement sur une zone de couleur ci-dessous pour découvrir des images contenant cette couleur!
         title: Couleurs
       newcontent:
         description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
+        tableh1: Toutes les institutions
+        tableh2: Articles
+        tableh3: Date
         title: Nouveau contenu
       people:
-        description: 
-        title: 
+        description: Ici vous pouvez trouver des faits saillants de nos collections concernant les vies et les œuvres d&#39;artistes célèbres, compositeurs et autres figures importantes de l&#39;histoire.
+        title: Gens
       periods:
-        description: 
-        title: 
+        description: Parcourir par période
+        title: Périodes de temps
       sources:
-        description: 
+        description: Vous trouverez ci-dessous une liste des institutions qui ont contribué leur contenu à Europeana Collections. Ces institutions regroupent et contribuent leurs données à Europeana, cliquez sur le lien qui vous intéresse ci-dessous pour afficher une collection de partenaires particuliers!
         title: Sources
       topics:
-        description: 
-        title: 
+        description: Explorez nos collections par thème, thème ou genre.
+        title: Les sujets
     collections:
       art-history:
         description: 'Depuis la Renaissance jusqu''aux surréalistes, depuis la sculpture Romaine ancienne jusqu''à l''art contemporain, Europeana Collection Art et Histoire de l''Art vous fait découvrir les artistes et oeuvres d''art de toute l''Europe. '
@@ -73,10 +73,10 @@ fr:
         texts: Textes
       labels:
         credits: Administrée par
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Choix de l'éditeur
         recent: Ajouts récents
-        sneak-peek: 
+        sneak-peek: Aperçu
         spotlight-on: Lumière sur
         whats-happening: 
       music:

@@ -24,9 +24,9 @@
       home: Hjem
       more:
         agents: Flere mennesker
-        topics: 
-      periods: 
-      places: 
+        topics: Flere emner
+      periods: tidsperioder
+      places: steder
     pro-link: Lenke til pro
     pro-text: tekst for pro
     settings: Innstillinger
@@ -48,24 +48,24 @@
         tableh3: Dato
         title: Nytt innhold
       people:
-        description: 
-        title: 
+        description: Her finner du høydepunkter fra våre samlinger knyttet til liv og verker av kjente kunstnere, komponister og andre viktige figurer fra historien.
+        title: Mennesker
       periods:
-        description: 
+        description: Søk etter tidsperiode
         title: 
       sources:
         description: Under ser du en liste over kilder for våre samlinger. Disse kildene utvider og bidrar til samlinger på Europeana, klikk på lenkene under som interesserer deg for å se på alle samlingene deres!
         title: Kilder
       topics:
-        description: 
-        title: 
+        description: Se våre samlinger etter emne, tema eller sjanger.
+        title: temaer
     collections:
       art-history:
         description: Fra renessansen til surrealistene, og fra antikkens skulpturer til samtidskunst, Europeana kunsthistoriske samling introduserer deg for kunstnere og kunstverk fra over alt i hele Europa.
         title: Europeana Kunsthistorie
       data-types:
         3d: 3D-objekter
-        all: 
+        all: Alle
         count: objekter
         images: Bilder
         moving-images: Videoer
@@ -73,10 +73,10 @@
         texts: Tekst
       labels:
         credits: 'Kuratert av '
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Redaktørens plukker
         recent: Nylige tilføringer
-        sneak-peek: 
+        sneak-peek: Sniktitt
         spotlight-on: Søkelys på
         whats-happening: 
       music:

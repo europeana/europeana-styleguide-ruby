@@ -24,9 +24,9 @@ de:
       home: Startseite
       more:
         agents: Mehr Leute
-        topics: 
-      periods: 
-      places: 
+        topics: Weitere Themen
+      periods: Zeit Abschnitte
+      places: Setzt
     pro-link: Link zu Pro
     pro-text: Text für Pro
     settings: Einstellungen
@@ -39,26 +39,26 @@ de:
     blog-link: Link zum Blog
     browse:
       colours:
-        description: 
+        description: Suche nach Bildern basierend auf ihrer Farbe. Klicken Sie einfach auf ein farbiges Feld unten, um Bilder zu entdecken, die diese Farbe enthalten!
         title: Farben
       newcontent:
         description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
+        tableh1: Alle Institutionen
+        tableh2: Artikel
+        tableh3: Datum
         title: Neue Inhalte
       people:
-        description: 
-        title: 
+        description: Hier finden Sie Highlights aus unseren Sammlungen zu den Leben und Werken von berühmten Künstlern, Komponisten und anderen bedeutenden Persönlichkeiten aus der Geschichte.
+        title: Menschen
       periods:
-        description: 
-        title: 
+        description: Nach Zeitraum suchen
+        title: Zeit Abschnitte
       sources:
-        description: 
+        description: Unten sehen Sie eine Liste der Institutionen, die ihren Inhalt zu Europeana Collections beigetragen haben. Diese Institutionen aggregieren und tragen ihre Daten zu Europeana, klicken Sie auf den Link, der Sie unten interessiert, um eine bestimmte Partner-Kollektion zu sehen!
         title: Quellen
       topics:
-        description: 
-        title: 
+        description: Entdecken Sie unsere Sammlungen nach Thema, Thema oder Genre.
+        title: Themenbereiche
     collections:
       art-history:
         description: Von der Renaissance bis zu den Surrealisten, von antiken römischen Skulpturen bis zur zeitgenössischen Kunst, die Europeana Kunst und Kunstgeschichte Sammlung bringt Sie den Künstlern und Kunstwerken aus ganz Europa näher. [Something about interactive element]
@@ -73,10 +73,10 @@ de:
         texts: Texte
       labels:
         credits: Kuratiert von
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Redakteurfavoriten
         recent: Neu hinzugefügt
-        sneak-peek: 
+        sneak-peek: Sneak gucken
         spotlight-on: Spotlight auf
         whats-happening: 
       music:

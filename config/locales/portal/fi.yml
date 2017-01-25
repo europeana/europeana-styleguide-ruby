@@ -24,9 +24,9 @@ fi:
       home: Koti
       more:
         agents: Enemmän ihmisiä
-        topics: 
-      periods: 
-      places: 
+        topics: lisää aiheita
+      periods: ajanjaksot
+      places: paikat
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset
@@ -39,7 +39,7 @@ fi:
     blog-link: linkki blogiin
     browse:
       colours:
-        description: 
+        description: Etsiä kuvia perustuu niiden väriä. Klikkaa värillinen alla löytää sisältävien kuvien että väri!
         title: Värit
       newcontent:
         description: 
@@ -48,24 +48,24 @@ fi:
         tableh3: Päivämäärä
         title: Uutta sisältöä
       people:
-        description: 
-        title: 
+        description: Täältä löydät kohokohtia meidän kokoelmat liittyvät asuu ja työskentelee kuuluisia taiteilijoita, säveltäjiä ja muita tärkeitä lukuja historiasta.
+        title: Ihmiset
       periods:
-        description: 
-        title: 
+        description: Selata ajanjakso
+        title: Aikajaksot
       sources:
-        description: 
+        description: Allpool näed nimekirja institutsioonid, kes on andnud oma sisu Europeana Kollektsioonid. Need institutsioonid summeerida ning aidata oma andmed Europeana, vajuta link, mis teid huvitab, et näha konkreetse partneri kollektsioon!
         title: Lähteet
       topics:
-        description: 
-        title: 
+        description: Tutustu kokoelmat aiheen, teeman tai genren.
+        title: Aiheet
     collections:
       art-history:
         description: Renessanssista surrealisteihin ja antiikin Rooman kuvanveistosta nykytaiteeseen, Europeanan taidehistorian kokoelmat esittelevät sinulle taidetta ja taiteilijoita koko Euroopasta.
         title: Europeana taidehistoria
       data-types:
         3d: 3D-kohdetta
-        all: 
+        all: Kaikki
         count: kohdetta
         images: kuvaa
         moving-images: videota
@@ -73,10 +73,10 @@ fi:
         texts: tekstiä
       labels:
         credits: Kuratoinut
-        designer: 
-        editors-picks: 
+        designer: Suunnittelija
+        editors-picks: Toimittajan valinnat
         recent: Äskettäiset lisäykset
-        sneak-peek: 
+        sneak-peek: vilkaista
         spotlight-on: Valokeilassa
         whats-happening: 
       music:

@@ -24,9 +24,9 @@ da:
       home: Hjem
       more:
         agents: Flere folk
-        topics: 
-      periods: 
-      places: 
+        topics: Flere emner
+      periods: tidsperioder
+      places: Steder
     pro-link: link til pro
     pro-text: tekst til pro
     settings: Indstillinger
@@ -39,33 +39,33 @@ da:
     blog-link: link til blog
     browse:
       colours:
-        description: 
+        description: Søg efter billeder baseret på deres farve. Du skal blot klikke en farvet boks nedenfor for at finde billeder, der indeholder denne farve!
         title: Farver
       newcontent:
         description: 
-        tableh1: 
-        tableh2: 
-        tableh3: 
+        tableh1: Alle institutioner
+        tableh2: Elementer
+        tableh3: Dato
         title: Nyt Indhold
       people:
-        description: 
-        title: 
+        description: Her kan du finde højdepunkter fra vores samlinger vedrørende liv og værker af berømte kunstnere, komponister og andre vigtige tal fra historien.
+        title: Mennesker
       periods:
-        description: 
-        title: 
+        description: Gennemse efter tidsperiode
+        title: tidsperioder
       sources:
-        description: 
+        description: Nedenfor ser du en liste over institutioner, der har bidraget deres indhold til Europeana samlinger. Disse institutioner samle og bidrage med deres data til Europeana, skal du klikke på linket, der interesserer dig nedenfor for at se en bestemt partner samling!
         title: Kilder
       topics:
-        description: 
-        title: 
+        description: Udforsk vores samlinger efter emne, tema eller genre.
+        title: Emner
     collections:
       art-history:
         description: 'Europeanas Kunst- og Kunsthistoriesamling introducerer dig til kunstnere og værker fra hele Europa, fra renæssancen til surrealismen, og fra antik romersk skulptur til samtidskunsten.  '
         title: Europeana Kunsthistorie
       data-types:
         3d: 3D genstande
-        all: 
+        all: Alle
         count: 
         images: Billeder
         moving-images: Videoer
@@ -73,10 +73,10 @@ da:
         texts: Tekster
       labels:
         credits: Kurateret af
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Redaktørens picks
         recent: Senest tilføjet
-        sneak-peek: 
+        sneak-peek: Smugkig
         spotlight-on: Fokus på
         whats-happening: 
       music:

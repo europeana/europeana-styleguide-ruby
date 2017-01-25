@@ -24,9 +24,9 @@ ru:
       home: Домой
       more:
         agents: Больше людей
-        topics: 
-      periods: 
-      places: 
+        topics: Дополнительные разделы
+      periods: Периоды времени
+      places: места
     pro-link: Ссылка на Pro
     pro-text: Текст для Pro
     settings: Настройки
@@ -48,16 +48,16 @@ ru:
         tableh3: Дата
         title: Новинки
       people:
-        description: 
-        title: 
+        description: Aici puteți găsi scoate în evidență din colecțiile noastre referitoare la viața și lucrări ale unor artiști celebri, compozitori și alte figuri importante din istorie.
+        title: люди
       periods:
-        description: 
+        description: Обзор за определенный период времени
         title: 
       sources:
         description: 
         title: Источники
       topics:
-        description: 
+        description: Изучите наши коллекции по темам, темы или жанра.
         title: 
     collections:
       art-history:
@@ -65,7 +65,7 @@ ru:
         title: Europeana Art History
       data-types:
         3d: 3D объекты
-        all: 
+        all: Все
         count: Элементы
         images: Изображения
         moving-images: Видео
@@ -73,10 +73,10 @@ ru:
         texts: Тексты
       labels:
         credits: Курируется
-        designer: 
-        editors-picks: 
+        designer: дизайнер
+        editors-picks: Выбор редактора
         recent: Последние новинки
-        sneak-peek: 
+        sneak-peek: Глазок
         spotlight-on: В центре внимания
         whats-happening: 
       music:

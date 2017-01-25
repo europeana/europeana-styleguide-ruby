@@ -25,8 +25,8 @@ mt:
       more:
         agents: Izjed nies
         topics: Izjed suġġetti
-      periods: 
-      places: 
+      periods: perjodi ta zmień
+      places: postijiet
     pro-link: Link għal pro
     pro-text: Kitba għal pro
     settings: Settings
@@ -51,8 +51,8 @@ mt:
         description: Hawnhekk tista 'ssib whud mil-aħjar kollezzjonijiet relatati mal-ħajja u x-xogħolijiet ta artisti farmużi, kompożituri u nies importanti oħra mill-istorja.
         title: Nies
       periods:
-        description: 
-        title: 
+        description: Fittex skond perjodu ta &#39;żmien
+        title: Perjodi ta żmien
       sources:
         description: Hawn taħt tista' tara lista ta' sorsi għall-kollezzjonijiet tagħna. Dawn is sorsi ikomplu u jżidu kollezzjonijiet fuq Europeana, ikklikja fuq il-link li tinteressak hawn taħt biex tara l-kollezzjonijiet kollha!
         title: Sorsi
@@ -73,10 +73,10 @@ mt:
         texts: Kitba
       labels:
         credits: Superviżjonata minn
-        designer: 
-        editors-picks: 
+        designer: disinjatur
+        editors-picks: fisien Editur
         recent: Żidiet riċenti
-        sneak-peek: 
+        sneak-peek: Sneak Peek
         spotlight-on: Il-Lenti mixgħul
         whats-happening: 
       music:

@@ -24,9 +24,9 @@ ro:
       home: Acasă
       more:
         agents: Mai multi oameni
-        topics: 
-      periods: 
-      places: 
+        topics: Mai multe subiecte
+      periods: perioadele de timp
+      places: Locuri
     pro-link: 
     pro-text: 
     settings: Setări
@@ -39,7 +39,7 @@ ro:
     blog-link: 
     browse:
       colours:
-        description: 
+        description: Căutați imagini bazate pe culoarea lor. Pur și simplu faceți clic pe o casetă colorată de mai jos pentru a descoperi imagini care conțin această culoare!
         title: Culori
       newcontent:
         description: 
@@ -48,24 +48,24 @@ ro:
         tableh3: Dată
         title: Noi înregistrări
       people:
-        description: 
-        title: 
+        description: Aici puteți găsi scoate în evidență din colecțiile noastre referitoare la viața și lucrări ale unor artiști celebri, compozitori și alte figuri importante din istorie.
+        title: oameni
       periods:
-        description: 
-        title: 
+        description: Navigheaza dupa perioada de timp
+        title: Perioadele de timp
       sources:
-        description: 
+        description: Mai jos vedeți o listă a instituțiilor care au contribuit conținutul lor la Europeana Colecții. Aceste instituții agregate și să contribuie datele lor la Europeana, faceți clic pe link-ul care vă interesează mai jos pentru a vizualiza o anumită colecție partener!
         title: Surse
       topics:
-        description: 
-        title: 
+        description: Exploreaza colecțiile noastre de subiect, tema sau gen.
+        title: subiecte
     collections:
       art-history:
         description: De la Renaștere până la Suprarelism, de la sculptura Romei Antice la arta contemporană, colecția de Artă și Istoria Artelor din Europeana vă aduce în atenție artiști și opere de artă din întreaga Europă.
         title: Europeana Istoria Artelor
       data-types:
         3d: Obiecte 3D
-        all: 
+        all: Toate
         count: înregistrări
         images: Imagini
         moving-images: Înregistrări video
@@ -73,10 +73,10 @@ ro:
         texts: Texte
       labels:
         credits: Alcătuit de
-        designer: 
-        editors-picks: 
+        designer: proiectant
+        editors-picks: alegerile editorului
         recent: Adăugări recente
-        sneak-peek: 
+        sneak-peek: Privire pe furiș
         spotlight-on: Sub lupă
         whats-happening: 
       music:

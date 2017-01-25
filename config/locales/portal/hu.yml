@@ -24,9 +24,9 @@ hu:
       home: Főoldal
       more:
         agents: Több ember
-        topics: 
-      periods: 
-      places: 
+        topics: További témák
+      periods: időszakok
+      places: Helyek
     pro-link: link a pro-ra
     pro-text: pro-nak való szöveg
     settings: Beállítások
@@ -39,7 +39,7 @@ hu:
     blog-link: link a blogra
     browse:
       colours:
-        description: 
+        description: Keresés képek alapján a színük. Egyszerűen kattintson a színes alábbi mezőbe, hogy felfedezzék tartalmazó képeket szín!
         title: Színek
       newcontent:
         description: 
@@ -48,24 +48,24 @@ hu:
         tableh3: Dátum
         title: Új tartalom
       people:
-        description: 
-        title: 
+        description: Itt megtalálható kiemeli a mi gyűjtemények kapcsolatos él és dolgozik a híres művészek, zeneszerzők és más fontos adatai történetében.
+        title: Emberek
       periods:
-        description: 
-        title: 
+        description: Böngészés időtartam
+        title: Az időszakok
       sources:
-        description: 
+        description: Alább egy listát az intézmények, akik hozzájárultak a tartalmat Europeana gyűjtemények. Ezek az intézmények gyűjtik össze és hozzájárulnak adataik az Europeana, kattints a linkre, amely érdekli az alábbiakban megtekintheti egy adott partner gyűjtemény!
         title: Források
       topics:
-        description: 
-        title: 
+        description: Fedezze fel gyűjtemények téma, téma vagy műfaj.
+        title: témakörök
     collections:
       art-history:
         description: A reneszánsztól a szürrealistákig, az ókori római szobrászattól a kortárs művészetig, az Europeana Művészeti és Művészettörténeti Gyűjtemény bevezet a művészek és a műalkotások világába szerte Európából. [Valami interaktív elemről]
         title: Europeana Művészettörténet
       data-types:
         3d: 3D tárgyak
-        all: 
+        all: Minden
         count: elemek
         images: Képek
         moving-images: Videók
@@ -73,10 +73,10 @@ hu:
         texts: Szövegek
       labels:
         credits: Kurátor
-        designer: 
-        editors-picks: 
+        designer: Tervező
+        editors-picks: A szerkesztő ajánlata
         recent: Legutóbbi hozzáadások
-        sneak-peek: 
+        sneak-peek: Bepillantás
         spotlight-on: Reflektorfényben
         whats-happening: 
       music:

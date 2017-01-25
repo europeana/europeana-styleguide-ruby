@@ -24,9 +24,9 @@ bg:
       home: Начало
       more:
         agents: Повече хора
-        topics: 
-      periods: 
-      places: 
+        topics: Още теми
+      periods: Сроковете
+      places: места
     pro-link: линк към Pro
     pro-text: текст за Pro
     settings: Настройки
@@ -39,7 +39,7 @@ bg:
     blog-link: линк към блог
     browse:
       colours:
-        description: 
+        description: Търсене на изображения на базата на техния цвят. Просто кликнете на цветна кутия по-долу, за да откриете изображения, съдържащи този цвят!
         title: Цветове
       newcontent:
         description: 
@@ -48,24 +48,24 @@ bg:
         tableh3: Дата
         title: Ново съдържание
       people:
-        description: 
-        title: 
+        description: Тук можете да намерите акценти от нашите колекции, свързани с живота и творчеството на известни художници, композитори и други важни фигури от историята.
+        title: хора
       periods:
-        description: 
-        title: 
+        description: Преглед по период от време
+        title: периоди от време
       sources:
-        description: 
+        description: По-долу можете да видите списък на институциите, които са допринесли тяхното съдържание към Europeana колекции. Тези институции се обединят и да допринесат със своите данни за Europeana, щракнете върху връзката, която ви интересува по-долу, за да видите точно определена колекция партньор!
         title: Източници
       topics:
-        description: 
-        title: 
+        description: Разгледай колекции нашите по тема, тема или жанр.
+        title: Теми
     collections:
       art-history:
         description: От Ренесанса до сюрреализма, от древни римски скулптури до модерно изкуство, колекциите на Европеана за изкуство и история на изкуството Ви представя творци и произведения на изкуството от цяла Европа.
         title: Колекции на Европеана за история на изкуството
       data-types:
         3d: 3D обекти
-        all: 
+        all: всичко
         count: обекти
         images: Изображения
         moving-images: Видео
@@ -73,10 +73,10 @@ bg:
         texts: Текстове
       labels:
         credits: Куриран от
-        designer: 
-        editors-picks: 
+        designer: дизайнер
+        editors-picks: Избор на редактора
         recent: Последни допълнения
-        sneak-peek: 
+        sneak-peek: Бърз поглед
         spotlight-on: Фокус върху
         whats-happening: 
       music:

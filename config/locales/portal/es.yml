@@ -25,8 +25,8 @@ es:
       more:
         agents: Más personas
         topics: Más temas
-      periods: 
-      places: 
+      periods: Períodos de tiempo
+      places: Lugares
     pro-link: link a pro
     pro-text: texto para pro
     settings: Ajustes
@@ -51,8 +51,8 @@ es:
         description: Aquí se encuentran algunos contenidos destacados de nuestras colecciones relacionadas con las vidas y obras de famosos artistas, compositores y otras figuras importantes de la historia.
         title: Personas
       periods:
-        description: 
-        title: 
+        description: Navegar por período de tiempo
+        title: Períodos de tiempo
       sources:
         description: A continuación puede ver una lista de las instituciones que han aportado su contenido a Europeana Collections. Estas instituciones agregan y aportar sus datos a Europeana, Haga clic en el enlace que le interese para ver una colección de un proveedor en particular.
         title: Recursos
@@ -73,10 +73,10 @@ es:
         texts: Textos
       labels:
         credits: Curado por
-        designer: 
-        editors-picks: 
+        designer: Diseñador
+        editors-picks: Destacados
         recent: Adiciones recientes
-        sneak-peek: 
+        sneak-peek: Vistazo
         spotlight-on: Destacados
         whats-happening: 
       music:

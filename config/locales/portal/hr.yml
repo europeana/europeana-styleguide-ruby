@@ -24,9 +24,9 @@ hr:
       home: Naslovnica
       more:
         agents: Više ljudi
-        topics: 
-      periods: 
-      places: 
+        topics: Više tema
+      periods: Vremenska razdoblja
+      places: Mjesta
     pro-link: http://pro.europeana.eu/
     pro-text: tekst za pro
     settings: Postavke
@@ -48,24 +48,24 @@ hr:
         tableh3: Datum
         title: Novi sadržaj
       people:
-        description: 
-        title: 
+        description: Ovdje možete pronaći najbolje iz naših zbirki koje se odnose na život i djela poznatih umjetnika, skladatelja i druge važne ličnosti iz povijesti.
+        title: narod
       periods:
-        description: 
-        title: 
+        description: Pregled po vremenskom periodu
+        title: Vremenska razdoblja
       sources:
         description: U nastavku možete vidjeti popis izvora za naše zbirke. Oni skupljaju i doprinose svojim zbirkama Europeani. Slijedite poveznicu koja vas zanima i pristupit ćete svim njihovim zbirkama!
         title: Izvori
       topics:
-        description: 
-        title: 
+        description: Istražite naše Zbirke po temi, temama ili žanr.
+        title: Teme
     collections:
       art-history:
         description: Od renesanse do nadrealista te od starorimske skulpture do suvremene umjetnosti, Europeanina povijesno-umjetnička zbirka upoznaje vas s umjetnicima i umjetničkim djelima iz cijele Europe.
         title: Europeana povijest umjetnosti
       data-types:
         3d: 3D predmeta
-        all: 
+        all: svi
         count: objekata
         images: slika
         moving-images: video zapisa
@@ -73,10 +73,10 @@ hr:
         texts: tekstova
       labels:
         credits: Priredio
-        designer: 
-        editors-picks: 
+        designer: Dizajner
+        editors-picks: Urednički odabir
         recent: Nedavno dodano
-        sneak-peek: 
+        sneak-peek: Sneak Peek
         spotlight-on: U fokusu
         whats-happening: 
       music:

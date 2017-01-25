@@ -24,9 +24,9 @@ el:
       home: Αρχική
       more:
         agents: Περισσότεροι άνθρωποι
-        topics: 
-      periods: 
-      places: 
+        topics: περισσότερα θέματα
+      periods: χρονικές περιόδους
+      places: Μέρη
     pro-link: ''
     pro-text: ''
     settings: προτιμήσεις
@@ -39,7 +39,7 @@ el:
     blog-link: ''
     browse:
       colours:
-        description: 
+        description: Αναζήτηση εικόνων με βάση το χρώμα τους. Απλά κάντε κλικ σε ένα έγχρωμο πλαίσιο παρακάτω για να ανακαλύψετε τις εικόνες που περιέχουν αυτό το χρώμα!
         title: Χρώματα
       newcontent:
         description: 
@@ -48,24 +48,24 @@ el:
         tableh3: Ημερομηνία
         title: Νέο Περιεχόμενο
       people:
-        description: 
-        title: 
+        description: Εδώ μπορείτε να βρείτε στιγμιότυπα από τις συλλογές μας σχετικά με τη ζωή και τα έργα των διάσημων καλλιτεχνών, συνθετών και άλλων σημαντικές προσωπικότητες από την ιστορία.
+        title: Ανθρωποι
       periods:
-        description: 
-        title: 
+        description: Περιηγηθείτε ανά χρονική περίοδο
+        title: χρονικές περιόδους
       sources:
-        description: 
+        description: Παρακάτω μπορείτε να δείτε μια λίστα με τους οργανισμούς που συνέβαλαν περιεχόμενό τους στην Europeana Συλλογές. Τα ιδρύματα αυτά συγκεντρώνουν και να συμβάλει τα δεδομένα τους στην Europeana, κάντε κλικ στον σύνδεσμο που σας ενδιαφέρει παρακάτω, για να προβάλετε μια συγκεκριμένη συλλογή συνεργάτη!
         title: Πηγές
       topics:
-        description: 
-        title: 
+        description: Εξερευνήστε τις συλλογές μας με το θέμα, το θέμα ή το ύφος.
+        title: Θέματα
     collections:
       art-history:
         description: Από την Αναγγένηση μέχρι τους υπερρεαλιστές, και από την γλυπτική της Αρχαίας Ρώμης στην σύγχρονη τέχνη, η Συλλογή Europeana Τέχνη και Ιστορία της Τέχνης σας παρουσιάζει καλλιτέχνες και έργα τέχνης από όλη την Ευρώπη
         title: Europeana Ιστορία της Τέχνης
       data-types:
         3d: 3D αντικείμενα
-        all: 
+        all: Ολα
         count: εγγραφές
         images: Εικόνες
         moving-images: Βίντεο
@@ -73,10 +73,10 @@ el:
         texts: Κείμενα
       labels:
         credits: Επιμελημένες από
-        designer: 
-        editors-picks: 
+        designer: Σχεδιαστής
+        editors-picks: επιλογές του συντάκτη
         recent: Πρόσφατες προσθήκες
-        sneak-peek: 
+        sneak-peek: Sneak peek
         spotlight-on: Ενεργοποίηση Spotlight
         whats-happening: 
       music:

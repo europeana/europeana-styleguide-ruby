@@ -24,9 +24,9 @@ sv:
       home: Start
       more:
         agents: Fler människor
-        topics: 
+        topics: fler ämnen
       periods: 
-      places: 
+      places: platser
     pro-link: länk till Pro
     pro-text: 
     settings: Inställningar
@@ -48,7 +48,7 @@ sv:
         tableh3: Datum
         title: Nytt innehåll
       people:
-        description: 
+        description: Här hittar du höjdpunkterna från våra samlingar som rör liv och verk av kända artister, kompositörer och andra viktiga siffror från historien.
         title: Personer
       periods:
         description: 
@@ -57,7 +57,7 @@ sv:
         description: 'Här finner du de senaste uppdateringarna i Europeanas samlingar. Från vilken partner, hur mycket och när. '
         title: Källor
       topics:
-        description: 
+        description: Utforska våra samlingar efter ämne, tema eller genre.
         title: Ämnen och typer
     collections:
       art-history:
@@ -65,7 +65,7 @@ sv:
         title: Konsthistoria
       data-types:
         3d: 3D objekt
-        all: 
+        all: Allt
         count: poster
         images: Bilder
         moving-images: Video
@@ -73,10 +73,10 @@ sv:
         texts: Texter
       labels:
         credits: Sammanställd av
-        designer: 
-        editors-picks: 
+        designer: Designer
+        editors-picks: Redaktörens plockar
         recent: Senaste tilläggen
-        sneak-peek: 
+        sneak-peek: smygtitt
         spotlight-on: 
         whats-happening: 
       music:

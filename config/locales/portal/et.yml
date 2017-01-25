@@ -24,9 +24,9 @@ et:
       home: Avaleht
       more:
         agents: Rohkem inimesi
-        topics: 
-      periods: 
-      places: 
+        topics: Veel teemasid
+      periods: ajaperioodid
+      places: Kohad
     pro-link: link Pro'sse
     pro-text: tekst Pro jaoks
     settings: Seadistused
@@ -48,24 +48,24 @@ et:
         tableh3: Kuupäev
         title: Uus sisu
       people:
-        description: 
-        title: 
+        description: Siit leiad tipphetki meie kollektsioonid, mis on seotud elu ja tööd tuntud kunstnikud, heliloojad ja muud olulised näitajad ajaloost.
+        title: Inimesed
       periods:
-        description: 
-        title: 
+        description: Sirvi aja järgi
+        title: ajaperioodide
       sources:
         description: Allpool näed loetelu meie kogude allikaist. Need allikad koondavad ja panustavad kogusid Europeanasse. Klõpsa sind huvitavale lingile, et sind viidaks kõikide nende kogudeni!
         title: Allikad
       topics:
-        description: 
-        title: 
+        description: Tutvuge meie kollektsioonid teemade kaupa, kujundusele või žanr.
+        title: Teemasid
     collections:
       art-history:
         description: Renessanssist sürrealistideni, Vana-Rooma skultuuridest tänapäevase kunstini - Europeana Kunstiajaloo Kogu tutvustab Teile kunstnikke ja teoseid kogu Euroopast.
         title: Europeana Kunstiajalugu
       data-types:
         3d: 3D objektid
-        all: 
+        all: kõik
         count: esemed
         images: Kujutised
         moving-images: Videod
@@ -73,10 +73,10 @@ et:
         texts: Tekstid
       labels:
         credits: Kuraator
-        designer: 
-        editors-picks: 
+        designer: Disainer
+        editors-picks: Toimetaja Huvitavat
         recent: Hiljutised täiendused
-        sneak-peek: 
+        sneak-peek: Eelvaade
         spotlight-on: Esile tõstetud
         whats-happening: 
       music:
