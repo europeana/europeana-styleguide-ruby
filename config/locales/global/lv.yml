@@ -425,6 +425,7 @@ lv:
     find-us-social-media: Meklē %{channel} sociālajos tīklos
     follow-channel: 
     forgot-password: Aizmirsi savu paroli?
+    galleries: 
     genres: žanri
     genres-chamber-music: Kamermūzika
     genres-classical-music: Klasiskā mūzika
@@ -441,6 +442,8 @@ lv:
     help: Palīdzība
     home: Sākums
     javascript-required: Lai aplūkotu šo saturu, lūdzu, iespējojiet JavaScript un apsveriet iespēju atjaunināt interneta pārlūku, lai tas atbalstītu HTML5 saturu.
+    labels:
+      images: 
     labs: Laboratorija
     labs-text: Remiksē kultūras saturu ar mūsu API un datu kopām
     language-basque: Basku

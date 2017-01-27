@@ -425,6 +425,7 @@ en:
     find-us-social-media: Find %{channel} on social media
     follow-channel: Follow %{channel}
     forgot-password: Forgot your password?
+    galleries: Galleries
     genres: genres
     genres-chamber-music: Chamber music
     genres-classical-music: Classical music
@@ -441,6 +442,8 @@ en:
     help: Help
     home: Home
     javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
+    labels:
+      images: images
     labs: Labs
     labs-text: 'Remix cultural content with our APIs & datasets
 

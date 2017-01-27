@@ -427,6 +427,7 @@ it:
     find-us-social-media: Trova %{channel}  sui social media
     follow-channel: 
     forgot-password: Hai dimenticato la password?
+    galleries: 
     genres: Genere
     genres-chamber-music: Musica da camera
     genres-classical-music: Musica classica
@@ -443,6 +444,8 @@ it:
     help: Aiuto
     home: 
     javascript-required: Per vedere questo contenuto è necessario attivare Javascript, e consideri aggiornare il browser a una versione più recente che supporti i contenuti HTML5
+    labels:
+      images: 
     labs: Laboratori
     labs-text: Crea un remix di contenuti culturali con le nostre API e i nostri dataset
     language-basque: Basco

@@ -425,6 +425,7 @@ fi:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Unohditko salasanasi?
+    galleries: 
     genres: genret
     genres-chamber-music: Kamarimusiikko
     genres-classical-music: Klassinen musiikki
@@ -441,6 +442,8 @@ fi:
     help: Apu
     home: Koti
     javascript-required: Ota JavaScript käyttöön, jotta näet tämän sisällön. Harkitse myös päivittämistä selaimeen, joka tukee HTML5-sisältöjä.
+    labels:
+      images: 
     labs: Labs
     labs-text: Remiksaa kulttuurisisältöjä APIemme ja datasettiemme avulla
     language-basque: Baski

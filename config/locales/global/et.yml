@@ -425,6 +425,7 @@ et:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Unustasid parooli?
+    galleries: 
     genres: žanrid
     genres-chamber-music: Kammermuusika
     genres-classical-music: Klassikaline muusika
@@ -443,6 +444,8 @@ et:
     help: Abi
     home: Avaleht
     javascript-required: Et näha seda sisu, luba palun JavaScript ja kaalu HTML5 toega veebilehitseja kasutuselevõttu.
+    labels:
+      images: 
     labs: Laborid
     labs-text: Remix'i kultuurilist sisu läbi meie API'de ja andmestike
     language-basque: baski

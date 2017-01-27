@@ -425,6 +425,7 @@ pl:
     find-us-social-media: Znajdź %{channel} w mediach społecznościowych
     follow-channel: 
     forgot-password: Nie pamiętam hasła.
+    galleries: 
     genres: gatunki
     genres-chamber-music: Muzyka kameralna
     genres-classical-music: Muzyka poważna
@@ -441,6 +442,8 @@ pl:
     help: Pomoc
     home: Strona główna
     javascript-required: Chcesz uzyskać dostęp do pełnej zawartości tej strony? W tym celu należy włączyć obsługę JavaScript. Zalecamy również zmianę przeglądarki na obsługującą elementy w HTML5
+    labels:
+      images: 
     labs: Europeana Labs
     labs-text: Wykorzystaj twórczo nasze zasoby dzięki API
     language-basque: Baskijski

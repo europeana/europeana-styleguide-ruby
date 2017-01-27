@@ -425,6 +425,7 @@ ru:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Забыли пароль?
+    galleries: 
     genres: Жанры
     genres-chamber-music: Камерная музыка
     genres-classical-music: Классическая музыка
@@ -441,6 +442,8 @@ ru:
     help: Помощь
     home: Домой
     javascript-required: Чтобы увидеть содержимое, пожалуйста, включите JavaScript в Вашем браузере и попробуйте обновить веб-браузер до версии, которая поддерживает HTML5.
+    labels:
+      images: 
     labs: Labs
     labs-text: Воспользуйтесь нашими API сервисами и коллекциями
     language-basque: Баскский

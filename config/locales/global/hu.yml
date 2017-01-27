@@ -425,6 +425,7 @@ hu:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Elfelejtetted a jelszavad?
+    galleries: 
     genres: műfajok
     genres-chamber-music: Kamarazene
     genres-classical-music: Klasszikus zene
@@ -441,6 +442,8 @@ hu:
     help: Segítség
     home: Főoldal
     javascript-required: Hogy ezt a tartalmat megtekinthesse, kérjük engedélyezze a JavaScript használatát; javasoljuk olyan böngésző használatát is, mely a HTML5 tartalmat támogatja.
+    labels:
+      images: 
     labs: Labs
     labs-text: Remixelje a kulturális tartalmainkat az API-ink és adathalmazaink segítségével.
     language-basque: Baszk

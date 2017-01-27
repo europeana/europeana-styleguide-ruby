@@ -425,6 +425,7 @@ el:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Ξεχάσατε τον κωδικό σας
+    galleries: 
     genres: είδη
     genres-chamber-music: Μουσική δωματίου
     genres-classical-music: Κλασσική μουσική
@@ -441,6 +442,8 @@ el:
     help: Βοήθεια
     home: Αρχική
     javascript-required: Για να αποκτήσετε πρόσβαση σε αυτό το περιεχόμενο, ενεργοποιήστε τις επεκτάσεις Javascript, και χρησιμοποιήστε έναν φυλλομετρητή με υποστήριξη περιεχομένου HTML5
+    labels:
+      images: 
     labs: 
     labs-text: Συνδυάστε πολιτιστικό περιεχόμενο μέσω των APIs και τις συλλογές μας
     language-basque: Βάσκικα

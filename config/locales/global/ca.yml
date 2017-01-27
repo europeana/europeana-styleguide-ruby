@@ -425,6 +425,7 @@ ca:
     find-us-social-media: 
     follow-channel: 
     forgot-password: No recordes la teva paraula de pas?
+    galleries: 
     genres: gèneres
     genres-chamber-music: Música de cambra
     genres-classical-music: Música clàssica
@@ -441,6 +442,8 @@ ca:
     help: Ajuda
     home: Inici
     javascript-required: Per veure aquest contingut necessites habilitar el JavaScript, i considerar actualitzar a un navegador que suporti continguts HTML5.
+    labels:
+      images: 
     labs: Labs
     labs-text: Remescla contingut cultural amb la nostra API i datasets
     language-basque: Basc

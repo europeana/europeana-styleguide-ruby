@@ -425,6 +425,7 @@ ro:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Parola uitată?
+    galleries: 
     genres: genuri
     genres-chamber-music: Muzică de cameră
     genres-classical-music: Muzică clasică
@@ -441,6 +442,8 @@ ro:
     help: Ajutor
     home: Acasă
     javascript-required: Pentru a accesa acest conținut activați opțiunea JavaScript, și luați în considerare actualizarea navigatorului dvs. web către o versiune care suportă vizualizarea de conținut HTML5.
+    labels:
+      images: 
     labs: ''
     labs-text: Combină conținutul digital cultural cu ajutorul interfeței API & a seturilor de date
     language-basque: 

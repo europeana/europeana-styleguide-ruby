@@ -425,6 +425,7 @@ tr:
     find-us-social-media: 
     follow-channel: 
     forgot-password: 
+    galleries: 
     genres: 
     genres-chamber-music: 
     genres-classical-music: 
@@ -441,6 +442,8 @@ tr:
     help: 
     home: 
     javascript-required: 
+    labels:
+      images: 
     labs: 
     labs-text: 
     language-basque: 

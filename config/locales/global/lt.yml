@@ -425,6 +425,7 @@ lt:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Pamiršote slaptažodį?
+    galleries: 
     genres: Žanrai
     genres-chamber-music: Kamerinė muzika
     genres-classical-music: Klasikinė muzika
@@ -441,6 +442,8 @@ lt:
     help: Pagalba
     home: Pagrindinis
     javascript-required: Norėdami matyti šį turinį, įjunkite JavaScript bei apsvarstykite galimybę atnaujinti naršyklės versiją į tokią, kuri palaiko HTML5 turinį.
+    labels:
+      images: 
     labs: Labs
     labs-text: Derinkite turinį naudodamiesi mūsų API ir duomenų rinkiniais
     language-basque: Baskų

@@ -427,6 +427,7 @@ de:
     find-us-social-media: "%{channel} finden auf Social Media-Websites"
     follow-channel: 
     forgot-password: Haben Sie Ihr Passwort vergessen?
+    galleries: 
     genres: Gattungen
     genres-chamber-music: Kammermusik
     genres-classical-music: Klassische Musik
@@ -443,6 +444,8 @@ de:
     help: Hilfe
     home: Startseite
     javascript-required: Um diese Inhalte zu sehen aktivieren Sie bitte JavaScript. Erwägen Sie zudem auf einen Web-Browser zurückzugreifen der HTML5-Inhalte unterstützt.
+    labels:
+      images: 
     labs: Labs
     labs-text: Remixen Sie kulturelle Inhalte mit unseren API & Datensätzen
     language-basque: Baskisch

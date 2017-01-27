@@ -427,6 +427,7 @@ mt:
     find-us-social-media: Fittex %{channel} fuq midja soċjali
     follow-channel: 
     forgot-password: Insejt il-password?
+    galleries: 
     genres: tip
     genres-chamber-music: Mużika 'chamber'
     genres-classical-music: Mużika klassika
@@ -443,6 +444,8 @@ mt:
     help: Għinuna
     home: Paġna Primarja
     javascript-required: Biex taċċessa l-kontenut, jekk joġgħbok ħaddem il-JavaScript, u kkonsidra li tuża web browswer li jiflaħ kontenut ta' HTML5.
+    labels:
+      images: 
     labs: Laboratorji
     labs-text: Remix tal-kontenut kulturali ma' l-APIs & datasets tagħna
     language-basque: Bask

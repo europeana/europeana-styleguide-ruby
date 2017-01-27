@@ -425,6 +425,7 @@ fr:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Vous avez oublié votre mot de passe ?
+    galleries: 
     genres: genres
     genres-chamber-music: Musique de chambre
     genres-classical-music: Musique classique
@@ -441,6 +442,8 @@ fr:
     help: Aide
     home: Accueil
     javascript-required: Pour voir ce contenu, activez l'option JavaScript si elle est désactivée; nous vous recommandons de mettre à niveau votre navigateur avec une version compatible avec HTML5.
+    labels:
+      images: 
     labs: 
     labs-text: Réutilisez notre contenu par nos APIs et datasets
     language-basque: Basque

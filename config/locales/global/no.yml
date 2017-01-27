@@ -425,6 +425,7 @@
     find-us-social-media: 
     follow-channel: 
     forgot-password: glemt-passord
+    galleries: 
     genres: sjangre
     genres-chamber-music: sjangre-kammermusikk
     genres-classical-music: sjangre-klassisk-musikk
@@ -441,6 +442,8 @@
     help: hjelp
     home: hjem
     javascript-required: javascript-påkrevd
+    labels:
+      images: 
     labs: lab
     labs-text: lab-tekst
     language-basque: språk-baskisk

@@ -425,6 +425,7 @@ pt:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Esqueceu-se da palavra-passe?
+    galleries: 
     genres: géneros
     genres-chamber-music: Música de câmara
     genres-classical-music: Música clássica
@@ -441,6 +442,8 @@ pt:
     help: Ajuda
     home: Início
     javascript-required: Para ver este conteúdo por favor active o JavaScript, e considere actualizar para um navegador que suporte conteúdo HTML5.
+    labels:
+      images: 
     labs: Europeana Labs
     labs-text: Remisture conteúdo cultural com as nossas APIs e conjunto de dados
     language-basque: Basco

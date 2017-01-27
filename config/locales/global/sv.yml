@@ -425,6 +425,7 @@ sv:
     find-us-social-media: 
     follow-channel: 
     forgot-password: Glömt ditt lösenord?
+    galleries: 
     genres: genrer
     genres-chamber-music: Kammarmusik
     genres-classical-music: Klassisk musik
@@ -441,6 +442,8 @@ sv:
     help: Hjälp
     home: Hem
     javascript-required: För att se detta innehåll aktivera JavaScript och uppgradera till senare versioner av webbläsare som stödjer HTML5
+    labels:
+      images: 
     labs: Labs
     labs-text: Remixa kulturarvet med våra data och APIer
     language-basque: Baskiska

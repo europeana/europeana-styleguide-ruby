@@ -427,6 +427,7 @@ es:
     find-us-social-media: Encontrar %{channel} en las redes sociales
     follow-channel: 
     forgot-password: Olvidaste tu contraseña?
+    galleries: 
     genres: generos
     genres-chamber-music: 'Música de Cámara '
     genres-classical-music: Música Clásica
@@ -443,6 +444,8 @@ es:
     help: Ayuda
     home: Casa
     javascript-required: Para ver este contenido, active por favor JavaScript  y considere actualizar su navegador para que soporte contenido HTML5
+    labels:
+      images: 
     labs: Labs
     labs-text: 'Remezcla contenido cultural con nuestros datos y API '
     language-basque: Vasco

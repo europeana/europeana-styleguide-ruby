@@ -427,6 +427,7 @@ da:
     forgot-password: 'Glemt dit brugernavn?
 
 '
+    galleries: 
     genres: genre
     genres-chamber-music: Kamer musik
     genres-classical-music: Klassisk musik
@@ -443,6 +444,8 @@ da:
     help: Hjælp
     home: Hjem
     javascript-required: 'For at kunne se dette indhold, venligst tillad brugen af Javascript og overvej at opgradere til en web browser, der støtter indhold fra HTML 5 '
+    labels:
+      images: 
     labs: Labs
     labs-text: Mix kultur indhold med vore APIs og datasæt
     language-basque: Basque
