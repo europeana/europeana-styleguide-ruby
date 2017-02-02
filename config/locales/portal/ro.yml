@@ -202,6 +202,7 @@ ro:
         relations: Relații
         rights: Drepturi
         rights-human: Pot folosi?
+        rights-statement: 
         runtime: runtime
         runtime-unit-seconds: secunde
         source: Sursă

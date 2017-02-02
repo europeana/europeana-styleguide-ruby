@@ -202,6 +202,7 @@ pl:
         relations: Relacje
         rights: Prawa autorskie
         rights-human: Czy mogę tego użyć?
+        rights-statement: 
         runtime: Długość
         runtime-unit-seconds: sekundy
         source: Źródło

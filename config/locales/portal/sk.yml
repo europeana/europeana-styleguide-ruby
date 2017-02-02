@@ -202,6 +202,7 @@ sk:
         relations: 
         rights: 
         rights-human: 
+        rights-statement: 
         runtime: 
         runtime-unit-seconds: 
         source: 

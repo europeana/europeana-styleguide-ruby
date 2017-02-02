@@ -204,6 +204,7 @@ bg:
         relations: Връзки
         rights: Права
         rights-human: Мога ли да ползвам това?
+        rights-statement: 
         runtime: Време за обработка
         runtime-unit-seconds: секунди
         source: Източник

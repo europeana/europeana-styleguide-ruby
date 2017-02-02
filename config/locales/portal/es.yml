@@ -202,6 +202,7 @@ es:
         relations: Relaciones
         rights: Derechos de Autor
         rights-human: Puedo usarlo?
+        rights-statement: 
         runtime: Tiempo de ejecución
         runtime-unit-seconds: segundos
         source: Fuente

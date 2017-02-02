@@ -202,6 +202,7 @@ fr:
         relations: Relations
         rights: Droits
         rights-human: Puis-je l'utiliser?
+        rights-statement: 
         runtime: 
         runtime-unit-seconds: secondes
         source: Source

@@ -202,6 +202,7 @@ pt:
         relations: Relações
         rights: Direitos
         rights-human: Posso usar isto?
+        rights-statement: 
         runtime: Duração
         runtime-unit-seconds: segundos
         source: Fonte

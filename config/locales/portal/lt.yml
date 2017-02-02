@@ -202,6 +202,7 @@ lt:
         relations: Sąsajos
         rights: Teisės
         rights-human: Ar galiu tai naudoti?
+        rights-statement: 
         runtime: Trukmė
         runtime-unit-seconds: sekundės
         source: Šaltinis

@@ -202,6 +202,7 @@ hu:
         relations: Kapcsolatok
         rights: Jogok
         rights-human: Használhatom?
+        rights-statement: 
         runtime: Lejátszási idő
         runtime-unit-seconds: másodperc
         source: Forrás

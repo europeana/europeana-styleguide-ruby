@@ -202,6 +202,7 @@
         relations: Relasjoner
         rights: Rettigheter
         rights-human: Kan jeg bruke dette?
+        rights-statement: 
         runtime: Kjøretid
         runtime-unit-seconds: sekunder
         source: Kilde

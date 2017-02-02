@@ -202,6 +202,7 @@ ru:
         relations: Связи
         rights: Права
         rights-human: Могу ли я это использовать?
+        rights-statement: 
         runtime: В режиме реального времени
         runtime-unit-seconds: секунд(ы)
         source: Источник

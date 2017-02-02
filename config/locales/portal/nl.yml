@@ -202,6 +202,7 @@ nl:
         relations: Relaties
         rights: Rechten
         rights-human: Mag ik dit gebruiken?
+        rights-statement: 
         runtime: Totale tijd
         runtime-unit-seconds: seconde
         source: Bron en Herkomst

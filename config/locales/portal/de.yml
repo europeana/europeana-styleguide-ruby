@@ -202,6 +202,7 @@ de:
         relations: Beziehungen
         rights: Rechte
         rights-human: Verwendbarkeit
+        rights-statement: 
         runtime: Laufzeit
         runtime-unit-seconds: Sekunden
         source: Quelle

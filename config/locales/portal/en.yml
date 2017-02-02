@@ -202,6 +202,7 @@ en:
         relations: Relations
         rights: Rights
         rights-human: Can I use this?
+        rights-statement: Rights statement
         runtime: Run time
         runtime-unit-seconds: seconds
         source: Source

@@ -202,6 +202,7 @@ el:
         relations: Συσχετίσεις
         rights: Δικαιώματα χρήσης
         rights-human: Μπορώ να το χρησιμοποιήσω;
+        rights-statement: 
         runtime: Διάρκεια αναπαραγωγής
         runtime-unit-seconds: δευτερόλεπτα
         source: Πηγή

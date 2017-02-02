@@ -202,6 +202,7 @@ sv:
         relations: Relationer
         rights: Rättigheter
         rights-human: Kan jag använda det digitala objektet?
+        rights-statement: 
         runtime: Speltid
         runtime-unit-seconds: sekunder
         source: Källa

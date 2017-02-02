@@ -202,6 +202,7 @@ et:
         relations: Seosed
         rights: Õigused
         rights-human: Kas ma saan seda kasutada?
+        rights-statement: 
         runtime: Käitusaeg
         runtime-unit-seconds: sekundid
         source: Allikas

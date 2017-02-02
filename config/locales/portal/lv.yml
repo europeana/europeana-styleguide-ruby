@@ -202,6 +202,7 @@ lv:
         relations: Saistība
         rights: Tiesības
         rights-human: Vai es varu to izmantot?
+        rights-statement: 
         runtime: Izpildes laiks
         runtime-unit-seconds: sekundes
         source: Avots

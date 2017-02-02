@@ -202,6 +202,7 @@ fi:
         relations: Linkit
         rights: Oikeudet
         rights-human: Voinko käyttää tätä?
+        rights-statement: 
         runtime: Kesto
         runtime-unit-seconds: sekuntia
         source: Lähde
