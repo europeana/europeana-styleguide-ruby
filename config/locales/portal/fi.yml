@@ -27,6 +27,7 @@ fi:
         topics: lisää aiheita
       periods: ajanjaksot
       places: paikat
+      view-collection: 
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset
