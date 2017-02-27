@@ -27,7 +27,7 @@ et:
         topics: Veel teemasid
       periods: ajaperioodid
       places: Kohad
-      view-collection: 
+      view-collection: Vaata kogu kollektsiooni
     pro-link: link Pro'sse
     pro-text: tekst Pro jaoks
     settings: Seadistused
@@ -53,7 +53,7 @@ et:
         title: Inimesed
       periods:
         description: Sirvi aja järgi
-        title: ajaperioodide
+        title: Ajaperioodide
       sources:
         description: Allpool näed loetelu meie kogude allikaist. Need allikad koondavad ja panustavad kogusid Europeanasse. Klõpsa sind huvitavale lingile, et sind viidaks kõikide nende kogudeni!
         title: Allikad
@@ -79,7 +79,7 @@ et:
         recent: Hiljutised täiendused
         sneak-peek: Eelvaade
         spotlight-on: Esile tõstetud
-        whats-happening: 
+        whats-happening: Mis toimub
       music:
         description: <strong>Europeana Muusikakogu</strong> toob ühte kohta kokku parimad salvestised, noodilehed ja muu muusikaga seotu kõikidest euroopa audiovisuaalarhiividest, raamatukogudest ja muuseumidest.<a href="/portal/channels/music/about">Tutvu kanaliga "Muusika" lähemalt</a>
         title: Europeana Muusika
@@ -92,13 +92,13 @@ et:
         about: Meist
         become-a-provider: Hakka meie partneriks
         contact: Kontakt
-        contact-us: 
+        contact-us: Võta ühendust
         copyright: Autoriõigused
         data-providers: Kõik asutused
         help: Abi
         new-collections: Uued kogud
         rights: Kasutustingimused
-        roadmap: 
+        roadmap: Teated arenduse kohta
         search-tips: Otsingunipid
         using-myeuropeana: Minu Europeana kasutamine
     more: Veel...
@@ -107,10 +107,10 @@ et:
     navigation:
       breadcrumb:
         exhibitions:
-          return_home: 
+          return_home: Näitused
         item_detail: Ese
         results_list: Tulemused
-        results_list_mlt: 
+        results_list_mlt: Sarnased valikud
         return_home: Tagasi avalehele
     news: Uudised
     object:
@@ -120,12 +120,12 @@ et:
         attribute-plaintext: Vabatekst
         download: Lae alla
         download-additional: Veel saadaval
-        download-retry: 
-        download-started: 
+        download-retry: Proovi palun uuesti
+        download-started: Allalaadimine alustatud
         downloaddata: Lae andmed alla
-        enlarge: 
-        explore-by-colour: 
-        media-metadata: 
+        enlarge: Suurenda
+        explore-by-colour: Uuri värvi järgi
+        media-metadata: Meedia metaandmed
         open-media: Ava see kirje
         show-less-data: Näita vähem andmeid
         show-more-data: Näita rohkem andmeid
@@ -138,8 +138,8 @@ et:
         view-items-above: vaata kirjeid ülal
         view-items-below: vaata kirjeid all
       meta-label:
-        additional-rights: 
-        annotations: 
+        additional-rights: Lisateavet õiguste kohta
+        annotations: Kasutaja märked
         codec: Codec
         collection-name: Andmestik
         concept: Kontseptsioon
@@ -171,7 +171,7 @@ et:
         fps: Kaadrit sekundis
         has-type: On tüübist
         identifier: Identifikaator
-        intermediate-provider: 
+        intermediate-provider: Vahendaja
         is-format-of: On formaat
         is-part-of: On osa
         is-referenced-by: Viitab
@@ -203,7 +203,7 @@ et:
         relations: Seosed
         rights: Õigused
         rights-human: Kas ma saan seda kasutada?
-        rights-statement: 
+        rights-statement: Õiguste sisu
         runtime: Käitusaeg
         runtime-unit-seconds: sekundid
         source: Allikas
@@ -224,23 +224,23 @@ et:
         what:
           broader: Laiem mõiste
           label: Mõiste märgend
-          term: 
+          term: 'Kontseptsioon '
           title: Isikud, allikate tüübid, liigid ja vormid (Mõisted)
         when:
           begin: Perioodi algus
           end: Perioodi lõpp
           label: Perioodi märgend
-          term: 
+          term: Periood
           title: Ajavahemikud ja kuupäevad (Ajavahemik)
         where:
           label: Koha märgend
           latitude: Laiuskraad
           longitude: Pikkuskraad
-          term: 
+          term: Asukoht
           title: Kohanimed (Kohad)
         who:
           label: Toimija märgend
-          term: 
+          term: Asutus
           title: Isikud ja asutused (Toimija)
       nav:
         next: Järgmine
@@ -250,7 +250,7 @@ et:
         north: Põhi
         south: Lõuna
         west: Lääs
-      preview_unavailable: 
+      preview_unavailable: Eelvaade pole saadaval, juurdepääs täisekraanile ja täiendavale informatsioonile läbi aadressi %{institution_name_and_link}
       show-more-similar-items: näita rohkem
       similar-items: Sarnased objektid
     pages:
@@ -293,7 +293,7 @@ et:
         label: Tegevused
         newcollection: Uus kollektsioon
         product-save: Salvesta
-        saveto: 
+        saveto: 'Salvesta '
         show-all-collections: Näita kõiki kogusid
       list:
         all-results:
@@ -302,17 +302,17 @@ et:
           text: Tekst
           video: Video
         count-and-terms: "%{results_count} tulemust"
-        count-and-terms-with-range: 
+        count-and-terms-with-range: "%{results_range}st  %{results_count} tulemused"
         empty: Ühtki tulemust
         empty-with-terms: Sinu otsing %{query_terms} ei andnud ühtki tulemust
-        header: 
+        header: Tulemused
         header-and: ja
         in-channel: temaatilises kogus
         less: Vähem
-        less_adv: 
+        less_adv: Vähem täpsustust
         more: Rohkem
         more_adv: Täpsemad filtrid
-        per-page: 
+        per-page: Lehekülje kohta
         product-3D: 3D
         product-image: Pilt
         product-sound: Heli
@@ -320,18 +320,18 @@ et:
         product-video: Video
         results-relevance: Asjakohasus
         results-view:
-          grid: 
-          list: 
+          grid: Raamistik
+          list: Loend
         single-result: 1 tulemus päringule %{query_terms}
         view:
           grid: Joonestik
           list: Loend
-        view-at-provider: 
+        view-at-provider: Vaade
     search:
-      browse: 
-      or-browse: 
+      browse: Sirvi
+      or-browse: või sirvi
       placeholder:
-        filter-text: 
+        filter-text: Otsi
         text: Lisa otsisõna
       similar:
         prefix: 'Sarnane objektile: %{mlt_item}'
