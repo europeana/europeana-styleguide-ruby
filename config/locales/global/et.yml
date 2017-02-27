@@ -84,7 +84,7 @@ et:
       C71585: Mõõdukas violettpunane
       CD5C5C: India punane
       CD853F: Peruu
-      D2691E: "Šokolaad"
+      D2691E: Šokolaad
       D2B48C: Helepruun
       D3D3D3: Helehall
       D8BFD8: Ohakas
@@ -140,7 +140,7 @@ et:
       FFF5EE: Merekarbi
       FFF8DC: Cornsilk
       FFFACD: Sidruni šifoon
-      FFFAF0: "Õievalge"
+      FFFAF0: Õievalge
       FFFAFA: Lumi
       FFFF00: Kollane
       FFFFE0: Helekollane
@@ -149,13 +149,13 @@ et:
   global:
     about-us: Meist
     actions:
-      filter-all: Filter kõik
+      filter-all: Kõike
       filter-by: " Filtreeri"
       fullscreen-enter: Täisekraan
-      fullscreen-exit: väljumise täisekraanil
+      fullscreen-exit: Välju täisekraanilt
       next: järgmine
       previous: eelmine
-      skip-to-main: Otse lehekülje sisu
+      skip-to-main: Otse lehekülje sisule
       skip-to-section: Otse sektsiooni
     channel:
       all: Kõik teemad
@@ -171,8 +171,8 @@ et:
       newspapers: ajalehed
       performing-arts: etenduskunst
     channels-art: Kunstiajalugu
-    channels-art-image: Kunstiajaloolise kogu pilt
-    channels-art-link: Kunstiajaloolised kogud
+    channels-art-image: Kunstiajaloo kogumiku pilt
+    channels-art-link: Kunstiajaloo kogumikud
     channels-fashion: Mood
     channels-music: Muusika
     choose-language: Keel
@@ -188,7 +188,7 @@ et:
       art:
         form:
           paintings:
-            genre: "Žanr"
+            genre: Žanr
             medium: Meedium
       carrier: Kandja
       colour: Värv
@@ -227,10 +227,10 @@ et:
         slovenia: Sloveenia
         spain: Hispaania
         sweden: Rootsi
-        switzerland: "Šveits"
+        switzerland: Šveits
         turkey: Türgi
         ukraine: Ukraina
-        unitedkingdom: "Ühendkuningriik"
+        unitedkingdom: Ühendkuningriik
         unitedstatesofamerica: Ameerika Ühendriigid
         vaticancity: Vatikan
       creator: looja
@@ -242,14 +242,14 @@ et:
         data_provider: Asutus
         date-created: Loomise kuupäev
         fashion:
-          colour: värv
+          colour: Värv
           designer: Disainer
           technique: tehnika
-          type: Punkt tüübist
+          type: Objekti tüüp
         image_aspectratio: Orientatsioon
         image_colour: Palett
         image_size: Suurus
-        intermediateprovider: Intermediate Provider
+        intermediateprovider: Vahendaja
         language: Keel
         language_of_description: Keel ja kirjeldus
         media: Ainult meedialingiga tulemused
@@ -258,14 +258,14 @@ et:
         providing_country: Annetusriik
         proxy_dcterms_created: Loomise kuupäev
         reusability: Kas tohin kasutada?
-        rights: litsents
+        rights: Litsents
         sound_duration: Kestus
         sound_hq: Kõrge kvaliteet
         text_fulltext: Täistekst
         type: Meedia
         ugc: Näita kasutajate poolt loodud sisu
         video_duration: Kestus
-        video_hd: kvaliteet
+        video_hd: Kvaliteet
         year: Kuupäev
       image_aspectratio:
         landscape: Rõhtformaat
@@ -279,7 +279,7 @@ et:
         medium: Keskmine (0,5-1MP)
         small: Väike (<0.5MP)
       language:
-        bg: ''
+        bg: Bulgaaria
         ca: ''
         cs: ''
         da: ''
@@ -315,8 +315,8 @@ et:
         yi: ''
       less: Vähem
       license:
-        hide-specific: Peida eriõigused avaldused
-        show-specific: Peida eriõigused avaldused
+        hide-specific: Peida eriõiguste avaldused
+        show-specific: Näita eriõiguste avaldusi
       media:
         'false': Ei
         'true': Jah
@@ -336,21 +336,21 @@ et:
         advanced-orphan-work: Orbteos
         advanced-out-of-copyright-non-commercial: Autorikaitse alt vaba - mitteäriline taaskasutus
         advanced-pdm: Märgistatud avalikuks omandiks
-        advanced-rrfa: "Õigused kaitstud - vaba ligipääs"
-        advanced-rrpa: "Õigused kaitstud - tasuline ligipääs"
-        advanced-rrra: "Õigused kaitstud - piiratud ligipääs"
-        advanced-rs-cne: Copyright ole hinnatud
-        advanced-rs-inc: 
-        advanced-rs-inc-edu: 
-        advanced-rs-inc-ow-eu: 
-        advanced-rs-noc-nc: 
-        advanced-rs-noc-oklr: 
+        advanced-rrfa: Õigused kaitstud - vaba ligipääs
+        advanced-rrpa: Õigused kaitstud - tasuline ligipääs
+        advanced-rrra: Õigused kaitstud - piiratud ligipääs
+        advanced-rs-cne: Copyright hindamata
+        advanced-rs-inc: Autoriõigusega kaitstud
+        advanced-rs-inc-edu: Autoriõigusega kaitstud - Teoste kasutamine näitena õppe-eesmärgil on lubatud
+        advanced-rs-inc-ow-eu: Autoriõigusega kaitstud - EU orbteos
+        advanced-rs-noc-nc: Autoriõigus puudub - Kasutada ainult mittekaubanduslikel eesmärkidel
+        advanced-rs-noc-oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
         advanced-ucs: Autorikaitse staatus teadmata
-        expiry: 
+        expiry: Kuni %{date}
         open: Jah, omistamisega
         permission: Ainult loaga
         restricted: Jah, piirangutega
-        rs_noc_oklr: 
+        rs_noc_oklr: Autoriõigus puudub - Muud õiguslikud piirangud.
         simple: Lihtne
       sound_duration:
         long: Pikk (üle 6 minuti)
@@ -409,24 +409,24 @@ et:
         to: kuni
     feedback:
       close: Sulge
-      error: 
-      open: 
+      error: Viga
+      open: Tagasiside
       placeholder: Anna meile teada, mida te arvate ja mida me saame parandada. Kui soovite ühendust võtta, palun jätke oma e-posti aadress siia ka!
       submit: Esita
       thanks:
         long: Aitäh tagasiside eest. Vajadusel; me võtame teiega ühendust niipea kui võimalik.
         short: Aitäh!
-      title: 
+      title: Tagasiside
       type:
-        bug: 
+        bug: programmiviga
         comment: kommentaar
         correction: parandus
     find-us-elsewhere: Leia meid veel
     find-us-social-media: 
-    follow-channel: 
+    follow-channel: Jälgi kanalit %{channel}
     forgot-password: Unustasid parooli?
-    galleries: 
-    genres: "žanrid"
+    galleries: Galeriid
+    genres: žanrid
     genres-chamber-music: Kammermuusika
     genres-classical-music: Klassikaline muusika
     genres-concertos: Kontsertid
@@ -437,7 +437,7 @@ et:
 
       Pärimusmuusika
     header:
-      connect: "Ühenda"
+      connect: Ühenda
       develop: Arenda
       discover: Avasta
       network: Võrgustik
@@ -445,7 +445,7 @@ et:
     home: Avaleht
     javascript-required: Et näha seda sisu, luba palun JavaScript ja kaalu HTML5 toega veebilehitseja kasutuselevõttu.
     labels:
-      images: 
+      images: Pildid
     labs: Laborid
     labs-text: Remix'i kultuurilist sisu läbi meie API'de ja andmestike
     language-basque: baski
@@ -492,10 +492,10 @@ et:
       email-address-required: E-posti aadress peab olema täidetud
       fashion:
         heading: Võta kühvel!
-        subheading: Registreeru Europeana mood uudiskirja ja jääda tea!
+        subheading: Liitu Europeana moe uudiskirjaga ja jää teadlikuks!
       language-required: Keel peab olema valitud.
       signup: Liitu meie uudiskirjaga
-      submit-alt: tellima
+      submit-alt: Telli
     our-sites: meie veebilehed
     page: lehekülg
     password: Parool
@@ -512,15 +512,15 @@ et:
     search-collections: Kogud
     search-collections-text: Avasta euroopa kultuuripärandit
     share: Jaga
-    share-galleries: 
+    share-galleries: Jaga galeriisid
     sitemap: Sisukaart
-    subscribe: tellima
+    subscribe: Telli
     terms-and-policies: Kasutustingimused
     tooltips:
       channels:
         search:
-          new-filter: Nüüd saate filtreerida otsingut konkreetsete litsentsi
-          new-grid: Kas olete näinud uus võrgu skeem?
+          new-filter: Nüüd saate filtreerida otsingut konkreetse litsentsi alusel
+          new-grid: Kas olete näinud uut raamistiku asetust?
     type: tüüp
   'no': Norra
   pl: Portugal
