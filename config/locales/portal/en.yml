@@ -101,6 +101,10 @@ en:
         roadmap: Development updates
         search-tips: Search tips
         using-myeuropeana: Using My Europeana
+    galleries:
+      share:
+        one: Share this gallery
+        other: Share the galleries
     more: More...
     my-europeana: My Europeana
     my-europeana-link: link to My Europeana

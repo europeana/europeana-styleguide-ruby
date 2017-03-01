@@ -101,6 +101,10 @@ et:
         roadmap: Teated arenduse kohta
         search-tips: Otsingunipid
         using-myeuropeana: Minu Europeana kasutamine
+    galleries:
+      share:
+        one: ''
+        other: Jaga galeriisid
     more: Veel...
     my-europeana: Minu Europeana
     my-europeana-link: linu Minu Europeanasse
