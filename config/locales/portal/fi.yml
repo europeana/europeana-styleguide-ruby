@@ -28,6 +28,7 @@ fi:
       periods: ajanjaksot
       places: paikat
       view-collection: 
+      view-detailed-description: 
     pro-link: linkki pro:hon
     pro-text: teksti pro:hon
     settings: Asetukset
