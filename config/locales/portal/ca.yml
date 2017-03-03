@@ -104,6 +104,7 @@ ca:
         using-myeuropeana: Fent servir La Meva Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Més...
     my-europeana: La meva Europeana

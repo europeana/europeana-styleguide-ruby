@@ -104,6 +104,7 @@ lt:
         using-myeuropeana: Naudojimasis mano Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Daugiau...
     my-europeana: Mano Europeana

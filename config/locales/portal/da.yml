@@ -104,6 +104,7 @@ da:
         using-myeuropeana: Brug af Mit Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Mere...
     my-europeana: Mit Europeana

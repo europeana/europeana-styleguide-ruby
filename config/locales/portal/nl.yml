@@ -104,6 +104,7 @@ nl:
         using-myeuropeana: Gebruik mijn Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Meer...
     my-europeana: Mijn Europeana

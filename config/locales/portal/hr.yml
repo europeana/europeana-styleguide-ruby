@@ -104,6 +104,7 @@ hr:
         using-myeuropeana: Korištenje My Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Više...
     my-europeana: My Europeana

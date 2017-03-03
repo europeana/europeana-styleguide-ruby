@@ -104,6 +104,7 @@ bg:
         using-myeuropeana: Упътване за Моята Европеана
     galleries:
       description: 
+      description-default: 
       share: 
     more: Още...
     my-europeana: Моята Европеана

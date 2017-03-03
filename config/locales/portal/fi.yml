@@ -104,6 +104,7 @@ fi:
         using-myeuropeana: Minun Europeanan käyttäminen
     galleries:
       description: 
+      description-default: 
       share: 
     more: Lisää...
     my-europeana: Minun Europeana

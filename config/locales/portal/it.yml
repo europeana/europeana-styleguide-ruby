@@ -104,6 +104,7 @@ it:
         using-myeuropeana: 'Utilizzando or Utilizzare la Mia Europeana '
     galleries:
       description: 
+      description-default: 
       share: 
     more: Di più
     my-europeana: La mia Europeana

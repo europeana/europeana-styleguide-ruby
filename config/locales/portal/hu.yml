@@ -104,6 +104,7 @@ hu:
         using-myeuropeana: Saját Europeana használata
     galleries:
       description: 
+      description-default: 
       share: 
     more: Tovább...
     my-europeana: Saját Europeana

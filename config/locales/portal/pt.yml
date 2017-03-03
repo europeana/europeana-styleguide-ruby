@@ -104,6 +104,7 @@ pt:
         using-myeuropeana: Utilizar My Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Mais...
     my-europeana: My Europeana

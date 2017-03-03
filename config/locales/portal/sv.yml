@@ -104,6 +104,7 @@ sv:
         using-myeuropeana: Om Mitt Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Mera...
     my-europeana: Mitt Europeana

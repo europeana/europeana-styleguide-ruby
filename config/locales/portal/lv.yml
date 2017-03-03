@@ -104,6 +104,7 @@ lv:
         using-myeuropeana: '"Mana Europeana" lietošana'
     galleries:
       description: 
+      description-default: 
       share: 
     more: Vairāk...
     my-europeana: Mana Europeana

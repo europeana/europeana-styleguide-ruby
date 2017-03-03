@@ -104,6 +104,7 @@ mt:
         using-myeuropeana: L-użu ta' Europeana Tiegħi
     galleries:
       description: 
+      description-default: 
       share: 
     more: Aktar...
     my-europeana: L-Europeana tiegħi

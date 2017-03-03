@@ -104,6 +104,7 @@ ro:
         using-myeuropeana: Contul My Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Mai mult...
     my-europeana: Contul My Europeana

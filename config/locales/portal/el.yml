@@ -104,6 +104,7 @@ el:
         using-myeuropeana: Χρησιμοποιώντας το My Europeana
     galleries:
       description: 
+      description-default: 
       share: 
     more: Περισσότερα...
     my-europeana: 
