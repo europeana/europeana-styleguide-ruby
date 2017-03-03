@@ -103,6 +103,7 @@ el:
         search-tips: Συμβουλές αναζήτησης
         using-myeuropeana: Χρησιμοποιώντας το My Europeana
     galleries:
+      description: 
       share: 
     more: Περισσότερα...
     my-europeana: 

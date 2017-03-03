@@ -103,6 +103,7 @@ et:
         search-tips: Otsingunipid
         using-myeuropeana: Minu Europeana kasutamine
     galleries:
+      description: 
       share:
         one: ''
         other: Jaga galeriisid
