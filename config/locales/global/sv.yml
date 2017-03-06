@@ -2,7 +2,7 @@ sv:
   Symphonies: Symfonier
   X11:
     colours:
-      '000000': 
+      '000000': Svart
       000080: 
       00008B: 
       0000CD: 
@@ -177,7 +177,7 @@ sv:
     channels-music: Musik
     choose-language: Språk
     cookie_disclaimer:
-      more_info: 
+      more_info: Mer information
       text: Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår hemsida. Genom att klicka på eller navigera på webbplatsen, godkänner du att vår samling av information via cookies.
     email-address: e-postadress
     facet:
@@ -418,21 +418,21 @@ sv:
         short: Tack!
       title: 
       type:
-        bug: 
+        bug: bugg
         comment: kommentar
         correction: korrektion
     find-us-elsewhere: Hitta oss också här
     find-us-social-media: 
     follow-channel: 
     forgot-password: Glömt ditt lösenord?
-    galleries: 
+    galleries: Bildspel
     genres: genrer
     genres-chamber-music: Kammarmusik
     genres-classical-music: Klassisk musik
     genres-concertos: Konsert
     genres-non-western-classical-music: Icke-västerländsk musik
     genres-opera: Opera
-    genres-popular-music: 
+    genres-popular-music: Populärmusik
     genres-traditional-music: Folkmusik
     header:
       connect: Forska
@@ -443,7 +443,7 @@ sv:
     home: Hem
     javascript-required: För att se detta innehåll aktivera JavaScript och uppgradera till senare versioner av webbläsare som stödjer HTML5
     labels:
-      images: 
+      images: bilder
     labs: Labs
     labs-text: Remixa kulturarvet med våra data och APIer
     language-basque: Baskiska
@@ -477,7 +477,7 @@ sv:
     language-swedish: Svenska
     language-ukranian: 
     login: Logga in
-    mission: 'We förändrar världen med kultur! Vi vill bygga vidare på Europeas rika kulturarv och göra det enklare att använda i såväl arbete, utbildning och för nöjes skull. '
+    mission: Vi förändrar världen med kultur! Vi vill bygga vidare på Europeas rika kulturarv och göra det enklare att använda i såväl arbete, utbildning och för nöjes skull.
     mission-title: Vårt uppdrag
     more:
       load-more: Mer
@@ -490,7 +490,7 @@ sv:
       email-address-required: Du måste ange en e-postadress
       fashion:
         heading: Få de senaste nyheterna!
-        subheading: Anmäl dig till Europeana mode nyhetsbrev och stanna i know!
+        subheading: Anmäl dig till Europeanas modenyhetsbrev!
       language-required: Språk måste anges
       signup: Prenumerera på vårt nyhetsbrev
       submit-alt: Prenumerera
@@ -500,7 +500,7 @@ sv:
     professional: Pro
     professional-text: Engagera dig, dela dina data eller använda våra
     refine-your-search: Förfina din sökning
-    refine-your-search-short: 
+    refine-your-search-short: Filter
     register: Registrera dig
     research: Research
     research-text: Samverka med forskarsamhället
