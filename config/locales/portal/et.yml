@@ -39,6 +39,10 @@ et:
         link-text: Andke meile tagasisidet!
         title: Tegu on "Kogude" ja "Muusikakogu" beta versiooniga.
     blog-link: link blogisse
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Selles alaosas saad otsida pilte nende värvist lähtudes. Lihtsalt klõpsa pildile, mis sulle meeldib,et vastavat kogu näha!
@@ -113,6 +117,7 @@ et:
     my-europeana-link: linu Minu Europeanasse
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Näitused
         item_detail: Ese

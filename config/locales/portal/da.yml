@@ -39,6 +39,10 @@ da:
         link-text: Giv os dine input!
         title: 'Dette er en Beta version af vores nye "Samlinger" og "Musiksamling" og "Kunsthistorie Samlinger". '
     blog-link: link til blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Søg efter billeder baseret på deres farve. Du skal blot klikke en farvet boks nedenfor for at finde billeder, der indeholder denne farve!
@@ -111,6 +115,7 @@ da:
     my-europeana-link: link til mit Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Genstandsdetalje

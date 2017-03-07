@@ -39,6 +39,10 @@ it:
         link-text: Dateci il vostro contributo!
         title: Questa è una versione Beta delle nostre nuove "Collezioni" e "Arte Storia Collezioni" e  "Collezione musicale"
     blog-link: link al blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Cerca tra le immagini a partire dai loro colori. Clicca sul un box colorato per scoprire quali immagini contengono quel colore!
@@ -111,6 +115,7 @@ it:
     my-europeana-link: link a La mia Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Esposizione
         item_detail: Risultato

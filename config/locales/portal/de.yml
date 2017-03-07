@@ -39,6 +39,10 @@ de:
         link-text: Teilen Sie uns Ihre Meinung mit!
         title: Dies ist eine Beta Version unserer neuen Sammlungen, Musik Sammlung und Kunstgeschichte Sammlungen
     blog-link: Link zum Blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Suche nach Bildern basierend auf ihrer Farbe. Klicken Sie einfach auf ein farbiges Feld unten, um Bilder zu entdecken, die diese Farbe enthalten!
@@ -111,6 +115,7 @@ de:
     my-europeana-link: Link zu Mein Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Ausstellungen
         item_detail: Objektdetail

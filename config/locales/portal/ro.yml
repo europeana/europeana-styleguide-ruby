@@ -39,6 +39,10 @@ ro:
         link-text: Trimite-ne sugestiile tale!
         title: "Aceasta este versiunea Beta a noilor noastre \"Colecții\" și a \"Colecției de Muzică\" si a \n\"Istoria Artei Colecții\""
     blog-link: 
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Căutați imagini bazate pe culoarea lor. Pur și simplu faceți clic pe o casetă colorată de mai jos pentru a descoperi imagini care conțin această culoare!
@@ -111,6 +115,7 @@ ro:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: detalii înregistrare

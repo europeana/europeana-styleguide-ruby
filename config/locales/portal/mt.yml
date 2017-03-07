@@ -39,6 +39,10 @@ mt:
         link-text: Tina l-input tiegħek!
         title: Dan huwa Beta release tal-kollezzjoni ġdida tagħna "Kollezzjonijiet" u "Kollezzjonijiet tal-Mużika"
     blog-link: Link għall-blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: F'din is-sezzjoni tista' tfittex ritratti bbażati fuq il-kulur tagħhom. Kemm tikklikkja fuq ir-ritratt li jogħġbok biex tara l-kollezzjoni!
@@ -111,6 +115,7 @@ mt:
     my-europeana-link: Link lejn l-Europeana tiegħi
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Wirjiet
         item_detail: Oġġett

@@ -39,6 +39,10 @@ ru:
         link-text: Оставьте свой отзыв!
         title: Это Beta релиз наших новых проектов Collections и Music Collection и  Art Collections
     blog-link: Ссылка на блог
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: 
@@ -111,6 +115,7 @@ ru:
     my-europeana-link: Ссылка на My Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Подробная информация

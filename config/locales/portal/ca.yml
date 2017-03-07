@@ -39,6 +39,10 @@ ca:
         link-text: Gràcies pel teu input!
         title: 'Això és una versió Beta de "Colleccions" i "Collecció de Música" i "Art Colleccions d''Història". '
     blog-link: enllaç al blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Recerca d&#39;imatges en funció del seu color. Simplement feu clic en un quadre de color sota per descobrir les imatges que continguin aquest color!
@@ -111,6 +115,7 @@ ca:
     my-europeana-link: enllaç a La meva Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Ítem

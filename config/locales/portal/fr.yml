@@ -39,6 +39,10 @@ fr:
         link-text: Donnez-nous votre avis!
         title: Ceci est une version beta des nouveaux Europeana Collections, Histoire de l'Art Collections et Europeana Collections Musique
     blog-link: lien vers le blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Recherche d&#39;images en fonction de leur couleur. Cliquez simplement sur une zone de couleur ci-dessous pour découvrir des images contenant cette couleur!
@@ -111,6 +115,7 @@ fr:
     my-europeana-link: lien vers my Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Informations sur l'objet

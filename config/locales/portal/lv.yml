@@ -39,6 +39,10 @@ lv:
         link-text: Sniedziet savu ieguldījumu!
         title: Šī ir  mūsu jauno "Kolekciju" un "Mūzikas kolekcijas" "Beta" versija
     blog-link: saite uz blogu
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Šajā sadaļā ir iespējams meklēt attēlus pēc to krāsas. Klikšķiniet uz izvēlētās krāsas un skatiet atlasīto kolekciju!
@@ -111,6 +115,7 @@ lv:
     my-europeana-link: saite uz "Mana Europeana"
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Izstādes
         item_detail: Ieraksts

@@ -39,6 +39,10 @@ sv:
         link-text: 
         title: 
     blog-link: 
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Här kan du söka efter bilder med en viss färg. Klicka pa en färgruta och finn bilder som innehåller den färgen!
@@ -111,6 +115,7 @@ sv:
     my-europeana-link: länk till Mitt Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Post

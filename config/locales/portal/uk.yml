@@ -39,6 +39,10 @@ uk:
         link-text: Залиште свій відгук!
         title: Це бета-версія наших нових «Колекцій» та Музичних колекцій»
     blog-link: посилання на блог
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: У цьому розділі ви можете шукати зображення за кольором. Прсто натисніть на ваш улюблений, щоб побачити колекцію!
@@ -111,6 +115,7 @@ uk:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: 

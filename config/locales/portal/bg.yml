@@ -39,6 +39,10 @@ bg:
         link-text: Споделете Вашето мнение!
         title: Това е Beta версия на новите ни страници "Колекции" и "Музикални колекции" и "История на изкуството Колекции".
     blog-link: линк към блог
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Търсене на изображения на базата на техния цвят. Просто кликнете на цветна кутия по-долу, за да откриете изображения, съдържащи този цвят!
@@ -111,6 +115,7 @@ bg:
     my-europeana-link: линк към Моята Европеана
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Допълнителна информация за обекта

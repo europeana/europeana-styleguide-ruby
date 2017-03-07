@@ -39,6 +39,10 @@ lt:
         link-text: Prisidėkite prie svetainės tobulinimo!
         title: Tai mūsų naujųjų "Kolekcijų" ir "Muzikos kolekcijos" Beta versija
     blog-link: Nuoroda į tinklaraštį
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Ieškoti vaizdų pagal jų spalvą. Tiesiog spustelėkite žemiau spalvotą dėžutę atrasti vaizdai, kurių sudėtyje yra šios spalvos!
@@ -111,6 +115,7 @@ lt:
     my-europeana-link: Nuoroda į Mano Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Įrašo aprašymas

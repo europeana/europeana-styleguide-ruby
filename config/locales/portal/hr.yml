@@ -39,6 +39,10 @@ hr:
         link-text: Podijelite svoje mišljenje!
         title: 'Ovo je beta objava naših novih stranica: "Zbirke" i "Glazbene zbirke"'
     blog-link: http://blog.europeana.eu
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: U ovom dijelu možete pretraživati slike po boji. Potrebno je samo kliknuti na onu koja vam se sviđa kako biste vidjeli zbirku!
@@ -111,6 +115,7 @@ hr:
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Objekt

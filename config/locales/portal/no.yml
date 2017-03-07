@@ -39,6 +39,10 @@
         link-text: Gi oss dine tilbakemeldinger!
         title: Dette er en beta-versjon av våre nye "Samlinger" og "Musikksamlinger"
     blog-link: lenke til blogg
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: I denne seksjonen kan du søke etter bilder ut fra farge. Bare klikk på det du vil se på i samlingen!
@@ -111,6 +115,7 @@
     my-europeana-link: lenke til Mitt Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Objekt

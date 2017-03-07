@@ -39,6 +39,10 @@ pl:
         link-text: Powiedz nam co myślisz!
         title: 'To jest wersja alfa nowych "Kolekcji" oraz "Kolekcji: Muzyka" oraz "Kolekcji: Historia sztuki".'
     blog-link: http://blog.europeana.eu
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Wyszukuj obrazy ze względu na kolor. Kliknij na wybrany kolor poniżej, aby zobaczyć obrazy, które go zawierają!
@@ -111,6 +115,7 @@ pl:
     my-europeana-link: link do My Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Wystawy
         item_detail: Obiekt

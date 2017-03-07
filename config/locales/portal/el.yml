@@ -39,6 +39,10 @@ el:
         link-text: Δώστε μας τις παρατηρήσεις σας!
         title: Αυτή είναι μία Beta έκδοση της νέας μας αναζήτησης σε Συλλογές και της Συλλογής Μουσική
     blog-link: ''
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Αναζήτηση εικόνων με βάση το χρώμα τους. Απλά κάντε κλικ σε ένα έγχρωμο πλαίσιο παρακάτω για να ανακαλύψετε τις εικόνες που περιέχουν αυτό το χρώμα!
@@ -111,6 +115,7 @@ el:
     my-europeana-link: συνδεσμος για το my Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Λεπτομέρεια εγγραφής

@@ -39,6 +39,10 @@ hu:
         link-text: Írd le a véleményed!
         title: Ez egy Beta verzió új Gyűjtemények, Művészettörténet gyűjtemények és Zenei Gyűjtemények számára
     blog-link: link a blogra
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Keresés képek alapján a színük. Egyszerűen kattintson a színes alábbi mezőbe, hogy felfedezzék tartalmazó képeket szín!
@@ -111,6 +115,7 @@ hu:
     my-europeana-link: link a Saját Europeana-ra
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Elem részletei

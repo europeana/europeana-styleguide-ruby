@@ -39,6 +39,10 @@ nl:
         link-text: 'Vertel wat u denkt! '
         title: 'Dit is een Beta versie van onze nieuwe Collections, Kunst Geschiedenis- en Muziek Collecties. '
     blog-link: link naar de blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: 'Zoek naar afbeeldingen op basis van hun kleur. Klik op een gekleurd vakje hieronder en ontdek bijbehorende afbeeldingen. '
@@ -111,6 +115,7 @@ nl:
     my-europeana-link: Link naar mijn Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Object details

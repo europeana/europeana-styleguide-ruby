@@ -39,6 +39,10 @@ en:
         link-text: Give us your input!
         title: This is a Beta release of our new "Collections" and "Music Collections"
     blog-link: link to blog
+    blogs:
+      list:
+        count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
+      min-to-read: min to read
     browse:
       colours:
         description: Search for images based on their colour. Simply click a coloured box below to discover images containing that colour!
@@ -113,6 +117,7 @@ en:
     my-europeana-link: link to My Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: Blog
         exhibitions:
           return_home: Exhibitions
         item_detail: Item

@@ -39,6 +39,10 @@ fi:
         link-text: Kerro mielipiteesi!
         title: Tämä on Alfa-julkaisu uusista julkaisuistamme "Kokoelmat", "Taidehistorian Kokoelmat" ja "Musiikkikokoelma"
     blog-link: linkki blogiin
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Etsiä kuvia perustuu niiden väriä. Klikkaa värillinen alla löytää sisältävien kuvien että väri!
@@ -111,6 +115,7 @@ fi:
     my-europeana-link: linkki Minun Europeanaan
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Kohde

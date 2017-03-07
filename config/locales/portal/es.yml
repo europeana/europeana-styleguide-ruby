@@ -39,6 +39,10 @@ es:
         link-text: Déjanos tus comentarios!
         title: Esta es la versión Beta de nuestras colecciones, el Canal de Música y el Arte Colecciones de Historia .
     blog-link: Link al Blog
+    blogs:
+      list:
+        count-and-terms-with-range: 
+      min-to-read: 
     browse:
       colours:
         description: Búsqueda de imágenes en función de su color. ¡Simplemente haga clic en el cuadro inferior para descubrir las imágenes que contengan ese color!
@@ -111,6 +115,7 @@ es:
     my-europeana-link: link a Mi Europeana
     navigation:
       breadcrumb:
+        blogs_list_breadcrumb: 
         exhibitions:
           return_home: Exposiciones
         item_detail: Detalles del objeto
