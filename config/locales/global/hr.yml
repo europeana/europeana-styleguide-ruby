@@ -443,6 +443,7 @@ hr:
     home: Naslovnica
     javascript-required: Da biste vidjeli ovaj sadržaj omogućite JavaScript i razmislite o nadogradnji na web preglednik koji podržava HTML5 sadržaj.
     labels:
+      by: 
       images: 
     labs: Europeana Labs
     labs-text: Prilagodi kulturalne sadržaje pomoću naših API-ja i skupova podataka

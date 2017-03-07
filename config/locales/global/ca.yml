@@ -443,6 +443,7 @@ ca:
     home: Inici
     javascript-required: Per veure aquest contingut necessites habilitar el JavaScript, i considerar actualitzar a un navegador que suporti continguts HTML5.
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: Remescla contingut cultural amb la nostra API i datasets

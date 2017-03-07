@@ -443,6 +443,7 @@ sv:
     home: Hem
     javascript-required: För att se detta innehåll aktivera JavaScript och uppgradera till senare versioner av webbläsare som stödjer HTML5
     labels:
+      by: 
       images: bilder
     labs: Labs
     labs-text: Remixa kulturarvet med våra data och APIer

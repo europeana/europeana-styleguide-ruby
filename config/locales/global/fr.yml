@@ -443,6 +443,7 @@ fr:
     home: Accueil
     javascript-required: Pour voir ce contenu, activez l'option JavaScript si elle est désactivée; nous vous recommandons de mettre à niveau votre navigateur avec une version compatible avec HTML5.
     labels:
+      by: 
       images: 
     labs: 
     labs-text: Réutilisez notre contenu par nos APIs et datasets

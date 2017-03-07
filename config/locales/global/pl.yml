@@ -443,6 +443,7 @@ pl:
     home: Strona główna
     javascript-required: Chcesz uzyskać dostęp do pełnej zawartości tej strony? W tym celu należy włączyć obsługę JavaScript. Zalecamy również zmianę przeglądarki na obsługującą elementy w HTML5
     labels:
+      by: 
       images: obrazy
     labs: Europeana Labs
     labs-text: Wykorzystaj twórczo nasze zasoby dzięki API

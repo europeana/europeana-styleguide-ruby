@@ -445,6 +445,7 @@ it:
     home: 
     javascript-required: Per vedere questo contenuto è necessario attivare Javascript, e consideri aggiornare il browser a una versione più recente che supporti i contenuti HTML5
     labels:
+      by: 
       images: 
     labs: Laboratori
     labs-text: Crea un remix di contenuti culturali con le nostre API e i nostri dataset

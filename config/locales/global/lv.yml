@@ -443,6 +443,7 @@ lv:
     home: Sākums
     javascript-required: Lai aplūkotu šo saturu, lūdzu, iespējojiet JavaScript un apsveriet iespēju atjaunināt interneta pārlūku, lai tas atbalstītu HTML5 saturu.
     labels:
+      by: 
       images: 
     labs: Laboratorija
     labs-text: Remiksē kultūras saturu ar mūsu API un datu kopām

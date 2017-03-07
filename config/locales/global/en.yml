@@ -443,6 +443,7 @@ en:
     home: Home
     javascript-required: To view this content please enable JavaScript, and consider upgrading to a web browser that supports HTML5 content.
     labels:
+      by: by
       images: images
     labs: Labs
     labs-text: 'Remix cultural content with our APIs & datasets

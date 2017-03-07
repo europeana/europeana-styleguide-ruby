@@ -443,6 +443,7 @@ ro:
     home: Acasă
     javascript-required: Pentru a accesa acest conținut activați opțiunea JavaScript, și luați în considerare actualizarea navigatorului dvs. web către o versiune care suportă vizualizarea de conținut HTML5.
     labels:
+      by: 
       images: 
     labs: ''
     labs-text: Combină conținutul digital cultural cu ajutorul interfeței API & a seturilor de date

@@ -443,6 +443,7 @@ hu:
     home: Főoldal
     javascript-required: Hogy ezt a tartalmat megtekinthesse, kérjük engedélyezze a JavaScript használatát; javasoljuk olyan böngésző használatát is, mely a HTML5 tartalmat támogatja.
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: Remixelje a kulturális tartalmainkat az API-ink és adathalmazaink segítségével.

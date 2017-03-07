@@ -443,6 +443,7 @@ pt:
     home: Início
     javascript-required: Para ver este conteúdo por favor active o JavaScript, e considere actualizar para um navegador que suporte conteúdo HTML5.
     labels:
+      by: 
       images: 
     labs: Europeana Labs
     labs-text: Remisture conteúdo cultural com as nossas APIs e conjunto de dados

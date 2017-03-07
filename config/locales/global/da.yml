@@ -445,6 +445,7 @@ da:
     home: Hjem
     javascript-required: 'For at kunne se dette indhold, venligst tillad brugen af Javascript og overvej at opgradere til en web browser, der støtter indhold fra HTML 5 '
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: Mix kultur indhold med vore APIs og datasæt

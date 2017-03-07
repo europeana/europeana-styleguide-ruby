@@ -443,6 +443,7 @@ fi:
     home: Koti
     javascript-required: Ota JavaScript käyttöön, jotta näet tämän sisällön. Harkitse myös päivittämistä selaimeen, joka tukee HTML5-sisältöjä.
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: Remiksaa kulttuurisisältöjä APIemme ja datasettiemme avulla

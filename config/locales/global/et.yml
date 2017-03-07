@@ -445,6 +445,7 @@ et:
     home: Avaleht
     javascript-required: Et näha seda sisu, luba palun JavaScript ja kaalu HTML5 toega veebilehitseja kasutuselevõttu.
     labels:
+      by: 
       images: Pildid
     labs: Laborid
     labs-text: Remix'i kultuurilist sisu läbi meie API'de ja andmestike

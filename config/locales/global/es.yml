@@ -445,6 +445,7 @@ es:
     home: Casa
     javascript-required: Para ver este contenido, active por favor JavaScript  y considere actualizar su navegador para que soporte contenido HTML5
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: 'Remezcla contenido cultural con nuestros datos y API '

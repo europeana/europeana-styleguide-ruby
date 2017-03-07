@@ -443,6 +443,7 @@ nl:
     home: Home
     javascript-required: 'Als u dit wilt zien, moet u Javascript toestaan en upgraden naar een web browser die HTML5 ondersteund. '
     labels:
+      by: 
       images: 
     labs: Labs
     labs-text: Gebruik onze APIs en datasets
