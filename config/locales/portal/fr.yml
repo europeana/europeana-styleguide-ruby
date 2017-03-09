@@ -42,6 +42,7 @@ fr:
     blogs:
       list:
         count-and-terms-with-range: 
+        page-title: 
       min-to-read: 
     browse:
       colours:

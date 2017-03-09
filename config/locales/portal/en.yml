@@ -42,6 +42,7 @@ en:
     blogs:
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
+        page-title: Europeana Blog
       min-to-read: min to read
     browse:
       colours:
