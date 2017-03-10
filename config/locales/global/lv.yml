@@ -423,9 +423,9 @@ lv:
         correction: labojums
     find-us-elsewhere: Meklē mūs arī citur
     find-us-social-media: Meklē %{channel} sociālajos tīklos
-    follow-channel: 
+    follow-channel: Sekot %{channel}
     forgot-password: Aizmirsi savu paroli?
-    galleries: 
+    galleries: Galerijas
     genres: žanri
     genres-chamber-music: Kamermūzika
     genres-classical-music: Klasiskā mūzika
@@ -444,7 +444,7 @@ lv:
     javascript-required: Lai aplūkotu šo saturu, lūdzu, iespējojiet JavaScript un apsveriet iespēju atjaunināt interneta pārlūku, lai tas atbalstītu HTML5 saturu.
     labels:
       by: 
-      images: 
+      images: attēli
     labs: Laboratorija
     labs-text: Remiksē kultūras saturu ar mūsu API un datu kopām
     language-basque: Basku
