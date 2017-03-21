@@ -83,9 +83,9 @@ fi:
       labels:
         credits: Kuratoinut
         designer: Suunnittelija
-        editors-picks: Toimittajan valinnat
+        editors-picks: "  "
         recent: Äskettäiset lisäykset
-        sneak-peek: vilkaista
+        sneak-peek: "  "
         spotlight-on: Valokeilassa
         whats-happening: 
       music:

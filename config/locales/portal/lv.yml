@@ -83,9 +83,9 @@ lv:
       labels:
         credits: Kurators
         designer: Dizainers
-        editors-picks: Redaktora izvēle
+        editors-picks: " "
         recent: Jaunākie papildinājumi
-        sneak-peek: Ieskats
+        sneak-peek: "  "
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       music:

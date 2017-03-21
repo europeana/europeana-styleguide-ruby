@@ -83,9 +83,9 @@ el:
       labels:
         credits: Επιμελημένες από
         designer: Σχεδιαστής
-        editors-picks: επιλογές του συντάκτη
+        editors-picks: "  "
         recent: Πρόσφατες προσθήκες
-        sneak-peek: Sneak peek
+        sneak-peek: " "
         spotlight-on: Ενεργοποίηση Spotlight
         whats-happening: 
       music:

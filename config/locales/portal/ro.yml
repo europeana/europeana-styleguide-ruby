@@ -83,9 +83,9 @@ ro:
       labels:
         credits: Alcătuit de
         designer: proiectant
-        editors-picks: alegerile editorului
+        editors-picks: "  "
         recent: Adăugări recente
-        sneak-peek: Privire pe furiș
+        sneak-peek: " "
         spotlight-on: Sub lupă
         whats-happening: 
       music:

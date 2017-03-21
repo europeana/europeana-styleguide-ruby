@@ -83,9 +83,9 @@ ca:
       labels:
         credits: A cura de
         designer: dissenyador
-        editors-picks: Seleccions de l&#39;Editor
+        editors-picks: "  "
         recent: Addicions Recents
-        sneak-peek: Бърз поглед
+        sneak-peek: " "
         spotlight-on: Focus en
         whats-happening: 
       music:

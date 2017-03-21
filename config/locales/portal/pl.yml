@@ -83,9 +83,9 @@ pl:
       labels:
         credits: 'Kurator:'
         designer: Projektant
-        editors-picks: AMO
+        editors-picks: "  "
         recent: Ostatnio dodane
-        sneak-peek: Zapowiedź
+        sneak-peek: "  "
         spotlight-on: Zbliżenie
         whats-happening: 
       music:

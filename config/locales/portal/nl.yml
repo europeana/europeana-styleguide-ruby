@@ -83,9 +83,9 @@ nl:
       labels:
         credits: Gecureerd door
         designer: Ontwerper
-        editors-picks: Favorieten van de redactie
+        editors-picks: "  "
         recent: Recent toegevoegd
-        sneak-peek: Voorproefje
+        sneak-peek: "  "
         spotlight-on: In de spotlight
         whats-happening: 
       music:

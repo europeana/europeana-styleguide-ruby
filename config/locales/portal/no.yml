@@ -83,9 +83,9 @@
       labels:
         credits: 'Kuratert av '
         designer: Designer
-        editors-picks: Redaktørens plukker
+        editors-picks: "  "
         recent: Nylige tilføringer
-        sneak-peek: Sniktitt
+        sneak-peek: "  "
         spotlight-on: Søkelys på
         whats-happening: 
       music:

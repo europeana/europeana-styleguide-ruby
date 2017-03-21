@@ -83,9 +83,9 @@ fr:
       labels:
         credits: Administrée par
         designer: Designer
-        editors-picks: Choix de l'éditeur
+        editors-picks: "  "
         recent: Ajouts récents
-        sneak-peek: Aperçu
+        sneak-peek: "  "
         spotlight-on: Lumière sur
         whats-happening: 
       music:

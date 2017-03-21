@@ -83,9 +83,9 @@ da:
       labels:
         credits: Kurateret af
         designer: Designer
-        editors-picks: Redaktørens picks
+        editors-picks: "  "
         recent: Senest tilføjet
-        sneak-peek: Smugkig
+        sneak-peek: " "
         spotlight-on: Fokus på
         whats-happening: 
       music:

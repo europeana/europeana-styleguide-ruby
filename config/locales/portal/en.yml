@@ -12,7 +12,7 @@ en:
       agents: People
       all_blog_posts: All blog posts…
       all_exhibitions: All exhibitions…
-      all_galleries: All Galleries
+      all_galleries: All Galleries...
       blog: Blog
       browse: Explore
       browse_colours: Colours
@@ -83,9 +83,9 @@ en:
       labels:
         credits: 'Curated by '
         designer: Designer
-        editors-picks: Editor's picks
+        editors-picks: Highlights
         recent: Recent additions
-        sneak-peek: Sneak peek
+        sneak-peek: Preview
         spotlight-on: 'Spotlight on '
         whats-happening: What's happening
       music:

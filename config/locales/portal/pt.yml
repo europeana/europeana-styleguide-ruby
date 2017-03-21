@@ -83,9 +83,9 @@ pt:
       labels:
         credits: Curada por
         designer: Designer
-        editors-picks: Escolhas do editor
+        editors-picks: "  "
         recent: Adições recentes
-        sneak-peek: Espiada
+        sneak-peek: "  "
         spotlight-on: Destacadas
         whats-happening: 
       music:

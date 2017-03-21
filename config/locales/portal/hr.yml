@@ -83,9 +83,9 @@ hr:
       labels:
         credits: Priredio
         designer: Dizajner
-        editors-picks: Urednički odabir
+        editors-picks: "  "
         recent: Nedavno dodano
-        sneak-peek: Sneak Peek
+        sneak-peek: "  "
         spotlight-on: U fokusu
         whats-happening: 
       music:
