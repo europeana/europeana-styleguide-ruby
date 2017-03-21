@@ -490,10 +490,10 @@ hu:
       email-address-invalid: Működő email címet adjon meg.
       email-address-required: Meg kell adnia egy email címet.
       fashion:
-        heading: Szerezd meg a lapát!
+        heading: Iratkozzon
         subheading: Iratkozzon fel az Europeana divat hírlevelünkre, és marad a know!
       language-required: Meg kell jelölnie egy nyelvet.
-      signup: Iratkozon fel hírlevelünkre.
+      signup: Iratkozon fel hírlevelünkre
       submit-alt: Iratkozz fel
     our-sites: weboldalaink
     page: oldal

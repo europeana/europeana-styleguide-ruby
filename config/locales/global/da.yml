@@ -492,8 +492,8 @@ da:
       email-address-invalid: E-mail skal være en tilgængelig e-mail adresse
       email-address-required: 'Angiv email adressen '
       fashion:
-        heading: Få scoop!
-        subheading: Tilmeld dig Europeana mode nyhedsbrev og bo i know!
+        heading: 'Tilmeld dig '
+        subheading: Tilmeld dig Europeana Fashion nyhedsbrev
       language-required: 'Angiv sprog '
       signup: Tilmeld dig til vores nyhedsbrev
       submit-alt: Tilmeld

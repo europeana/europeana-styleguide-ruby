@@ -490,8 +490,8 @@ bg:
       email-address-invalid: Моля, въведете валиден имейл адрес.
       email-address-required: Моля, въведете имейл адрес.
       fashion:
-        heading: Вземете лъжичка!
-        subheading: Абонирай се за модни бюлетина на Europeana и да остане в знаете!
+        heading: Абонамент
+        subheading: Абонирай се за бюлетина на Еуропеана Fashion
       language-required: Моля, изберете език.
       signup: Абонамент за бюлентин
       submit-alt: Абонирай се

@@ -490,8 +490,8 @@ hr:
       email-address-invalid: E-mail mora biti valjana e-mail adresa.
       email-address-required: E-mail adresa mora biti navedena.
       fashion:
-        heading: Dobiti kašičica!
-        subheading: Prijavite se za Europeana modne newsletter i ostati u znaju!
+        heading: Prijavite se
+        subheading: Prijavite se za Europeana Fashion newsletter
       language-required: Jezik mora biti naveden.
       signup: Prijavite se na naš newsletter
       submit-alt: pretplatiti

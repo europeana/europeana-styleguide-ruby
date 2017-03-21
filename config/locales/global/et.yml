@@ -492,8 +492,8 @@ et:
       email-address-invalid: E-posti väljal peab olema korrektne meiliaadress
       email-address-required: E-posti aadress peab olema täidetud
       fashion:
-        heading: Võta kühvel!
-        subheading: Liitu Europeana moe uudiskirjaga ja jää teadlikuks!
+        heading: Liitu
+        subheading: Liitu Europeana Fashion uudiskirjaga!
       language-required: Keel peab olema valitud.
       signup: Liitu meie uudiskirjaga
       submit-alt: Telli

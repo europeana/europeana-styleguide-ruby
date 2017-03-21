@@ -490,8 +490,8 @@ el:
       email-address-invalid: Η διεύθυνση του ηλεκτρινοκού ταχυδρομείου δεν είναι έγκυρη.
       email-address-required: Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν έχει καθοριστεί.
       fashion:
-        heading: Πάρτε τη σέσουλα!
-        subheading: Εγγραφείτε για το ενημερωτικό δελτίο της μόδας Europeana και να παραμείνουν στην τεχνογνωσία!
+        heading: Εγγραφείτε για
+        subheading: Εγγραφείτε για το Europeana Fashion ενημερωτικό δελτίο
       language-required: Η γλώσσα δεν έχει καθοριστεί.
       signup: Εγγραφείτε για το newsletter
       submit-alt: Εγγραφείτε

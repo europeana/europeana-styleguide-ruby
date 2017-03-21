@@ -492,7 +492,7 @@ it:
       email-address-invalid: L'indirizzo email deve essere valido
       email-address-required: Deve essere inserito almeno un indirizzo email
       fashion:
-        heading: Ottenere lo scoop!
+        heading: 'Iscriviti '
         subheading: Iscriviti alla newsletter di moda Europeana e rimanere nel sapere!
       language-required: E' necessario specificare una lingua
       signup: Iscriviti alla nostra newsletter

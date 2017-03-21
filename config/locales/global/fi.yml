@@ -490,8 +490,8 @@ fi:
       email-address-invalid: Sähköpostiosoitteen on oltava toimiva osoite.
       email-address-required: Sähköpostiosoite on määritettävä.
       fashion:
-        heading: Saada kauha!
-        subheading: Tilaa Europeana muoti uutiskirje ja pysyä ajan tasalla!
+        heading: Tilaa uutiskirje
+        subheading: Tilaa Europeana Fashion uutiskirje
       language-required: Kieli on määritettävä.
       signup: Tilaa uutiskirje
       submit-alt: merkitä

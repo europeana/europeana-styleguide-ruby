@@ -490,7 +490,7 @@ sv:
       email-address-invalid: 'E-postadressen måste vara giltig '
       email-address-required: Du måste ange en e-postadress
       fashion:
-        heading: Få de senaste nyheterna!
+        heading: 'Prenumerera '
         subheading: Anmäl dig till Europeanas modenyhetsbrev!
       language-required: Språk måste anges
       signup: Prenumerera på vårt nyhetsbrev

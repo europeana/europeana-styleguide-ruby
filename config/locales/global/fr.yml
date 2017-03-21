@@ -490,8 +490,8 @@ fr:
       email-address-invalid: L'email doit être une adresse email valide.
       email-address-required: Une adresse email doit être précisée.
       fashion:
-        heading: Obtenez le scoop!
-        subheading: Inscrivez-vous à la newsletter mode Europeana et restez au courant!
+        heading: Inscrivez-vous
+        subheading: Inscrivez-vous à la newsletter Europeana Fashion
       language-required: Une langue doit être précisée.
       signup: Inscrivez-vous à notre newsletter
       submit-alt: Souscrire
