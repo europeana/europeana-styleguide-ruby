@@ -12,6 +12,7 @@ lv:
       agents: Cilvēki
       all_blog_posts: Visi bloga ieraksti...
       all_exhibitions: Visas izstādes...
+      all_galleries: 
       blog: Blogs
       browse: Pārlūkot
       browse_colours: Krāsas
@@ -21,6 +22,7 @@ lv:
       collections: Kolekcijas
       concepts: Tēmas
       exhibitions: Izstādes
+      galleries: 
       home: Sākums
       more:
         agents: Vairāk cilvēku

@@ -12,6 +12,7 @@ ca:
       agents: Gent
       all_blog_posts: Tots els posts
       all_exhibitions: Totes les exposicions...
+      all_galleries: 
       blog: Blog
       browse: Navega
       browse_colours: Colors
@@ -21,6 +22,7 @@ ca:
       collections: Colleccions
       concepts: temes
       exhibitions: Exposicions
+      galleries: 
       home: Inici
       more:
         agents: Més gent

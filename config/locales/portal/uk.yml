@@ -12,6 +12,7 @@ uk:
       agents: 
       all_blog_posts: Усі пости блогу…
       all_exhibitions: Всі виставки…
+      all_galleries: 
       blog: Блог
       browse: Переглянути
       browse_colours: Кольори
@@ -21,6 +22,7 @@ uk:
       collections: Колекції
       concepts: 
       exhibitions: Виставки
+      galleries: 
       home: Головна
       more:
         agents: 

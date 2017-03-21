@@ -12,6 +12,7 @@
       agents: Mennesker
       all_blog_posts: Alle bloggposter ...
       all_exhibitions: Alle utstillinger ...
+      all_galleries: 
       blog: Blogg
       browse: Bla igjennom
       browse_colours: Farger
@@ -21,6 +22,7 @@
       collections: Samlinger
       concepts: temaer
       exhibitions: Utstillinger
+      galleries: 
       home: Hjem
       more:
         agents: Flere mennesker

@@ -12,6 +12,7 @@ el:
       agents: Ανθρωποι
       all_blog_posts: Όλες οι αναρτήσεις...
       all_exhibitions: "'Ολες οι εκθέσεις"
+      all_galleries: 
       blog: Ιστολόγιο
       browse: Περιήγηση
       browse_colours: Χρώματα
@@ -21,6 +22,7 @@ el:
       collections: Συλλογές
       concepts: Θέματα
       exhibitions: Εκθέσεις
+      galleries: 
       home: Αρχική
       more:
         agents: Περισσότεροι άνθρωποι

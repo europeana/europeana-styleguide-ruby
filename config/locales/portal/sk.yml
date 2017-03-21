@@ -12,6 +12,7 @@ sk:
       agents: 
       all_blog_posts: 
       all_exhibitions: 
+      all_galleries: 
       blog: 
       browse: 
       browse_colours: 
@@ -21,6 +22,7 @@ sk:
       collections: 
       concepts: 
       exhibitions: 
+      galleries: 
       home: 
       more:
         agents: 

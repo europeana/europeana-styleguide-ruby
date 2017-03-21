@@ -12,6 +12,7 @@ lt:
       agents: žmonės
       all_blog_posts: Visi įrašai
       all_exhibitions: Visos parodos
+      all_galleries: 
       blog: Tinklaraštis
       browse: Ieškoti
       browse_colours: Spalvos
@@ -21,6 +22,7 @@ lt:
       collections: Kolekcijos
       concepts: tematika
       exhibitions: Parodos
+      galleries: 
       home: Pagrindinis
       more:
         agents: Daugiau žmonių

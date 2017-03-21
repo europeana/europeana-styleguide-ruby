@@ -12,6 +12,7 @@ en:
       agents: People
       all_blog_posts: All blog posts…
       all_exhibitions: All exhibitions…
+      all_galleries: All Galleries
       blog: Blog
       browse: Explore
       browse_colours: Colours
@@ -21,6 +22,7 @@ en:
       collections: Collections
       concepts: Topics
       exhibitions: Exhibitions
+      galleries: Galleries
       home: Home
       more:
         agents: More people

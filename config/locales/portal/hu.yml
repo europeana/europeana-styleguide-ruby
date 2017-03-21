@@ -12,6 +12,7 @@ hu:
       agents: Emberek
       all_blog_posts: Minden bejegyzés...
       all_exhibitions: Minden kiállítás
+      all_galleries: 
       blog: Blog
       browse: Böngészés
       browse_colours: Színek
@@ -21,6 +22,7 @@ hu:
       collections: Gyűjtemények
       concepts: témakörök
       exhibitions: Kiállítások
+      galleries: 
       home: Főoldal
       more:
         agents: Több ember

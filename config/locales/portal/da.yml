@@ -12,6 +12,7 @@ da:
       agents: Mennesker
       all_blog_posts: Alle poster...
       all_exhibitions: Alle udstillinger
+      all_galleries: 
       blog: Blog
       browse: Browse
       browse_colours: Farver
@@ -21,6 +22,7 @@ da:
       collections: Samlinger
       concepts: Emner
       exhibitions: Udstillinger
+      galleries: 
       home: Hjem
       more:
         agents: Flere folk

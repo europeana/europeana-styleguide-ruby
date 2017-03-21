@@ -12,6 +12,7 @@ ru:
       agents: 
       all_blog_posts: Все сообщения
       all_exhibitions: Все выставки
+      all_galleries: 
       blog: Блог
       browse: Просмотр
       browse_colours: Каталог цветов
@@ -21,6 +22,7 @@ ru:
       collections: Коллекции
       concepts: 
       exhibitions: Выставки
+      galleries: 
       home: Домой
       more:
         agents: Больше людей

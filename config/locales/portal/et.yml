@@ -12,6 +12,7 @@ et:
       agents: Inimesed
       all_blog_posts: Kõik blogipostitused...
       all_exhibitions: Kõik näitused...
+      all_galleries: 
       blog: Blogi
       browse: Sirvi
       browse_colours: Värvid
@@ -21,6 +22,7 @@ et:
       collections: Kogud
       concepts: Teemasid
       exhibitions: Näitused
+      galleries: 
       home: Avaleht
       more:
         agents: Rohkem inimesi

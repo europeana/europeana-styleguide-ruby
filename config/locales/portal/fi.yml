@@ -12,6 +12,7 @@ fi:
       agents: Ihmiset
       all_blog_posts: Kaikki blogikirjoitukset...
       all_exhibitions: Kaikki näyttelyt...
+      all_galleries: 
       blog: Blogi
       browse: Selaa
       browse_colours: Värit
@@ -21,6 +22,7 @@ fi:
       collections: Kokoelmat
       concepts: Aiheet
       exhibitions: Näyttelyt
+      galleries: 
       home: Koti
       more:
         agents: Enemmän ihmisiä

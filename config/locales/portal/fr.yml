@@ -12,6 +12,7 @@ fr:
       agents: Gens
       all_blog_posts: Tous les posts...
       all_exhibitions: Toutes les expositions...
+      all_galleries: 
       blog: Blog
       browse: Parcourir
       browse_colours: Par couleurs
@@ -21,6 +22,7 @@ fr:
       collections: Collections
       concepts: Les sujets
       exhibitions: Expositions
+      galleries: 
       home: Accueil
       more:
         agents: Plus de gens

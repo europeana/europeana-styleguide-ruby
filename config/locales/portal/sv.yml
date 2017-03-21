@@ -12,6 +12,7 @@ sv:
       agents: Personligheter
       all_blog_posts: Alla bloggposter
       all_exhibitions: Alla utställningar
+      all_galleries: 
       blog: Blogg
       browse: Utforska
       browse_colours: Färger
@@ -21,6 +22,7 @@ sv:
       collections: Samlingar
       concepts: Ämnen
       exhibitions: Utställningar
+      galleries: 
       home: Start
       more:
         agents: Fler människor

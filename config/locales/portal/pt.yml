@@ -12,6 +12,7 @@ pt:
       agents: Pessoas
       all_blog_posts: Todos os Artigos...
       all_exhibitions: Todas as Exposições...
+      all_galleries: 
       blog: Blogue
       browse: Explorar
       browse_colours: por Cores
@@ -21,6 +22,7 @@ pt:
       collections: Coleções
       concepts: Tópicos
       exhibitions: Exposições
+      galleries: 
       home: Início
       more:
         agents: Mais pessoas

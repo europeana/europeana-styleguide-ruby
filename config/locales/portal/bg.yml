@@ -12,6 +12,7 @@ bg:
       agents: хора
       all_blog_posts: Всички постове
       all_exhibitions: Всички виртуални изложби
+      all_galleries: 
       blog: Блог
       browse: Разгледай
       browse_colours: Цветове
@@ -21,6 +22,7 @@ bg:
       collections: Колекции
       concepts: Теми
       exhibitions: Виртуални изложби
+      galleries: 
       home: Начало
       more:
         agents: Повече хора

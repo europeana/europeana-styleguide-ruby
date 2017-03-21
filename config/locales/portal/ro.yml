@@ -12,6 +12,7 @@ ro:
       agents: oameni
       all_blog_posts: Toate postările...
       all_exhibitions: Toate expozițiile...
+      all_galleries: 
       blog: Blog
       browse: Caută
       browse_colours: Culori
@@ -21,6 +22,7 @@ ro:
       collections: Colecții
       concepts: subiecte
       exhibitions: Expoziții
+      galleries: 
       home: Acasă
       more:
         agents: Mai multi oameni

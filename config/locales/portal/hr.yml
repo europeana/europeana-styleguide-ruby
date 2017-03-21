@@ -12,6 +12,7 @@ hr:
       agents: narod
       all_blog_posts: Sve objave na blogu...
       all_exhibitions: Sve izložbe...
+      all_galleries: 
       blog: Blog
       browse: Pregledavanje
       browse_colours: Boje
@@ -21,6 +22,7 @@ hr:
       collections: Zbirke
       concepts: Teme
       exhibitions: Izložbe
+      galleries: 
       home: Naslovnica
       more:
         agents: Više ljudi

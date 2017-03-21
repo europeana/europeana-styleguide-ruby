@@ -12,6 +12,7 @@ it:
       agents: Persone
       all_blog_posts: Tutti i messaggi
       all_exhibitions: Tutte le esposizioni
+      all_galleries: 
       blog: Blog
       browse: Esplora
       browse_colours: Colori
@@ -21,6 +22,7 @@ it:
       collections: Collezioni
       concepts: Argomenti
       exhibitions: Esposizioni
+      galleries: 
       home: Pagina principale
       more:
         agents: Più persone

@@ -12,6 +12,7 @@ nl:
       agents: Mensen
       all_blog_posts: Alle berichten...
       all_exhibitions: Alle tentoonstellingen
+      all_galleries: 
       blog: Blog
       browse: Bladeren
       browse_colours: Kleuren
@@ -21,6 +22,7 @@ nl:
       collections: Collecties
       concepts: onderwerpen
       exhibitions: Tentoonstellingen
+      galleries: 
       home: Home
       more:
         agents: Meer mensen
