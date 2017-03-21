@@ -89,6 +89,9 @@ et:
       music:
         description: <strong>Europeana Muusikakogu</strong> toob ühte kohta kokku parimad salvestised, noodilehed ja muu muusikaga seotu kõikidest euroopa audiovisuaalarhiividest, raamatukogudest ja muuseumidest.<a href="/portal/channels/music/about">Tutvu kanaliga "Muusika" lähemalt</a>
         title: Europeana Muusika
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

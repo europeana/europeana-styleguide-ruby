@@ -89,6 +89,9 @@
       music:
         description: ' <strong>Europeana musikksamling</strong> samler de beste musikkopptakene, noteark og annet materiale som er relatert til musikksamlinger fra Europas audio-visuelle arkiver, bibliotek, arkiv og museum. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>'
         title: Europeana Musikk
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

@@ -89,6 +89,9 @@ el:
       music:
         description: Η <strong>Europeana Μουσική Συλλογή</strong> φέρνει κοντά τις καλύτερες μουσικές ηχογραφήσεις, παρτιτούρες, και αλλό μουσικό περιεχόμενο από τα οπτικο-ακουστικά αρχεία, βιβιοθήκεςσ και μουσεία της Ευρώπης. <a href="/portal/channels/music/about">Ανακαλύψτε περισσότερα για την Μουσική Συλλογή</a>
         title: Europeana Μουσική
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

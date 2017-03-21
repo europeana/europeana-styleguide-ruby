@@ -89,6 +89,9 @@ mt:
       music:
         description: Il-<strong>Kollezzjoni tal-Mużika tal-Europeana</strong> tiġbor l-isbaħ rikordji ta' mużika, mużika miktuba, u aktar affarijiet relatati lejn il-kollezzjonijiet minn arkivji Ewropej tal-awdjo viswali, libreriji, arkivji u mużewijiet. <a href="/portal/channels/music/about">Skopri aktar informazzjoni dwar il-Kollezzjoni tal-Mużika.
         title: Mużika tal-Europeana
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

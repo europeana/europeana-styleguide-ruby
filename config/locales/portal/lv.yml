@@ -89,6 +89,9 @@ lv:
       music:
         description: <strong>Europeana Mūzikas kolekcija</strong> apkopo labākos mūzikas ierakstus, notis, un citas ar mūziku saistītas kolekcijas no Eiropas arhīviem, bibliotēkām, muzejiem un audiovizuālajiem arhīviem. <a href="/portal/channels/music/about">Uzziniet vairāk par Mūzikas kolekciju.</a>
         title: Europeana mūzika
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

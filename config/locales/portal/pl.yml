@@ -89,6 +89,9 @@ pl:
       music:
         description: '<strong>Europeana Kolekcje: Muzyka</strong> zawiera najlepsze nagrania i inne związane z muzyką zbiory z europejskich archiwów audiowizualnych, bibliotek, archiwów i muzeów. <a href="/portal/channels/music/about"> Dowiedz się więcej o Kolekcji Muzyka. </a>'
         title: Europeana Muzyka
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

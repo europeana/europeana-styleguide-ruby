@@ -89,6 +89,9 @@ ga:
       music:
         description: 
         title: 
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:

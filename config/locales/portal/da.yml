@@ -89,6 +89,9 @@ da:
       music:
         description: <strong>Europeanas Musiksamling</strong> samler de bedste musikoptagelser, partiturer og andre musikrelaterede genstande fra Europas audiovisuelle arkiver, biblioteker og museer. <a href="/portal/channels/music/about">Find ud af mere om Musiksamling.</a>
         title: Europeana Musik
+    events:
+      list:
+        page-title: 
     facet:
       language:
         show:
