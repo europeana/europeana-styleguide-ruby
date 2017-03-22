@@ -244,8 +244,8 @@ de:
         fashion:
           colour: Farbe
           designer: Mode-designer
-          technique: Art
-          type: Element (type)
+          technique: Technik
+          type: Artikel typ
         image_aspectratio: Ausrichtung
         image_colour: Palette
         image_size: Größe

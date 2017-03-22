@@ -243,7 +243,7 @@ ro:
         date-created: Data creării
         fashion:
           colour: culoare
-          designer: proiectant
+          designer: Proiectant
           technique: Tehnică
           type: Categorie de obiect
         image_aspectratio: Orientare

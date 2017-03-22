@@ -243,9 +243,9 @@ cs:
         date-created: 
         fashion:
           colour: 
-          designer: 
-          technique: 
-          type: 
+          designer: Návrhář
+          technique: Technika
+          type: Typ položky
         image_aspectratio: 
         image_colour: 
         image_size: 

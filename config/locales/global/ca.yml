@@ -243,7 +243,7 @@ ca:
         date-created: data de creació
         fashion:
           colour: color
-          designer: dissenyador
+          designer: Dissenyador
           technique: tècnica
           type: tipus d'article
         image_aspectratio: Orientació

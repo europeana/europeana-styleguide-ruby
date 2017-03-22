@@ -245,7 +245,7 @@ nl:
           colour: Kleur
           designer: Designer
           technique: Techniek
-          type: Object type
+          type: Type voorwerp
         image_aspectratio: Oriëntatie
         image_colour: Palet
         image_size: Grootte

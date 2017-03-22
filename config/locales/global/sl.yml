@@ -243,9 +243,9 @@ sl:
         date-created: 
         fashion:
           colour: 
-          designer: 
-          technique: 
-          type: 
+          designer: Designer
+          technique: Tehnika
+          type: Tip točke
         image_aspectratio: 
         image_colour: 
         image_size: 

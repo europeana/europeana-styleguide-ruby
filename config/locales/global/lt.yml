@@ -243,9 +243,9 @@ lt:
         date-created: Sukūrimo data
         fashion:
           colour: spalva
-          designer: dizaineris
+          designer: Dizaineris
           technique: technika
-          type: Prekė
+          type: prekė tipas
         image_aspectratio: Pozicija
         image_colour: Paletė
         image_size: Dydis

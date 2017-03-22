@@ -243,7 +243,7 @@ es:
         date-created: Fecha de creacion
         fashion:
           colour: color
-          designer: diseñador
+          designer: Diseñador
           technique: técnica
           type: tipo de objeto
         image_aspectratio: Orientación
