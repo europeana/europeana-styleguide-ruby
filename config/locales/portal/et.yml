@@ -85,7 +85,7 @@ et:
         designer: Disainer
         editors-picks: "  "
         recent: Hiljutised täiendused
-        sneak-peek: Preview
+        sneak-peek: Explore Europeana Fashion
         spotlight-on: Esile tõstetud
         whats-happening: Mis toimub
       music:
@@ -124,6 +124,7 @@ et:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: 
+        events_list_breadcrumb: 
         exhibitions:
           return_home: Näitused
         item_detail: Ese

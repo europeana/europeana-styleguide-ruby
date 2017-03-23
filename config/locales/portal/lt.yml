@@ -85,7 +85,7 @@ lt:
         designer: dizaineris
         editors-picks: "  "
         recent: Naujausi papildymai
-        sneak-peek: Preview
+        sneak-peek: Explore Europeana Fashion
         spotlight-on: Dėmesio centre
         whats-happening: 
       music:
@@ -122,6 +122,7 @@ lt:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: 
+        events_list_breadcrumb: 
         exhibitions:
           return_home: 
         item_detail: Įrašo aprašymas

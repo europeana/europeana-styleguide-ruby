@@ -85,7 +85,7 @@ lv:
         designer: Dizainers
         editors-picks: " "
         recent: Jaunākie papildinājumi
-        sneak-peek: Preview
+        sneak-peek: Explore Europeana Fashion
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       music:
@@ -125,6 +125,7 @@ lv:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: Blogs
+        events_list_breadcrumb: 
         exhibitions:
           return_home: Izstādes
         item_detail: Ieraksts

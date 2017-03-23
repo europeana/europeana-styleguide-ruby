@@ -85,7 +85,7 @@ en:
         designer: Designer
         editors-picks: "  "
         recent: Recent additions
-        sneak-peek: Preview
+        sneak-peek: Explore Europeana Fashion
         spotlight-on: 'Spotlight on '
         whats-happening: What's happening
       music:
@@ -124,6 +124,7 @@ en:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: Blog
+        events_list_breadcrumb: Events
         exhibitions:
           return_home: Exhibitions
         item_detail: Item
