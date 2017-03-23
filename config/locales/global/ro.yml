@@ -244,6 +244,7 @@ ro:
         fashion:
           colour: culoare
           designer: Proiectant
+          material: 
           technique: Tehnică
           type: Categorie de obiect
         image_aspectratio: Orientare

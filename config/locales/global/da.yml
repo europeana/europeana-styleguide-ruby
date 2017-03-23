@@ -244,6 +244,7 @@ da:
         fashion:
           colour: farve
           designer: Designer
+          material: 
           technique: Teknik
           type: Item typen
         image_aspectratio: Orientering

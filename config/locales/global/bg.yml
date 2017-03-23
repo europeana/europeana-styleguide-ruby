@@ -244,6 +244,7 @@ bg:
         fashion:
           colour: цвят
           designer: дизайнер
+          material: 
           technique: Техника
           type: тип на съоражението
         image_aspectratio: Ориентация

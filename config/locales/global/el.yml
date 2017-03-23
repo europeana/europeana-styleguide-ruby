@@ -244,6 +244,7 @@ el:
         fashion:
           colour: χρώμα
           designer: Σχεδιαστής
+          material: 
           technique: Τεχνική
           type: Τύπος αντικειμένου
         image_aspectratio: Προσανατολισμός

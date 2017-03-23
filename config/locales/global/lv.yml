@@ -244,6 +244,7 @@ lv:
         fashion:
           colour: Krāsa
           designer: Dizainers
+          material: 
           technique: Tehnika
           type: Prece tips
         image_aspectratio: Orientācija

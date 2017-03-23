@@ -244,6 +244,7 @@ et:
         fashion:
           colour: Värv
           designer: Disainer
+          material: 
           technique: tehnika
           type: Objekti tüüp
         image_aspectratio: Orientatsioon

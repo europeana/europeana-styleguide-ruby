@@ -244,6 +244,7 @@ tr:
         fashion:
           colour: 
           designer: 
+          material: 
           technique: 
           type: 
         image_aspectratio: 

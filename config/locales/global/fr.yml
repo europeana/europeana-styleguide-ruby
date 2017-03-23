@@ -244,6 +244,7 @@ fr:
         fashion:
           colour: couleur
           designer: Designer
+          material: 
           technique: Technique
           type: type d'objet
         image_aspectratio: Orientation

@@ -244,6 +244,7 @@ hr:
         fashion:
           colour: boja
           designer: Dizajner
+          material: 
           technique: Tehnika
           type: Vrsta stavke
         image_aspectratio: Orijentacija

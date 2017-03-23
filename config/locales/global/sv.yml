@@ -244,6 +244,7 @@ sv:
         fashion:
           colour: Färg
           designer: Designer
+          material: 
           technique: Teknik
           type: Objekttyp
         image_aspectratio: Orientering

@@ -244,6 +244,7 @@ lt:
         fashion:
           colour: spalva
           designer: Dizaineris
+          material: 
           technique: technika
           type: prekė tipas
         image_aspectratio: Pozicija

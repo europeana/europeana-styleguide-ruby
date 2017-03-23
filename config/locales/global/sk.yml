@@ -244,6 +244,7 @@ sk:
         fashion:
           colour: 
           designer: Návrhár
+          material: 
           technique: Technika
           type: Typ položky
         image_aspectratio: 

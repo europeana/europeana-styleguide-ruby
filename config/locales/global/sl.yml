@@ -244,6 +244,7 @@ sl:
         fashion:
           colour: 
           designer: Designer
+          material: 
           technique: Tehnika
           type: Tip točke
         image_aspectratio: 

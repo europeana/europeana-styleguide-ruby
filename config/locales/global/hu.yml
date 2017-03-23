@@ -244,6 +244,7 @@ hu:
         fashion:
           colour: szín
           designer: Tervező
+          material: 
           technique: Technika
           type: Termék típusa
         image_aspectratio: Tájolás

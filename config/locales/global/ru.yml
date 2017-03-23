@@ -244,6 +244,7 @@ ru:
         fashion:
           colour: цвет
           designer: Дизайнер
+          material: 
           technique: Техника
           type: Тип вещи
         image_aspectratio: Ориентация

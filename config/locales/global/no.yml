@@ -244,6 +244,7 @@
         fashion:
           colour: Farge
           designer: Designer
+          material: 
           technique: Teknikk
           type: Elementtype
         image_aspectratio: Orientering

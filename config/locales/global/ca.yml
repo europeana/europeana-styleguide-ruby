@@ -244,6 +244,7 @@ ca:
         fashion:
           colour: color
           designer: Dissenyador
+          material: 
           technique: tècnica
           type: tipus d'article
         image_aspectratio: Orientació

@@ -244,6 +244,7 @@ it:
         fashion:
           colour: Colore
           designer: Progettista
+          material: 
           technique: 'Tecnica '
           type: Tipo di elemento (tipo di oggetto)
         image_aspectratio: Orientamento

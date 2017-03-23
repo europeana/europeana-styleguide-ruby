@@ -244,6 +244,7 @@ fi:
         fashion:
           colour: väri
           designer: Suunnittelija
+          material: 
           technique: Tekniikka
           type: Tehtävämuoto
         image_aspectratio: Suunta
