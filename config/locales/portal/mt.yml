@@ -128,6 +128,9 @@ mt:
         results_list: Riżultati
         results_list_mlt: 
         return_home: Mur lura fuq il-paġna primarja
+      search:
+        placeholder:
+          text: 
     news: Aħbarijiet
     object:
       actions:

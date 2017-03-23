@@ -128,6 +128,9 @@ fi:
         results_list: Tulokset
         results_list_mlt: 
         return_home: Palaa Aloitussivulle
+      search:
+        placeholder:
+          text: 
     news: Uutiset
     object:
       actions:

@@ -128,6 +128,9 @@ hu:
         results_list: Találati lista
         results_list_mlt: 
         return_home: Vissza a Főoldalra
+      search:
+        placeholder:
+          text: 
     news: Hírek
     object:
       actions:

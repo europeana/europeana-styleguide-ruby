@@ -128,6 +128,9 @@
         results_list: Resultater
         results_list_mlt: 
         return_home: Tilbake
+      search:
+        placeholder:
+          text: 
     news: Nyheter
     object:
       actions:

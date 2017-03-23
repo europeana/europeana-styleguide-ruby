@@ -128,6 +128,9 @@ nl:
         results_list: Resultaten
         results_list_mlt: 
         return_home: Terug naar hoofdpagina
+      search:
+        placeholder:
+          text: 
     news: Nieuws
     object:
       actions:

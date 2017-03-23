@@ -128,6 +128,9 @@ hr:
         results_list: Rezultati
         results_list_mlt: 
         return_home: Povratak na naslovnicu
+      search:
+        placeholder:
+          text: 
     news: Novosti
     object:
       actions:

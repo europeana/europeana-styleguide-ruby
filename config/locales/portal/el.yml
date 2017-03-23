@@ -128,6 +128,9 @@ el:
         results_list: Λίστα Αποτελεσμάτων
         results_list_mlt: 
         return_home: Επιστροφή στην Αρχική
+      search:
+        placeholder:
+          text: 
     news: Νέα
     object:
       actions:

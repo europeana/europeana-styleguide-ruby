@@ -128,6 +128,9 @@ it:
         results_list: Lista dei risultati
         results_list_mlt: 
         return_home: Ritorna alla Pagina principale
+      search:
+        placeholder:
+          text: 
     news: Notizie
     object:
       actions:

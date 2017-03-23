@@ -131,6 +131,9 @@ lv:
         results_list: Rezultāti
         results_list_mlt: Līdzīgi ieraksti
         return_home: Atgriezties uz sākumu
+      search:
+        placeholder:
+          text: 
     news: Ziņas
     object:
       actions:

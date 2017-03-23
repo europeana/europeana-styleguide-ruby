@@ -130,6 +130,9 @@ et:
         results_list: Tulemused
         results_list_mlt: Sarnased valikud
         return_home: Tagasi avalehele
+      search:
+        placeholder:
+          text: 
     news: Uudised
     object:
       actions:
