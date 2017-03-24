@@ -93,6 +93,7 @@ fi:
         title: Europeana Musiikki
     events:
       list:
+        count-and-terms-with-range: 
         page-title: 
     facet:
       language:

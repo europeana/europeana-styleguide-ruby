@@ -93,6 +93,7 @@ bg:
         title: Музикални колекции на Европеана
     events:
       list:
+        count-and-terms-with-range: 
         page-title: 
     facet:
       language:

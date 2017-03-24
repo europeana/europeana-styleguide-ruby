@@ -93,6 +93,7 @@ lt:
         title: Europeana muzika
     events:
       list:
+        count-and-terms-with-range: 
         page-title: 
     facet:
       language:

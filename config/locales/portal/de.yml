@@ -93,6 +93,7 @@ de:
         title: Europeana Musik
     events:
       list:
+        count-and-terms-with-range: 
         page-title: 
     facet:
       language:

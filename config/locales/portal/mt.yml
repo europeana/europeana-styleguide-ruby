@@ -93,6 +93,7 @@ mt:
         title: Mużika tal-Europeana
     events:
       list:
+        count-and-terms-with-range: 
         page-title: 
     facet:
       language:
