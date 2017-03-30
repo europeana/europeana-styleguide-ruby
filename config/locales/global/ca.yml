@@ -157,6 +157,7 @@ ca:
       previous: anterior
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
+      view: 
     channel:
       all: tots els articles
       archaeology: arqueologia

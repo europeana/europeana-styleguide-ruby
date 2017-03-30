@@ -157,6 +157,7 @@ fi:
       previous: Edellinen
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
+      view: 
     channel:
       all: Kaikki tavarat
       archaeology: arkeologia
