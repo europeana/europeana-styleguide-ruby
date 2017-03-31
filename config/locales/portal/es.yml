@@ -94,7 +94,9 @@ es:
     events:
       list:
         count-and-terms-with-range: 
+        future: 
         page-title: 
+        past: 
     facet:
       language:
         show:

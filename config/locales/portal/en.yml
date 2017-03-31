@@ -94,7 +94,9 @@ en:
     events:
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} events"
+        future: Upcoming events
         page-title: Events
+        past: Past events
     facet:
       language:
         show:
