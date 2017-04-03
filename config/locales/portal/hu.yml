@@ -92,6 +92,7 @@ hu:
         description: Az <strong> Europeana Zenei Gyűjtemény </ strong> egyesíti a legjobb zenei felvételeket, kottákat és más zenével kapcsolatos gyűjteményeket Európa audiovizuális archívumaiból, könyvtáraiból, levéltáraiból és múzeumaiból. <a href="/portal/channels/music/about"> Tudjon meg többet a Zenei Csatornáról. </a>
         title: Europeana Zene
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

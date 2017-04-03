@@ -92,6 +92,7 @@ ga:
         description: 
         title: 
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

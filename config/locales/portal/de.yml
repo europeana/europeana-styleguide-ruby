@@ -92,6 +92,7 @@ de:
         description: Die <strong> Europeana Musik Sammlung </ strong> vereint die besten Musikaufnahmen, Noten und andere musikbezogene Sammlungen von Europas audiovisuellen Archiven und Bibliotheken. <a href="/portal/channels/music/about">Erfahren Sie mehr über die Musik Sammlung.</a>
         title: Europeana Musik
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

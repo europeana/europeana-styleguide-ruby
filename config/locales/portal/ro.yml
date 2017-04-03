@@ -92,6 +92,7 @@ ro:
         description: <strong>Colecția de Muzică Europeana <strong> adună la un loc cele mai bune înregistrări muzicale, partituri și alte colecții legate de muzică de la arhivele, bibliotecile și muzeele din Europa <a href="/portal/channels/music/about">Află mai multe despre Colecția de Muzică.</a>
         title: Europeana Music
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

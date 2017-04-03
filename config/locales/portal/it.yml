@@ -92,6 +92,7 @@ it:
         description: La collezione musicale di Europeana riunisce le migliori registrazioni musicali, spartiti ed altre raccolte musicali provenienti da archivi audiovisivi, biblioteche, archivi e musei europei. Scopri di più sul canale musicale.
         title: Europeana Musica
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

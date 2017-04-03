@@ -92,6 +92,7 @@ nl:
         description: 'Het <strong> Europeana collecties: muziek</strong> brengt u de beste muziek opnames, blad muziek en ander muziek gerelateerde collecties van Europa''s audio-visuele archieven, bibliotheken, archieven en musea. <a href="/portal/channels/music/about"> Meer over Europeana collecties: muziek</a>'
         title: Europeana Muziek
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

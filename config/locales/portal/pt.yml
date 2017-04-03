@@ -92,6 +92,7 @@ pt:
         description: '<strong>Europeana Coleções: Música</strong> reúne as melhores graveções, partituras e outras coleções musicais dos arquivos audiovisuais, bibliotecas e museus europeus. <a href="/portal/channels/music/about"> Saiba mais sobre Europeana Coleções: Música.</a>'
         title: Europeana Música
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

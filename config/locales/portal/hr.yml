@@ -92,6 +92,7 @@ hr:
         description: <strong>Europeana glazbena zbirka</strong> povezuje najbolje glazbene snimke, notne zapise i ostale zbirke glazbene tematike iz audio-vizualnih arhiva, knjižnica, arhiva i muzeja Europe. <a href="/portal/channels/music/about">Saznajte više o Glazbenoj zbirci.</a>
         title: Europeana glazba
     events:
+      all_day: 
       list:
         count-and-terms-with-range: 
         future: 

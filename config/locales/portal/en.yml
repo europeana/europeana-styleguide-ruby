@@ -92,6 +92,7 @@ en:
         description: The <strong>Europeana Music Collection</strong> brings together the best music recordings, sheet music, and other music related collections from Europe's audio-visual archives, libraries, archives and museums. <a href="/portal/channels/music/about">Find out more about the Music Collection.</a>
         title: Europeana Music
     events:
+      all_day: All Day
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} events"
         future: Upcoming events
