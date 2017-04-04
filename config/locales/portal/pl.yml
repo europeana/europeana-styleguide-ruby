@@ -42,6 +42,7 @@ pl:
         title: 'To jest wersja alfa nowych "Kolekcji" oraz "Kolekcji: Muzyka" oraz "Kolekcji: Historia sztuki".'
     blog-link: http://blog.europeana.eu
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

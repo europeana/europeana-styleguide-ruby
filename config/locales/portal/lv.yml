@@ -42,6 +42,7 @@ lv:
         title: Šī ir  mūsu jauno "Kolekciju" un "Mūzikas kolekcijas" "Beta" versija
     blog-link: saite uz blogu
     blogs:
+      description: 
       list:
         count-and-terms-with-range: "%{results_range} no %{results_count} bloga ierakstiem"
         page-title: Europeana blogs

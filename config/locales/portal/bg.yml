@@ -42,6 +42,7 @@ bg:
         title: Това е Beta версия на новите ни страници "Колекции" и "Музикални колекции" и "История на изкуството Колекции".
     blog-link: линк към блог
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

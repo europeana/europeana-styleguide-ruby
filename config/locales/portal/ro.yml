@@ -42,6 +42,7 @@ ro:
         title: "Aceasta este versiunea Beta a noilor noastre \"Colecții\" și a \"Colecției de Muzică\" si a \n\"Istoria Artei Colecții\""
     blog-link: 
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

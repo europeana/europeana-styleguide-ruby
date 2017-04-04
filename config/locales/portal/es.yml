@@ -42,6 +42,7 @@ es:
         title: Esta es la versión Beta de nuestras colecciones, el Canal de Música y el Arte Colecciones de Historia .
     blog-link: Link al Blog
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

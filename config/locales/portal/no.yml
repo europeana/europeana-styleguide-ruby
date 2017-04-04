@@ -42,6 +42,7 @@
         title: Dette er en beta-versjon av våre nye "Samlinger" og "Musikksamlinger"
     blog-link: lenke til blogg
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

@@ -42,6 +42,7 @@ el:
         title: Αυτή είναι μία Beta έκδοση της νέας μας αναζήτησης σε Συλλογές και της Συλλογής Μουσική
     blog-link: ''
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

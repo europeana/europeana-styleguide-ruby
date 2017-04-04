@@ -42,6 +42,7 @@ da:
         title: 'Dette er en Beta version af vores nye "Samlinger" og "Musiksamling" og "Kunsthistorie Samlinger". '
     blog-link: link til blog
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

@@ -42,6 +42,7 @@ en:
         title: This is a Beta release of our new "Collections" and "Music Collections"
     blog-link: link to blog
     blogs:
+      description: Blogs
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} blog posts"
         page-title: Europeana Blog

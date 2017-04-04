@@ -42,6 +42,7 @@ fr:
         title: Ceci est une version beta des nouveaux Europeana Collections, Histoire de l'Art Collections et Europeana Collections Musique
     blog-link: lien vers le blog
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

@@ -42,6 +42,7 @@ nl:
         title: 'Dit is een Beta versie van onze nieuwe Collections, Kunst Geschiedenis- en Muziek Collecties. '
     blog-link: link naar de blog
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

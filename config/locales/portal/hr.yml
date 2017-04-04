@@ -42,6 +42,7 @@ hr:
         title: 'Ovo je beta objava naših novih stranica: "Zbirke" i "Glazbene zbirke"'
     blog-link: http://blog.europeana.eu
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

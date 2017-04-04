@@ -42,6 +42,7 @@ cs:
         title: 
     blog-link: 
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 

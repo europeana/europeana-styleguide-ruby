@@ -42,6 +42,7 @@ et:
         title: Tegu on "Kogude" ja "Muusikakogu" beta versiooniga.
     blog-link: link blogisse
     blogs:
+      description: 
       list:
         count-and-terms-with-range: 
         page-title: 
