@@ -93,6 +93,7 @@ en:
         title: Europeana Music
     events:
       all_day: All Day
+      description: Events
       list:
         count-and-terms-with-range: "%{results_range} of %{results_count} events"
         future: Upcoming events

@@ -93,6 +93,7 @@ et:
         title: Europeana Muusika
     events:
       all_day: 
+      description: 
       list:
         count-and-terms-with-range: 
         future: 
