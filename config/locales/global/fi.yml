@@ -155,6 +155,7 @@ fi:
       fullscreen-exit: exit koko näytön
       next: Seuraava
       previous: Edellinen
+      share: 
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
       view: 
