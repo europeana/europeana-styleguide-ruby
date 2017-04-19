@@ -519,6 +519,11 @@ ro:
     terms-and-policies: Termeni și condiții
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Acum, puteți filtra căutarea pe licență specifică
           new-grid: Ai văzut noul aspect grila?

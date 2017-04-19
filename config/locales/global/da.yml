@@ -521,6 +521,11 @@ da:
     terms-and-policies: Brugerbetingelser og politikker
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Du kan nu filtrere din søgning på specifik licens
           new-grid: Har du set den nye gitter layout?

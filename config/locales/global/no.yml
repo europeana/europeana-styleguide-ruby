@@ -519,6 +519,11 @@
     terms-and-policies: 
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Nå kan du filtrere søket på spesifikke lisens
           new-grid: Har du sett den nye rutenettet?

@@ -521,6 +521,11 @@ mt:
     terms-and-policies: Termini u Kundizzjonijiet
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Tista tiffiltra it-tfittxija tiegħek skont il-liċenzja speċifika
           new-grid: Kont taf li tista tirranga r-risultati b'forma ta' gradilja?

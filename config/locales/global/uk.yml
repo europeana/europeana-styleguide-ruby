@@ -519,6 +519,11 @@ uk:
     terms-and-policies: 
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: 
           new-grid: 

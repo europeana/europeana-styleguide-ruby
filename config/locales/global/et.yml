@@ -521,6 +521,11 @@ et:
     terms-and-policies: Kasutustingimused
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Nüüd saate filtreerida otsingut konkreetse litsentsi alusel
           new-grid: Kas olete näinud uut raamistiku asetust?

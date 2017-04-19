@@ -519,6 +519,11 @@ lv:
     terms-and-policies: Lietošanas noteikumi un politika
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Tagad meklēšanu ir iespējams filtrēt pēc noteiktas licences
           new-grid: Vai esi redzējis jauno režģa izkārtojumu?

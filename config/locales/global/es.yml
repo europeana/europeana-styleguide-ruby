@@ -521,6 +521,11 @@ es:
     terms-and-policies: Términos de uso
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Ahora puede filtrar su búsqueda sobre licencias específicas
           new-grid: "¿Has visto la nueva presentación en formato tabla?"

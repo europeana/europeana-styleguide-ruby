@@ -519,6 +519,11 @@ ca:
     terms-and-policies: Termes d'ús i polítiques
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Ara pot filtrar la seva recerca en la llicència específica
           new-grid: Has vist el nou disseny de la xarxa?

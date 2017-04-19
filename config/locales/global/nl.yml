@@ -519,6 +519,11 @@ nl:
     terms-and-policies: Gebruikersvoorwaarden
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: U kunt nu filteren op specifieke info
           new-grid: Heb je de nieuwe grid gezien?

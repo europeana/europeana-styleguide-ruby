@@ -519,6 +519,11 @@ lt:
     terms-and-policies: Naudojimosi taisyklės ir privatumo politika
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Dabar galite filtruoti paiešką konkrečios licencijos
           new-grid: Ar matėte naują tinklo išdėstymą?

@@ -519,6 +519,11 @@ hu:
     terms-and-policies: Felhasználási feltételek és házirend
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Szűrhetők keressen a konkrét engedély
           new-grid: Láttad az új rács elrendezés?

@@ -519,6 +519,11 @@ ru:
     terms-and-policies: Условия и положения
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Теперь вы можете фильтровать поиск по конкретной лицензии
           new-grid: Вы видели новый макет сетки?

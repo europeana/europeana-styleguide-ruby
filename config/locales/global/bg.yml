@@ -519,6 +519,11 @@ bg:
     terms-and-policies: Условия за ползване  & Политики
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Сега можете да филтрирате търсенето си със специален лиценз
           new-grid: Виждали ли сте новото оформление мрежа?

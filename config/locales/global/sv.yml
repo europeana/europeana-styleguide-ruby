@@ -519,6 +519,11 @@ sv:
     terms-and-policies: Användarvillkor & Policys
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: 
           new-grid: Har du sett den nya rutnätslayout?

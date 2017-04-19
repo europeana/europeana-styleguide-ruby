@@ -521,6 +521,11 @@ it:
     terms-and-policies: 'Condizioni e politiche di utilizzo '
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Ora è possibile filtrare la ricerca su specifica licenza
           new-grid: Hai visto il nuovo layout a griglia?

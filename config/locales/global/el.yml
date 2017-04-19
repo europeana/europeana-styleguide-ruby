@@ -519,6 +519,11 @@ el:
     terms-and-policies: Όροι και πολιτική χρήσης
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Τώρα μπορείτε να φιλτράρετε την αναζήτησή σας για ειδική άδεια
           new-grid: Έχετε δει τη νέα διάταξη πλέγματος;

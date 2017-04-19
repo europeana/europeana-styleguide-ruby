@@ -519,6 +519,11 @@ fi:
     terms-and-policies: Käyttöehdot & käytännöt
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Nyt voit suodattaa hakua tiettyihin lisenssi
           new-grid: Oletko nähnyt uuden kantaverkkoon?

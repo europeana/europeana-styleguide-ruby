@@ -519,6 +519,11 @@ hr:
     terms-and-policies: Uvjeti korištenja
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Sada možete filtrirati Vašu pretragu na određenu licencu
           new-grid: Jeste li vidjeli novi izgled mreže?

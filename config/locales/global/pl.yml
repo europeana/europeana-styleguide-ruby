@@ -519,6 +519,11 @@ pl:
     terms-and-policies: Regulamin i polityka prywatności
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Teraz możesz zawęzić wyszukiwanie do konkretnej licencji
           new-grid: Wypróbowaliście już nowy widok siatki?

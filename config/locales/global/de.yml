@@ -521,6 +521,11 @@ de:
     terms-and-policies: Nutzungsbedingungen und Datenschutzerklärung
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Sie können nun Ihre Suche nach einer bestimmten Lizenz filtern
           new-grid: Haben Sie das neue Raster-Layout gesehen?

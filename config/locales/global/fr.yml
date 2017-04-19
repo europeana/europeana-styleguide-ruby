@@ -519,6 +519,11 @@ fr:
     terms-and-policies: 'Conditions générales d''utilisation '
     tooltips:
       channels:
+        galleries:
+          filter: 
+          info: 
+        home:
+          new-galleries: 
         search:
           new-filter: Vous pouvez désormais filtrer votre recherche sur une licence spécifique
           new-grid: Avez-vous vu la nouvelle disposition de grille?
