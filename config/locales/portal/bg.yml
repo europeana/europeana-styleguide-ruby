@@ -310,6 +310,8 @@ bg:
         product-save: Запази
         saveto: Запази в
         show-all-collections: Покажи всички колекции
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

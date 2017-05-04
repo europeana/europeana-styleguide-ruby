@@ -308,6 +308,8 @@ da:
         product-save: Gem
         saveto: Gem til
         show-all-collections: Vis alle samlinger
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

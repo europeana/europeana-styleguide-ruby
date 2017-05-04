@@ -315,6 +315,8 @@ lv:
         product-save: Saglabāt
         saveto: Saglabāt
         show-all-collections: Rādīt visas kolekcijas
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

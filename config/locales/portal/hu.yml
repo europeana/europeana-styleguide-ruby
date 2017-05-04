@@ -308,6 +308,8 @@ hu:
         product-save: Mentés
         saveto: Mentés ide
         show-all-collections: Mutasd az összes gyűjteményt
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

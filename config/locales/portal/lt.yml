@@ -308,6 +308,8 @@ lt:
         product-save: Išsaugoti
         saveto: Išsaugoti į
         show-all-collections: Rodyti visas kolekcijas
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

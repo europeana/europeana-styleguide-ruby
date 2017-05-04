@@ -308,6 +308,8 @@ ru:
         product-save: Сохранить
         saveto: Сохранить в
         show-all-collections: Показать все коллекции
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

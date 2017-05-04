@@ -299,6 +299,8 @@ it:
         product-save: Zapisz
         saveto: Zapisz do
         show-all-collections: 
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 

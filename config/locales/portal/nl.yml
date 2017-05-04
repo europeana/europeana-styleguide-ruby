@@ -299,6 +299,8 @@ nl:
         product-save: Bewaar
         saveto: Bewaar als
         show-all-collections: Geef alle collecties weer
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

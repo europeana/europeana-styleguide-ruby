@@ -306,6 +306,8 @@ es:
         product-save: Guardar
         saveto: Guardar en
         show-all-collections: Muestra todas las colecciones
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

@@ -319,6 +319,8 @@ ro:
         product-save: Salvează
         saveto: Salvează la
         show-all-collections: Arată toate colecțiile
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

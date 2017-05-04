@@ -313,6 +313,8 @@
         product-save: Lagre
         saveto: Lagre til
         show-all-collections: Vis alle samlinger
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

@@ -299,6 +299,8 @@ sv:
         product-save: 
         saveto: 
         show-all-collections: Visa all tematiska samlingar
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

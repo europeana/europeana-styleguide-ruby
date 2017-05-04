@@ -312,6 +312,8 @@ hr:
         product-save: Pohrani
         saveto: Pohrani u
         show-all-collections: Prikaži sve zbirke
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

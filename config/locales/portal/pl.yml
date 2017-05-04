@@ -313,6 +313,8 @@ pl:
         product-save: Zapisz
         saveto: Zapisz do
         show-all-collections: Pokaż wszystkie kolekcje
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

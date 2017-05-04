@@ -308,6 +308,8 @@ pt:
         product-save: Guardar
         saveto: Guardar para
         show-all-collections: Mostrar todas as colecções
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

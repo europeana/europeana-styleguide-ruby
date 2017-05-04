@@ -326,6 +326,8 @@ fi:
         product-save: Tallenna
         saveto: Tallenna...
         show-all-collections: Näytä kaikki kokoelmat
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

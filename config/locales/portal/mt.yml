@@ -321,6 +321,8 @@ mt:
         product-save: Salva
         saveto: Salva f'
         show-all-collections: Uri l-kollezzjonijiet kollha
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

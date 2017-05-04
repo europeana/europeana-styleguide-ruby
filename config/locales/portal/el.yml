@@ -308,6 +308,8 @@ el:
         product-save: Αποθήκευση
         saveto: Αποθήκευση σε
         show-all-collections: Εμφάνιση όλων των συλλογών
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 

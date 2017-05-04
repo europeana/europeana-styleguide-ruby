@@ -308,6 +308,8 @@ fr:
         product-save: Enregistrer
         saveto: Enregistrer sous
         show-all-collections: Voir toutes les collections
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 3D

@@ -299,6 +299,8 @@ ga:
         product-save: 
         saveto: 
         show-all-collections: 
+      federated: 
+      federated_more: 
       list:
         all-results:
           3D: 
