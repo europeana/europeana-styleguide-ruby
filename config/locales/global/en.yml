@@ -509,9 +509,9 @@ en:
       app: App
       apps: Apps
       blog: Blog
-      blogs: 
-      collection: Collection
-      collections: 
+      blogs: Blogs
+      collection: Thematic collection
+      collections: Thematic collections
       dataset: Dataset
       datasets: Datasets
       event: Event
@@ -524,9 +524,9 @@ en:
       gallery: Gallery
       image: Image
       images: Images
-      new: New
-      partner: Partner
-      partners: Partners
+      new: What's new
+      partner: Our Partner
+      partners: Our Partners
       playlist: Playlist
       playlists: Playlists
       stories: Stories
