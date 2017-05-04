@@ -505,6 +505,34 @@ da:
     password: Adgangskode
     professional: Pro
     professional-text: Bliv involveret, del din data eller brug vores
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Forfin din søgning
     refine-your-search-short: 
     register: 'Registrér '

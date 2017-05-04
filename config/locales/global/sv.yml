@@ -503,6 +503,34 @@ sv:
     password: Lösenord
     professional: Pro
     professional-text: Engagera dig, dela dina data eller använda våra
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Förfina din sökning
     refine-your-search-short: Filter
     register: Registrera dig

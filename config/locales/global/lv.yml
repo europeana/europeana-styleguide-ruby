@@ -503,6 +503,34 @@ lv:
     password: Parole
     professional: Profesionālā
     professional-text: Iesaisties, dalies ar saviem datiem vai izmanto mūsu
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Precizēt meklēšanas pieprasījumu
     refine-your-search-short: Filtrs
     register: Reģistrēties

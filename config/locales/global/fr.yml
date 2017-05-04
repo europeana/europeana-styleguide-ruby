@@ -503,6 +503,34 @@ fr:
     password: Mot de passe
     professional: 
     professional-text: Participez, partagez vos données ou utilisez les nôtres
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Préciser la recherche
     refine-your-search-short: 
     register: S'enregistrer

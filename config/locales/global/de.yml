@@ -505,6 +505,34 @@ de:
     password: Passwort
     professional: Pro
     professional-text: Machen Sie mit, teilen Sie Ihre Daten oder benutzen Sie unsere
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Suche verfeinern
     refine-your-search-short: 
     register: Anmelden

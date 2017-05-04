@@ -505,6 +505,34 @@ it:
     password: 
     professional: 
     professional-text: Fatti coinvolgere, condividi i tuoi dati o utilizza i nostri
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Affina la tua ricerca
     refine-your-search-short: 
     register: Registrati

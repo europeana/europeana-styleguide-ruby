@@ -503,6 +503,34 @@ ro:
     password: Parolă
     professional: ''
     professional-text: Implică-te, partajează datele pe care le deții sau exploatează-le pe cele existente la noi
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Rafinează căutare
     refine-your-search-short: 
     register: Înregistrează-te

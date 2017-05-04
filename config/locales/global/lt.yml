@@ -503,6 +503,34 @@ lt:
     password: Slaptažodis
     professional: Pro
     professional-text: Prisijunkite! Dalinkitės savo duomenimis ar naudokite mūsiškius
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Patikslinkite paiešką
     refine-your-search-short: 
     register: Registruotis

@@ -505,6 +505,34 @@ en:
     password: Password
     professional: Pro
     professional-text: Get involved, share your data or use ours
+    promotions:
+      app: App
+      apps: Apps
+      blog: Blog
+      blogs: 
+      collection: Collection
+      collections: 
+      dataset: Dataset
+      datasets: Datasets
+      event: Event
+      events: Events
+      exhibition: Exhibition
+      exhibitions: Exhibitions
+      featured_site: Featured site
+      featured_sites: Featured sites
+      galleries: Galleries
+      gallery: Gallery
+      image: Image
+      images: Images
+      new: New
+      partner: Partner
+      partners: Partners
+      playlist: Playlist
+      playlists: Playlists
+      stories: Stories
+      story: Story
+      timeline: Timeline
+      timelines: Timelines
     refine-your-search: Refine your search
     refine-your-search-short: Filter
     register: Register

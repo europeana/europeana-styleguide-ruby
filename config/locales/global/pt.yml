@@ -503,6 +503,34 @@ pt:
     password: Palavra-passe
     professional: Europeana Pro
     professional-text: Envolva-se, partilhe os seus dados ou use os nossos
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Refinar pesquisa
     refine-your-search-short: 
     register: Registe-se

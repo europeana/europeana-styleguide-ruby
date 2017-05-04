@@ -503,6 +503,34 @@ ru:
     password: Пароль
     professional: Pro
     professional-text: Принимайте участие, делитесь своими данными или используйте наши
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Инструменты поиска
     refine-your-search-short: 
     register: Зарегистрируйтесь

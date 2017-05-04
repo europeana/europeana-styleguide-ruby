@@ -505,6 +505,34 @@ et:
     password: Parool
     professional: Pro
     professional-text: Võta osa, jaga oma andmeid või kasuta meie omi
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Täpsusta oma otsingut
     refine-your-search-short: 
     register: Registreeri

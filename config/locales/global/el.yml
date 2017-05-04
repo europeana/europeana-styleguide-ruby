@@ -503,6 +503,34 @@ el:
     password: Κωδικός
     professional: 
     professional-text: Συμμετέχετε, μοιραστείτε τα δεδομένα σας ή χρησιμοποιήστε τα δικά μας
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Επαναπροσδιορίστε τα αποτελέσματά σας
     refine-your-search-short: 
     register: Εγγραφή

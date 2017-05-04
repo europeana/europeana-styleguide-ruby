@@ -505,6 +505,34 @@ es:
     password: Contraseña
     professional: Profesional
     professional-text: Participa, comparte tus datos o usa los nuestros
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Refina tu busqueda
     refine-your-search-short: Filtro
     register: Registrate

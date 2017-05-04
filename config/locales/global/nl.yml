@@ -503,6 +503,34 @@ nl:
     password: Wachtwoord
     professional: Professional
     professional-text: Doe mee; deel uw collectie met ons!
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Verfijn uw zoekresultaten
     refine-your-search-short: 
     register: Registreer

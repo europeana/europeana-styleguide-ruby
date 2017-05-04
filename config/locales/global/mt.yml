@@ -505,6 +505,34 @@ mt:
     password: Password
     professional: Professjonali
     professional-text: Involvi ruħek, aqsam l-ideat tiegħek jew uża tagħna
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Irfina t-tfixxija tiegħek
     refine-your-search-short: Iffiltra
     register: Irreġistra

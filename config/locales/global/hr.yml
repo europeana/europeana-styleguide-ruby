@@ -503,6 +503,34 @@ hr:
     password: Lozinka
     professional: Pro
     professional-text: Uključi se, dijeli svoje sadržaje ili koristi naše
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Suzi rezultate pretraživanja
     refine-your-search-short: 
     register: Registriraj se

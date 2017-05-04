@@ -503,6 +503,34 @@ ca:
     password: Paraula de pas
     professional: Pro
     professional-text: Involucra't, comparteix les teves dades amb nosaltres
+    promotions:
+      app: 
+      apps: 
+      blog: 
+      blogs: 
+      collection: 
+      collections: 
+      dataset: 
+      datasets: 
+      event: 
+      events: 
+      exhibition: 
+      exhibitions: 
+      featured_site: 
+      featured_sites: 
+      galleries: 
+      gallery: 
+      image: 
+      images: 
+      new: 
+      partner: 
+      partners: 
+      playlist: 
+      playlists: 
+      stories: 
+      story: 
+      timeline: 
+      timelines: 
     refine-your-search: Refina la teva cerca
     refine-your-search-short: 
     register: Registre
