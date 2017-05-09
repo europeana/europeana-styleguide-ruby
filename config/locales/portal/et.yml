@@ -130,6 +130,8 @@ et:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: 
+        contribution: 
+        contributor: 
         events_list_breadcrumb: 
         exhibitions:
           return_home: Näitused

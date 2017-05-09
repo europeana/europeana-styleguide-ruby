@@ -130,6 +130,8 @@ en:
     navigation:
       breadcrumb:
         blogs_list_breadcrumb: Blog
+        contribution: Contribution
+        contributor: Contributor
         events_list_breadcrumb: Events
         exhibitions:
           return_home: Exhibitions
