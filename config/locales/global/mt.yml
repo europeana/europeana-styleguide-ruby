@@ -149,10 +149,12 @@ mt:
   global:
     about-us: Dwarna
     actions:
+      edit: 
       filter-all: Kollha
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu
       fullscreen-exit: 'erġa lura '
+      new: 
       next: li jmiss
       previous: qabel
       share: 

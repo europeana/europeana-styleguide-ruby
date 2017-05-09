@@ -149,10 +149,12 @@ hr:
   global:
     about-us: O nama
     actions:
+      edit: 
       filter-all: " Filter sve"
       filter-by: Filtrirati po
       fullscreen-enter: Puni zaslon
       fullscreen-exit: izlaz na cijelom zaslonu
+      new: 
       next: Sljedeći
       previous: prijašnji
       share: 

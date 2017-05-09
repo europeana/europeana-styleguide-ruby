@@ -149,10 +149,12 @@ sv:
   global:
     about-us: Om oss
     actions:
+      edit: 
       filter-all: filtrera alla
       filter-by: Filtrera efter
       fullscreen-enter: Fullskärm
       fullscreen-exit: Avsluta helskärmsläge
+      new: 
       next: Nästa
       previous: tidigare
       share: 

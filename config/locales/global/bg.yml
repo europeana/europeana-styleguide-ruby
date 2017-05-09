@@ -149,10 +149,12 @@ bg:
   global:
     about-us: За нас
     actions:
+      edit: 
       filter-all: Филтрира всички
       filter-by: Филтър по
       fullscreen-enter: Цял екран
       fullscreen-exit: Изход от цял ​​екран
+      new: 
       next: следващия
       previous: предишен
       share: 

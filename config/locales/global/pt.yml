@@ -149,10 +149,12 @@ pt:
   global:
     about-us: Sobre nós
     actions:
+      edit: 
       filter-all: Filtrar tudo
       filter-by: Filtrar por
       fullscreen-enter: Tela cheia
       fullscreen-exit: " sair do ecrã inteiro"
+      new: 
       next: Próximo
       previous: anterior
       share: 

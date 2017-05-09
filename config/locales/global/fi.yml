@@ -149,10 +149,12 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
+      edit: 
       filter-all: suodatetaan
       filter-by: Suodata
       fullscreen-enter: Koko näyttö
       fullscreen-exit: exit koko näytön
+      new: 
       next: Seuraava
       previous: Edellinen
       share: 

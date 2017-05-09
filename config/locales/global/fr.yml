@@ -149,10 +149,12 @@ fr:
   global:
     about-us: À propos
     actions:
+      edit: 
       filter-all: Filtrer tout
       filter-by: Filtrer par
       fullscreen-enter: Plein écran
       fullscreen-exit: Quitter le mode plein écran
+      new: 
       next: prochain
       previous: précédent
       share: 

@@ -149,10 +149,12 @@ en:
   global:
     about-us: About us
     actions:
+      edit: Edit
       filter-all: All
       filter-by: Filter by
       fullscreen-enter: full screen
       fullscreen-exit: exit full screen
+      new: New
       next: next
       previous: previous
       share: Share

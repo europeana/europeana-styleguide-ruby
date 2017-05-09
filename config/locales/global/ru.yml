@@ -149,10 +149,12 @@ ru:
   global:
     about-us: О нас
     actions:
+      edit: 
       filter-all: Фильтр все
       filter-by: Сортировать по
       fullscreen-enter: Полноэкранный
       fullscreen-exit: Выход из полноэкранного режима
+      new: 
       next: следующий
       previous: предыдущий
       share: 

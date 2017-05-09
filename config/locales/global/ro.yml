@@ -149,10 +149,12 @@ ro:
   global:
     about-us: Despre noi
     actions:
+      edit: 
       filter-all: Se filtrează toate
       filter-by: Filtreaza dupa
       fullscreen-enter: " Ecran complet"
       fullscreen-exit: ieșire ecran complet
+      new: 
       next: Următor →
       previous: anterior
       share: 

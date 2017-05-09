@@ -149,10 +149,12 @@ el:
   global:
     about-us: Σχετικά με εμάς
     actions:
+      edit: 
       filter-all: φιλτράρει όλα
       filter-by: Φιλτράρισμα με βάση
       fullscreen-enter: ΠΛΗΡΗΣ ΟΘΟΝΗ
       fullscreen-exit: Έξοδος από πλήρη οθόνη
+      new: 
       next: επόμενος
       previous: προηγούμενος
       share: 

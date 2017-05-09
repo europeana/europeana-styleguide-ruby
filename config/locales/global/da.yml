@@ -149,10 +149,12 @@ da:
   global:
     about-us: Om os
     actions:
+      edit: 
       filter-all: Alt
       filter-by: Filter med
       fullscreen-enter: Fuld skærm
       fullscreen-exit: exit fuld skærm
+      new: 
       next: Næste
       previous: tidligere
       share: 

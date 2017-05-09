@@ -149,10 +149,12 @@ nl:
   global:
     about-us: Over ons
     actions:
+      edit: 
       filter-all: Allen filteren
       filter-by: Filter op
       fullscreen-enter: Volledig scherm
       fullscreen-exit: verlaat volledig scherm
+      new: 
       next: volgende
       previous: vorige
       share: 

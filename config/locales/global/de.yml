@@ -149,10 +149,12 @@ de:
   global:
     about-us: Über uns
     actions:
+      edit: 
       filter-all: Alle filtern
       filter-by: Filtern nach
       fullscreen-enter: Vollbild
       fullscreen-exit: Beenden Sie den Vollbildmodus
+      new: 
       next: Nächster
       previous: bisherige
       share: 

@@ -149,10 +149,12 @@ uk:
   global:
     about-us: Про нас
     actions:
+      edit: 
       filter-all: 
       filter-by: 
       fullscreen-enter: 
       fullscreen-exit: 
+      new: 
       next: 
       previous: 
       share: 

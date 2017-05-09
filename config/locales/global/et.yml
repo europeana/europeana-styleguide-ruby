@@ -149,10 +149,12 @@ et:
   global:
     about-us: Meist
     actions:
+      edit: 
       filter-all: Kõike
       filter-by: " Filtreeri"
       fullscreen-enter: Täisekraan
       fullscreen-exit: Välju täisekraanilt
+      new: 
       next: järgmine
       previous: eelmine
       share: 

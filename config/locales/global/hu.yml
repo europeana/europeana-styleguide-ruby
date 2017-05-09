@@ -149,10 +149,12 @@ hu:
   global:
     about-us: Rólunk
     actions:
+      edit: 
       filter-all: kiszűrje
       filter-by: Szűrés vlami alapján
       fullscreen-enter: Teljes képernyő
       fullscreen-exit: kilépés a teljes képernyős
+      new: 
       next: következő
       previous: előző
       share: 

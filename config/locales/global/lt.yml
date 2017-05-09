@@ -149,10 +149,12 @@ lt:
   global:
     about-us: Apie mus
     actions:
+      edit: 
       filter-all: filtruoti visus
       filter-by: Filtruoti pagal
       fullscreen-enter: Per visą ekraną
       fullscreen-exit: išeiti visą ekraną
+      new: 
       next: Kitas
       previous: iepriekšējā
       share: 

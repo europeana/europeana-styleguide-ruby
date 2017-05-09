@@ -149,10 +149,12 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
+      edit: 
       filter-all: filtrar tot
       filter-by: Filtrar per
       fullscreen-enter: Pantalla completa
       fullscreen-exit: Surt de la pantalla completa
+      new: 
       next: Pròxim
       previous: anterior
       share: 

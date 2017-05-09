@@ -149,10 +149,12 @@
   global:
     about-us: Om oss
     actions:
+      edit: 
       filter-all: Alt
       filter-by: Filtrer etter
       fullscreen-enter: full skjerm
       fullscreen-exit: Avslutt fullskjerm
+      new: 
       next: neste
       previous: tidligere
       share: 
