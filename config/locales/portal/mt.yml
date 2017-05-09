@@ -134,9 +134,12 @@ mt:
         exhibitions:
           return_home: Wirjiet
         item_detail: Oġġett
+        register: 
+        reset-password: 
         results_list: Riżultati
         results_list_mlt: 
         return_home: Mur lura fuq il-paġna primarja
+        sign-in: 
       search:
         placeholder:
           text: 

@@ -134,9 +134,12 @@ de:
         exhibitions:
           return_home: Ausstellungen
         item_detail: Objektdetail
+        register: 
+        reset-password: 
         results_list: Ergebnisliste
         results_list_mlt: 
         return_home: Zurück zur Startseite
+        sign-in: 
       search:
         placeholder:
           text: 

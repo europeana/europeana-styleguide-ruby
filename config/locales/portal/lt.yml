@@ -134,9 +134,12 @@ lt:
         exhibitions:
           return_home: 
         item_detail: Įrašo aprašymas
+        register: 
+        reset-password: 
         results_list: Rezultatų sąrašas
         results_list_mlt: 
         return_home: Grįžti į pagrindinį puslapį
+        sign-in: 
       search:
         placeholder:
           text: 

@@ -136,9 +136,12 @@ et:
         exhibitions:
           return_home: Näitused
         item_detail: Ese
+        register: 
+        reset-password: 
         results_list: Tulemused
         results_list_mlt: Sarnased valikud
         return_home: Tagasi avalehele
+        sign-in: 
       search:
         placeholder:
           text: 

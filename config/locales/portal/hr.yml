@@ -134,9 +134,12 @@ hr:
         exhibitions:
           return_home: 
         item_detail: Objekt
+        register: 
+        reset-password: 
         results_list: Rezultati
         results_list_mlt: 
         return_home: Povratak na naslovnicu
+        sign-in: 
       search:
         placeholder:
           text: 

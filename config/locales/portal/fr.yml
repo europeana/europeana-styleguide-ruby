@@ -134,9 +134,12 @@ fr:
         exhibitions:
           return_home: 
         item_detail: Informations sur l'objet
+        register: 
+        reset-password: 
         results_list: Liste de résultats
         results_list_mlt: 
         return_home: Retour à la page d'accueil
+        sign-in: 
       search:
         placeholder:
           text: 

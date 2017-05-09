@@ -134,9 +134,12 @@ pl:
         exhibitions:
           return_home: Wystawy
         item_detail: Obiekt
+        register: 
+        reset-password: 
         results_list: Lista Wyników
         results_list_mlt: 
         return_home: Powrót do strony głównej
+        sign-in: 
       search:
         placeholder:
           text: 

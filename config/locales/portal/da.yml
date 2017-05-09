@@ -134,9 +134,12 @@ da:
         exhibitions:
           return_home: 
         item_detail: Genstandsdetalje
+        register: 
+        reset-password: 
         results_list: Oversigt over Resultater
         results_list_mlt: 
         return_home: Tilbage til Hjem
+        sign-in: 
       search:
         placeholder:
           text: 

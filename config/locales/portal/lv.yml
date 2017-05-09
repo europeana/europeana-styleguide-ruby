@@ -137,9 +137,12 @@ lv:
         exhibitions:
           return_home: Izstādes
         item_detail: Ieraksts
+        register: 
+        reset-password: 
         results_list: Rezultāti
         results_list_mlt: Līdzīgi ieraksti
         return_home: Atgriezties uz sākumu
+        sign-in: 
       search:
         placeholder:
           text: 

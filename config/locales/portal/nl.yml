@@ -134,9 +134,12 @@ nl:
         exhibitions:
           return_home: 
         item_detail: Object details
+        register: 
+        reset-password: 
         results_list: Resultaten
         results_list_mlt: 
         return_home: Terug naar hoofdpagina
+        sign-in: 
       search:
         placeholder:
           text: 

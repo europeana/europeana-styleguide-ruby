@@ -134,9 +134,12 @@ sv:
         exhibitions:
           return_home: 
         item_detail: Post
+        register: 
+        reset-password: 
         results_list: Resultat
         results_list_mlt: 
         return_home: Tillbaka till Startsidan
+        sign-in: 
       search:
         placeholder:
           text: 

@@ -134,9 +134,12 @@ ga:
         exhibitions:
           return_home: 
         item_detail: 
+        register: 
+        reset-password: 
         results_list: 
         results_list_mlt: 
         return_home: 
+        sign-in: 
       search:
         placeholder:
           text: 

@@ -134,9 +134,12 @@ bg:
         exhibitions:
           return_home: 
         item_detail: Допълнителна информация за обекта
+        register: 
+        reset-password: 
         results_list: Списък с резултати
         results_list_mlt: 
         return_home: Обратно към начална страница
+        sign-in: 
       search:
         placeholder:
           text: 

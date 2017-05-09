@@ -134,9 +134,12 @@ ca:
         exhibitions:
           return_home: 
         item_detail: Ítem
+        register: 
+        reset-password: 
         results_list: Resultats
         results_list_mlt: 
         return_home: Tornar a l'inici
+        sign-in: 
       search:
         placeholder:
           text: 

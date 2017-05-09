@@ -136,9 +136,12 @@ en:
         exhibitions:
           return_home: Exhibitions
         item_detail: Item
+        register: Register
+        reset-password: Reset Password
         results_list: Results
         results_list_mlt: Similar items
         return_home: Return to Home
+        sign-in: Sign In
       search:
         placeholder:
           text: Search by keyword here

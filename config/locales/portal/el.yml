@@ -134,9 +134,12 @@ el:
         exhibitions:
           return_home: 
         item_detail: Λεπτομέρεια εγγραφής
+        register: 
+        reset-password: 
         results_list: Λίστα Αποτελεσμάτων
         results_list_mlt: 
         return_home: Επιστροφή στην Αρχική
+        sign-in: 
       search:
         placeholder:
           text: 

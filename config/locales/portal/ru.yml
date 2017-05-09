@@ -134,9 +134,12 @@ ru:
         exhibitions:
           return_home: 
         item_detail: Подробная информация
+        register: 
+        reset-password: 
         results_list: Список результатов
         results_list_mlt: 
         return_home: Домой
+        sign-in: 
       search:
         placeholder:
           text: 

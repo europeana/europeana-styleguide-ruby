@@ -134,9 +134,12 @@ fi:
         exhibitions:
           return_home: 
         item_detail: Kohde
+        register: 
+        reset-password: 
         results_list: Tulokset
         results_list_mlt: 
         return_home: Palaa Aloitussivulle
+        sign-in: 
       search:
         placeholder:
           text: 

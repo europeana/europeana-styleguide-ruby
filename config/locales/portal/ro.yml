@@ -134,9 +134,12 @@ ro:
         exhibitions:
           return_home: 
         item_detail: detalii înregistrare
+        register: 
+        reset-password: 
         results_list: Lista rezultatelor
         results_list_mlt: 
         return_home: Inapoi Acasă
+        sign-in: 
       search:
         placeholder:
           text: 

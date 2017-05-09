@@ -134,9 +134,12 @@ hu:
         exhibitions:
           return_home: 
         item_detail: Elem részletei
+        register: 
+        reset-password: 
         results_list: Találati lista
         results_list_mlt: 
         return_home: Vissza a Főoldalra
+        sign-in: 
       search:
         placeholder:
           text: 

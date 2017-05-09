@@ -134,9 +134,12 @@
         exhibitions:
           return_home: 
         item_detail: Objekt
+        register: 
+        reset-password: 
         results_list: Resultater
         results_list_mlt: 
         return_home: Tilbake
+        sign-in: 
       search:
         placeholder:
           text: 
