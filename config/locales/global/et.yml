@@ -149,6 +149,7 @@ et:
   global:
     about-us: Meist
     actions:
+      delete: 
       edit: 
       filter-all: Kõike
       filter-by: " Filtreeri"

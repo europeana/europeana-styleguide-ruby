@@ -149,6 +149,7 @@ da:
   global:
     about-us: Om os
     actions:
+      delete: 
       edit: 
       filter-all: Alt
       filter-by: Filter med

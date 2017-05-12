@@ -149,6 +149,7 @@ el:
   global:
     about-us: Σχετικά με εμάς
     actions:
+      delete: 
       edit: 
       filter-all: φιλτράρει όλα
       filter-by: Φιλτράρισμα με βάση

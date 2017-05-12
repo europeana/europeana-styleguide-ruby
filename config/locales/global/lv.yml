@@ -149,6 +149,7 @@ lv:
   global:
     about-us: Par mums
     actions:
+      delete: 
       edit: 
       filter-all: Viss
       filter-by: Filtrēt pēc

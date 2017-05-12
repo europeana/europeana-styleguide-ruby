@@ -149,6 +149,7 @@ ro:
   global:
     about-us: Despre noi
     actions:
+      delete: 
       edit: 
       filter-all: Se filtrează toate
       filter-by: Filtreaza dupa

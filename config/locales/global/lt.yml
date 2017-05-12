@@ -149,6 +149,7 @@ lt:
   global:
     about-us: Apie mus
     actions:
+      delete: 
       edit: 
       filter-all: filtruoti visus
       filter-by: Filtruoti pagal

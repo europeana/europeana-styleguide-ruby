@@ -149,6 +149,7 @@ sv:
   global:
     about-us: Om oss
     actions:
+      delete: 
       edit: 
       filter-all: filtrera alla
       filter-by: Filtrera efter

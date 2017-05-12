@@ -149,6 +149,7 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
+      delete: 
       edit: 
       filter-all: suodatetaan
       filter-by: Suodata

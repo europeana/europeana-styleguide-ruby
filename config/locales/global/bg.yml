@@ -149,6 +149,7 @@ bg:
   global:
     about-us: За нас
     actions:
+      delete: 
       edit: 
       filter-all: Филтрира всички
       filter-by: Филтър по

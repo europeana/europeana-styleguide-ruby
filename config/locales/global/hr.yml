@@ -149,6 +149,7 @@ hr:
   global:
     about-us: O nama
     actions:
+      delete: 
       edit: 
       filter-all: " Filter sve"
       filter-by: Filtrirati po

@@ -149,6 +149,7 @@
   global:
     about-us: Om oss
     actions:
+      delete: 
       edit: 
       filter-all: Alt
       filter-by: Filtrer etter

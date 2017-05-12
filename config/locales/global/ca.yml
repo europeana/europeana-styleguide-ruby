@@ -149,6 +149,7 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
+      delete: 
       edit: 
       filter-all: filtrar tot
       filter-by: Filtrar per

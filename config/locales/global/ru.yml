@@ -149,6 +149,7 @@ ru:
   global:
     about-us: О нас
     actions:
+      delete: 
       edit: 
       filter-all: Фильтр все
       filter-by: Сортировать по

@@ -149,6 +149,7 @@ mt:
   global:
     about-us: Dwarna
     actions:
+      delete: 
       edit: 
       filter-all: Kollha
       filter-by: Iffiltra skond

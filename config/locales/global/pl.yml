@@ -149,6 +149,7 @@ pl:
   global:
     about-us: O nas
     actions:
+      delete: 
       edit: 
       filter-all: Wszystko
       filter-by: Filtruj

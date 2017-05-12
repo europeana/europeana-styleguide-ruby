@@ -149,6 +149,7 @@ uk:
   global:
     about-us: Про нас
     actions:
+      delete: 
       edit: 
       filter-all: 
       filter-by: 

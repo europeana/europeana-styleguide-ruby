@@ -149,6 +149,7 @@ sk:
   global:
     about-us: 
     actions:
+      delete: 
       edit: 
       filter-all: 
       filter-by: 
