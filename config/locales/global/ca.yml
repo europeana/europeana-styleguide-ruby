@@ -162,6 +162,7 @@ ca:
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
       view: 
+      withdraw: 
     channel:
       all: tots els articles
       archaeology: arqueologia

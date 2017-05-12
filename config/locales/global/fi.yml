@@ -162,6 +162,7 @@ fi:
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
       view: 
+      withdraw: 
     channel:
       all: Kaikki tavarat
       archaeology: arkeologia

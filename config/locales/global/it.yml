@@ -162,6 +162,7 @@ it:
       skip-to-main: Passa al contenuto della pagina
       skip-to-section: Vai alla sezione
       view: 
+      withdraw: 
     channel:
       all: Tutti gli articoli
       archaeology: archeologia
