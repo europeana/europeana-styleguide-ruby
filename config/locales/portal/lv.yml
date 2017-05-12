@@ -132,6 +132,7 @@ lv:
       breadcrumb:
         blogs_list_breadcrumb: Blogs
         contribution: 
+        contribution-attachment: 
         contributor: 
         events_list_breadcrumb: 
         exhibitions:

@@ -131,6 +131,7 @@ en:
       breadcrumb:
         blogs_list_breadcrumb: Blog
         contribution: Contribution
+        contribution-attachment: Attachment
         contributor: Contributor
         events_list_breadcrumb: Events
         exhibitions:
