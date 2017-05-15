@@ -149,8 +149,10 @@ bg:
   global:
     about-us: За нас
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Филтрира всички
       filter-by: Филтър по
       fullscreen-enter: Цял екран

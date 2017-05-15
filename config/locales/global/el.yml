@@ -149,8 +149,10 @@ el:
   global:
     about-us: Σχετικά με εμάς
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: φιλτράρει όλα
       filter-by: Φιλτράρισμα με βάση
       fullscreen-enter: ΠΛΗΡΗΣ ΟΘΟΝΗ

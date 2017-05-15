@@ -149,8 +149,10 @@ it:
   global:
     about-us: Chi siamo
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Tutte
       filter-by: Filtra per
       fullscreen-enter: A schermo intero

@@ -149,8 +149,10 @@ et:
   global:
     about-us: Meist
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Kõike
       filter-by: " Filtreeri"
       fullscreen-enter: Täisekraan

@@ -149,8 +149,10 @@ de:
   global:
     about-us: Über uns
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Alle filtern
       filter-by: Filtern nach
       fullscreen-enter: Vollbild

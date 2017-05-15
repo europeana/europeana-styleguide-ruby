@@ -149,8 +149,10 @@ da:
   global:
     about-us: Om os
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Alt
       filter-by: Filter med
       fullscreen-enter: Fuld skærm

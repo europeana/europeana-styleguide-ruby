@@ -149,8 +149,10 @@ ca:
   global:
     about-us: Sobre nosaltres
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: filtrar tot
       filter-by: Filtrar per
       fullscreen-enter: Pantalla completa

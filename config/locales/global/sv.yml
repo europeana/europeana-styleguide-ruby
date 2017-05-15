@@ -149,8 +149,10 @@ sv:
   global:
     about-us: Om oss
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: filtrera alla
       filter-by: Filtrera efter
       fullscreen-enter: Fullskärm

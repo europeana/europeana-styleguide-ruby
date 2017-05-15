@@ -149,8 +149,10 @@ nl:
   global:
     about-us: Over ons
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Allen filteren
       filter-by: Filter op
       fullscreen-enter: Volledig scherm

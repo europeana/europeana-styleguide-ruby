@@ -149,8 +149,10 @@ hu:
   global:
     about-us: Rólunk
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: kiszűrje
       filter-by: Szűrés vlami alapján
       fullscreen-enter: Teljes képernyő

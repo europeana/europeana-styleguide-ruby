@@ -149,8 +149,10 @@ cs:
   global:
     about-us: 
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: 
       filter-by: 
       fullscreen-enter: 

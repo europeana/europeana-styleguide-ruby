@@ -149,8 +149,10 @@ mt:
   global:
     about-us: Dwarna
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Kollha
       filter-by: Iffiltra skond
       fullscreen-enter: Skrin kollu

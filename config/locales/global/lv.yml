@@ -149,8 +149,10 @@ lv:
   global:
     about-us: Par mums
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Viss
       filter-by: Filtrēt pēc
       fullscreen-enter: pilnekrāns

@@ -149,8 +149,10 @@
   global:
     about-us: Om oss
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Alt
       filter-by: Filtrer etter
       fullscreen-enter: full skjerm

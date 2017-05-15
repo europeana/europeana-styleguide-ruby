@@ -149,8 +149,10 @@ lt:
   global:
     about-us: Apie mus
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: filtruoti visus
       filter-by: Filtruoti pagal
       fullscreen-enter: Per visą ekraną

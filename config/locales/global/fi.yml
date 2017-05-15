@@ -149,8 +149,10 @@ fi:
   global:
     about-us: Tietoa meistä
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: suodatetaan
       filter-by: Suodata
       fullscreen-enter: Koko näyttö

@@ -149,8 +149,10 @@ es:
   global:
     about-us: Sobre nosotros
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Todos
       filter-by: Filtrar por
       fullscreen-enter: pantalla completa

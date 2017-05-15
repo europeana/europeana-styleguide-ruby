@@ -149,8 +149,10 @@ hr:
   global:
     about-us: O nama
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: " Filter sve"
       filter-by: Filtrirati po
       fullscreen-enter: Puni zaslon

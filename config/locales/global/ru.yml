@@ -149,8 +149,10 @@ ru:
   global:
     about-us: О нас
     actions:
+      collapse: 
       delete: 
       edit: 
+      expand: 
       filter-all: Фильтр все
       filter-by: Сортировать по
       fullscreen-enter: Полноэкранный
