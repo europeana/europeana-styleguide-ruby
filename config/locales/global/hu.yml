@@ -374,6 +374,9 @@ hu:
       text_fulltext:
         'false': Nem
         'true': Igen
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Kép

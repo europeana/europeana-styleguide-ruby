@@ -374,6 +374,9 @@ lt:
       text_fulltext:
         'false': Ne
         'true': Taip
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Vaizdas

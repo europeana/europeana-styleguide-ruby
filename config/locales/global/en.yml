@@ -374,6 +374,9 @@ en:
       text_fulltext:
         'false': 'No'
         'true': 'Yes'
+      thumbnail:
+        'false': 'No'
+        'true': 'Yes'
       type:
         3d: 3D
         image: Image

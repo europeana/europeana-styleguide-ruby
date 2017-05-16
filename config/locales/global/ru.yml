@@ -374,6 +374,9 @@ ru:
       text_fulltext:
         'false': Нет
         'true': Да
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Изображение

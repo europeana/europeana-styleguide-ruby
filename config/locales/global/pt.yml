@@ -374,6 +374,9 @@ pt:
       text_fulltext:
         'false': Não
         'true': Sim
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Imagem

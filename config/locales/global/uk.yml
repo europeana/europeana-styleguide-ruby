@@ -374,6 +374,9 @@ uk:
       text_fulltext:
         'false': 
         'true': 
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 
         image: 

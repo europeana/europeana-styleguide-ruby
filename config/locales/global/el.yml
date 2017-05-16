@@ -374,6 +374,9 @@ el:
       text_fulltext:
         'false': Όχι
         'true': Ναι
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Εικόνα

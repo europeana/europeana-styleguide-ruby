@@ -374,6 +374,9 @@ ro:
       text_fulltext:
         'false': Nu
         'true': Da
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Imagine

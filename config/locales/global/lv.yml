@@ -374,6 +374,9 @@ lv:
       text_fulltext:
         'false': Nē
         'true': Jā
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Attēls
