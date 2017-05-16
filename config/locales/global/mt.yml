@@ -369,6 +369,9 @@ mt:
       text_fulltext:
         'false': Le
         'true': Iva
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Immaġni

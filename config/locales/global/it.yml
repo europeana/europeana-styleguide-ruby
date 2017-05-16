@@ -367,6 +367,9 @@ it:
       text_fulltext:
         'false': 'No'
         'true': Si
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Immagine

@@ -367,6 +367,9 @@ de:
       text_fulltext:
         'false': Nein
         'true': Ja
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Bild

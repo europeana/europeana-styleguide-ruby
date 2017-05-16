@@ -367,6 +367,9 @@ fi:
       text_fulltext:
         'false': Ei
         'true': Kyllä
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Kuva

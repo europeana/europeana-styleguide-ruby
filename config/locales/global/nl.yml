@@ -367,6 +367,9 @@ nl:
       text_fulltext:
         'false': Nee
         'true': Ja
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Afbeelding

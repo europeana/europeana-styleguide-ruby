@@ -367,6 +367,9 @@ da:
       text_fulltext:
         'false': Nej
         'true': Ja
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Billede

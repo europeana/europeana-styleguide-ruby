@@ -367,6 +367,9 @@ ca:
       text_fulltext:
         'false': 'No'
         'true': Sí
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Imatge

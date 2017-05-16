@@ -367,6 +367,9 @@ et:
       text_fulltext:
         'false': Ei
         'true': Jah
+      thumbnail:
+        'false': 
+        'true': 
       type:
         3d: 3D
         image: Kujutis
