@@ -265,6 +265,7 @@ hu:
         sound_duration: Időtartam
         sound_hq: Magas minőségű
         text_fulltext: Teljes szöveg
+        thumbnail: 
         type: Média
         ugc: Mutasd a felhasználók által feltöltött tartalmat
         video_duration: Videó hossza

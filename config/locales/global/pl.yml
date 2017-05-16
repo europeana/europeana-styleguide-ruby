@@ -265,6 +265,7 @@ pl:
         sound_duration: Czas trwania
         sound_hq: Dobra Jakość
         text_fulltext: Pełna Treść
+        thumbnail: 
         type: Rodzaje
         ugc: Pokaż obiekty dodane przez użytkowników
         video_duration: Czas Trwania

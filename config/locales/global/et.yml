@@ -265,6 +265,7 @@ et:
         sound_duration: Kestus
         sound_hq: Kõrge kvaliteet
         text_fulltext: Täistekst
+        thumbnail: 
         type: Meedia
         ugc: Näita kasutajate poolt loodud sisu
         video_duration: Kestus

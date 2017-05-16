@@ -265,6 +265,7 @@ el:
         sound_duration: Διάρκεια
         sound_hq: Υψηλή ποιότητα
         text_fulltext: Πλήρες κείμενο
+        thumbnail: 
         type: Μέσα
         ugc: Περιεχόμενο που παρείχαν χρήστες
         video_duration: Διάρκεια Video

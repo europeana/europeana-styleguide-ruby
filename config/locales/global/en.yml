@@ -265,6 +265,7 @@ en:
         sound_duration: Duration
         sound_hq: High Quality
         text_fulltext: Full text
+        thumbnail: Only items with thumbnails
         type: Media
         ugc: Show content contributed by users
         video_duration: Duration

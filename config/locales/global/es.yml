@@ -265,6 +265,7 @@ es:
         sound_duration: Duración
         sound_hq: Alta Calidad
         text_fulltext: Texto Completo
+        thumbnail: 
         type: Multimedia
         ugc: Mostrar contenido generado por los usuarios
         video_duration: Duración de Video

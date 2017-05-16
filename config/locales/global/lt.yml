@@ -265,6 +265,7 @@ lt:
         sound_duration: Trukmė
         sound_hq: Aukšta kokybė
         text_fulltext: Pilnas tekstas
+        thumbnail: 
         type: Medija
         ugc: Rodyti vartotojų įkeltą turinį
         video_duration: Video įrašo trukmė

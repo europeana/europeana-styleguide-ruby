@@ -265,6 +265,7 @@ hr:
         sound_duration: Trajanje
         sound_hq: Visoka kvaliteta
         text_fulltext: Cjeloviti tekst
+        thumbnail: 
         type: Medij
         ugc: Prikaži sadržaj koji su postavili korisnici
         video_duration: Trajanje

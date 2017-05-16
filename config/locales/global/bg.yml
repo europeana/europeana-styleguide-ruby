@@ -265,6 +265,7 @@ bg:
         sound_duration: Продължителност
         sound_hq: Високо качество
         text_fulltext: Пълен текст
+        thumbnail: 
         type: Медия
         ugc: Покажи генерирано от потребителите съдържание
         video_duration: Продължителност на видеото
