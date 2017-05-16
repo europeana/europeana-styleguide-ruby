@@ -272,6 +272,7 @@ sv:
         sound_duration: Längd
         sound_hq: Hög kvalitet
         text_fulltext: Fulltext
+        thumbnail: 
         type: Mediaformat
         ugc: Visa användarskapat innehåll
         video_duration: Längd

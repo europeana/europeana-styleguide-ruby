@@ -272,6 +272,7 @@ ru:
         sound_duration: Продолжительность
         sound_hq: Высокое качество
         text_fulltext: Полный текст
+        thumbnail: 
         type: Носитель
         ugc: Показать контент, добавленный пользователями
         video_duration: Длительность видео

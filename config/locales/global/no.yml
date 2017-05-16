@@ -272,6 +272,7 @@
         sound_duration: Varighet
         sound_hq: Høy kvalitet
         text_fulltext: Full tekst
+        thumbnail: 
         type: Media
         ugc: Vis innhold lagt til av brukere
         video_duration: Varighet

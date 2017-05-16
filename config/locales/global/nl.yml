@@ -272,6 +272,7 @@ nl:
         sound_duration: Lengte
         sound_hq: Hoge Kwaliteit
         text_fulltext: Volledige tekst
+        thumbnail: 
         type: Media
         ugc: Toon bijdragen door gebruikers
         video_duration: Video duur

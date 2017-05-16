@@ -272,6 +272,7 @@ ca:
         sound_duration: Durada
         sound_hq: Alta Qualitat
         text_fulltext: Text complet
+        thumbnail: 
         type: Audiovisuals
         ugc: Mostrar continguts generats per usuaris
         video_duration: Durada

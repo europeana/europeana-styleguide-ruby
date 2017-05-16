@@ -272,6 +272,7 @@ fi:
         sound_duration: Kesto
         sound_hq: Korkealaatuinen
         text_fulltext: Kokoteksti
+        thumbnail: 
         type: Media
         ugc: Näytä käyttäjien lisäämä sisältö
         video_duration: Kesto

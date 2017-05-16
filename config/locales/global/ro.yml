@@ -272,6 +272,7 @@ ro:
         sound_duration: Durata
         sound_hq: Calitate superioară
         text_fulltext: Text complet
+        thumbnail: 
         type: Fișier media
         ugc: Arată conținut furnizat de către utilizatori
         video_duration: Durata videoclip

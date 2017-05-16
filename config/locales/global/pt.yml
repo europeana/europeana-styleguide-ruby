@@ -272,6 +272,7 @@ pt:
         sound_duration: Duração
         sound_hq: Alta Qualidade
         text_fulltext: Texto completo
+        thumbnail: 
         type: Media
         ugc: Mostrar conteúdo contribuído por utilizadores
         video_duration: Duração do Vídeo
