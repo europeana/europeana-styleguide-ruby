@@ -5,7 +5,7 @@ nl:
         newcontent:
           description: Hier kunt u alle recente toevoegingen aan Europeana Collections vinden. Bekijk welke culturele instelling nieuwe items heeft bijgedragen, het aantal items die ze hebben toegevoegd en wanneer. Klik op de onderstaande links voor meer informatie.
         sources:
-          description: 'Hieronder zie je een lijst van instellingen die inhoudelijk aan Europeana Collections bijgedragen. '
+          description: Hieronder zie je een lijst van instellingen die hun inhoud aan Europeana Collections hebben bijgedragen.
   global:
     labs-link: 'link naar labs '
     navigation:
@@ -78,7 +78,7 @@ nl:
         all: Alle items
         count: objecten
         images: Afbeeldingen
-        moving-images: Bewegende afbeeldingen
+        moving-images: Videos
         sound: Geluidsopnames
         texts: Tekst
       labels:
