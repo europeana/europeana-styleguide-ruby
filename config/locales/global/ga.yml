@@ -147,7 +147,7 @@ ga:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: 
+    about-us: Maidir linne
     actions:
       collapse: 
       delete: 
@@ -439,7 +439,7 @@ ga:
     find-us-social-media: 
     follow-channel: 
     forgot-password: 
-    galleries: 
+    galleries: Gailearaithe
     genres: 
     genres-chamber-music: 
     genres-classical-music: 
