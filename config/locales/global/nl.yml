@@ -253,7 +253,7 @@ nl:
         fashion:
           colour: Kleur
           designer: Designer
-          material: 
+          material: Materiaal
           technique: Techniek
           type: Type voorwerp
         image_aspectratio: Oriëntatie
