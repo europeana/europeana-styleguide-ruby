@@ -81,6 +81,9 @@ da:
         moving-images: Videoer
         sound: Lydoptagelser
         texts: Tekster
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kurateret af
         designer: Designer
@@ -127,6 +130,7 @@ da:
     my-europeana-link: link til mit Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

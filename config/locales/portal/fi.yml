@@ -81,6 +81,9 @@ fi:
         moving-images: videota
         sound: äänitallennetta
         texts: tekstiä
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kuratoinut
         designer: Suunnittelija
@@ -127,6 +130,7 @@ fi:
     my-europeana-link: linkki Minun Europeanaan
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

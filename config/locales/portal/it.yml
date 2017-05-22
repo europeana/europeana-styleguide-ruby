@@ -81,6 +81,9 @@ it:
         moving-images: Video
         sound: Registrazioni sonore
         texts: Testi
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Curato da
         designer: progettista
@@ -127,6 +130,7 @@ it:
     my-europeana-link: link a La mia Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

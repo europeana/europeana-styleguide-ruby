@@ -81,6 +81,9 @@ en:
         moving-images: Videos
         sound: Sound recordings
         texts: Texts
+      e7a1418:
+        contribute: Contribute your story
+        my-account: My Account
       labels:
         credits: 'Curated by '
         designer: Designer
@@ -129,6 +132,7 @@ en:
     my-europeana-link: link to My Europeana
     navigation:
       breadcrumb:
+        account: account
         blogs_list_breadcrumb: Blog
         contribution: Contribution
         contribution-attachment: Attachment

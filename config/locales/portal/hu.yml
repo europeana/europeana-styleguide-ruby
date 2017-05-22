@@ -81,6 +81,9 @@ hu:
         moving-images: Videók
         sound: Hangfelvételek
         texts: Szövegek
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kurátor
         designer: Tervező
@@ -127,6 +130,7 @@ hu:
     my-europeana-link: link a Saját Europeana-ra
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

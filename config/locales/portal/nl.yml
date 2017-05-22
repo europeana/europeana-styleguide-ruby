@@ -81,6 +81,9 @@ nl:
         moving-images: Videos
         sound: Geluidsopnames
         texts: Tekst
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Gecureerd door
         designer: Ontwerper
@@ -127,6 +130,7 @@ nl:
     my-europeana-link: Link naar mijn Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

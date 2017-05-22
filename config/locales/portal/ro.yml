@@ -81,6 +81,9 @@ ro:
         moving-images: Înregistrări video
         sound: Înregistrări audio
         texts: Texte
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Curatoriata de
         designer: proiectant
@@ -127,6 +130,7 @@ ro:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

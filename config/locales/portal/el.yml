@@ -81,6 +81,9 @@ el:
         moving-images: Βίντεο
         sound: Ηχογραφήσεις
         texts: Κείμενα
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Επιμέλεια από τον
         designer: Σχεδιαστής
@@ -127,6 +130,7 @@ el:
     my-europeana-link: συνδεσμος για το my Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -81,6 +81,9 @@ pl:
         moving-images: Ruchome obrazy
         sound: Nagrania
         texts: Teksty
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: 'Kurator:'
         designer: Projektant
@@ -127,6 +130,7 @@ pl:
     my-europeana-link: link do My Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

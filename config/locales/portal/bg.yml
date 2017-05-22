@@ -81,6 +81,9 @@ bg:
         moving-images: Видео
         sound: Аудио записи
         texts: Текстове
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Куратор
         designer: дизайнер
@@ -127,6 +130,7 @@ bg:
     my-europeana-link: линк към Моята Европеана
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

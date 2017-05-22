@@ -81,6 +81,9 @@ lt:
         moving-images: Vaizdo įrašai
         sound: Garso įrašai
         texts: Tekstai
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kuruojama
         designer: dizaineris
@@ -127,6 +130,7 @@ lt:
     my-europeana-link: Nuoroda į Mano Europeana
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

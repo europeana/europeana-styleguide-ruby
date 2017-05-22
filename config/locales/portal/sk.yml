@@ -81,6 +81,9 @@ sk:
         moving-images: 
         sound: 
         texts: 
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: 
         designer: 
@@ -127,6 +130,7 @@ sk:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

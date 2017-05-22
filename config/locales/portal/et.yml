@@ -81,6 +81,9 @@ et:
         moving-images: Videod
         sound: Helisalvestised
         texts: Tekstid
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kuraator
         designer: Disainer
@@ -129,6 +132,7 @@ et:
     my-europeana-link: linu Minu Europeanasse
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

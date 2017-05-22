@@ -81,6 +81,9 @@ hr:
         moving-images: video zapisa
         sound: zvučnih zapisa
         texts: tekstova
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kustosica
         designer: Dizajner
@@ -127,6 +130,7 @@ hr:
     my-europeana-link: http://www.europeana.eu/portal/myeuropeana#login
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

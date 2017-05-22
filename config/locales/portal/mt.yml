@@ -81,6 +81,9 @@ mt:
         moving-images: Videos
         sound: Ħsejjes
         texts: Kitba
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Curated minn
         designer: disinjatur
@@ -127,6 +130,7 @@ mt:
     my-europeana-link: Link lejn l-Europeana tiegħi
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -81,6 +81,9 @@ lv:
         moving-images: Video
         sound: Skaņu ieraksti
         texts: Teksti
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Kurators
         designer: Dizainers
@@ -130,6 +133,7 @@ lv:
     my-europeana-link: saite uz "Mana Europeana"
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: Blogs
         contribution: 
         contribution-attachment: 

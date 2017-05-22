@@ -81,6 +81,9 @@ uk:
         moving-images: Відео
         sound: Звукозаписи
         texts: Тексти
+      e7a1418:
+        contribute: 
+        my-account: 
       labels:
         credits: Куратор
         designer: 
@@ -127,6 +130,7 @@ uk:
     my-europeana-link: 
     navigation:
       breadcrumb:
+        account: 
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 
