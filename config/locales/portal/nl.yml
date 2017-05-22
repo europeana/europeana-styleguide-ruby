@@ -312,6 +312,7 @@ nl:
         saveto: Bewaar als
         show-all-collections: Geef alle collecties weer
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

@@ -312,6 +312,7 @@ uk:
         saveto: 
         show-all-collections: 
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

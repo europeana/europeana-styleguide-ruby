@@ -332,6 +332,7 @@ ro:
         saveto: Salvează la
         show-all-collections: Arată toate colecțiile
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

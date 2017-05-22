@@ -321,6 +321,7 @@ hu:
         saveto: Mentés ide
         show-all-collections: Mutasd az összes gyűjteményt
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

@@ -321,6 +321,7 @@ ru:
         saveto: Сохранить в
         show-all-collections: Показать все коллекции
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

@@ -325,6 +325,7 @@ hr:
         saveto: Pohrani u
         show-all-collections: Prikaži sve zbirke
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

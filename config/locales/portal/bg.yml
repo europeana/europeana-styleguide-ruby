@@ -323,6 +323,7 @@ bg:
         saveto: Запази в
         show-all-collections: Покажи всички колекции
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

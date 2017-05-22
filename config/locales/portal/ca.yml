@@ -334,6 +334,7 @@ ca:
         saveto: Desa a
         show-all-collections: Mostra totes les col·leccions
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

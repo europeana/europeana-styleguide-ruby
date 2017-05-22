@@ -334,6 +334,7 @@ mt:
         saveto: Salva f'
         show-all-collections: Uri l-kollezzjonijiet kollha
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

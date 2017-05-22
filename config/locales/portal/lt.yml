@@ -321,6 +321,7 @@ lt:
         saveto: Išsaugoti į
         show-all-collections: Rodyti visas kolekcijas
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

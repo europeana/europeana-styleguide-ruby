@@ -321,6 +321,7 @@ el:
         saveto: Αποθήκευση σε
         show-all-collections: Εμφάνιση όλων των συλλογών
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

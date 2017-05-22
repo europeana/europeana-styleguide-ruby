@@ -326,6 +326,7 @@
         saveto: Lagre til
         show-all-collections: Vis alle samlinger
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

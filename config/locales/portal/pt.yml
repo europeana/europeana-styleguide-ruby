@@ -321,6 +321,7 @@ pt:
         saveto: Guardar para
         show-all-collections: Mostrar todas as colecções
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

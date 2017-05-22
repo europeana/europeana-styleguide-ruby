@@ -321,6 +321,7 @@ fr:
         saveto: Enregistrer sous
         show-all-collections: Voir toutes les collections
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

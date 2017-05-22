@@ -328,6 +328,7 @@ lv:
         saveto: Saglabāt
         show-all-collections: Rādīt visas kolekcijas
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

@@ -339,6 +339,7 @@ fi:
         saveto: Tallenna...
         show-all-collections: Näytä kaikki kokoelmat
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

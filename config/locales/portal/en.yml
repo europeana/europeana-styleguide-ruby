@@ -326,7 +326,8 @@ en:
         product-save: Save
         saveto: Save to
         show-all-collections: Show all collections
-      federated: View more items from non-Europeana sources
+      federated: Click here to see results from non-Europeana sources
+      federated-clicked: Items from non-Europeana sources
       federated_more: View all %{results_count} results on %{results_provider}
       list:
         all-results:

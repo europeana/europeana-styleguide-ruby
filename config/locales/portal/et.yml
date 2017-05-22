@@ -336,6 +336,7 @@ et:
         saveto: 'Salvesta '
         show-all-collections: Näita kõiki kogusid
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

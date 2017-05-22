@@ -312,6 +312,7 @@ sv:
         saveto: 
         show-all-collections: Visa all tematiska samlingar
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:

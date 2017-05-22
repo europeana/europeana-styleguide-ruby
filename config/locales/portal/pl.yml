@@ -326,6 +326,7 @@ pl:
         saveto: Zapisz do
         show-all-collections: Pokaż wszystkie kolekcje
       federated: 
+      federated-clicked: 
       federated_more: 
       list:
         all-results:
