@@ -160,7 +160,10 @@ sv:
       new: 
       next: Nästa
       previous: tidigare
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: Hoppa till sidans innehåll
       skip-to-section: Hoppa till sektionen
       view: 

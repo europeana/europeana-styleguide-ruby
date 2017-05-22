@@ -160,7 +160,10 @@ bg:
       new: 
       next: следващия
       previous: предишен
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: Напред към съдържанието на страницата
       skip-to-section: Напред към раздел
       view: 

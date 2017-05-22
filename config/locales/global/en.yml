@@ -160,7 +160,10 @@ en:
       new: New
       next: next
       previous: previous
+      register: Register
       share: Share
+      sign-in: Sign in
+      sign-out: Sign out
       skip-to-main: Skip to page contents
       skip-to-section: Skip to section
       view: View

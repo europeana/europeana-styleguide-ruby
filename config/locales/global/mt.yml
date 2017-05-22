@@ -160,7 +160,10 @@ mt:
       new: 
       next: li jmiss
       previous: qabel
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: Aqbeż għall-kontenut paġna
       skip-to-section: Aqbeż għall-taqsima
       view: 

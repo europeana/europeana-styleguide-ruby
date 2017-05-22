@@ -160,7 +160,10 @@ ga:
       new: 
       next: 
       previous: 
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: 
       skip-to-section: 
       view: 

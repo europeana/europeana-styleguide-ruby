@@ -160,7 +160,10 @@ ca:
       new: 
       next: Pròxim
       previous: anterior
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
       view: 

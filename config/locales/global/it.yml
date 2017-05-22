@@ -160,7 +160,10 @@ it:
       new: 
       next: Il prossimo
       previous: precedente
+      register: 
       share: 
+      sign-in: 
+      sign-out: 
       skip-to-main: Passa al contenuto della pagina
       skip-to-section: Vai alla sezione
       view: 
