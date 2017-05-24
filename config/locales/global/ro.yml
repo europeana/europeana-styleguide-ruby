@@ -167,6 +167,7 @@ ro:
       skip-to-main: Treci la conținutul paginii
       skip-to-section: Treci la secțiunea
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Toate obiectele

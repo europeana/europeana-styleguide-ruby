@@ -167,6 +167,7 @@ sv:
       skip-to-main: Hoppa till sidans innehåll
       skip-to-section: Hoppa till sektionen
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Alla objekt

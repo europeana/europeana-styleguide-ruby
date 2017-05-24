@@ -167,6 +167,7 @@ en:
       skip-to-main: Skip to page contents
       skip-to-section: Skip to section
       view: View
+      view-at: View at
       withdraw: withdraw
     channel:
       all: All items

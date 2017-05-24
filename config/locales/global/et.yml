@@ -167,6 +167,7 @@ et:
       skip-to-main: Otse lehekülje sisule
       skip-to-section: Otse sektsiooni
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Kõik teemad

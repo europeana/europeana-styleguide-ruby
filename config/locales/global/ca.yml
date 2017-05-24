@@ -167,6 +167,7 @@ ca:
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: tots els articles

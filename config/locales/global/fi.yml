@@ -167,6 +167,7 @@ fi:
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Kaikki tavarat

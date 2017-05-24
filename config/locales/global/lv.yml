@@ -167,6 +167,7 @@ lv:
       skip-to-main: Pāriet uz lapas saturu
       skip-to-section: Pāriet uz sadaļu
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Visi ieraksti

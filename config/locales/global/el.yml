@@ -167,6 +167,7 @@ el:
       skip-to-main: Μετάβαση στο περιεχόμενο της σελίδας
       skip-to-section: Μετάβαση στο τμήμα
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Ολα τα αντικείμενα

@@ -167,6 +167,7 @@ hr:
       skip-to-main: Preskoči na sadržaj stranice
       skip-to-section: Preskoči na odjeljak
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Svi predmeti

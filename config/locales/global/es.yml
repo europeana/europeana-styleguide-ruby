@@ -167,6 +167,7 @@ es:
       skip-to-main: Saltar al contenido de la página
       skip-to-section: Saltar a la sección
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Todas

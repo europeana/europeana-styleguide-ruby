@@ -167,6 +167,7 @@ it:
       skip-to-main: Passa al contenuto della pagina
       skip-to-section: Vai alla sezione
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Tutti gli articoli

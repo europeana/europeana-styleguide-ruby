@@ -167,6 +167,7 @@ nl:
       skip-to-main: Direct naar pagina-inhoud
       skip-to-section: Overslaan
       view: 
+      view-at: 
       withdraw: 
     channel:
       all: Alles
