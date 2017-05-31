@@ -346,6 +346,7 @@ sv:
           grid: Rutnät
           list: Lista
         view-at-provider: Se hos
+      results: 
     search:
       browse: 
       or-browse: 

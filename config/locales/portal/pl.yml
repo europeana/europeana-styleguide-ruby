@@ -360,6 +360,7 @@ pl:
           grid: Siatka
           list: Lista
         view-at-provider: Zobacz w
+      results: 
     search:
       browse: Przeglądaj
       or-browse: lub przeglądaj

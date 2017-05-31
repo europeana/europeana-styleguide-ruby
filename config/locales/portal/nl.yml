@@ -346,6 +346,7 @@ nl:
           grid: Grit
           list: Lijst
         view-at-provider: Bekijk via
+      results: 
     search:
       browse: Bladeren
       or-browse: 

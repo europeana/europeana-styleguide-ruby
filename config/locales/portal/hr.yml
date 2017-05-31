@@ -359,6 +359,7 @@ hr:
           grid: Mreža
           list: Popis
         view-at-provider: Pogledaj na stranici
+      results: 
     search:
       browse: 
       or-browse: 

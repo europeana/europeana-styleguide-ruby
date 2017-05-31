@@ -355,6 +355,7 @@ fr:
           grid: Grille
           list: Liste
         view-at-provider: Voir sur le site de
+      results: 
     search:
       browse: Naviguez
       or-browse: ou naviguez

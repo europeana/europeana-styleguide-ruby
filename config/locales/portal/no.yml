@@ -360,6 +360,7 @@
           grid: Grid
           list: Liste
         view-at-provider: 'Se på '
+      results: 
     search:
       browse: 
       or-browse: 

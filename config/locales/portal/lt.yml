@@ -355,6 +355,7 @@ lt:
           grid: Tinklelis
           list: Sąsžrašas
         view-at-provider: Žiūrėti kaip
+      results: 
     search:
       browse: 
       or-browse: 

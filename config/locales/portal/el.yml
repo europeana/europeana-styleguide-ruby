@@ -355,6 +355,7 @@ el:
           grid: Πλέγμα
           list: Λίστα
         view-at-provider: Δείτε το αντικείμενο στο
+      results: 
     search:
       browse: 
       or-browse: 

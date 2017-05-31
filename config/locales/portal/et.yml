@@ -370,6 +370,7 @@ et:
           grid: Joonestik
           list: Loend
         view-at-provider: Vaade
+      results: 
     search:
       browse: Sirvi
       or-browse: või sirvi

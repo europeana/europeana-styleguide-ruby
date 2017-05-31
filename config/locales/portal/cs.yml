@@ -346,6 +346,7 @@ cs:
           grid: 
           list: 
         view-at-provider: 
+      results: 
     search:
       browse: 
       or-browse: 

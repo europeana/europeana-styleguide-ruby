@@ -355,6 +355,7 @@ ru:
           grid: Сетка
           list: Список
         view-at-provider: 'Просмотреть на '
+      results: 
     search:
       browse: 
       or-browse: 

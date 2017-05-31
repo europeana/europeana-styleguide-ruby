@@ -353,6 +353,7 @@ es:
           grid: Retícula
           list: Lista
         view-at-provider: Ver en
+      results: 
     search:
       browse: Navegar
       or-browse: o navegar

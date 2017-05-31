@@ -346,6 +346,7 @@ it:
           grid: 
           list: Lista
         view-at-provider: 
+      results: 
     search:
       browse: Naviga
       or-browse: oppure naviga

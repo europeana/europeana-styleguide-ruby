@@ -355,6 +355,7 @@ da:
           grid: Grid
           list: Liste
         view-at-provider: Se hos
+      results: 
     search:
       browse: 
       or-browse: 

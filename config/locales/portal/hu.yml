@@ -355,6 +355,7 @@ hu:
           grid: Rács
           list: Lista
         view-at-provider: 'Tekintsd meg az eredeti helyén:'
+      results: 
     search:
       browse: 
       or-browse: 

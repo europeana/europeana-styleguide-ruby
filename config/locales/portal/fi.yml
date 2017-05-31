@@ -373,6 +373,7 @@ fi:
           grid: Ruudukko
           list: Luettelo
         view-at-provider: Katso
+      results: 
     search:
       browse: 
       or-browse: 

@@ -366,6 +366,7 @@ ro:
           grid: Grilă
           list: Listă
         view-at-provider: Vezi la
+      results: 
     search:
       browse: 
       or-browse: 

@@ -368,6 +368,7 @@ mt:
           grid: Grid
           list: Lista
         view-at-provider: Ara f'
+      results: 
     search:
       browse: Fittex
       or-browse: jew fittex

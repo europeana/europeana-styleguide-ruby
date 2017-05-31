@@ -357,6 +357,7 @@ bg:
           grid: Рамка
           list: Списък
         view-at-provider: Виж в
+      results: 
     search:
       browse: 
       or-browse: 

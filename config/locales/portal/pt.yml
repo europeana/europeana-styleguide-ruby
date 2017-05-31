@@ -355,6 +355,7 @@ pt:
           grid: Grelha
           list: Lista
         view-at-provider: Ver em
+      results: 
     search:
       browse: 
       or-browse: 

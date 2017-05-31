@@ -368,6 +368,7 @@ ca:
           grid: Graella
           list: Llista
         view-at-provider: Veure a
+      results: 
     search:
       browse: 
       or-browse: 

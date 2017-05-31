@@ -361,6 +361,7 @@ en:
           grid: Grid
           list: List
         view-at-provider: View at
+      results: Results
     search:
       browse: Browse
       or-browse: or browse

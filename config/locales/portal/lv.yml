@@ -362,6 +362,7 @@ lv:
           grid: Tabula
           list: Saraksts
         view-at-provider: Skatīt
+      results: 
     search:
       browse: Pārlūko
       or-browse: vai pārlūko
