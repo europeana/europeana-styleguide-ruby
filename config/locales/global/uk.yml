@@ -168,6 +168,7 @@ uk:
       skip-to-section: 
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: 
@@ -193,6 +194,8 @@ uk:
       more_info: 
       text: 
     email-address: адреса електронної пошти
+    error:
+      unavailable: 
     facet:
       advanced:
         options: 

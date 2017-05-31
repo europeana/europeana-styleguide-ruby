@@ -168,6 +168,7 @@ fr:
       skip-to-section: Passer à la section
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Tous les articles
@@ -193,6 +194,8 @@ fr:
       more_info: Plus d'informations
       text: Ce site Web utilise des cookies pour vous assurer d'obtenir la meilleure expérience possible.  En cliquant ou en naviguant sur le site, vous acceptez d'autoriser notre collecte d'informations par le biais de cookies.
     email-address: adresse email
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Options

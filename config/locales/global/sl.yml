@@ -168,6 +168,7 @@ sl:
       skip-to-section: 
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: 
@@ -193,6 +194,8 @@ sl:
       more_info: 
       text: 
     email-address: 
+    error:
+      unavailable: 
     facet:
       advanced:
         options: 

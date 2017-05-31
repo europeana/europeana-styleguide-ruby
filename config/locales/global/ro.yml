@@ -168,6 +168,7 @@ ro:
       skip-to-section: Treci la secțiunea
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Toate obiectele
@@ -193,6 +194,8 @@ ro:
       more_info: Mai multe informatii
       text: Acest website foloseste cookie-uri pentru a vă asigura că obțineți cea mai bună experiență pe site-ul nostru. Făcând clic pe sau navigarea pe site-ul, sunteți de acord să permită colectarea noastre de informații prin intermediul cookie-uri.
     email-address: adresă de email
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Opțiuni

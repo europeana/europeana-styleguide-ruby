@@ -168,6 +168,7 @@ fi:
       skip-to-section: Siirry osio
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Kaikki tavarat
@@ -193,6 +194,8 @@ fi:
       more_info: Lisätietoja
       text: Tämä sivusto käyttää evästeitä, jotta saat parhaan kokemuksen sivuillamme. Klikkaamalla tai navigoinnin sivusto, annat meidän kokoelma tietoja evästeiden avulla.
     email-address: sähköpostiosoite
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Valinnat

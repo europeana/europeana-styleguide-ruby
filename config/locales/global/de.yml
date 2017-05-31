@@ -168,6 +168,7 @@ de:
       skip-to-section: Weiter zum Abschnitt
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Alle Elemente
@@ -193,6 +194,8 @@ de:
       more_info: Mehr Info
       text: Diese Website verwendet Cookies, um sicherzustellen, dass Sie die besten Erfahrungen auf unserer Website erhalten. Durch Anklicken oder Navigieren der Website stimmen Sie zu, dass wir unsere Sammlung von Informationen über Cookies zulassen.
     email-address: E-Mail-Adresse
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Einstellungen

@@ -168,6 +168,7 @@
       skip-to-section: Gå til seksjon
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Alle ting
@@ -193,6 +194,8 @@
       more_info: Mer informasjon
       text: Dette nettstedet bruker cookies for å sikre at du får den beste opplevelsen på vår nettside. Ved å klikke eller navigere på nettstedet, godtar du at vår samling av informasjon gjennom informasjonskapsler.
     email-address: epostadresse
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Valg

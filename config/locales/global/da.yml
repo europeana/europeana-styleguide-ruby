@@ -168,6 +168,7 @@ da:
       skip-to-section: Hop til afsnit
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Alle elementer
@@ -193,6 +194,8 @@ da:
       more_info: Mere info
       text: Denne hjemmeside bruger cookies til at sikre, at du får den bedste oplevelse på vores hjemmeside. Ved at klikke eller navigere på webstedet, accepterer du at give vores indsamling af oplysninger via cookies.
     email-address: e-mail adresse
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Muligheder

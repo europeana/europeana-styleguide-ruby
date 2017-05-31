@@ -168,6 +168,7 @@ lv:
       skip-to-section: Pāriet uz sadaļu
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Visi ieraksti
@@ -193,6 +194,8 @@ lv:
       more_info: Papildinformācija
       text: Šī vietne izmanto sīkdatnes, lai palīdzētu uzlabot vietnes lietošanas pieredzi. Klikšķinot vai pārvietojoties vietnē, jūs piekrītat, ka ar sīdatņu starpniecību tiek uzkrāta informācija.
     email-address: e-pasta adrese
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Opcijas

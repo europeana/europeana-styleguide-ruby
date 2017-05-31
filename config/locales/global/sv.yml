@@ -168,6 +168,7 @@ sv:
       skip-to-section: Hoppa till sektionen
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Alla objekt
@@ -193,6 +194,8 @@ sv:
       more_info: Mer information
       text: Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår hemsida. Genom att klicka på eller navigera på webbplatsen, godkänner du att vår samling av information via cookies.
     email-address: e-postadress
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Valmöjligheter

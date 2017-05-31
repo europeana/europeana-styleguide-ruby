@@ -168,6 +168,7 @@ et:
       skip-to-section: Otse sektsiooni
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Kõik teemad
@@ -193,6 +194,8 @@ et:
       more_info: Rohkem infot
       text: See veebileht kasutab küpsiseid, et tagada teile parim kogemus meie veebisaidil. Klõpsates või Saidil olete nõus, et võimaldada meie teabe kogumine toimub küpsised.
     email-address: e-posti aadress
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Sätted

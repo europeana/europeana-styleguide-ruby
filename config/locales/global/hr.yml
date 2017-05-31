@@ -168,6 +168,7 @@ hr:
       skip-to-section: Preskoči na odjeljak
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Svi predmeti
@@ -193,6 +194,8 @@ hr:
       more_info: Više informacija
       text: Ova web stranica koristi kolačiće kako bi se osiguralo da ćete dobiti najbolje iskustvo na našoj web stranici. Klikom ili navigacije web stranice, pristajete da naše prikupljanje podataka putem kolačića.
     email-address: e-mail adresa
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Izbornik

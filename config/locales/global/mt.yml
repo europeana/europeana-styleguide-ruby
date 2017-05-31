@@ -168,6 +168,7 @@ mt:
       skip-to-section: Aqbeż għall-taqsima
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: 'L-oġġetti kollha
@@ -195,6 +196,8 @@ mt:
       more_info: Izjed informazzjoni
       text: F'din il-websajt jintuzaw 'cookies' biex jiżguraw li jkollok l-aħjar esperjenza fuq il-websajt tagħna. Jekk tikklikkja jew iżżur is-sit, inti tkun qed taqbel li tippermetti l-ġbir ta 'informazzjoni.
     email-address: Indirizz tal-email
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Għażliet

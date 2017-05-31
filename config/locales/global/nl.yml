@@ -168,6 +168,7 @@ nl:
       skip-to-section: Overslaan
       view: 
       view-at: 
+      view-more-at: 
       withdraw: 
     channel:
       all: Alles
@@ -193,6 +194,8 @@ nl:
       more_info: Meer informatie
       text: Deze website maakt gebruik van cookies om ervoor te zorgen voor een betere website-ervaring. Door te klikken gaat u hiermee akkoord.
     email-address: e-mail adres
+    error:
+      unavailable: 
     facet:
       advanced:
         options: Opties
