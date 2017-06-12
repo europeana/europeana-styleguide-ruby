@@ -82,8 +82,8 @@ fr:
         sound: Enregistrements sonores
         texts: Textes
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Racontez votre histoire
+        my-account: Mon compte
       labels:
         credits: Administrée par
         designer: Designer
@@ -130,7 +130,7 @@ fr:
     my-europeana-link: lien vers my Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: compte
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

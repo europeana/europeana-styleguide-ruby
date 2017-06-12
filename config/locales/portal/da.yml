@@ -82,8 +82,8 @@ da:
         sound: Lydoptagelser
         texts: Tekster
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Tilføj
+        my-account: Min konto
       labels:
         credits: Kurateret af
         designer: Designer
@@ -130,7 +130,7 @@ da:
     my-europeana-link: link til mit Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: konto
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

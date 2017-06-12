@@ -82,8 +82,8 @@ cs:
         sound: 
         texts: 
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Přidat příběh
+        my-account: Můj účet
       labels:
         credits: 
         designer: 
@@ -130,7 +130,7 @@ cs:
     my-europeana-link: 
     navigation:
       breadcrumb:
-        account: 
+        account: účet
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

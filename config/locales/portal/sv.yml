@@ -82,8 +82,8 @@ sv:
         sound: Ljudinspelningar
         texts: Texter
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Lägg till din berättelse
+        my-account: Mitt konto
       labels:
         credits: Sammanställd av
         designer: Designer
@@ -130,7 +130,7 @@ sv:
     my-europeana-link: länk till Mitt Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: konto
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -82,8 +82,8 @@ pl:
         sound: Nagrania
         texts: Teksty
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Dodaj swoją historię
+        my-account: Moje konto
       labels:
         credits: 'Kurator:'
         designer: Projektant
@@ -130,7 +130,7 @@ pl:
     my-europeana-link: link do My Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: konto
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -83,7 +83,7 @@ lt:
         texts: Tekstai
       e7a1418:
         contribute: 
-        my-account: 
+        my-account: Mano sąskaita
       labels:
         credits: Kuruojama
         designer: dizaineris
@@ -130,7 +130,7 @@ lt:
     my-europeana-link: Nuoroda į Mano Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: sąskaita
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

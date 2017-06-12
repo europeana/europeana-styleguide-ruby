@@ -83,7 +83,7 @@ ca:
         texts: Texts
       e7a1418:
         contribute: 
-        my-account: 
+        my-account: El meu compte
       labels:
         credits: Comissariada per
         designer: dissenyador
@@ -130,7 +130,7 @@ ca:
     my-europeana-link: enllaç a La meva Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: compte
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

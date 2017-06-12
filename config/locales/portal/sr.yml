@@ -1,4 +1,4 @@
-sk:
+sr:
   en:
     site:
       browse:
@@ -82,14 +82,14 @@ sk:
         sound: 
         texts: 
       e7a1418:
-        contribute: Pridať príbeh
-        my-account: Môj účet
+        contribute: Додајте своју причу
+        my-account: Мој налог
       labels:
         credits: 
         designer: 
         editors-picks: 
         recent: 
-        sneak-peek: Explore Europeana Fashion
+        sneak-peek: 
         spotlight-on: 
         whats-happening: 
       music:
@@ -130,7 +130,7 @@ sk:
     my-europeana-link: 
     navigation:
       breadcrumb:
-        account: účet
+        account: налог
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

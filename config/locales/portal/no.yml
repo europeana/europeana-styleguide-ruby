@@ -82,8 +82,8 @@
         sound: Lydopptak
         texts: Tekst
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Legg til din historie
+        my-account: Min konto
       labels:
         credits: 'Kuratert av '
         designer: Designer
@@ -130,7 +130,7 @@
     my-europeana-link: lenke til Mitt Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: konto
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

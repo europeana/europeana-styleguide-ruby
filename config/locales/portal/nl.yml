@@ -82,8 +82,8 @@ nl:
         sound: Geluidsopnames
         texts: Tekst
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Uw verhaal toevoegen
+        my-account: Mijn account
       labels:
         credits: Gecureerd door
         designer: Ontwerper
@@ -130,7 +130,7 @@ nl:
     my-europeana-link: Link naar mijn Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: account
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

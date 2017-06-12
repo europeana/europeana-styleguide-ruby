@@ -83,7 +83,7 @@ hu:
         texts: Szövegek
       e7a1418:
         contribute: 
-        my-account: 
+        my-account: A fiókom
       labels:
         credits: Kurátor
         designer: Tervező
@@ -130,7 +130,7 @@ hu:
     my-europeana-link: link a Saját Europeana-ra
     navigation:
       breadcrumb:
-        account: 
+        account: fiók
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -82,8 +82,8 @@ ga:
         sound: 
         texts: 
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Cuir do scéal
+        my-account: Mo chuntas
       labels:
         credits: 
         designer: 
@@ -130,7 +130,7 @@ ga:
     my-europeana-link: 
     navigation:
       breadcrumb:
-        account: 
+        account: cuntas
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

@@ -82,8 +82,8 @@ lv:
         sound: Skaņu ieraksti
         texts: Teksti
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Pievieno savu stāstu
+        my-account: Mans konts
       labels:
         credits: Kurators
         designer: Dizainers
@@ -133,7 +133,7 @@ lv:
     my-europeana-link: saite uz "Mana Europeana"
     navigation:
       breadcrumb:
-        account: 
+        account: konts
         blogs_list_breadcrumb: Blogs
         contribution: 
         contribution-attachment: 

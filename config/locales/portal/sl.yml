@@ -82,8 +82,8 @@ sl:
         sound: 
         texts: 
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Dodajte
+        my-account: Moj račun
       labels:
         credits: 
         designer: 
@@ -130,7 +130,7 @@ sl:
     my-europeana-link: 
     navigation:
       breadcrumb:
-        account: 
+        account: račun
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

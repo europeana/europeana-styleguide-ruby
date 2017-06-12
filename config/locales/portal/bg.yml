@@ -83,7 +83,7 @@ bg:
         texts: Текстове
       e7a1418:
         contribute: 
-        my-account: 
+        my-account: Моята сметка
       labels:
         credits: Куратор
         designer: дизайнер
@@ -130,7 +130,7 @@ bg:
     my-europeana-link: линк към Моята Европеана
     navigation:
       breadcrumb:
-        account: 
+        account: сметка
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

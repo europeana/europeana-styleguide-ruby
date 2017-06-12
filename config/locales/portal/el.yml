@@ -82,8 +82,8 @@ el:
         sound: Ηχογραφήσεις
         texts: Κείμενα
       e7a1418:
-        contribute: 
-        my-account: 
+        contribute: Προσθέστε
+        my-account: Ο λογαριασμός μου
       labels:
         credits: Επιμέλεια από τον
         designer: Σχεδιαστής
@@ -130,7 +130,7 @@ el:
     my-europeana-link: συνδεσμος για το my Europeana
     navigation:
       breadcrumb:
-        account: 
+        account: Λογαριασμός
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 

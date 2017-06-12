@@ -83,7 +83,7 @@ et:
         texts: Tekstid
       e7a1418:
         contribute: 
-        my-account: 
+        my-account: Minu konto
       labels:
         credits: Kuraator
         designer: Disainer
@@ -132,7 +132,7 @@ et:
     my-europeana-link: linu Minu Europeanasse
     navigation:
       breadcrumb:
-        account: 
+        account: konto
         blogs_list_breadcrumb: 
         contribution: 
         contribution-attachment: 
