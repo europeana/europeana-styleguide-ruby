@@ -160,10 +160,10 @@ hr:
       new: 
       next: Sljedeći
       previous: prijašnji
-      register: 
+      register: Registracija
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Prijava
+      sign-out: Odjavi se
       skip-to-main: Preskoči na sadržaj stranice
       skip-to-section: Preskoči na odjeljak
       view: 

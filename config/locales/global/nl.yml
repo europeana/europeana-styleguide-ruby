@@ -160,10 +160,10 @@ nl:
       new: 
       next: volgende
       previous: vorige
-      register: 
+      register: Registreren
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Inloggen
+      sign-out: Uitloggen
       skip-to-main: Direct naar pagina-inhoud
       skip-to-section: Overslaan
       view: 

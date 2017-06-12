@@ -160,10 +160,10 @@ ca:
       new: 
       next: Pròxim
       previous: anterior
-      register: 
+      register: Registra-t'hi
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Inicia sessió
+      sign-out: Tanca sessió
       skip-to-main: Saltar als continguts de la pàgina
       skip-to-section: Avançar a la secció
       view: 

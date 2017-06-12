@@ -160,10 +160,10 @@ it:
       new: 
       next: Il prossimo
       previous: precedente
-      register: 
+      register: Registrati
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Accedi
+      sign-out: Esci
       skip-to-main: Passa al contenuto della pagina
       skip-to-section: Vai alla sezione
       view: 

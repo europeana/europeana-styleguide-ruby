@@ -160,10 +160,10 @@ el:
       new: 
       next: επόμενος
       previous: προηγούμενος
-      register: 
+      register: Εγγραφείτε
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Συνδεθείτε
+      sign-out: Αποσύνδεση
       skip-to-main: Μετάβαση στο περιεχόμενο της σελίδας
       skip-to-section: Μετάβαση στο τμήμα
       view: 

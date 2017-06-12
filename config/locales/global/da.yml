@@ -160,10 +160,10 @@ da:
       new: 
       next: Næste
       previous: tidligere
-      register: 
+      register: Registrer
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Log ind
+      sign-out: Log ud
       skip-to-main: Spring til sideindhold
       skip-to-section: Hop til afsnit
       view: 

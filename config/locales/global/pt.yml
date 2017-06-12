@@ -160,10 +160,10 @@ pt:
       new: 
       next: Próximo
       previous: anterior
-      register: 
+      register: Registar
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Entrar
+      sign-out: Sair
       skip-to-main: Ir para o conteúdo da página
       skip-to-section: Ir para a seção
       view: 

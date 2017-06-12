@@ -160,10 +160,10 @@ lt:
       new: 
       next: Kitas
       previous: iepriekšējā
-      register: 
+      register: Užsiregistruoti
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Prisijungti
+      sign-out: Atsijungti
       skip-to-main: Pereiti į puslapio turinį
       skip-to-section: Pereiti į skyrių
       view: 

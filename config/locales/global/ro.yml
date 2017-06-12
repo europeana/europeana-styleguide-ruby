@@ -160,10 +160,10 @@ ro:
       new: 
       next: Următor →
       previous: anterior
-      register: 
+      register: Ȋnregistrare
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Autentificare
+      sign-out: Deconectare
       skip-to-main: Treci la conținutul paginii
       skip-to-section: Treci la secțiunea
       view: 

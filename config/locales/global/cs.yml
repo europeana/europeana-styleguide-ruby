@@ -160,10 +160,10 @@ cs:
       new: 
       next: 
       previous: 
-      register: 
+      register: Zaregistrovat
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Přihlásit se
+      sign-out: Odhlásit se
       skip-to-main: 
       skip-to-section: 
       view: 

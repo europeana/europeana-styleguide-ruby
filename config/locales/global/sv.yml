@@ -160,10 +160,10 @@ sv:
       new: 
       next: Nästa
       previous: tidigare
-      register: 
+      register: Skapa användarkonto
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Logga in
+      sign-out: Logga ut
       skip-to-main: Hoppa till sidans innehåll
       skip-to-section: Hoppa till sektionen
       view: 

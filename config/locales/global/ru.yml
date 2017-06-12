@@ -160,10 +160,10 @@ ru:
       new: 
       next: следующий
       previous: предыдущий
-      register: 
+      register: Зарегистрироваться
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Войти в аккаунт
+      sign-out: Выйти
       skip-to-main: Перейти к содержанию страницы
       skip-to-section: Перейти в раздел
       view: 

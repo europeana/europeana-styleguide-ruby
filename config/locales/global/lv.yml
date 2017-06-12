@@ -160,10 +160,10 @@ lv:
       new: 
       next: nākamā
       previous: iepriekšējā
-      register: 
+      register: Reģistrēties
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Ienākt
+      sign-out: Iziet
       skip-to-main: Pāriet uz lapas saturu
       skip-to-section: Pāriet uz sadaļu
       view: 

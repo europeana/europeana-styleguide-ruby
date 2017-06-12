@@ -160,10 +160,10 @@ et:
       new: 
       next: järgmine
       previous: eelmine
-      register: 
+      register: Registreeru
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Logi sisse
+      sign-out: Logi välja
       skip-to-main: Otse lehekülje sisule
       skip-to-section: Otse sektsiooni
       view: 

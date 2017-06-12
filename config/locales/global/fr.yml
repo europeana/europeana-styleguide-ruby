@@ -160,10 +160,10 @@ fr:
       new: 
       next: prochain
       previous: précédent
-      register: 
+      register: Enregistrez-vous
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Identifiez-vous
+      sign-out: Déconnexion-vous
       skip-to-main: Passer au contenu de la page
       skip-to-section: Passer à la section
       view: 

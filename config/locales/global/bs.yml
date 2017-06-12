@@ -1,4 +1,4 @@
-ga:
+bs:
   Symphonies: 
   X11:
     colours:
@@ -147,7 +147,7 @@ ga:
       FFFFF0: 
       FFFFFF: 
   global:
-    about-us: Maidir linne
+    about-us: 
     actions:
       collapse: 
       delete: 
@@ -160,10 +160,10 @@ ga:
       new: 
       next: 
       previous: 
-      register: Cláraigh
+      register: Registracija
       share: 
-      sign-in: 'Sínigh isteach '
-      sign-out: Sínigh amach
+      sign-in: Prijava
+      sign-out: Odjava
       skip-to-main: 
       skip-to-section: 
       view: 
@@ -175,20 +175,20 @@ ga:
       archaeology: 
       architecture: 
       art: 
-      art-history: Stair na healaíne
+      art-history: 
       fashion: 
       first-world-war: 
       home: 
       maps: 
-      music: Ceol
+      music: 
       natural-history: 
       newspapers: 
       performing-arts: 
-    channels-art: Stair na healaíne
+    channels-art: 
     channels-art-image: 
     channels-art-link: 
     channels-fashion: 
-    channels-music: Ceol
+    channels-music: 
     choose-language: 
     cookie_disclaimer:
       more_info: 
@@ -259,10 +259,10 @@ ga:
         date-created: 
         fashion:
           colour: 
-          designer: Dearthóir
+          designer: 
           material: 
-          technique: Teicníocht
-          type: cineál Mír
+          technique: 
+          type: 
         image_aspectratio: 
         image_colour: 
         image_size: 
@@ -318,7 +318,7 @@ ga:
         lv: 
         mt: 
         mul: 
-        nl: Nederlands
+        nl: 
         'no': 
         pl: 
         pt: 
@@ -446,7 +446,7 @@ ga:
     find-us-social-media: 
     follow-channel: 
     forgot-password: 
-    galleries: Gailearaithe
+    galleries: 
     genres: 
     genres-chamber-music: 
     genres-classical-music: 
@@ -511,7 +511,7 @@ ga:
       email-address-invalid: 
       email-address-required: 
       fashion:
-        heading: Clarú
+        heading: 
         subheading: 
       language-required: 
       signup: 

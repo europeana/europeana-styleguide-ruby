@@ -160,10 +160,10 @@ es:
       new: 
       next: siguiente
       previous: anterior
-      register: 
+      register: Registrate
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: 'Inicia sesión '
+      sign-out: 'Cerrar sesión '
       skip-to-main: Saltar al contenido de la página
       skip-to-section: Saltar a la sección
       view: 

@@ -160,10 +160,10 @@ sl:
       new: 
       next: 
       previous: 
-      register: 
+      register: Registrirajte se
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Prijava
+      sign-out: Odjava
       skip-to-main: 
       skip-to-section: 
       view: 

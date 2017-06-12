@@ -160,10 +160,10 @@ fi:
       new: 
       next: Seuraava
       previous: Edellinen
-      register: 
+      register: Rekisteröidy
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Kirjaudu sisään
+      sign-out: Kirjaudu ulos
       skip-to-main: Siirry sivun sisältöön
       skip-to-section: Siirry osio
       view: 

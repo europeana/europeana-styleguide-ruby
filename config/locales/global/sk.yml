@@ -160,10 +160,10 @@ sk:
       new: 
       next: 
       previous: 
-      register: 
+      register: Zaregistrovať sa
       share: 
-      sign-in: 
-      sign-out: 
+      sign-in: Prihlásiť sa
+      sign-out: Odhlásiť sa
       skip-to-main: 
       skip-to-section: 
       view: 
