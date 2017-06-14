@@ -257,6 +257,7 @@ lv:
         country: Valsts
         data_provider: Institūcija
         date-created: Izveidošanas datējums
+        edm_ugc: 
         fashion:
           colour: Krāsa
           designer: Dizainers
@@ -419,6 +420,9 @@ lv:
           long: Garš (%{data})
           medium: Vidējs (%{data})
           short: Īss (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Garš (20+ minūtes)
         medium: Vidējs (4-20 minūtes)

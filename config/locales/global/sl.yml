@@ -257,6 +257,7 @@ sl:
         country: 
         data_provider: 
         date-created: 
+        edm_ugc: 
         fashion:
           colour: 
           designer: Designer
@@ -419,6 +420,9 @@ sl:
           long: 
           medium: 
           short: 
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: 
         medium: 

@@ -257,6 +257,7 @@ sv:
         country: Land
         data_provider: Institution
         date-created: Skapat datum
+        edm_ugc: 
         fashion:
           colour: Färg
           designer: Designer
@@ -419,6 +420,9 @@ sv:
           long: Lång (%{data})
           medium: Medellång (%{data})
           short: Kort (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Lång (20+ minuter)
         medium: Medellång (4-20 minuter)

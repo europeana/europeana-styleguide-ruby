@@ -257,6 +257,7 @@ hr:
         country: Država
         data_provider: Ustanova
         date-created: Datum izrade
+        edm_ugc: 
         fashion:
           colour: boja
           designer: Dizajner
@@ -419,6 +420,9 @@ hr:
           long: Dugačko (%{data})
           medium: Srednje (%{data})
           short: Kratko (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Dugačko (20+ minuta)
         medium: Srednje (4-20 minuta)

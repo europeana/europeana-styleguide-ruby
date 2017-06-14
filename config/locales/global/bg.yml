@@ -257,6 +257,7 @@ bg:
         country: Държава
         data_provider: Институция
         date-created: Дата на създаване
+        edm_ugc: 
         fashion:
           colour: цвят
           designer: дизайнер
@@ -419,6 +420,9 @@ bg:
           long: Дълъг (%{data})
           medium: Среден (%{data})
           short: Кратък (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Дълъг (20+ мин)
         medium: Среден (4-20 мин)

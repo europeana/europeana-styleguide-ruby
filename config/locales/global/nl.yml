@@ -257,6 +257,7 @@ nl:
         country: Land
         data_provider: Instituut
         date-created: Datum gecreeërd
+        edm_ugc: 
         fashion:
           colour: Kleur
           designer: Designer
@@ -419,6 +420,9 @@ nl:
           long: Lang (%{data})
           medium: Medium (%{data})
           short: Kort (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Lang (20+ min)
         medium: Medium (4-20 min)

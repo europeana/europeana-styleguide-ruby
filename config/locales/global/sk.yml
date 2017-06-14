@@ -257,6 +257,7 @@ sk:
         country: 
         data_provider: 
         date-created: 
+        edm_ugc: 
         fashion:
           colour: 
           designer: Návrhár
@@ -419,6 +420,9 @@ sk:
           long: 
           medium: 
           short: 
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: 
         medium: 

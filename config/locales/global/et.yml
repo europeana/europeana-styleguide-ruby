@@ -257,6 +257,7 @@ et:
         country: Riik
         data_provider: Asutus
         date-created: Loomise kuupäev
+        edm_ugc: 
         fashion:
           colour: Värv
           designer: Disainer
@@ -419,6 +420,9 @@ et:
           long: Pikk (%{data})
           medium: Keskmine (%{data})
           short: Lühike (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Pikk (üle 20 minuti)
         medium: Keskmine (4-20 minutit)

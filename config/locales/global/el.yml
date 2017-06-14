@@ -257,6 +257,7 @@ el:
         country: Χώρα
         data_provider: Ίδρυμα
         date-created: Ημερομηνία Δημιουργίας
+        edm_ugc: 
         fashion:
           colour: χρώμα
           designer: Σχεδιαστής
@@ -419,6 +420,9 @@ el:
           long: Μεγάλη (%{data})
           medium: Μεσαία (%{data})
           short: Μικρή (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Μεγάλη (20+ λεπτά)
         medium: Μεσαία (4-20 λεπτά)

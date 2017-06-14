@@ -257,6 +257,7 @@
         country: Land
         data_provider: Institusjon
         date-created: Date laget
+        edm_ugc: 
         fashion:
           colour: Farge
           designer: Designer
@@ -419,6 +420,9 @@
           long: 
           medium: 
           short: 
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: 
         medium: 

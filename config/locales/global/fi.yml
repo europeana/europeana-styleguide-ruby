@@ -257,6 +257,7 @@ fi:
         country: Maa
         data_provider: Instituutio
         date-created: Päivämäärä luotu
+        edm_ugc: 
         fashion:
           colour: väri
           designer: Suunnittelija
@@ -419,6 +420,9 @@ fi:
           long: Pitkä (%{data})
           medium: Keskipitkä (%{data})
           short: Lyhyt (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Pitkä (20+ minuuttia)
         medium: Keskipitkä (4–20 minuuttia)

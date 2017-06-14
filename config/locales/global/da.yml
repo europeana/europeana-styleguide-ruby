@@ -257,6 +257,7 @@ da:
         country: Land
         data_provider: Organisation
         date-created: Dato oprettet
+        edm_ugc: 
         fashion:
           colour: farve
           designer: Designer
@@ -419,6 +420,9 @@ da:
           long: Lang  (%{data})
           medium: Medium  (%{data})
           short: Kort  (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Lang  (20+ minutter)
         medium: Medium 4-(20 minutter)

@@ -257,6 +257,7 @@ pt:
         country: País
         data_provider: Instituição
         date-created: Data Criada
+        edm_ugc: 
         fashion:
           colour: cor
           designer: Designer
@@ -419,6 +420,9 @@ pt:
           long: Longa (%{data})
           medium: Média (%{data})
           short: Curta (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Long (20+ min)
         medium: Média (4-20 min)

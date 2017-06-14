@@ -259,6 +259,7 @@ mt:
         country: Pajjiż
         data_provider: Istituzzjoni
         date-created: data maħluqa
+        edm_ugc: 
         fashion:
           colour: Kulur
           designer: Disinjatur
@@ -421,6 +422,9 @@ mt:
           long: Twil (%{data})
           medium: Medju (%{data})
           short: Qasir (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Twil (20+ minuti)
         medium: Medju (4-20 minuta)

@@ -257,6 +257,7 @@ uk:
         country: Країна
         data_provider: Установа
         date-created: 
+        edm_ugc: 
         fashion:
           colour: 
           designer: 
@@ -419,6 +420,9 @@ uk:
           long: 
           medium: 
           short: 
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: 
         medium: 

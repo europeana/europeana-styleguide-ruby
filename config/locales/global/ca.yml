@@ -257,6 +257,7 @@ ca:
         country: Estat
         data_provider: Institució
         date-created: data de creació
+        edm_ugc: 
         fashion:
           colour: color
           designer: Dissenyador
@@ -419,6 +420,9 @@ ca:
           long: Llarg (%{data})
           medium: Mig (%{data})
           short: Curt (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Llarg (>20 minuts)
         medium: Mig (4-20 minuts)

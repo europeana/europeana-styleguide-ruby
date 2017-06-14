@@ -257,6 +257,7 @@ ru:
         country: Страна
         data_provider: Организация
         date-created: Дата создания
+        edm_ugc: 
         fashion:
           colour: цвет
           designer: Дизайнер
@@ -419,6 +420,9 @@ ru:
           long: Длинный (%{data})
           medium: Средний (%{data})
           short: Короткий (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Длинный (20+ минут)
         medium: Средний (4 - 20 минут)

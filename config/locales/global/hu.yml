@@ -257,6 +257,7 @@ hu:
         country: Ország
         data_provider: Intézmény
         date-created: létrehozás dátuma
+        edm_ugc: 
         fashion:
           colour: szín
           designer: Tervező
@@ -419,6 +420,9 @@ hu:
           long: Hosszú (%{data})
           medium: Közepes (%{data})
           short: Rövid (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Hosszú (20+ perc)
         medium: Közepes (4-20 perc)

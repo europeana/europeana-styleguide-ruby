@@ -257,6 +257,7 @@ lt:
         country: Šalis
         data_provider: Institucija
         date-created: Sukūrimo data
+        edm_ugc: 
         fashion:
           colour: spalva
           designer: Dizaineris
@@ -419,6 +420,9 @@ lt:
           long: Ilgas (%{data})
           medium: Vidutinis (%{data})
           short: Trumpas (%{data})
+      ugc:
+        'false': 
+        'true': 
       video_duration:
         long: Ilgas (20+ min)
         medium: Vidutinis (4-20 min)
