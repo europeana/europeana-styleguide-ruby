@@ -222,7 +222,7 @@ nl:
         longitude: Lengtegraad
         map: Kaart
         map-tiles: Tegel
-        medium: Medium
+        medium: Materiaal
         people: Personen
         period: Tijdvak
         place: Plaats
@@ -254,7 +254,7 @@ nl:
         timestamp_updated: Laatste Europeana update (%{timestamp_updated})
         title: Titel
         toc: Inhoudsopgave
-        type: Type
+        type: Typ
         ugc: Bijdragen van particulieren
         version: Versie
       named-entities:

@@ -222,7 +222,7 @@ it:
         longitude: Longitudine
         map: Mappa
         map-tiles: 
-        medium: Medium
+        medium: Elemento
         people: Persone
         period: Periodo
         place: Luogo
