@@ -1,0 +1,247 @@
+{
+  "bodyclass": "europeana_search",
+  "page_title": "Europeana Search",
+  "page_locale": "en",
+  "version":{
+      "is_alpha": true
+  },
+  "page_config": {
+    "newsletter": true
+  },
+  "css_files": [
+    {
+      "path":  "../../css/search/screen.css",
+      "media": "all"
+    }
+  ],
+  "js_files": [
+    {
+      "path": "../../js/modules/require.js",
+      "data_main": "../../js/modules/main/templates/main-collections"
+    }
+  ],
+  "navigation": {
+        "home_url": "www.europeana.eu",
+        "home_text": "Return to Home",
+        "next_prev":
+        {
+          "next_url": "next_url_here",
+          "prev_url": "prev_url_here",
+          "results_url": "results_url_here"
+        },
+        "global":
+        {
+          "options":
+          {
+            "search_active": false,
+            "settings_active": true
+          },
+          "logo":
+          {
+            "url": "http://europeana.eu",
+            "text": "Europeana Collections"
+          },
+          "primary_nav":
+          {
+            "submenu": false,
+            "menu_id": "main-menu",
+            "items": [
+              {
+                "text": "Home",
+                "is_current": false,
+                "submenu": false
+              },
+              {
+                "text": "Channels",
+                "url": "#",
+                "submenu": {
+                  "items": [
+                    {
+                      "url": "music",
+                      "submenu": false,
+                      "text": "Music"
+                    },
+                    {
+                      "url": "art-history",
+                      "submenu": false,
+                      "text": "Art History"
+                    }
+                  ]
+                }
+              },
+              {
+                "text": "Exhibitions",
+                "url": "#",
+                "submenu": {
+                  "items": [
+                    {
+                      "url": false,
+                      "text": "Exhibitions Title",
+                      "submenu": false,
+                      "subtitle": true
+                    },
+                    {
+                      "url": "www.exhibitions.eu",
+                      "submenu": false,
+                      "text": "We know this war by heart"
+                    },
+                    {
+                      "submenu": false,
+                      "is_divider": true
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "European Film and the First World War"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "A Voyage with the Gods"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Weddings in Eastern Europe"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Explore the World of Musical Instruments"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Untold stories of the First World War"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Darwinism: Reception in Spain and Catalonia"
+                    },
+                    {
+                      "url": "url to all exhibitions",
+                      "submenu": false,
+                      "text": "All Exhibitions…",
+                      "is_morelink": true
+                    }
+                  ]
+                }
+              },
+              {
+                "url": "",
+                "text": "Blog",
+                "submenu": {
+                  "items": [
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Introduction to the Europeana Access and Re-use Framework"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Exploring Vienna’s historic Ringstrasse in Field Trip"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Choosing a country’s top 10 artworks for Europeana 280"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Details make the design: an interview with Chris Wild"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Writing the past: transcribing handwritten documents from World War One"
+                    },
+                    {
+                      "url": "#",
+                      "submenu": false,
+                      "text": "Exploring big visual cultural data: an interview with Lev Manovich"
+                    },
+                    {
+                      "url": "url to all blog posts",
+                      "submenu": false,
+                      "text": "All Posts…",
+                      "is_morelink": true
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "utility_nav": {
+            "menu_id": "settings-menu",
+            "style_modifier": "caret-right",
+            "submenu": false,
+            "tabindex": "6",
+            "items": [
+              {
+                "url": "#",
+                "text": "Settings",
+                "icon": "settings",
+                "submenu": {
+                  "items": [
+                    {
+                      "text": "Settings",
+                      "submenu": false,
+                      "subtitle": true,
+                      "url": false
+                    },
+                    {
+                      "submenu": false,
+                      "text": "Language",
+                      "url": "url to language settings page"
+                    },
+                    {
+                      "submenu": false,
+                      "text": "My Profile",
+                      "url": "url to profile page"
+                    },
+                    {
+                      "submenu": false,
+                      "text": "Advanced",
+                      "url": "url to settings page"
+                    },
+                    {
+                      "submenu": false,
+                      "is_divider": true
+                    },
+                    {
+                      "text": "Admin",
+                      "submenu": false,
+                      "subtitle": true,
+                      "url": false
+                    },
+                    {
+                      "submenu": false,
+                      "text": "Channel Admin",
+                      "url": "url to admin page"
+                    },
+                    {
+                      "submenu": false,
+                      "is_divider": true
+                    },
+                    {
+                      "text": "Account",
+                      "submenu": false,
+                      "subtitle": true,
+                      "url": false
+                    },
+                    {
+                      "submenu": false,
+                      "text": "Log Out",
+                      "url": "url to login page"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+  }
+}

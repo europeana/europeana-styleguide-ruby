@@ -1,0 +1,1326 @@
+{
+  "bodyclass": "europeana_search",
+  "page_title": "Europeana Search",
+  "page_locale": "en",
+  "version": {
+    "is_alpha": true
+  },
+  "page_config": {
+    "newsletter": true
+  },
+  "i18n": {
+    "global": {
+      "refine-your-search": "Refine your search",
+      "facet": {
+        "date": {
+          "to": "to",
+          "from": "from"
+        },
+        "more-refinements": "Advanced filters"
+      }
+    },
+    "site": {
+      "results": {
+        "list": {
+          "in-channel": "in Channel",
+          "view-at-provider": "View at",
+          "empty": "No results",
+          "empty-with-terms": "Your search for <strong>paris</strong> returned no results",
+          "count-and-terms": "345 results for <strong>paris</strong> and <strong>berlin</strong>"
+        },
+        "actions": {
+          "product-save": "Save"
+        },
+        "page": {
+          "count-and-terms": "345 results for <strong>paris</strong> and <strong>berlin</strong>",
+          "search_terms": "<strong>paris</strong> and <strong>berlin</strong>"
+        }
+      }
+    }
+  },
+  "css_files": [
+    {
+      "path":  "../../css/search/screen.css",
+      "media": "all"
+    }
+  ],
+  "js_files": [
+    {
+      "path": "../../js/modules/require.js",
+      "data_main": "../../js/modules/main/templates/main-collections"
+    }
+  ],
+  "js_vars": [
+    {
+      "name": "pageName",
+      "value": "portal/index"
+    },
+    {
+      "name": "mock_ajax",
+      "value": "{ 'delays' : {'portal_federated':'random'}}"
+    }
+  ],
+  "img": false,
+  "input_search": {
+    "title": "Search",
+    "input_name": "supersearch",
+    "placeholder": "Add a search term",
+    "has_original": true,
+    "input_original": {
+      "value": "Rembrandt",
+      "remove": "removeurl"
+    },
+    "input_values": [
+      {
+        "value": "Paintings",
+        "remove": "removeurl",
+        "name": "fieldname"
+      }
+    ]
+  },
+  "content": {
+    "ugc_content":{
+      "include_1418_nav": true,
+      "base_1418_url": "http://test.1418.eanadev.org"
+    }
+  },
+  "hero": {
+      "hero_image": "../../images/pro/home_image_test.jpg"
+  },
+  "federated_search_enabled": true,
+  "federated_search_conf": {
+    "thumbnail_server": "http://www.europeana.eu/api/v2/thumbnail-by-url.json",
+    "tab_items": [
+      {
+        "tab_title": "DPLA",
+        "url":       "/federated.json?provider=dpla",
+        "key":       "dpla"
+      },
+      {
+        "tab_title": "Internet Archive",
+        "url":       "/federated.json?provider=internetArchive",
+        "key":       "internetarchive"
+      },
+      {
+        "tab_title": "DigitalNZ",
+        "url":       "/federated.json?provider=digitalNZ",
+        "key":       "digitalnz"
+      },
+      {
+        "tab_title": "Canadiana",
+        "url":       "/federated.json?provider=canadiana",
+        "key":       "canadiana"
+      },
+      {
+        "tab_title": "Trove",
+        "url":       "/federated.json?provider=trove",
+        "key":       "trove"
+      },
+      {
+        "tab_title": "Icons",
+        "url":       "/federated.json?provider=icons"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "title": "Channels",
+      "name": "COLLECTION",
+      "hierarchical": true,
+      "select_one": true,
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Art",
+          "num_results": "15K",
+          "is_checked": true,
+          "has_subfilters": true,
+          "filters": [
+            {
+              "title": "Orientation",
+              "name": "IMAGE_ORIENTATION",
+              "simple": true,
+              "select_one": false,
+              "items": [
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Portrait",
+                  "num_results": "15K",
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Landscape",
+                  "num_results": 300,
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Square",
+                  "num_results": 600,
+                  "is_checked": false
+                }
+              ],
+              "extra_items": false
+            },
+            {
+              "title": "Medium",
+              "name": "IMAGE_MEDIUM",
+              "simple": true,
+              "select_one": false,
+              "items": [
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Photograph",
+                  "num_results": "15K",
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Painting",
+                  "num_results": 300,
+                  "is_checked": true
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Sculpture",
+                  "num_results": 600,
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "Mixed media",
+                  "num_results": 123,
+                  "is_checked": true
+                }
+              ],
+              "extra_items": false
+            },
+            {
+              "title": "Colour",
+              "name": "IMAGE_COLOUR",
+              "colour": true,
+              "select_one": false,
+              "items": [
+                {
+                  "url": "http://europeana.eu",
+                  "text": "colour name",
+                  "hex": "#F1F1EE",
+                  "num_results": "123",
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "colour name",
+                  "hex": "#F22F24",
+                  "num_results": 123,
+                  "is_checked": true
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "colour name",
+                  "hex": "#FFAE00",
+                  "num_results": 123,
+                  "is_checked": false
+                },
+                {
+                  "url": "http://europeana.eu",
+                  "text": "colour name",
+                  "hex": "#C8D5D7",
+                  "num_results": 123,
+                  "is_checked": true
+                }
+              ],
+              "extra_items": false
+            }
+          ]
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Music",
+          "num_results": 300
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 600
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 123,
+          "is_disabled": true
+        }
+      ],
+      "extra_items": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Extra Label",
+            "num_results": "15K"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Another Label",
+            "num_results": 300
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 600
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 123
+          }
+        ]
+      }
+    },
+    {
+      "title": "Type",
+      "name": "TYPE",
+      "simple": true,
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Filter Label",
+          "num_results": "15K"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "num_results": 300,
+          "is_checked": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label, this one long enough to line wrap",
+          "num_results": 600
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 123,
+          "is_checked": true
+        }
+      ],
+      "extra_items": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Extra Label",
+            "num_results": "15K"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Another Label",
+            "num_results": 300
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Another Label, this one long enough to line wrap",
+            "num_results": 600,
+            "is_checked": true
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 123
+          }
+        ]
+      }
+    },
+    {
+      "title": "Providing country",
+      "name": "COUNTRY",
+      "simple": true,
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Filter Label",
+          "num_results": "15K"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "num_results": 300,
+          "is_checked": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label, this one long enough to line wrap",
+          "num_results": 600
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 123
+        }
+      ],
+      "extra_items": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Extra Label",
+            "num_results": "15K"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Another Label",
+            "num_results": 300
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 600
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 123
+          }
+        ]
+      }
+    },
+    {
+      "title": "Can I use it?",
+      "name": "REUSABILITY",
+      "icon_link": {
+        "icon": "icon-help",
+        "link": "javascript:alert('open link...')"
+      },
+      "tooltip":{
+        "tooltip_text": "You can now filter your search on specific license",
+        "tooltip_id": "license-filter",
+        "persistent": true,
+        "icon_first": false,
+        "link_class": "filter-name",
+        "link_url": "http://www.google.co.uk",
+        "trailing": true
+      },
+      "hierarchical": true,
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Yes With Attribution",
+          "num_results": "15K",
+          "is_checked": true,
+          "has_subfilters": true,
+          "filters": [
+            {
+              "title": false,
+              "simple": true,
+              "select_one": false,
+              "items": [
+                {
+                  "text": "Creative Commons Public Domain",
+                  "num_results": 230,
+                  "url": "http://europeana.eu",
+                  "is_checked": false
+                },
+                {
+                  "text": "Creative Commons BY",
+                  "num_results": 224,
+                  "is_checked": false
+                },
+                {
+                  "text": "Creative Commons BY-SA",
+                  "num_results": 40,
+                  "is_checked": false
+                }
+              ],
+              "extra_items": false
+            }
+          ]
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Yes With Restrictions",
+          "num_results": 300,
+          "is_checked": true,
+          "has_subfilters": true,
+
+          "filters": [
+            {
+              "title": false,
+              "simple": true,
+              "select_one": false,
+              "items": [
+                {
+                  "text": "Creative Commons BY-NC-ND",
+                  "num_results": 230,
+                  "is_checked": false,
+                  "url": "http://europeana.eu"
+                },
+                {
+                  "text": "Unknown copyright status",
+                  "num_results": 224,
+                  "is_checked": false
+                },
+                {
+                  "text": "Out of copyright",
+                  "num_results": 40,
+                  "is_checked": false
+                },
+                {
+                  "text": "Creative Commons BY-NC-SA",
+                  "num_results": 40,
+                  "is_checked": false
+                },
+                {
+                  "text": "Creative Commons BY-NC",
+                  "num_results": 40,
+                  "is_checked": false
+                },
+                {
+                  "text": "Creative Commons BY-ND",
+                  "num_results": 40,
+                  "is_checked": false
+                }
+              ],
+              "extra_items": false
+            }
+          ]
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Only With Permission",
+          "num_results": "17,308",
+          "is_checked": false,
+          "has_subfilters": true,
+          "filters": [
+            {
+              "title": false,
+              "simple": true,
+              "select_one": false,
+              "items": [
+                {
+                  "text": "Rights Reserved",
+                  "num_results": 230,
+                  "is_checked": false,
+                  "url": "http://europeana.eu"
+                }
+              ],
+              "extra_items": false
+            }
+          ]
+        }
+      ],
+
+      "extra_items": false,
+      "has_subselection": false,
+      "hidden_item_data": {
+        "label_show_specific": "Show specific licenses",
+        "label_hide_specific": "Hide specific licenses"
+      }
+    },
+    {
+      "title": "Language",
+      "name": "LANGUAGE",
+      "simple": true,
+      "filter_open": false,
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Filter Label",
+          "num_results": "15K"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "num_results": 300
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 600
+        },
+        {
+          "is_separator": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here",
+          "num_results": 123
+        }
+      ],
+      "extra_items": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Extra Label",
+            "num_results": "15K"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Another Label",
+            "num_results": 300
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 600
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Label here",
+            "num_results": 123
+          }
+        ]
+      }
+    },
+    {
+      "title": "Date Created",
+      "name": "Date_Created",
+      "date": true,
+      "date_start": "1923",
+      "date_end": "2015",
+      "data": [
+        {
+          "value": 23,
+          "percent_of_max": 23
+        },
+        {
+          "value": 45,
+          "percent_of_max": 45
+        },
+        {
+          "value": 67,
+          "percent_of_max": 67
+        },
+        {
+          "value": 34,
+          "percent_of_max": 34
+        },
+        {
+          "value": 73,
+          "percent_of_max": 73
+        },
+        {
+          "value": 97,
+          "percent_of_max": 97
+        },
+        {
+          "value": 100,
+          "percent_of_max": 100
+        },
+        {
+          "value": 78,
+          "percent_of_max": 78
+        },
+        {
+          "value": 80,
+          "percent_of_max": 80
+        },
+        {
+          "value": 50,
+          "percent_of_max": 50
+        },
+        {
+          "value": 80,
+          "percent_of_max": 80
+        },
+        {
+          "value": 23,
+          "percent_of_max": 23
+        }
+      ],
+      "range": {
+        "start": {
+          "input_name": "date_start",
+          "input_value": "1923"
+        },
+        "end": {
+          "input_name": "date_end",
+          "input_value": "2015"
+        }
+      },
+      "show_bars": true
+    },
+    {
+      "title": "Advanced Options",
+      "name": "ADVANCED",
+      "advanced": true,
+      "select_one": false,
+      "advanced_items": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Show content contributed by users"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Only show items with thumbnails"
+          }
+        ]
+      }
+    }
+  ],
+  "facets_selected": {
+    "items": [
+      {
+        "filter": "Theme",
+        "value": "Art",
+        "remove": "removeurl",
+        "name": "fieldname"
+      },
+      {
+        "filter": "Type",
+        "value": "Paintings",
+        "remove": "removeurl",
+        "name": "fieldname"
+      }
+    ]
+  },
+  "menus": {
+    "actions": {
+      "button_title": "Actions",
+      "menu_id": "dropdown-result-actions",
+      "menu_title": "Save to:",
+      "items": [
+        {
+          "url": "http://europeana.eu",
+          "text": "Label"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Label here"
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Fourth Item"
+        },
+        {
+          "divider": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "calltoaction": true
+        },
+        {
+          "divider": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "calltoaction": true
+        }
+      ]
+    },
+    "sort": {
+      "button_title": "Relevance",
+      "menu_id": "dropdown-result-sort",
+      "menu_title": "Sort by:",
+      "items": [
+        {
+          "text": "Date",
+          "url": "http://europeana.eu"
+        },
+        {
+          "text": "Alphabetical",
+          "url": "http://europeana.eu"
+        },
+        {
+          "text": "Relevance",
+          "url": "http://europeana.eu"
+        },
+        {
+          "divider": true
+        },
+        {
+          "url": "http://europeana.eu",
+          "text": "Another Label",
+          "calltoaction": true
+        },
+        {
+          "divider": true
+        },
+        {
+          "text": "Advanced Search",
+          "url": "http://europeana.eu",
+          "calltoaction": true
+        }
+      ]
+    },
+    "viewoptions": {
+      "items": [
+        {
+          "text": "Grid",
+          "url": "url to grid view",
+          "icon_grid": true,
+          "is_current": true
+        },
+        {
+          "text": "List",
+          "url": "url to list view",
+          "icon_list": true
+        }
+      ],
+      "tooltip":{
+        "tooltipped_text": false,
+        "tooltip_text": "Have you seen the new grid layout?",
+        "tooltip_id": "new-grid-layout",
+        "persistent": true,
+        "link_class": "filter-name"
+      }
+    }
+  },
+  "has_results": true,
+  "has_multiple_results": true,
+  "active_filter_count": 3,
+  "results_menu": {
+    "menu_id": "results_menu",
+    "button_title_prefix": "Per page",
+    "button_title": "12",
+    "items": [
+      {
+        "is_current": true,
+        "url": "12",
+        "text": "12"
+      },
+      {
+        "url": "24",
+        "text": "24"
+      },
+      {
+        "url": "36",
+        "text": "36"
+      },
+      {
+        "url": "48",
+        "text": "48"
+      }
+    ]
+  },
+  "search_results": [
+      {
+      "title": "The Lighthouse, Glasgow (Glasgow Herald Building) - Exterior, stonework over entrance | Mackintosh, Charles Rennie and Charles Rennie Mackintosh",
+      "creator": "Charles Rennie Mackintosh",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-1.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Exterior, stonework over entrance, of The Lighthouse (formerly the Glasgow Herald Building), Mitchell Lane, Glasgow. Built 1895 to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1895"
+      }
+    },
+    {
+      "title": "Glasgow School of Art - Exterior, Renfrew Street metalwork | Mackintosh, Charles Rennie",
+      "creator": "Charles Rennie Mackintosh and Abraham Lincoln",
+      "is_video": true,
+      "item_type": {
+        "name": "Video",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-lincoln.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Exterior, Renfrew Street metalwork, the Glasgow School of Art, Renfrew Street, Glasgow. Built 1896-1909, to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1896/1909"
+      }
+    },
+    {
+      "title": "Glasgow",
+      "creator": "Unknown",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-3.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Interior, stained glass (rose motif), the Glasgow School of Art, Renfrew Street, Glasgow. Built 1896-1909, to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1896/1909"
+      }
+    },
+    {
+      "title": "The Lighthouse, Glasgow (Glasgow Herald Building) - Model (on display) | Mackintosh, Charles Rennie",
+      "creator": "Charles Rennie Mackintosh",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-4.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Model (on display) of The Lighthouse (formerly the Glasgow Herald Building), Mitchell Lane, Glasgow. Built 1895 to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1895"
+      }
+    },
+    {
+      "title": "Glasgow School of Art - Interior, lighting (rose motif) | Mackintosh, Charles Rennie",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-5.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Interior, lighting (rose motif), the Glasgow School of Art, Renfrew Street, Glasgow. Built 1896-1909, to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1896/1909"
+      }
+    },
+    {
+      "title": "Glasgow School of Art - Interior, alcove for mosaic | Mackintosh, Charles Rennie",
+      "creator": "Charles Rennie Mackintosh",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-6.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Glasgow School of Art"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Interior, alcove for mosaic, the Glasgow School of Art, Renfrew Street, Glasgow. Built 1896-1909, to a Glasgow Style design by Charles Rennie Mackintosh."
+      },
+      "year": {
+        "long": "1896/1909"
+      }
+    },
+    {
+      "agent": "The Elephant Scribbler",
+      "creator": "Confused Horse",
+      "title": "An Elephant, a photograph, a drawing, a painting and a title that is long enough to line-wrap",
+      "is_image": true,
+      "item_type": {
+        "name": "Painting",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-giraffe.png",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Rijksmuseum"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "This is one of several drawings by Rembrandt of female elephants in different poses. This elephant may even be one called Hansken, a female despite her name, known to have been in Holland in 1641. Behind and to the right of the animal are the outlines of three figures..."
+      },
+      "year": {
+        "long": "1637"
+      }
+    },
+    {
+      "agent": "Rembrandt van Rijn",
+      "creator": "Rembrandt",
+      "title": "Militia Company of District II under the Command of Captain Frans Banninck Cocq, Known as de Night Watch",
+      "is_audio": true,
+      "item_type": {
+        "name": "Recording",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "REMOVED_img": {
+        "src": "http://placeimg.com/400/300/nature",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Rijksmuseum"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "The painting may be more properly titled by its long since forgotten name The Company of captain Frans Banning Cocq and lieutenant Willem van Ruytenburch preparing to march out. In the 18th century the painting became known as the Night Watch, in 19th century it continued to be known as the Night Watch and in the 20th century \"the Night Watch\" was still the name of the painting.  So far the name has not been altered in the 21st century."
+      },
+      "year": {
+        "long": "1642"
+      }
+    },
+    {
+      "agent": "Nicolaes Tulp",
+      "creator": "Nicolaes Tulp",
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "is_audio": true,
+      "item_type": {
+        "name": "Song",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "/images/search/search-result-thumb-2.jpg",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Rijksmuseum"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "The Anatomy Lesson of Dr. Nicolaes Tulp is a 1632 oil painting on canvas by Rembrandt housed in the Mauritshuis museum in The Hague, the Netherlands. Dr. Nicolaes Tulp is pictured explaining the musculature of the arm to medical professionals. Some of the spectators are..."
+      },
+      "year": {
+        "long": "1632"
+      }
+    },
+    {
+      "agent": "Me",
+      "creator": "Me",
+      "title": "Self portrait",
+      "is_text": true,
+      "item_type": {
+        "name": "Poem",
+        "url": "http://europeana.eu/search/paintings"
+      },
+      "img": {
+        "src": "http://placeimg.com/400/300/people",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Providerhere"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Self-portrait with dishevelled hair is an early self-portrait by the Dutch artist Rembrandt, now in the Rijksmuseum. It dates to 1628 and is an exercise in chiaroscuro."
+      },
+      "year": {
+        "long": "1628"
+      }
+    },
+    {
+      "agent": "Rembrandt, in association with Belshazzar",
+      "creator": "Rembrandt",
+      "title": "Belshazzars Feast",
+      "is_text": true,
+      "item_type": {
+        "name": "Book",
+        "url": "http://europeana.eu/search/books"
+      },
+      "img": {
+        "src": "http://placeimg.com/400/300/nature",
+        "alt": "Rectangle"
+      },
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Providerhere"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "Belshazzar's Feast is a painting by Rembrandt. Its source comes from the story of Belshazzar and the writing on the wall in the Old Testament Book of Daniel. It is held in the The National Gallery, London."
+      },
+      "year": {
+        "long": "1635"
+      }
+    },
+    {
+      "agent": "Rembrandt van Rijn",
+      "creator": "Rembrandt van Rijn",
+      "title": "The Stoning of Saint Stephen",
+      "is_image": true,
+      "item_type": {
+        "name": "Photograph",
+        "url": "http://europeana.eu/search/photograph"
+      },
+
+      "origin": {
+        "url": "http://urlhere.com",
+        "text": "Providerhere"
+      },
+      "concepts": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "prints (visual works)"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "paper (fiber product)"
+          }
+        ]
+      },
+      "channels": {
+        "items": [
+          {
+            "url": "http://europeana.eu",
+            "text": "Art History"
+          },
+          {
+            "url": "http://europeana.eu",
+            "text": "Military History"
+          }
+        ]
+      },
+      "text": {
+        "medium": "The Stoning of Saint Stephen is the first painting by Dutch artist Rembrandt, painted in 1625 at the age of 19."
+      },
+      "year": {
+        "long": "1625"
+      }
+    }
+  ],
+  "channel_data": {
+      "label": "Europeana Music",
+      "name": "music",
+      "url": "music-channel-url"
+  }
+}

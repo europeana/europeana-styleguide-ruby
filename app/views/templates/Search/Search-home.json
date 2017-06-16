@@ -1,0 +1,144 @@
+{
+  "bodyclass": "europeana_search",
+  "pagetitle": "Europeana Search Home",
+  "page_locale": "en",
+  "version": {
+    "is_alpha": true
+  },
+  "page_config": {
+    "newsletter": true
+  },
+  "css_files": [
+    {
+      "path":  "../../css/search/screen.css",
+      "media": "all"
+    }
+  ],
+  "js_files": [
+    {
+      "path": "../../js/modules/require.js",
+      "data_main": "../../js/modules/main/templates/main-collections"
+    }
+  ],
+  "js_vars": [
+    {
+      "name": "pageName",
+      "value": "home/index"
+    }
+  ],
+  "input_search": {
+    "title": "Search Europeana",
+    "input_name": "search",
+    "placeholder": "Search Europeana"
+  },
+  "primary_nav_clicktip": {
+    "clicktip": {
+      "tooltip_text": "Have you explored our new galleries?",
+      "direction": "top",
+      "id": "explore-menu-tooltip",
+      "persistent": true
+    }
+  },
+  "content": {
+    "hero_config": {
+      "hero_image": "../../images/sample/search_hero_1.jpg",
+      "brand_position": "brand-bottomleft",
+      "brand_opacity": "brand-opacity75",
+      "attribution_title": "Insects and Fruit",
+      "attribution_creator": "Jan van Kessel",
+      "attribution_institution": "Rijksmuseum",
+      "attribution_url": "http://www.europeana.eu/portal/record/90402/SK_A_793.html",
+      "license_CC-ND-NC-SA": false,
+      "license_public": true
+    },
+    "strapline": "Explore 44,725,949 artworks, artefacts, books, videos and sounds from across Europe.",
+    "total_items": "44,725,949",
+    "important_disabled": {
+      "text": "Europeana stories are now in Google’s Field Trip app",
+      "url": "http://blog.europeana.eu/2015/03/its-your-world-explore-it-europeana-stories-now-in-googles-field-trip-app/"
+    },
+    "promoted": [
+      {
+        "title": "Music",
+        "url": "../templates-Search-Channels-landing-music/templates-Search-Channels-landing-music.html",
+        "is_channel": true,
+        "wide": true,
+        "bg_image": "../../images/sample/thumb-music.jpg"
+      },
+      {
+        "title": "Recording and Playing Machines",
+        "url": "http://exhibitions.europeana.eu//exhibits/show/recording-and-playing-machines",
+        "is_exhibition": true,
+        "is_external": true,
+        "bg_image": "../../images/sample/thumb-machines.jpg"
+      },
+      {
+        "title": "Photography on a Silver Plate",
+        "url": "urlhere",
+        "is_collection": true,
+        "bg_image": "../../images/sample/thumb-photography.jpg"
+      },
+      {
+        "title": "European Film and the First World War",
+        "url": "urlhere",
+        "is_new": true,
+        "bg_image": "../../images/sample/thumb-expo-film.jpg"
+      },
+      {
+        "title": "Europeana 1914—1918",
+        "url": "urlhere",
+        "is_featured_site": true,
+        "bg_image": "../../images/sample/thumb-1418.jpg"
+      },
+      {
+        "title": "Europeana monuments now in Google Field Trip",
+        "url": "urlhere",
+        "is_new": true,
+        "bg_image": false
+      }
+    ],
+    "news": {
+      "items": [
+        {
+          "headline": {
+            "medium": "The miniature magic of Japanese netsuke"
+          },
+          "url": "http://blog.europeana.eu/2015/04/the-miniature-magic-of-japanese-netsuke/",
+          "img": {
+              "src": "sample/netsuke.jpg",
+              "alt": "Japanese scroll with netsuke illustration"
+          },
+          "excerpt": {
+            "short": "Netsuke, the small sculptural objects worn by men in Japan since the seventeenth century, first shot to fame in Europe with the publication of Edmund de Waal’s popular memoir, The Hare With Amber Eyes in 2010."
+          }
+        },
+        {
+          "headline": {
+            "medium": "Celebrating World Theatre Day 2015"
+          },
+          "url": "http://blog.europeana.eu/2015/03/celebrating-world-theatre-day-2015/",
+          "img": {
+              "src": "sample/theatreday.jpg",
+              "alt": "Theatre Day"
+          },
+          "excerpt": {
+            "short": "Today we celebrate World Theatre Day, an annual celebration where all International Theatre Institutes and the international theatre community organises theatre events."
+          }
+        },
+        {
+          "headline": {
+            "medium": "Europeana takes part in #MuseumWeek 2015"
+          },
+          "url": "http://blog.europeana.eu/2015/03/europeana-takes-part-in-museumweek-2015/",
+          "img": {
+              "src": "sample/Museumweek.jpg",
+              "alt": "Museum Week 2015"
+          },
+          "excerpt": {
+            "short": "Today marks the beginning of #MuseumWeek, an event to celebrate culture on Twitter. Museums from all over the world will be tweeting about their collections or sharing fun facts with their followers."
+          }
+        }
+      ]
+    }
+  }
+}
