@@ -82,7 +82,7 @@ hr:
         sound: zvučnih zapisa
         texts: tekstova
       e7a1418:
-        contribute: Dodajte svoju priču
+        contribute: Dodajte svoju 1914-1918 priču
         my-account: Moj račun
       labels:
         credits: Kustosica
@@ -90,6 +90,7 @@ hr:
         editors-picks: "  "
         recent: Nedavno dodano
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: U fokusu
         whats-happening: 
       music:

@@ -82,7 +82,7 @@ fr:
         sound: Enregistrements sonores
         texts: Textes
       e7a1418:
-        contribute: Racontez votre histoire
+        contribute: Racontez votre 1914-1918 histoire
         my-account: Mon compte
       labels:
         credits: Administrée par
@@ -90,6 +90,7 @@ fr:
         editors-picks: "  "
         recent: Ajouts récents
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: Lumière sur
         whats-happening: 
       music:

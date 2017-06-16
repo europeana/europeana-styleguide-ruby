@@ -90,6 +90,7 @@ en:
         editors-picks: "  "
         recent: Recent additions
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: Explore <i>%{preview_title}</i> on %{collection}
         spotlight-on: 'Spotlight on '
         whats-happening: What's happening
       music:

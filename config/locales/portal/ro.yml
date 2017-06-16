@@ -82,7 +82,7 @@ ro:
         sound: Înregistrări audio
         texts: Texte
       e7a1418:
-        contribute: Adaugă povestea ta
+        contribute: Adaugă istoria ta 1914-1918
         my-account: Contul meu
       labels:
         credits: Curatoriata de
@@ -90,6 +90,7 @@ ro:
         editors-picks: "  "
         recent: Adăugări recente
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: Sub lupă
         whats-happening: 
       music:

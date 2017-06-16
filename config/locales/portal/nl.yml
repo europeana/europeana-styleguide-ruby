@@ -82,7 +82,7 @@ nl:
         sound: Geluidsopnames
         texts: Tekst
       e7a1418:
-        contribute: Uw verhaal toevoegen
+        contribute: Uw 1914-1918 verhaal toevoegen
         my-account: Mijn account
       labels:
         credits: Gecureerd door
@@ -90,6 +90,7 @@ nl:
         editors-picks: "  "
         recent: Recent toegevoegd
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: In de spotlight
         whats-happening: 
       music:

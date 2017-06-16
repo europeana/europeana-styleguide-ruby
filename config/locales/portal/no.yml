@@ -82,7 +82,7 @@
         sound: Lydopptak
         texts: Tekst
       e7a1418:
-        contribute: Legg til din historie
+        contribute: Legg til din 1914-1918 historie
         my-account: Min konto
       labels:
         credits: 'Kuratert av '
@@ -90,6 +90,7 @@
         editors-picks: "  "
         recent: Nylige tilføringer
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: Søkelys på
         whats-happening: 
       music:

@@ -82,7 +82,7 @@ cs:
         sound: 
         texts: 
       e7a1418:
-        contribute: Přidat příběh
+        contribute: Přidat 1914-1918 příběh
         my-account: Můj účet
       labels:
         credits: 
@@ -90,6 +90,7 @@ cs:
         editors-picks: 
         recent: 
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: 
         whats-happening: 
       music:

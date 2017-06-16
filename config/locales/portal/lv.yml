@@ -82,7 +82,7 @@ lv:
         sound: Skaņu ieraksti
         texts: Teksti
       e7a1418:
-        contribute: Pievieno savu stāstu
+        contribute: Pievieno savu 1914-1918 stāstu
         my-account: Mans konts
       labels:
         credits: Kurators
@@ -90,6 +90,7 @@ lv:
         editors-picks: " "
         recent: Jaunākie papildinājumi
         sneak-peek: Explore Europeana Fashion
+        sneak-peek-collection: 
         spotlight-on: Uzmanības centrā
         whats-happening: Kas notiek
       music:
