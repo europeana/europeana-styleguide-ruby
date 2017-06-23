@@ -7,7 +7,3 @@ gemspec
 group :development, :test do
   gem 'rubocop', '0.39.0', require: false # only update when Hound does
 end
-
-group :localeapp do
-  gem 'localeapp', '~> 1.0'
-end
