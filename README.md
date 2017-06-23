@@ -14,6 +14,7 @@ Add these lines to your application's Gemfile:
 
 ```ruby
 gem 'europeana-styleguide', github: 'europeana/europeana-styleguide-ruby'
+gem 'europeana-i18n', github: 'europeana/europeana-i18n-ruby'
 gem 'stache', github: 'europeana/stache', branch: 'europeana-styleguide' # until upstream merges our pull requests
 ```
 

@@ -16,17 +16,17 @@ module Europeana
         end
 
         def [](key)
-          translation = @data.present? ? @data[key] : I18n.translate(key)
-          translation ||= I18n.translate(full_key(key), locale: I18n.default_locale) if I18n.respond_to?(:fallbacks)
+          translation = @data.present? ? @data[key] : ::I18n.translate(key)
+          translation ||= ::I18n.translate(full_key(key), locale: ::I18n.default_locale) if ::I18n.respond_to?(:fallbacks)
           if translation.nil?
-            fail I18n::MissingTranslationData.new(I18n.locale, full_key(key), {}).to_exception
+            fail ::I18n::MissingTranslationData.new(::I18n.locale, full_key(key), {}).to_exception
           elsif translation.is_a?(String)
-            I18n.interpolate_hash(translation, @scope)
+            ::I18n.interpolate_hash(translation, @scope)
           else
             self.class.new(@scope, translation, @parent_keys + [key])
           end
-        rescue I18n::MissingTranslationData => e
-          missing_msg(I18n.normalize_keys(e.locale, e.key, e.options[:scope]))
+        rescue ::I18n::MissingTranslationData => e
+          missing_msg(::I18n.normalize_keys(e.locale, e.key, e.options[:scope]))
         end
 
         def full_key(key)
@@ -42,7 +42,7 @@ module Europeana
         end
 
         def key?(key)
-          I18n.exists?(key)
+          ::I18n.exists?(key)
         end
         alias_method :has_key?, :key?
 

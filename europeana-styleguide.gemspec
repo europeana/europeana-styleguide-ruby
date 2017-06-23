@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'europeana-styleguide'
   spec.version       = Europeana::Styleguide::VERSION
   spec.authors       = ['Richard Doe']
-  spec.email         = ['richard.doe@rwdit.net']
+  spec.email         = ['richard.doe@europeana.eu']
   spec.summary       = 'Europeana styleguide for Ruby.'
   spec.homepage      = 'https://github.com/europeana/europeana-styleguide-ruby'
   spec.license       = 'EUPL 1.1'
@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'activesupport', '~> 4.0'
+  spec.add_dependency 'europeana-i18n'
   spec.add_dependency 'mustache', '~> 1.0.1'
   spec.add_dependency 'stache', '~> 1.1.1'
 

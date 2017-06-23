@@ -7,9 +7,6 @@ module Europeana
       require 'mustache'
       require 'stache'
 
-      paths['config/locales'] << 'config/locales/global'
-      paths['config/locales'] << 'config/locales/portal'
-
       initializer 'europeana_styleguide.stache' do |_app|
         Stache.configure do |c|
           c.use :mustache
