@@ -1,0 +1,316 @@
+{
+  "bodyclass": "channel_landing",
+  "pagetitle": "Europeana - Music",
+  "version": {
+    "is_alpha": true
+  },
+  "globalnav_options": {
+    "search": false,
+    "myeuropeana": true
+  },
+  "page_config": {
+    "newsletter": true
+  },
+  "css_files": [
+    {
+      "path":  "../../css/search/screen.css",
+      "media": "all"
+    }
+  ],
+  "js_files": [
+    {
+      "path": "../../js/modules/require.js",
+      "data_main": "../../js/modules/main/templates/main-collections"
+    }
+  ],
+  "js_vars": [
+    {
+      "name": "pageName",
+      "value": "collections/show"
+    }
+  ],
+  "input_search": {
+    "title": "Search Europeana for Music",
+    "input_name": "q",
+    "placeholder": "Search Europeana for Music"
+  },
+  "content": {
+    "carousel": {
+    "title": "Tumblr",
+    "tumblr_url": "javascript:alert('open tumblr page')",
+    "more_items_load"  : "url-for-extra-items",
+    "more_items_total" : 12,
+    "more_items_total_formatted" : 12,
+    "items": [
+      {
+        "url":  "?q=The+Lace+Maker",
+        "img": {
+          "alt": "The Lace Maker",
+          "src": "http://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg"
+        }
+      },
+      {
+        "url":  "?q=Zittende+jongeman+bij+ton+met+het+hoofd+naar+links",
+        "img": {
+          "alt": "Zittende jongeman bij ton met het hoofd naar links",
+          "src": "http://teylers.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=R%20010.jpg"
+        }
+      },
+      {
+        "url": "?q=Delft",
+        "img": {
+          "alt": "Delft",
+          "src": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Vermeer-view-of-delft.jpg"
+         }
+      },
+      {
+        "url": "?q=Girl+with+the+pearl+earring",
+        "img": {
+          "alt": "Girl with the pearl earring",
+          "src": "http://resources21.kb.nl/gvn/MAU01/MAU01_0670_W.JPG"
+         }
+      },
+      {
+        "url":  "?q=The+Lace+Maker",
+        "title": "The Lace Maker",
+        "img": {
+           "alt": "The Lace Maker",
+           "src": "http://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg"
+        }
+      },
+      {
+        "url":  "?q=Zittende+jongeman+bij+ton+met+het+hoofd+naar+links",
+        "img": {
+          "alt": "Zittende jongeman bij ton met het hoofd naar links",
+          "src": "http://teylers.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=R%20010.jpg"
+        }
+      }
+      ]
+    },
+    "channel_info": {
+      "name": "Europeana Music",
+      "description": "The <strong>Europeana Music Channel</strong> brings together the best music recordings, sheet music, and other music related collections from Europeana's audio-visual archives, libraries, archives and museums. <a href='./portal/channels/music/about/'>Find out more about the Music Channel</a>.",
+      "stats": {
+        "items": [
+          {
+            "count": "53,431",
+            "text": "Images",
+            "url": "#"
+          },
+          {
+            "count": "31,027",
+            "text": "Texts",
+            "url": "#"
+          },
+          {
+            "count": "13,549",
+            "text": "Sound recordings",
+            "url": "#"
+          },
+          {
+            "count": "118",
+            "text": "Videos",
+            "url": "#"
+          }
+        ]
+      },
+      "recent": {
+        "title": "Recent additions:",
+        "items": [
+          {
+            "text": "Netherlands Institute of Sound and Vision",
+            "url": "#",
+            "number": "80,000 items",
+            "date": "May 2015"
+          },
+          {
+            "text": "Centre national de la recherche scientifique",
+            "url": "#",
+            "number": "20,492 items",
+            "date": "May 2015"
+          },
+          {
+            "text": "Irish Traditional Music Archive",
+            "url": "#",
+            "number": "4800 items",
+            "date": "May 2015"
+          }
+        ],
+        "more_link": {
+          "text": "See all new",
+          "url": "#777"
+        }
+      },
+      "credits": {
+        "title": "Curated by:",
+        "items": [
+          {
+            "text": "Europeana Sounds",
+            "url": "http://www.europeanasounds.eu"
+          }
+        ]
+      }
+    },
+    "hero_config": {
+      "hero_image": "../../images/sample/channel_hero_music.jpg",
+      "attribution_title": "Danse de trois faunes et trois bacchantes",
+      "attribution_creator": "Hieronymus Hopfer",
+      "attribution_institution": "Bibliothèque municipale de Lyon",
+      "attribution_url": "http://www.europeana.eu/portal/record/15802/eDipRouteurBML_eDipRouteurBML_aspx_Application_ESTA_26Action_RechercherDirectement_NUID___554__ESTA_3BAfficherVueSurEnregistrement_Vue_Fiche_Principal_3BAfficherFrameset.html",
+      "license_public": true
+    },
+    "channel_entry": {
+      "title": "Promoted title",
+      "items": [
+        {
+          "title": "Opera",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/channels/music?q=what:opera",
+          "count": "190,226",
+          "media_type": "Images",
+          "is_search": true,
+          "image": "../../images/sample/entry-opera-square.jpg"
+        },
+        {
+          "title": "Folk Music",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/channels/music?q=what%3A+folk%20music",
+          "count": "7,029",
+          "media_type": "Recordings",
+          "is_search": true,
+          "image": "../../images/sample/entry-folk-square.jpg"
+        },
+        {
+          "title": "Musical Instruments",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/channels/music?q=PROVIDER%3A%22MIMO+-+Musical+Instrument+Museums+Online%22",
+          "count": "46,843",
+          "media_type": "Images",
+          "is_search": true,
+          "image": "../../images/sample/entry-intruments-square.jpg"
+        },
+        {
+          "title": "Georges Bizet's Carmen",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/portal/channels/music?q=georges+bizet+carmen",
+          "count": "573",
+          "media_type": "Recordings and Videos",
+          "is_spotlight": true,
+          "image": "../../images/sample/entry-carmen-square.jpg"
+        },
+        {
+          "title": "Spotlight: The Lute",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/channels/music?q=(lithuanian+folk+music)+OR+(lithuanian+folk+song)",
+          "count": "46",
+          "media_type": "Images and documents",
+          "is_spotlight": true,
+          "image": "../../images/sample/entry-lute-square.jpg"
+        },
+        {
+          "title": "Spotlight: The Harpsichord",
+          "url": "http://europeana-npc-test.de.a9sapp.eu/channels/music?q=harpsichord",
+          "count": "240",
+          "media_type": "Texts and Recordings",
+          "is_spotlight": true,
+          "image": "../../images/sample/entry-harpsichord-square.jpg"
+        }
+      ]
+    },
+    "promoted": {
+      "title": "Promoted title",
+      "items": [
+        {
+          "title": "Explore the World of Musical Instruments",
+          "url": "http://exhibitions.europeana.eu/exhibits/show/musical-instruments-en",
+          "is_exhibition": true,
+          "bg_image": "../../images/sample/thumb-instruments.jpg"
+        },
+        {
+          "title": "Weddings in Eastern Europe",
+          "url": "http://exhibitions.europeana.eu/exhibits/show/weddings-in-eastern-europe",
+          "is_exhibition": true,
+          "bg_image": "../../images/sample/thumb-wedding.jpg"
+        },
+        {
+          "title": "Recording and playing Machines",
+          "url": "http://exhibitions.europeana.eu//exhibits/show/recording-and-playing-machines",
+          "is_exhibition": true,
+          "bg_image": "../../images/sample/thumb-machines.jpg"
+        },
+        {
+          "title": "Find more from Europeana Music on Soundcloud",
+          "url": "http://soundcloud.com",
+          "wide": true,
+          "bg_image": "../../images/sample/sc_st_white_240x140.png",
+          "class_custom": "soundcloud"
+        }
+      ]
+    },
+    "social": {
+      "twitter": {
+        "url": "https://twitter.com/eu_sounds",
+        "text": "Europeana sounds on twitter (@eu_sounds)"
+      },
+      "facebook": {
+        "url": "Europeana Sounds on facebook",
+        "text": "https://www.facebook.com/soundseuropeana"
+      },
+      "soundcloud": {
+        "url": "https://soundcloud.com/europeana",
+        "text": "Europeana on Soundcloud"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "headline": {
+            "medium": "The miniature magic of Japanese netsuke"
+          },
+          "url": "http://blog.europeana.eu/2015/04/the-miniature-magic-of-japanese-netsuke/",
+          "img": {
+            "rectangle": {
+              "src": "sample/netsuke.jpg",
+              "alt": "Japanese scroll with netsuke illustration"
+            }
+          },
+          "excerpt": {
+            "short": "Netsuke, the small sculptural objects worn by men in Japan since the seventeenth century, first shot to fame in Europe with the publication of Edmund de Waal’s popular memoir, The Hare With Amber Eyes in 2010."
+          }
+        },
+        {
+          "headline": {
+            "medium": "Celebrating World Theatre Day 2015"
+          },
+          "url": "http://blog.europeana.eu/2015/03/celebrating-world-theatre-day-2015/",
+          "img": {
+            "rectangle": {
+              "src": "sample/theatreday.jpg",
+              "alt": "Theatre Day"
+            }
+          },
+          "excerpt": {
+            "short": "Today we celebrate World Theatre Day, an annual celebration where all International Theatre Institutes and the international theatre community organises theatre events."
+          }
+        },
+        {
+          "headline": {
+            "medium": "Europeana takes part in #MuseumWeek 2015"
+          },
+          "url": "http://blog.europeana.eu/2015/03/europeana-takes-part-in-museumweek-2015/",
+          "img": {
+            "rectangle": {
+              "src": "sample/Museumweek.jpg",
+              "alt": "Museum Week 2015"
+            }
+          },
+          "excerpt": {
+            "short": "Today marks the beginning of #MuseumWeek, an event to celebrate culture on Twitter. Museums from all over the world will be tweeting about their collections or sharing fun facts with their followers."
+          }
+        }
+      ]
+    },
+    "banner": {
+      "title": "This is an Alpha release of our new collections search and Music Channel",
+      "text": "An Alpha release means that this website is in active development and will be updated regularly. It may sometimes be offline. Your feedback will help us improve our site.",
+      "cta_url": "http://insights.hotjar.com/s?siteId=54631&surveyId=2939",
+      "cta_text": "Help us improve the site"
+    },
+    "strapline": "Explore 3 million paintings, prints, sculptures and historical publications"
+  }
+}
