@@ -168,7 +168,13 @@ define(['jquery'], function($){
       center: [0, 0],
       crs: Leaflet.CRS.Simple,
       zoom: 0,
-      maxZoom: 10,
+      maxZoom: 5,
+      zoomsliderControl: true
+    });
+
+    if(fullScreenAvailable){
+      window.L.control.fullscreen({
+      maxZoom: 5,
       zoomsliderControl: zoomSlider,
       fullscreenControl: fullScreenAvailable ? true : false,
       fullscreenControlOptions: {
