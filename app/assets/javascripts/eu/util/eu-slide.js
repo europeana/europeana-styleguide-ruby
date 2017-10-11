@@ -14,8 +14,6 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
     var left    = cmp.scrollLeft() - parseInt(cmp.css('left'));
     var newLeft = parseInt(cmp.closest('.slide-rail').css('left')) - left;
 
-    log('closest rail scrollLeft: ' + cmp.closest('.slide-rail').scrollLeft());
-
     return newLeft;
   }
 
@@ -66,7 +64,19 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
     return cmp.height() > tallest;
   }
 
+  function mvVertical(e){
+    return (e.distX > e.distY && e.distX < -e.distY) || (e.distX < e.distY && e.distX > -e.distY);
+  }
+
   function cmpMove(cmp, e){
+
+    if(cmp.data('movingVertically')){
+      if(mvVertical(e)){
+        window.scrollBy(0, -e.distY);
+        e.stopPropagation();
+        return;
+      }
+    }
 
     var delegate     = false;
     var distX        = e.distX;
@@ -79,8 +89,6 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
     if(hasAncestors){
 
       var closestRailLeft = parseInt(cmp.closest('.slide-rail').css('left'));
-
-      log('closest rail scrollLeft: ' + cmp.closest('.slide-rail').scrollLeft());
 
       if(distX + closestRailLeft > 0){
         delegate   = true;
@@ -114,6 +122,8 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
     var newLeft = getNewLeft(cmp);
     var ssn     = swipeSpaceNeeded(cmp);
 
+    cmp.data('movingVertically', false);
+
     if(ssn < 0){
       return;
     }
@@ -133,6 +143,7 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
       if(ob.hasClass('js-swipe-not-stacked')){
         if(isStacked(ob)){
           if(ob.hasClass('js-swipe-bound')){
+            ob.off('movestart');
             ob.off('move');
             ob.off('moveend');
             ob.removeClass('js-swipe-bound');
@@ -147,8 +158,12 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
 
       ob.addClass('js-swipe-bound');
 
-      ob.on('movestart', function(){
-        // without this empty function swipes on ancors don't work
+      ob.on('movestart', function(e){ // without this function being present - even with an empty definition - swipes on anchors don't work
+
+        if(mvVertical(e)){
+          ob.data('movingVertically', true);
+        }
+
       });
       ob.on('move', function(e){
         cmpMove(ob, e);
@@ -167,7 +182,7 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
 
     for(var i=0; i<swipeables.length; i++){
       if(swipeables[i] == cmp){
-        alert('duplicate');
+        log('duplicate swipeable');
       }
     }
 
@@ -191,6 +206,8 @@ define(['jquery', 'util_resize', 'touch_move', 'touch_swipe'], function($){
   }
 
   $(window).europeanaResize(onResize);
+
+  $(window).on('eu-slide-update', onResize);
 
   return {
     makeSwipeable: function(cmp, conf){

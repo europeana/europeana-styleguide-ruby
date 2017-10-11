@@ -155,7 +155,7 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
 
   function resetZoom(){
 
-    log('reset zoom....');
+    var resetAffectsLayout = $('.object-details').hasClass('zoom-two');
 
     $('.object-details').removeClass('zoom-one').removeClass('zoom-two');
 
@@ -166,6 +166,10 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
 
     if($('.object-details').data('zoom-levels') > 0){
       $('.media-zoom-in').removeClass('disabled');
+    }
+
+    if(resetAffectsLayout){
+      $(window).trigger('eu-slide-update');
     }
   }
 
@@ -196,6 +200,9 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
           $zoomEl.addClass('zoom-two');
           zoomIn.addClass('disabled');
           resetImg($zoomImg);
+
+          $(window).trigger('eu-slide-update');
+          $(window).trigger('ellipsis-update');
         }
         else{
           $zoomEl.addClass('zoom-one');
@@ -219,6 +226,9 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
         if($zoomEl.hasClass('zoom-two')){
           $zoomEl.removeClass('zoom-two');
           resetImg($zoomImg);
+
+          $(window).trigger('eu-slide-update');
+          $(window).trigger('ellipsis-update');
         }
         else{
           $zoomEl.removeClass('zoom-one');
@@ -541,8 +551,8 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
 
     collectionsExtra.updateSwipe = function(){
       var totalW = (collectionsExtra.children().length - 1) * 32;
-      collectionsExtra.children().each(function(){
-        totalW += $(this).outerWidth(true);
+      collectionsExtra.children('.collections-promo-item').each(function(){
+        totalW += $(this).outerWidth();
       });
       collectionsExtra.css('width', totalW + 'px');
     };
@@ -572,12 +582,17 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
       });
     }
 
-    var promoBoxes = collectionsExtra.find('.collections-promo-item');
-
-    if(promoBoxes.length > 0){
+    var applyEllipsis = function(){
 
       require(['util_eu_ellipsis'], function(Ellipsis){
+/*
+         promoBoxes.find('.collections-promo-overlay').each(function(i, ob){
+            $(ob).css('max-height', '9em');
+            $(ob).css('overflow', 'hidden');
+          Ellipsis.create($(ob), {textSelectors:['.collections-promo-overlay-inner']});
+        });
 
+ */
         promoBoxes.find('.promo-title').each(function(i, ob){
           Ellipsis.create($(ob), {textSelectors:['a']});
         });
@@ -596,6 +611,109 @@ define(['jquery', 'util_scrollEvents', 'mustache', 'util_slide', 'util_foldable'
           Ellipsis.create(ob);
         });
 
+        promoBoxes.find('.collections-promo-overlay .title').each(function(i, ob){
+          Ellipsis.create(ob);
+        });
+
+      });
+    };
+
+    var promoBoxes        = collectionsExtra.find('.collections-promo-item');
+    var promoBoxesGeneric = collectionsExtra.find('.collections-promo-item.generic-promo');
+
+    if(promoBoxesGeneric.length > 0){
+      require(['jqImagesLoaded'], function(){
+        promoBoxesGeneric.each(function(i, ob){
+          ob = $(ob);
+          ob.imagesLoaded(function($images){
+            var textEl        = ob.find('.content-text-inner');
+            var textMain      = ob.find('.text-main');
+
+            var hasPortrait         = $images[0].naturalHeight > $images[0].naturalWidth;
+            var hasDateAuthorOrType = !textEl.hasClass('no-date-and-type');
+            var hasTags             = textEl.hasClass('has-tags');
+            var hasTitle            = textEl.hasClass('has-title');
+            var hasTitleShort       = hasTitle && (ob.find('.promo-title a').text().length < 20);
+            var hasText             = textEl.hasClass('has-text');
+            var hasTextShort        = hasText && (textMain.text().length < 25);
+            var hasRelation         = !textMain.hasClass('no-relation');
+
+            ob.find('.js-remove').remove();
+
+            var score = 0;
+
+            if(hasPortrait){
+              score += 75;
+            }
+            else{
+              //score += 38;
+              score += 75;
+            }
+
+            if(hasTitle){
+              if(hasTitleShort){
+                score += 7;
+              }
+              else{
+                score += 14;
+              }
+            }
+            if(hasText){
+              if(hasTextShort){
+                score += 7;
+              }
+              else{
+                score += 21;
+              }
+            }
+            if(hasRelation){
+              score += 7;
+            }
+            if(hasTags){
+              score += 8;
+            }
+            if(hasDateAuthorOrType){
+              score += 10;
+            }
+
+            /*
+            log('card data summary:\n'
+              + hasPortrait         + '\t hasPortrait\n'
+              + hasDateAuthorOrType + '\t hasDateAuthorOrType\n'
+              + hasTags             + '\t hasTags\n'
+              + hasTitle            + '\t hasTitle\n'
+              + hasTitleShort       + '\t hasTitleShort\n'
+              + hasText             + '\t hasText\n'
+              + hasTextShort        + '\t hasTextShort\n'
+              + hasRelation         + '\t hasRelation\n\n\t'
+              + score               + '%');
+            */
+
+            if(score > 100){
+              ob.addClass('text-centric');
+            }
+
+          }); // end img loaded
+        }); // end each
+        applyEllipsis();
+      });
+    }
+    else{
+      if(promoBoxes.length > 0){
+        applyEllipsis();
+      }
+    }
+
+    var promoOverlays = collectionsExtra.find('.collections-promo-item.entity-promo .collections-promo-overlay-inner');
+    if(promoOverlays.length > 0){
+      promoOverlays.each(function(i, ob){
+        ob = $(ob);
+        var nText = ob.contents().filter(function(){
+          return this.nodeType === 3;
+        });
+        var newVal = nText[nText.length-1].nodeValue.replace(/\s+/, '');
+        newVal = newVal.slice(0, 100) + (newVal.length > 100 ? '...' : '');
+        nText[nText.length-1].nodeValue = newVal;
       });
     }
   }
