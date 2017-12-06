@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'activesupport', '~> 4.0'
+  spec.add_dependency 'activesupport', '>= 4.0', '< 6.0'
   spec.add_dependency 'europeana-i18n'
   spec.add_dependency 'mustache', '~> 1.0.1'
   spec.add_dependency 'stache', '~> 1.1.1'
