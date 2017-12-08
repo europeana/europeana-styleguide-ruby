@@ -5,5 +5,6 @@ source 'https://rubygems.org'
 gemspec
 
 group :development, :test do
-  gem 'rubocop', '0.39.0', require: false # only update when Hound does
+  gem 'europeana-i18n', git: 'https://github.com/europeana/europeana-i18n-ruby.git', branch: 'develop'
+  gem 'rubocop', '0.50.0', require: false
 end
