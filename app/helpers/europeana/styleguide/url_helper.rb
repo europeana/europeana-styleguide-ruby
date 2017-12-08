@@ -10,7 +10,7 @@ module Europeana
       end
 
       def styleguide_asset_host
-        ENV['EUROPEANA_STYLEGUIDE_ASSET_HOST']
+        ENV['EUROPEANA_STYLEGUIDE_ASSET_HOST'] || 'https://styleguide.europeana.eu'
       end
     end
   end
