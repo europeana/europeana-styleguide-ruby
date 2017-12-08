@@ -17,7 +17,7 @@ module Europeana
     class View < Stache::Mustache::View
       autoload :Translator, 'europeana/styleguide/view/translator'
 
-      include UrlHelper
+      include Europeana::Styleguide::UrlHelper
 
       def head_meta
         [
