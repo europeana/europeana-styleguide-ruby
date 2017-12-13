@@ -12,7 +12,7 @@ module Europeana
         Stache.configure do |c|
           c.use :mustache
           c.template_base_path = ::Rails.root.join('app', 'views')
-          c.template_base_class = '::Europeana::Styleguide::View'
+	  c.template_base_class = '::Europeana::Styleguide::View' if c.respond_to?(:template_base_class)
         end
       end
     end
