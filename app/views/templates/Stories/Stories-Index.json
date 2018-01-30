@@ -40,8 +40,8 @@
       "form": {
         "attributes": [
           {
-            "xname": "method",
-            "xvalue": "POST"
+            "name": "method",
+            "value": "POST"
           }
         ],
         "actions": [
