@@ -97,6 +97,7 @@ define(['jquery', 'util_resize'], function($){
       initAutoCompletes();
       initCopyFields();
       initHiddenFields();
+      initSwipeableLicense();
     });
 
     $(document).on('fields_removed.nested_form_fields', function(e, param){
@@ -186,14 +187,19 @@ define(['jquery', 'util_resize'], function($){
 
       $('[data-requires-override="' + $this.attr('id') + '"]').each(function(i, ob){
 
-        var required  = $(ob).data('requires');
-        var $required = $('#' + required);
+        if($(ob).is(':visible')){
+          var required  = $(ob).data('requires');
+          var $required = $('#' + required);
 
-        if(required && required.length > 0 && $required.length > 0){
-          evaluateHiddenFields($required);
-        }
-        else{
-          console.log('misconfigured require override');
+          if(required && required.length > 0 && $required.length > 0){
+            evaluateHiddenFields($required);
+          }
+          else{
+            console.log('misconfigured require override: expected element with id:\n\t' + required
+            + '\n\t('
+            +   'referenced by element with id: ' + $(ob).attr('id') + ' and class ' + $(ob).attr('class')
+            + ')');
+          }
         }
       });
 
@@ -394,6 +400,20 @@ define(['jquery', 'util_resize'], function($){
     });
   }
 
+  function initSwipeableLicense(){
+
+    require(['util_slide', 'util_resize'], function(EuSlide){
+      $('.contribution_ore_aggregation_edm_isShownBy_edm_rights .label-and-input > .radio').wrapAll('<div class="licenses">');
+      var $el = $('.licenses:not(.js-swipe-bound)');
+
+      if($el.length > 0){
+        $el.wrap('<div class="slide-rail">');
+        EuSlide.makeSwipeable($el);
+        $el.find('input').after('<span class="checkmark"></span>');
+      }
+    });
+  }
+
   function validateForm(){
 
     if(typeof window.enableFormValidation != 'undefined' && window.enableFormValidation){
@@ -579,6 +599,7 @@ define(['jquery', 'util_resize'], function($){
     initAutoCompletes();
     initDateFields();
     initFileFields();
+    initSwipeableLicense();
     bindDynamicFieldset();
 
     bindCopyFields();
