@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'activesupport', '>= 4.0', '< 6.0'
   spec.add_dependency 'europeana-i18n'
-  spec.add_dependency 'mustache', '~> 1.0.1', '< 1.0.4'
+  spec.add_dependency 'mustache', '~> 1.0.1'
   spec.add_dependency 'stache', '>= 1.1.1'
 
   spec.add_development_dependency 'bundler', '~> 1.7'
