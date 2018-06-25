@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module Europeana
   module Styleguide
     ##
@@ -75,12 +76,19 @@ module Europeana
       ##
       # JS variables to output
       def js_vars
-        page_name = [params[:controller], params[:action]].join('/')
         [
           {
-            name: 'pageName', value: page_name
+            name: 'pageName', value: js_var_page_name
           }
         ]
+      end
+
+      # `pageName` JS variable
+      #
+      # Derived from controller and action, e.g. PagesController#show =>
+      # "portal/show".
+      def js_var_page_name
+        [params[:controller], params[:action]].join('/')
       end
     end
   end
