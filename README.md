@@ -85,6 +85,18 @@ override the gem's `app/views/templates/Search/Search-results-list.mustache`
 template, copy it to `$RAILS_ROOT/app/views/templates/Search/Search-results-list.mustache`
 and edit as required.
 
+#### Updating templates
+
+If you also have the [Europeana-Patternlab](https://github.com/europeana/Europeana-Patternlab)
+repository cloned and want to use it to populate view templates and other assets
+in your clone of europeana-styleguide-ruby, for instance to test a feature branch
+of the PatternLab repository, use the supplied Rake task:
+```
+bundle exec rake europeana_styleguide:populate[../Europeana-Patternlab]
+```
+... assuming that the cloned PatternLab repository is in the directory 
+`../Europeana-Patternab`.
+
 ### View classes
 
 Data is supplied to the Mustache templates for variable placeholder expansion via
