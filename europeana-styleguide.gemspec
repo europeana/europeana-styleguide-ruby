@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['richard.doe@europeana.eu']
   spec.summary       = 'Europeana styleguide for Ruby.'
   spec.homepage      = 'https://github.com/europeana/europeana-styleguide-ruby'
-  spec.license       = 'EUPL 1.1'
+  spec.license       = 'EUPL-1.2'
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
